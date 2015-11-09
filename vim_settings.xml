@@ -253,7 +253,7 @@
         <mark key="]" line="8" column="105" />
         <mark key="." line="8" column="105" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-flow/1.49-rc2/69ebfe54bf4f6ab8294cee2b814b60bb1f77e414/datapipes-flow-1.49-rc2-sources.jar!/com/odc/datapipes/flow/SimpleExecuteVisitor.java" timestamp="1447080020110" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-flow/1.49-rc2/69ebfe54bf4f6ab8294cee2b814b60bb1f77e414/datapipes-flow-1.49-rc2-sources.jar!/com/odc/datapipes/flow/SimpleExecuteVisitor.java" timestamp="1447082042326" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/main/java/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestConverter.java" timestamp="1446502669345">
         <mark key="[" line="298" column="0" />
         <mark key="]" line="298" column="0" />
@@ -296,11 +296,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlowUnitTest.java" timestamp="1447080700754">
-        <mark key="[" line="134" column="107" />
-        <mark key="]" line="134" column="107" />
-        <mark key="." line="134" column="107" />
-        <mark key="^" line="125" column="115" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlowUnitTest.java" timestamp="1447084294164">
+        <mark key="[" line="239" column="47" />
+        <mark key="]" line="239" column="47" />
+        <mark key="." line="239" column="47" />
+        <mark key="^" line="193" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/tradinghistory/VedaScoreRequest.java" timestamp="1446757162733">
         <mark key="[" line="7" column="32" />
@@ -536,8 +536,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/tradinghistory/business/VedaBusinessTradingHistoryScoringFlowUnitTest.java" timestamp="1446848415374">
-        <mark key="[" line="2" column="58" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/tradinghistory/business/VedaBusinessTradingHistoryScoringFlowUnitTest.java" timestamp="1447084440086">
+        <mark key="[" line="32" column="11" />
         <mark key="]" line="50" column="15" />
         <mark key="." line="50" column="15" />
         <mark key="^" line="50" column="15" />
@@ -584,11 +584,8 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlow.java" timestamp="1447077570939">
-        <mark key="[" line="107" column="65" />
-        <mark key="]" line="107" column="65" />
-        <mark key="." line="107" column="65" />
-        <mark key="^" line="165" column="36" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlow.java" timestamp="1447084269998">
+        <mark key="[" line="60" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/functional/java/com/odc/connect/tradinghistory/veda/business/VedaBusinessTradingHistoryFunctionalTest.java" timestamp="1446674432386">
         <mark key="[" line="12" column="53" />
@@ -742,11 +739,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ew TradingHistoryRequest()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>ew TradingHistoryRequest()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -754,32 +751,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>ew TradingHistoryRequest()</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="4">
-        <text>tradingHistoryRequest</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>thenCallRealMethod();</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>thenReturn()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bmV3IFR5cGVUb2tlbjxMaXN0PEJ1c2luZXNzSWRlbnRpZmllcj4+KCkge30=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChidXNpbmVzc0lkZW50aWZpZXIgIT0gbnVsbCkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bmV3IFR5cGVUb2tlbjxMaXN0PEJ1c2luZXNzSWRlbnRpZmllcj4+KCkge30=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIEJ1c2luZXNzSWRlbnRpZmllciBidXNpbmVzc0lkZW50aWZpZXIgPSBnZXREYXRhKFR5cGVUb2tlbi5vZihCdXNpbmVzc0lkZW50aWZpZXIuY2xhc3MpLCBkYXRhKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgpCg==</text>
+      <register name="8" type="4">
+        <text>HIT</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChpZGVudGlmaWVyKTsK</text>
+      <register name="9" type="4">
+        <text>vedaInDepthScoreResponse</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
