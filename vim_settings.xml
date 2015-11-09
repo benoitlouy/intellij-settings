@@ -30,10 +30,11 @@
         <mark key="." line="3" column="130" />
         <mark key="^" line="3" column="130" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1447102007723">
-        <mark key="]" line="32" column="15" />
-        <mark key="^" line="32" column="15" />
-        <mark key="." line="32" column="15" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1447108195611">
+        <mark key="[" line="87" column="13" />
+        <mark key="]" line="74" column="29" />
+        <mark key="." line="74" column="29" />
+        <mark key="^" line="74" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/PendingTradingHistoryRequest.java" timestamp="1446587004358">
         <mark key="[" line="2" column="41" />
@@ -679,7 +680,7 @@
         <mark key="." line="59" column="47" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1447092827649">
+      <file name="/fragment.java" timestamp="1447107712415">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -786,11 +787,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AVS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AVS</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -798,32 +799,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>AVS</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>dev01connect</text>
+        <text encoding="base64">ICAgIAogICAgdHJ5CiAgICB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKHJlcG9ydCkpOwogICAgfQogICAgY2F0Y2ggKEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
       </register>
       <register name="3" type="4">
+        <text />
+      </register>
+      <register name="4" type="4">
+        <text>TradingHistory</text>
+      </register>
+      <register name="5" type="4">
+        <text>AVS</text>
+      </register>
+      <register name="6" type="4">
         <text>dev01connect</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS85LzE1Lgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
       <register name="7" type="4">
-        <text>ADD_BUSINESS_IDENTIFIER_TO_REQUEST</text>
+        <text>dev01connect</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS85LzE1Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
