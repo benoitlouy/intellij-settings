@@ -30,11 +30,11 @@
         <mark key="." line="3" column="130" />
         <mark key="^" line="3" column="130" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1447108195611">
-        <mark key="[" line="87" column="13" />
-        <mark key="]" line="74" column="29" />
-        <mark key="." line="74" column="29" />
-        <mark key="^" line="74" column="29" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1447110283865">
+        <mark key="[" line="104" column="33" />
+        <mark key="]" line="104" column="33" />
+        <mark key="." line="104" column="33" />
+        <mark key="^" line="103" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/PendingTradingHistoryRequest.java" timestamp="1446587004358">
         <mark key="[" line="2" column="41" />
@@ -522,6 +522,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/test/AlpacaModelAsserts.java" timestamp="1446497902798">
         <mark key="[" line="293" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/util/AuditTestClient.java" timestamp="1447110111163">
+        <mark key="[" line="66" column="16" />
+        <mark key="]" line="66" column="15" />
+        <mark key="^" line="66" column="15" />
+        <mark key="." line="66" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_310_add_business_identifier_column.sql" timestamp="1446497409659">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="82" />
@@ -787,11 +793,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -799,32 +805,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>r</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIAogICAgdHJ5CiAgICB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKHJlcG9ydCkpOwogICAgfQogICAgY2F0Y2ggKEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
+        <text>.iterator().next().getInputs().iterator().next();</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text encoding="base64">PA==</text>
       </register>
       <register name="4" type="4">
-        <text>TradingHistory</text>
+        <text>Collection</text>
       </register>
-      <register name="5" type="4">
-        <text>AVS</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>dev01connect</text>
+        <text encoding="base64">ICAgIAogICAgdHJ5CiAgICB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKHJlcG9ydCkpOwogICAgfQogICAgY2F0Y2ggKEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
       </register>
       <register name="7" type="4">
-        <text>dev01connect</text>
+        <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="8" type="4">
+        <text>TradingHistory</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS85LzE1Lgo=</text>
+      <register name="9" type="4">
+        <text>AVS</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
