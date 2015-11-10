@@ -30,11 +30,11 @@
         <mark key="." line="3" column="130" />
         <mark key="^" line="3" column="130" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1447180728300">
-        <mark key="[" line="99" column="59" />
-        <mark key="]" line="101" column="86" />
-        <mark key="." line="101" column="86" />
-        <mark key="^" line="101" column="86" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1447193817266">
+        <mark key="[" line="76" column="78" />
+        <mark key="]" line="78" column="30" />
+        <mark key="." line="78" column="30" />
+        <mark key="^" line="78" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/PendingTradingHistoryRequest.java" timestamp="1446587004358">
         <mark key="[" line="2" column="41" />
@@ -183,11 +183,11 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/dev01.decisionservice.properties" timestamp="1447093769689">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="41" />
-        <mark key="^" line="9" column="41" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/dev01.decisionservice.properties" timestamp="1447194306607">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+        <mark key="^" line="47" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/flow/build.sbt" timestamp="1446741506025">
         <mark key="[" line="12" column="36" />
@@ -812,11 +812,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ZvcmNpbmcgZm9sbG93aW5nIHZlcnNpb25zKGluY2x1ZGluZyB0cmFuc2l0aXZlKSB3aXRoIHNlY3VyaXR5IGZpeGVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>new ObjectMapper()</text>
       </register>
       <register name="-" type="4">
-        <text>, times(1)</text>
+        <text>new ObjectMapper()</text>
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -824,32 +824,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ZvcmNpbmcgZm9sbG93aW5nIHZlcnNpb25zKGluY2x1ZGluZyB0cmFuc2l0aXZlKSB3aXRoIHNlY3VyaXR5IGZpeGVzCg==</text>
+      <register name="1" type="4">
+        <text>new ObjectMapper()</text>
       </register>
       <register name="2" type="4">
-        <text>, times(1)</text>
+        <text>1</text>
       </register>
-      <register name="3" type="4">
-        <text>ImmutableMap</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3QuZ2UK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3QuZ2V0QnUK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL0ZvcmNpbmcgZm9sbG93aW5nIHZlcnNpb25zKGluY2x1ZGluZyB0cmFuc2l0aXZlKSB3aXRoIHNlY3VyaXR5IGZpeGVzCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, times(1)</text>
       </register>
       <register name="7" type="4">
+        <text>ImmutableMap</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGF1ZGl0LmdldFJlcXVlc3QoVW5pZmllZFVuZGVyd3JpdGluZ1JlcXVlc3QpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChhdWRpdC5nZXREZWNpc2lvblR5cGUoKS4pCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
