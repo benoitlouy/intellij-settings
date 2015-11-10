@@ -229,6 +229,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/test/unit/java/com/odc/connectjobs/poll/PollReportJobUnitTest.java" timestamp="1446749784403">
         <mark key="[" line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/AddBusinessIdentifierMerger.java" timestamp="1447171263994">
+        <mark key="[" line="38" column="58" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/test/integration/java/com/odc/connectjobs/util/MongoUtilIntegrationTest.java" timestamp="1446751129774">
         <mark key="[" line="162" column="70" />
         <mark key="]" line="122" column="49" />
@@ -547,11 +552,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlow.java" timestamp="1447102094679">
-        <mark key="[" line="140" column="35" />
-        <mark key="]" line="140" column="38" />
-        <mark key="." line="140" column="38" />
-        <mark key="^" line="140" column="38" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlow.java" timestamp="1447170964302">
+        <mark key="[" line="103" column="35" />
+        <mark key="]" line="102" column="36" />
+        <mark key="." line="102" column="36" />
+        <mark key="^" line="102" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/functional/java/com/odc/connect/tradinghistory/veda/business/VedaBusinessTradingHistoryFunctionalTest.java" timestamp="1446674432386">
         <mark key="[" line="12" column="53" />
@@ -696,11 +701,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUueHBhdGgub3BlcmF0aW9ucy5TdHJpbmc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Busi</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>Busi</text>
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -708,32 +713,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUueHBhdGgub3BlcmF0aW9ucy5TdHJpbmc7Cg==</text>
+      <register name="1" type="4">
+        <text>Busi</text>
       </register>
       <register name="2" type="4">
-        <text>Integer</text>
+        <text>request</text>
       </register>
       <register name="3" type="4">
-        <text>qdfullconnect</text>
+        <text>TypeToken.of(TradingHistoryRequest.class)</text>
       </register>
-      <register name="4" type="4">
-        <text>r</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUueHBhdGgub3BlcmF0aW9ucy5TdHJpbmc7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>.iterator().next().getInputs().iterator().next();</text>
+        <text>Integer</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PA==</text>
+        <text>qdfullconnect</text>
       </register>
       <register name="7" type="4">
-        <text>Collection</text>
+        <text>r</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>.iterator().next().getInputs().iterator().next();</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIAogICAgdHJ5CiAgICB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKHJlcG9ydCkpOwogICAgfQogICAgY2F0Y2ggKEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
