@@ -30,10 +30,11 @@
         <mark key="." line="3" column="130" />
         <mark key="^" line="3" column="130" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1447257824331">
-        <mark key="[" line="137" column="118" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1447259275951">
+        <mark key="[" line="142" column="59" />
+        <mark key="]" line="151" column="38" />
+        <mark key="." line="151" column="38" />
+        <mark key="^" line="151" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/PendingTradingHistoryRequest.java" timestamp="1446587004358">
         <mark key="[" line="2" column="41" />
@@ -842,11 +843,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF1ZGl0VXRpbC5jaGVja01vZGVsRXhlY3V0aW9uKHJlcG9ydHMsIENhc2hGbG93U2NvcmluZ0Zsb3cuTU9ERUxfTkFNRSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BusinessIdentifierType</text>
       </register>
       <register name="-" type="4">
-        <text>businessIdentifierTypes</text>
+        <text>BusinessIdentifierType</text>
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -854,36 +855,36 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1ZGl0VXRpbC5jaGVja01vZGVsRXhlY3V0aW9uKHJlcG9ydHMsIENhc2hGbG93U2NvcmluZ0Zsb3cuTU9ERUxfTkFNRSk7Cg==</text>
+      <register name="1" type="4">
+        <text>BusinessIdentifierType</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1ZGl0VXRpbC5jaGVja01vZGVsRXhlY3V0aW9uKHJlcG9ydHMsIENhc2hGbG93U2NvcmluZ0Zsb3cuTU9ERUxfTkFNRSk7Cg==</text>
+      <register name="2" type="4">
+        <text>AUS_ACN</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1ZGl0VXRpbC5jaGVja01vZGVsRXhlY3V0aW9uKHJlcG9ydHMsIFN1bW1hcml6ZXJGbG93LlNVTU1BUklaRVJfTU9ERUwpOwo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1ZGl0VXRpbC5jaGVja01vZGVsRXhlY3V0aW9uKHJlcG9ydHMsIENhc2hGbG93U2NvcmluZ0Zsb3cuTU9ERUxfTkFNRSk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGF1ZGl0VXRpbC5jaGVja01vZGVsRXhlY3V0aW9uKHJlcG9ydHMsIENhc2hGbG93U2NvcmluZ0Zsb3cuTU9ERUxfTkFNRSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGF1ZGl0VXRpbC5jaGVja01vZGVsRXhlY3V0aW9uKHJlcG9ydHMsIFN1bW1hcml6ZXJGbG93LlNVTU1BUklaRVJfTU9ERUwpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>@Test
   private void fullDecisionWithPreviouslyFoundACN() throws FlowException
   {
     request.setCreditDecisionType(CreditDecisionType.FULL);
   }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFRyYWRpbmdIaXN0b3J5UmVxdWVzdEhhc0J1c2luZXNzSWRlbnRpZmllcnMgcHJlZGljYXRlID0gbmV3IFRyYWRpbmdIaXN0b3J5UmVxdWVzdEhhc0J1c2luZXNzSWRlbnRpZmllcnMoQnVzaW4pCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>businessIdentifierTypes</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
