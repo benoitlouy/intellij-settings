@@ -462,8 +462,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-business-trading-history-connection/build.gradle" timestamp="1446670768231">
-        <mark key="[" line="2" column="83" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-business-trading-history-connection/build.gradle" timestamp="1447440318990">
+        <mark key="[" line="2" column="73" />
+        <mark key="]" line="2" column="73" />
+        <mark key="." line="2" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/core/request/XPath2BasedRequestKeysMapCreatorUnitTest.java" timestamp="1446665118210">
         <mark key="[" line="27" column="21" />
@@ -541,6 +543,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-organisation-identification-connection/build.gradle" timestamp="1447440333356">
+        <mark key="[" line="2" column="76" />
+        <mark key="]" line="2" column="76" />
+        <mark key="." line="2" column="76" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/aus/TradingHistoryRequestHasBusinessIdentifiersUnitTest.java" timestamp="1447256908971">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -581,6 +588,12 @@
         <mark key="." line="66" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagement.java" timestamp="1447437444244" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/csc-biid-connection/build.gradle" timestamp="1447440299406">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_310_add_business_identifier_column.sql" timestamp="1446497409659">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="82" />
@@ -848,11 +861,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>BusinessIdentifierType</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -860,32 +873,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>SNAPSHOT</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PT09PT09PQppbXBvcnQgY29tLm9kYy5jb25uZWN0LmNvcmUubW9kZWwuRmV0Y2hQYXJhbWV0ZXJzOwoKcHVibGljIGludGVyZmFjZSBBc3luY1JlcG9ydEZldGNoZXJUYXNrRmFjdG9yeTxSZXF1ZXN0Pgp7CiAgUnVubmFibGUgY3JlYXRlVGFzayhSZXF1ZXN0IHJlcXVlc3QsIEZldGNoUGFyYW1ldGVycyBwYXJhbXMpOwo+Pj4+Pj4+IElOVEwtMjE0OiBjaGFuZ2UgYnVzaW5lc3MgaWQgcmVxdWVzdCBhbmQgY3JlYXRlIHNvbWUgY2xhc3NlcyB0byBtYWtlIGFzeW5jIHJlcG9ydCBmZXRjaGluZyBtb3JlIGdlbmVyaWM=</text>
+        <text>-</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCA5YjFmMjUwOWNlNGU3Y2E5OTJmNWY4MGI4YTM1ZDJiZjI4MTMwYjhjCg==</text>
+      <register name="3" type="4">
+        <text>SNAPSHOT</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PQo=</text>
+      <register name="4" type="4">
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PT09PT09CgpwdWJsaWMgY2xhc3MgQXN5bmNSZXBvcnRGZXRjaGVyPENvbm5lY3RSZXF1ZXN0LCBSZXF1ZXN0LCBDb25uZWN0UmVzcG9uc2U+CiAgaW1wbGVtZW50cyBSZXBvcnRGZXRjaGVyPFJlcXVlc3QsIENvbm5lY3RSZXNwb25zZT4KewogIHByaXZhdGUgZmluYWwgRnVuY3Rpb248Q29ubmVjdFJlcXVlc3QsIFJlcXVlc3Q+IHJlcXVlc3RDb252ZXJ0ZXI7CiAgcHJpdmF0ZSBmaW5hbCBBc3luY1JlcG9ydEZldGNoZXJUYXNrRmFjdG9yeTxSZXF1ZXN0PiB0YXNrRmFjdG9yeTsKICBwcml2YXRlIGZpbmFsIEZ1bmN0aW9uPFZvaWQsIENvbm5lY3RSZXNwb25zZT4gcGVuZGluZ1Jlc3BvbnNlQ3JlYXRvcjsKICBwcml2YXRlIGZpbmFsIEV4ZWN1dG9yIGV4ZWN1dG9yOwoKICBwdWJsaWMgQXN5bmNSZXBvcnRGZXRjaGVyKEZ1bmN0aW9uPENvbm5lY3RSZXF1ZXN0LCBSZXF1ZXN0PiByZXF1ZXN0Q29udmVydGVyLAogICAgICBBc3luY1JlcG9ydEZldGNoZXJUYXNrRmFjdG9yeTxSZXF1ZXN0PiB0YXNrRmFjdG9yeSwKICAgICAgRnVuY3Rpb248Vm9pZCwgQ29ubmVjdFJlc3BvbnNlPiBwZW5kaW5nUmVzcG9uc2VDcmVhdG9yLCBFeGVjdXRvciBleGVjdXRvcikKICB7CiAgICB0aGlzLnJlcXVlc3RDb252ZXJ0ZXIgPSByZXF1ZXN0Q29udmVydGVyOwogICAgdGhpcy50YXNrRmFjdG9yeSA9IHRhc2tGYWN0b3J5OwogICAgdGhpcy5wZW5kaW5nUmVzcG9uc2VDcmVhdG9yID0gcGVuZGluZ1Jlc3BvbnNlQ3JlYXRvcjsKICAgIHRoaXMuZXhlY3V0b3IgPSBleGVjdXRvcjsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyBDb25uZWN0UmVzcG9uc2UgZmV0Y2hSZXBvcnQoUmVxdWVzdCByZXF1ZXN0LCBGZXRjaFBhcmFtZXRlcnMgcGFyYW1zKSB0aHJvd3MgQ29ubmVjdEV4Y2VwdGlvbgogIHsKICAgIHJldHVybiBwZW5kaW5nUmVzcG9uc2VDcmVhdG9yLmFwcGx5KG51bGwpOwogIH0KCiAgcHVibGljIHZvaWQgdHJpZ2dlcldvcmtlcihDb25uZWN0UmVxdWVzdCBjb25uZWN0UmVxdWVzdCwgRmV0Y2hQYXJhbWV0ZXJzIHBhcmFtcykKICB7CiAgICBSZXF1ZXN0IHJlcXVlc3QgPSByZXF1ZXN0Q29udmVydGVyLmFwcGx5KGNvbm5lY3RSZXF1ZXN0KTsKICAgIFJ1bm5hYmxlIHRhc2sgPSB0YXNrRmFjdG9yeS5jcmVhdGVUYXNrKHJlcXVlc3QsIHBhcmFtcyk7CiAgICBleGVjdXRvci5leGVjdXRlKHRhc2spOwo+Pj4+Pj4+IElOVEwtMjE0OiBjaGFuZ2UgYnVzaW5lc3MgaWQgcmVxdWVzdCBhbmQgY3JlYXRlIHNvbWUgY2xhc3NlcyB0byBtYWtlIGFzeW5jIHJlcG9ydCBmZXRjaGluZyBtb3JlIGdlbmVyaWM=</text>
+        <text>develop-SNAPSHOT</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCA5YjFmMjUwOWNlNGU3Y2E5OTJmNWY4MGI4YTM1ZDJiZjI4MTMwYjhjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCA5YjFmMjUwOWNlNGU3Y2E5OTJmNWY4MGI4YTM1ZDJiZjI4MTMwYjhjCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PT09PT09PQppbXBvcnQgY29tLm9kYy5jb25uZWN0LmNvcmUubW9kZWwuRmV0Y2hQYXJhbWV0ZXJzOwoKcHVibGljIGludGVyZmFjZSBBc3luY1JlcG9ydEZldGNoZXJUYXNrRmFjdG9yeTxSZXF1ZXN0Pgp7CiAgUnVubmFibGUgY3JlYXRlVGFzayhSZXF1ZXN0IHJlcXVlc3QsIEZldGNoUGFyYW1ldGVycyBwYXJhbXMpOwo+Pj4+Pj4+IElOVEwtMjE0OiBjaGFuZ2UgYnVzaW5lc3MgaWQgcmVxdWVzdCBhbmQgY3JlYXRlIHNvbWUgY2xhc3NlcyB0byBtYWtlIGFzeW5jIHJlcG9ydCBmZXRjaGluZyBtb3JlIGdlbmVyaWM=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBJTlRMLTIxNDogY2hhbmdlIGJ1c2luZXNzIGlkIHJlcXVlc3QgYW5kIGNyZWF0ZSBzb21lIGNsYXNzZXMgdG8gbWFrZSBhc3luYyByZXBvcnQgZmV0Y2hpbmcgbW9yZSBnZW5lcmljCg==</text>
+        <text encoding="base64">PDw8PDw8PCA5YjFmMjUwOWNlNGU3Y2E5OTJmNWY4MGI4YTM1ZDJiZjI4MTMwYjhjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yOwo=</text>
+        <text encoding="base64">PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
