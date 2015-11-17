@@ -58,10 +58,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/TradingHistoryRequestHasBusinessIdentifiers.java" timestamp="1447253870379">
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="15" column="53" />
-        <mark key="." line="15" column="53" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/TradingHistoryRequestHasBusinessIdentifiers.java" timestamp="1447778784633">
+        <mark key="[" line="34" column="81" />
+        <mark key="]" line="34" column="81" />
+        <mark key="." line="34" column="81" />
+        <mark key="^" line="17" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/flow/core/src/main/scala/trickle/executor/ParallelExecuteVisitor.scala" timestamp="1446839065391">
         <mark key="[" line="105" column="0" />
@@ -410,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHRyeQogICAgewogICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gbmV3IEpvZGFNYXBwZXIoKTsKICAgICAgbWFwcGVyLmNvbmZpZ3VyZShTZXJpYWxpemF0aW9uRmVhdHVyZS5XUklURV9EQVRFU19BU19USU1FU1RBTVBTLCBmYWxzZSk7CiAgICAgIG1hcHBlci5zZXRTZXJpYWxpemF0aW9uSW5jbHVzaW9uKEpzb25JbmNsdWRlLkluY2x1ZGUuTk9OX0VNUFRZKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcocmVxdWVzdCkpOwogICAgfQogICAgY2F0Y2ggKEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
+        <text encoding="base64">bmV3IFByZWRpY2F0ZTxCdXNpbmVzc0lkZW50aWZpZXI+KCkKICAgIHsKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBib29sZWFuIGFwcGx5KEJ1c2luZXNzSWRlbnRpZmllciBpZGVudGlmaWVyKQogICAgICB7CiAgICAgICAgcmV0dXJuIGJ1c2luZXNzSWRlbnRpZmllclR5cGVzLmNvbnRhaW5zKGlkZW50aWZpZXIuZ2V0VHlwZSgpKTsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>new MerchantDetails();</text>
+        <text>BusinessIdentifierType</text>
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -422,31 +423,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIHRyeQogICAgewogICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gbmV3IEpvZGFNYXBwZXIoKTsKICAgICAgbWFwcGVyLmNvbmZpZ3VyZShTZXJpYWxpemF0aW9uRmVhdHVyZS5XUklURV9EQVRFU19BU19USU1FU1RBTVBTLCBmYWxzZSk7CiAgICAgIG1hcHBlci5zZXRTZXJpYWxpemF0aW9uSW5jbHVzaW9uKEpzb25JbmNsdWRlLkluY2x1ZGUuTk9OX0VNUFRZKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcocmVxdWVzdCkpOwogICAgfQogICAgY2F0Y2ggKEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
+        <text encoding="base64">bmV3IFByZWRpY2F0ZTxCdXNpbmVzc0lkZW50aWZpZXI+KCkKICAgIHsKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBib29sZWFuIGFwcGx5KEJ1c2luZXNzSWRlbnRpZmllciBpZGVudGlmaWVyKQogICAgICB7CiAgICAgICAgcmV0dXJuIGJ1c2luZXNzSWRlbnRpZmllclR5cGVzLmNvbnRhaW5zKGlkZW50aWZpZXIuZ2V0VHlwZSgpKTsKICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeSh2ZWRhQnVzaW5lc3NUcmFkaW5nSGlzdG9yeSkK</text>
+      <register name="2" type="4">
+        <text>BusinessIdentifierType</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IG5ldyBQcmVkaWNhdGU8QnVzaW5lc3NJZGVudGlmaWVyPigpCiAgICB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShCdXNpbmVzc0lkZW50aWZpZXIgaWRlbnRpZmllcikKICAgICAgewogICAgICAgIHJldHVybiBidXNpbmVzc0lkZW50aWZpZXJUeXBlcy5jb250YWlucyhpZGVudGlmaWVyLmdldFR5cGUoKSk7CiAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIERlY2lzaW9uT3duZXIgZGVjaXNpb25Pd25lciA9IGNvbnRyYWN0LmdldE93bmVyKCk7Cg==</text>
+      <register name="4" type="4">
+        <text>Nullable</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIERlY2lzaW9uQnVzaW5lc3MgYnVzaW5lc3MgPSBjb250cmFjdC5nZXRCdXNpbmVzcygpOwo=</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIG1lcmNoYW50RGV0YWlscy5tZXJjaGFudElkID0gYnVzaW5lc3MuZ2V0TWVyY2hhbnQoKTsKICAgIG1lcmNoYW50RGV0YWlscy5tZXJjaGFudE5hbWUgPSBidXNpbmVzcy5nZXRMZWdhbE5hbWUoKTsKICAgIG1lcmNoYW50RGV0YWlscy5lbWFpbCA9IG1lcmNoYW50VXNlci5nZXRVc2VyQWNjb3VudCgpLmdldEVtYWlsKCk7CiAgICBtZXJjaGFudERldGFpbHMuY29udGFjdE5hbWUgPSBkZWNpc2lvbk93bmVyLmdldEZ1bGxOYW1lKCk7CiAgICBtZXJjaGFudERldGFpbHMucm91dGluZ051bWJlciA9IGJhbmtBY2NvdW50LmdldFJvdXRpbmdOdW1iZXIoKTsKICAgIG1lcmNoYW50RGV0YWlscy5hY2NvdW50TnVtYmVyID0gc2VjdXJpdHlTZXJ2aWNlLmRlY3J5cHQoYmFua0FjY291bnQuZ2V0QWNjb3VudE51bWJlcigpKTsKICAgIG1lcmNoYW50RGV0YWlscy5jb3VudHJ5Q29kZSA9IG9mZmVyLmdldERlY2lzaW9uKCkuZ2V0RGVjaXNpb25CdXNpbmVzcygpLmdldENvdW50cnlJc28zRW51bSgpOwogICAgbWVyY2hhbnREZXRhaWxzLnRheElkID0gc2VjdXJpdHlTZXJ2aWNlLmRlY3J5cHQoYnVzaW5lc3MuZ2V0VGF4SWQoKSk7</text>
+        <text>this</text>
       </register>
       <register name="7" type="4">
-        <text>new MerchantDetails();</text>
+        <text>businessIdentifierTypes</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBQcmVkaWNhdGU8QnVpcz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
