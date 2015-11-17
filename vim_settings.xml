@@ -16,6 +16,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1447777417712">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/odc/loanservicing/validation/loc/BoardLOCValidator.java" timestamp="1447710464658" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/resources/mapping/UnifiedUnderwritingRequestMapping.xml" timestamp="1446757421231">
         <mark key="[" line="83" column="0" />
@@ -404,8 +409,8 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeSh2ZWRhQnVzaW5lc3NUcmFkaW5nSGlzdG9yeSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIHRyeQogICAgewogICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gbmV3IEpvZGFNYXBwZXIoKTsKICAgICAgbWFwcGVyLmNvbmZpZ3VyZShTZXJpYWxpemF0aW9uRmVhdHVyZS5XUklURV9EQVRFU19BU19USU1FU1RBTVBTLCBmYWxzZSk7CiAgICAgIG1hcHBlci5zZXRTZXJpYWxpemF0aW9uSW5jbHVzaW9uKEpzb25JbmNsdWRlLkluY2x1ZGUuTk9OX0VNUFRZKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcocmVxdWVzdCkpOwogICAgfQogICAgY2F0Y2ggKEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>new MerchantDetails();</text>
@@ -416,32 +421,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeSh2ZWRhQnVzaW5lc3NUcmFkaW5nSGlzdG9yeSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHRyeQogICAgewogICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gbmV3IEpvZGFNYXBwZXIoKTsKICAgICAgbWFwcGVyLmNvbmZpZ3VyZShTZXJpYWxpemF0aW9uRmVhdHVyZS5XUklURV9EQVRFU19BU19USU1FU1RBTVBTLCBmYWxzZSk7CiAgICAgIG1hcHBlci5zZXRTZXJpYWxpemF0aW9uSW5jbHVzaW9uKEpzb25JbmNsdWRlLkluY2x1ZGUuTk9OX0VNUFRZKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcocmVxdWVzdCkpOwogICAgfQogICAgY2F0Y2ggKEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZlcmlmeSh2ZWRhQnVzaW5lc3NUcmFkaW5nSGlzdG9yeSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERlY2lzaW9uT3duZXIgZGVjaXNpb25Pd25lciA9IGNvbnRyYWN0LmdldE93bmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIERlY2lzaW9uT3duZXIgZGVjaXNpb25Pd25lciA9IGNvbnRyYWN0LmdldE93bmVyKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIERlY2lzaW9uQnVzaW5lc3MgYnVzaW5lc3MgPSBjb250cmFjdC5nZXRCdXNpbmVzcygpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIG1lcmNoYW50RGV0YWlscy5tZXJjaGFudElkID0gYnVzaW5lc3MuZ2V0TWVyY2hhbnQoKTsKICAgIG1lcmNoYW50RGV0YWlscy5tZXJjaGFudE5hbWUgPSBidXNpbmVzcy5nZXRMZWdhbE5hbWUoKTsKICAgIG1lcmNoYW50RGV0YWlscy5lbWFpbCA9IG1lcmNoYW50VXNlci5nZXRVc2VyQWNjb3VudCgpLmdldEVtYWlsKCk7CiAgICBtZXJjaGFudERldGFpbHMuY29udGFjdE5hbWUgPSBkZWNpc2lvbk93bmVyLmdldEZ1bGxOYW1lKCk7CiAgICBtZXJjaGFudERldGFpbHMucm91dGluZ051bWJlciA9IGJhbmtBY2NvdW50LmdldFJvdXRpbmdOdW1iZXIoKTsKICAgIG1lcmNoYW50RGV0YWlscy5hY2NvdW50TnVtYmVyID0gc2VjdXJpdHlTZXJ2aWNlLmRlY3J5cHQoYmFua0FjY291bnQuZ2V0QWNjb3VudE51bWJlcigpKTsKICAgIG1lcmNoYW50RGV0YWlscy5jb3VudHJ5Q29kZSA9IG9mZmVyLmdldERlY2lzaW9uKCkuZ2V0RGVjaXNpb25CdXNpbmVzcygpLmdldENvdW50cnlJc28zRW51bSgpOwogICAgbWVyY2hhbnREZXRhaWxzLnRheElkID0gc2VjdXJpdHlTZXJ2aWNlLmRlY3J5cHQoYnVzaW5lc3MuZ2V0VGF4SWQoKSk7</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>new MerchantDetails();</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIG1lcmNoYW50RGV0YWlscy5tZXJjaGFudElkID0gYnVzaW5lc3MuZ2V0TWVyY2hhbnQoKTsKICAgIG1lcmNoYW50RGV0YWlscy5tZXJjaGFudE5hbWUgPSBidXNpbmVzcy5nZXRMZWdhbE5hbWUoKTsKICAgIG1lcmNoYW50RGV0YWlscy5lbWFpbCA9IG1lcmNoYW50VXNlci5nZXRVc2VyQWNjb3VudCgpLmdldEVtYWlsKCk7CiAgICBtZXJjaGFudERldGFpbHMuY29udGFjdE5hbWUgPSBvd25lci5nZXRGdWxsTmFtZSgpOwogICAgbWVyY2hhbnREZXRhaWxzLnJvdXRpbmdOdW1iZXIgPSBiYW5rQWNjb3VudC5nZXRSb3V0aW5nTnVtYmVyKCk7CiAgICBtZXJjaGFudERldGFpbHMuYWNjb3VudE51bWJlciA9IHNlY3VyaXR5U2VydmljZS5kZWNyeXB0KGJhbmtBY2NvdW50LmdldEFjY291bnROdW1iZXIoKSk7CiAgICBtZXJjaGFudERldGFpbHMuY291bnRyeUNvZGUgPSBvZmZlci5nZXREZWNpc2lvbigpLmdldERlY2lzaW9uQnVzaW5lc3MoKS5nZXRDb3VudHJ5SXNvM0VudW0oKTsKICAgIG1lcmNoYW50RGV0YWlscy50YXhJZCA9IHNlY3VyaXR5U2VydmljZS5kZWNyeXB0KGJ1c2luZXNzLmdldFRheElkKCkpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
