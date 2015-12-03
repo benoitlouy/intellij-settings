@@ -36,10 +36,8 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingConfig.java" timestamp="1449167016178">
         <mark key="[" line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/SpecializedFlow.java" timestamp="1449172861679">
-        <mark key="[" line="36" column="1" />
-        <mark key="]" line="54" column="47" />
-        <mark key="." line="54" column="47" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/SpecializedFlow.java" timestamp="1449173877821">
+        <mark key="[" line="51" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/summarize/priordecision/PriorDecisionFlow.java" timestamp="1449168497437">
         <mark key="[" line="30" column="27" />
@@ -346,7 +344,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChjYXNoRmxvd1Njb3JpbmdGbG93ICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRmxvd1N0ZXAK</text>
       </register>
       <register name="-" type="4">
         <text>public</text>
@@ -358,31 +356,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRmxvd1N0ZXAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGlmIChjYXNoRmxvd1Njb3JpbmdGbG93ICE9IG51bGwpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>public</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>null</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgdGhpcy50cmFuc2FjdGlvbkRhdGFTZXJ2aWNlU2NvcmVGbG93ID0gdHJhbnNhY3Rpb25EYXRhU2VydmljZVNjb3JlRmxvdzsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCdWlsZGVyIHdpdGhUcmFuc2FjdGlvbkRhdGFTZXJ2aWNlU2NvcmVGbG93KFRyYW5zYWN0aW9uRGF0YVNlcnZpY2VTY29yZUZsb3cgdHJhbnNhY3Rpb25EYXRhU2VydmljZVNjb3JlRmxvdykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCdWlsZGVyIHdpdGhUcmFuc2FjdGlvbkRhdGFTZXJ2aWNlU2NvcmVGbG93KFRyYW5zYWN0aW9uRGF0YVNlcnZpY2VTY29yZUZsb3cgdHJhbnNhY3Rpb25EYXRhU2VydmljZVNjb3JlRmxvdykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
