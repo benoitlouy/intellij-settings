@@ -172,11 +172,11 @@
         <mark key="]" line="44" column="35" />
         <mark key="." line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/UnderwritingModelRequestBuilderFlow.java" timestamp="1449172488698">
-        <mark key="[" line="130" column="46" />
-        <mark key="]" line="249" column="16" />
-        <mark key="." line="249" column="16" />
-        <mark key="^" line="249" column="16" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/UnderwritingModelRequestBuilderFlow.java" timestamp="1449176191569">
+        <mark key="[" line="211" column="107" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="209" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1449093902926">
         <mark key="[" line="0" column="0" />
@@ -344,10 +344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRmxvd1N0ZXAK</text>
+        <text encoding="base64">ICAgIEFycmF5cwo=</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>steps.getLoc(), steps.getTermLoan()</text>
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -356,31 +356,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIEFycmF5cwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>steps.getLoc(), steps.getTermLoan()</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgRmxvd1N0ZXAK</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGlmIChjYXNoRmxvd1Njb3JpbmdGbG93ICE9IG51bGwpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>public</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>null</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50cmFuc2FjdGlvbkRhdGFTZXJ2aWNlU2NvcmVGbG93ID0gdHJhbnNhY3Rpb25EYXRhU2VydmljZVNjb3JlRmxvdzsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCdWlsZGVyIHdpdGhUcmFuc2FjdGlvbkRhdGFTZXJ2aWNlU2NvcmVGbG93KFRyYW5zYWN0aW9uRGF0YVNlcnZpY2VTY29yZUZsb3cgdHJhbnNhY3Rpb25EYXRhU2VydmljZVNjb3JlRmxvdykK</text>
+        <text encoding="base64">ICAgICAgdGhpcy50cmFuc2FjdGlvbkRhdGFTZXJ2aWNlU2NvcmVGbG93ID0gdHJhbnNhY3Rpb25EYXRhU2VydmljZVNjb3JlRmxvdzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
