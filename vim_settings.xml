@@ -38,10 +38,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/main/resources/allenvs.connectjobs.properties" timestamp="1446751621804">
         <mark key="[" line="30" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/can/CanadaFlow.java" timestamp="1449242770295">
-        <mark key="[" line="126" column="73" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/can/CanadaFlow.java" timestamp="1449246854587">
+        <mark key="[" line="135" column="111" />
+        <mark key="]" line="148" column="39" />
+        <mark key="." line="148" column="39" />
+        <mark key="^" line="148" column="39" />
       </file>
       <file name="/IntelliJ Default" timestamp="1449170814700">
         <mark key="[" line="0" column="0" />
@@ -141,7 +142,7 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1449181403007">
+      <file name="/Dummy.txt" timestamp="1449246411709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/UnderwritingWithPersistenceHandlerUnitTest.java" timestamp="1449093618632">
@@ -186,7 +187,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/BusinessIdentifierType.java" timestamp="1446561118486">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1449181403023">
+      <file name="/fragment.java" timestamp="1449246411725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/USAFlow.java" timestamp="1449242696128">
@@ -296,11 +297,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5bmV0Q2FuYWRhQkNSLCBwcHNhLCBjYXNoRmxvd1Njb3JlLCBzdW1tYXJpZXMsIHByaW9yRGVjaXNpb24sIHllbHBTY29yZSwgdHJhbnNhY3Rpb25TY29yZSwgY2FtcGFpZ25EYXRhKTsK</text>
+      <register name="&quot;" type="4">
+        <text>enabledSteps</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>enabledSteps</text>
       </register>
       <register name="/" type="4">
         <text>packagin</text>
@@ -308,32 +309,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>enabledSteps</text>
+      </register>
+      <register name="2" type="4">
+        <text>enabledSteps</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0ZXBzLnRvCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGF5bmV0Q2FuYWRhQkNSLCBwcHNhLCBjYXNoRmxvd1Njb3JlLCBzdW1tYXJpZXMsIHByaW9yRGVjaXNpb24sIHllbHBTY29yZSwgdHJhbnNhY3Rpb25TY29yZSwgY2FtcGFpZ25EYXRhKTsK</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBVbmRlcndyaXRpbmdNb2RlbFJlcXVlc3RNZXJnZXIuY2FuYWRhTWVyZ2VyKHVuaWZpZWRVbmRlcndyaXRpbmdSZXF1ZXN0LCBjb25zdW1lclNjb3JlLCBlcXVpZmF4Q2FuYWRhQkNSLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBVbmRlcndyaXRpbmdNb2RlbFJlcXVlc3RNZXJnZXIudXNNZXJnZXIodW5pZmllZFVuZGVyd3JpdGluZ1JlcXVlc3QsIGNvbnN1bWVyU2NvcmVDb25kaXRpb25hbFN0ZXAsCiAgICAgICAgICAgIGV4cGVyaWFuQnVzaW5lc3NTY29yZUNvbmRpdGlvbmFsU3RlcCwgZXF1aWZheEJ1c2luZXNzU2NvcmVDb25kaXRpb25hbFN0ZXAsCiAgICAgICAgICAgIHBheW5ldEJ1c2luZXNzU2NvcmVDb25kaXRpb25hbFN0ZXAsIGNhc2hGbG93U2NvcmUsIHN1bW1hcmllcywgcHJpb3JEZWNpc2lvbiwgeWVscFNjb3JlLCB0cmFuc2FjdGlvblNjb3JlLAogICAgICAgICAgICBjYW1wYWlnbkRhdGEpOw==</text>
-      </register>
-      <register name="4" type="4">
-        <text>private</text>
-      </register>
-      <register name="5" type="4">
-        <text>private</text>
-      </register>
-      <register name="6" type="4">
-        <text>private</text>
-      </register>
       <register name="7" type="4">
-        <text>private</text>
+        <text encoding="base64">ICAgICAgICBVbmRlcndyaXRpbmdNb2RlbFJlcXVlc3RNZXJnZXIudXNNZXJnZXIodW5pZmllZFVuZGVyd3JpdGluZ1JlcXVlc3QsIGNvbnN1bWVyU2NvcmVDb25kaXRpb25hbFN0ZXAsCiAgICAgICAgICAgIGV4cGVyaWFuQnVzaW5lc3NTY29yZUNvbmRpdGlvbmFsU3RlcCwgZXF1aWZheEJ1c2luZXNzU2NvcmVDb25kaXRpb25hbFN0ZXAsCiAgICAgICAgICAgIHBheW5ldEJ1c2luZXNzU2NvcmVDb25kaXRpb25hbFN0ZXAsIGNhc2hGbG93U2NvcmUsIHN1bW1hcmllcywgcHJpb3JEZWNpc2lvbiwgeWVscFNjb3JlLCB0cmFuc2FjdGlvblNjb3JlLAogICAgICAgICAgICBjYW1wYWlnbkRhdGEpOw==</text>
       </register>
       <register name="8" type="4">
         <text>private</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ID0gbWVyZ2VyLndpdGg=</text>
+        <text>private</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
