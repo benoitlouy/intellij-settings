@@ -38,6 +38,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/main/resources/allenvs.connectjobs.properties" timestamp="1446751621804">
         <mark key="[" line="30" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/can/CanadaFlow.java" timestamp="1449261233244">
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="/IntelliJ Default" timestamp="1449170814700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,14 +53,19 @@
         <mark key="]" line="62" column="66" />
         <mark key="." line="62" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1449261451089">
+        <mark key="[" line="198" column="22" />
+        <mark key="]" line="199" column="13" />
+        <mark key="." line="199" column="13" />
+        <mark key="^" line="199" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/flow/src/main/scala/com/benoitlouy/workflow/step/StepIOOperators.scala" timestamp="1446565539707">
         <mark key="[" line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/can/CanadaUnderwritingConfig.java" timestamp="1449179767057">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="71" column="16" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/can/CanadaUnderwritingConfig.java" timestamp="1449261300952">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1446492232754">
         <mark key="[" line="196" column="50" />
@@ -283,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>enabledSteps</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>enabledSteps</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -295,31 +304,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="4">
-        <text>enabledSteps</text>
+        <text>false</text>
       </register>
-      <register name="2" type="4">
-        <text>enabledSteps</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZXBzLnRvCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZW5hYmxlVHJhbnNhY3Rpb25TY29yZSA9IGVuYWJsZVRyYW5zYWN0aW9uU2NvcmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5bmV0Q2FuYWRhQkNSLCBwcHNhLCBjYXNoRmxvd1Njb3JlLCBzdW1tYXJpZXMsIHByaW9yRGVjaXNpb24sIHllbHBTY29yZSwgdHJhbnNhY3Rpb25TY29yZSwgY2FtcGFpZ25EYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVbmRlcndyaXRpbmdNb2RlbFJlcXVlc3RNZXJnZXIuY2FuYWRhTWVyZ2VyKHVuaWZpZWRVbmRlcndyaXRpbmdSZXF1ZXN0LCBjb25zdW1lclNjb3JlLCBlcXVpZmF4Q2FuYWRhQkNSLAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIGJvb2xlYW4gZW5hYmxlVHJhbnNhY3Rpb25TY29yZWQ7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBVbmRlcndyaXRpbmdNb2RlbFJlcXVlc3RNZXJnZXIudXNNZXJnZXIodW5pZmllZFVuZGVyd3JpdGluZ1JlcXVlc3QsIGNvbnN1bWVyU2NvcmVDb25kaXRpb25hbFN0ZXAsCiAgICAgICAgICAgIGV4cGVyaWFuQnVzaW5lc3NTY29yZUNvbmRpdGlvbmFsU3RlcCwgZXF1aWZheEJ1c2luZXNzU2NvcmVDb25kaXRpb25hbFN0ZXAsCiAgICAgICAgICAgIHBheW5ldEJ1c2luZXNzU2NvcmVDb25kaXRpb25hbFN0ZXAsIGNhc2hGbG93U2NvcmUsIHN1bW1hcmllcywgcHJpb3JEZWNpc2lvbiwgeWVscFNjb3JlLCB0cmFuc2FjdGlvblNjb3JlLAogICAgICAgICAgICBjYW1wYWlnbkRhdGEpOw==</text>
+        <text>enabledSteps</text>
       </register>
       <register name="8" type="4">
-        <text>private</text>
+        <text>enabledSteps</text>
       </register>
-      <register name="9" type="4">
-        <text>private</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
