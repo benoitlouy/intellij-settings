@@ -15,14 +15,16 @@
       <file name="$USER_HOME$/Projects/OnDeck/flow/.jvmopts" timestamp="1446737112684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlow.java" timestamp="1449242789801">
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="31" column="76" />
-        <mark key="." line="31" column="76" />
-        <mark key="^" line="18" column="79" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlow.java" timestamp="1449516412574">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/SpecializedFlow.java" timestamp="1449242113179">
-        <mark key="^" line="158" column="42" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingConfig.java" timestamp="1449515820687">
+        <mark key="[" line="65" column="82" />
+        <mark key="]" line="65" column="74" />
+        <mark key="." line="65" column="74" />
+        <mark key="^" line="65" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/summarize/priordecision/PriorDecisionFlow.java" timestamp="1449186156606">
         <mark key="[" line="70" column="0" />
@@ -68,12 +70,13 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1446492232754">
         <mark key="[" line="196" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/modelhostr/grails-app/conf/Config.groovy" timestamp="1449514189031">
-        <mark key="[" line="200" column="3" />
-        <mark key="]" line="200" column="3" />
-        <mark key="^" line="198" column="43" />
-        <mark key="." line="200" column="3" />
+      <file name="$USER_HOME$/Projects/OnDeck/modelhostr/grails-app/conf/Config.groovy" timestamp="1449514272254">
+        <mark key="[" line="206" column="22" />
+        <mark key="]" line="206" column="36" />
+        <mark key="^" line="206" column="36" />
+        <mark key="." line="206" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/common/mhr/ModelExecutionFetcherConfig.java" timestamp="1449166587551" />
       <file name="$USER_HOME$/Projects/OnDeck/modelhostr/grails-app/conf/DataSource.groovy" timestamp="1449250967133">
         <mark key="[" line="138" column="3" />
         <mark key="]" line="148" column="56" />
@@ -109,7 +112,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/dev01.decisionservice.properties" timestamp="1449512257541">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="48" />
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/flow/.editorconfig" timestamp="1448378029396">
@@ -186,13 +188,14 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/tradinghistory/VedaMHRRequestBuilderUnitTest.java" timestamp="1446757224976">
         <mark key="[" line="42" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/USAUnderwritingConfig.java" timestamp="1449515828747" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/BusinessIdentifierType.java" timestamp="1446561118486">
         <mark key="[" line="17" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1449510895368">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/USAFlow.java" timestamp="1449262943748">
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/USAFlow.java" timestamp="1449516405516">
         <mark key="[" line="193" column="0" />
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
@@ -301,11 +304,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>odas</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>odas</text>
+        <text encoding="base64">QE5hbWVkKCJjaGFzZVByaW9yRGVjaXNpb25GdW5jdGlvbiIpIA==</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -313,32 +316,32 @@
       <register name="0" type="2">
         <text encoding="base64">c2FsZXNmb3JjZWNsaWVudC5jbGllbnRTZWNyZXQ9NTM3MDUwMTI1MzgzOTkxNjQ1MAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>odas</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text encoding="base64">RGF0YVBpcGVGbG93RmFjdG9yeSBkYXRhUGlwZUZsb3dGYWN0b3J5LAogICAgICBDb25uZWN0UmVxdWVzdEF1ZGl0b3IgY29ubmVjdFJlcXVlc3RBdWRpdG9yLAogICAgICBDb25uZWN0UmVwb3J0QXVkaXRvciBjb25uZWN0UmVwb3J0QXVkaXRvciwKICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3Rvcjw/PiBjb25uZWN0QXN5bmNJZGVudGlmaWVyRXh0cmFjdG9yLAogICAgICBTdHJpbmcgY29ubmVjdENhbGxiYWNrVVJJ</text>
       </register>
-      <register name="3" type="4">
-        <text>u</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZGVjaXNpb24uY29yZS5tb2RlbC5QcmlvckRlY2lzaW9uOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">I3NhbGVzZm9yY2VjbGllbnQuY2xpZW50U2VjcmV0PTUzNzA1MDEyNTM4Mzk5MTY0NTAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">QE5hbWVkKCJjaGFzZVByaW9yRGVjaXNpb25GdW5jdGlvbiIpIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">I3NhbGVzZm9yY2VjbGllbnQuY2xpZW50SWQ9M01WRzlhaEdIcXAuazJfenBidTRGWDlKalBDRUMwaDBwWC5LQnhtVDA0Nlc1eldrY3ZlQzBTSEZYSFBza3BWckplSk1TUi5yc0hXR3VLUC56enpMTwo=</text>
+      <register name="6" type="4">
+        <text>localhost</text>
       </register>
       <register name="7" type="4">
-        <text>5370501253839916450</text>
+        <text>localhost</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aFRyYW5zYWN0aW9uU2NvcmVGbG93cyh5b2RsZWVUcmFuc2FjdGlvblNjb3JlRmxvdywgdHJhbnNhY3Rpb25EYXRhU2VydmljZVNjb3JlRmxvdykK</text>
+      <register name="8" type="4">
+        <text>aus</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aFRyYW5zYWN0aW9uU2NvcmVGbG93cyh5b2RsZWVUcmFuc2FjdGlvblNjb3JlRmxvdywgdHJhbnNhY3Rpb25EYXRhU2VydmljZVNjb3JlRmxvdykK</text>
+      <register name="9" type="4">
+        <text>aus-dev</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
