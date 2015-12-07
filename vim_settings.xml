@@ -20,11 +20,10 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingConfig.java" timestamp="1449518352258">
-        <mark key="[" line="54" column="57" />
-        <mark key="]" line="54" column="57" />
-        <mark key="." line="54" column="57" />
-        <mark key="^" line="66" column="74" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingConfig.java" timestamp="1449519375590">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/summarize/priordecision/PriorDecisionFlow.java" timestamp="1449186156606">
         <mark key="[" line="70" column="0" />
@@ -305,11 +304,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>chasePriorDecisionFlow</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QE5hbWVkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>chasePriorDecisionFlow</text>
+        <text>chaseUnderwritingModelRequestBuilderFlow</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -317,32 +316,32 @@
       <register name="0" type="2">
         <text encoding="base64">c2FsZXNmb3JjZWNsaWVudC5jbGllbnRTZWNyZXQ9NTM3MDUwMTI1MzgzOTkxNjQ1MAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>chasePriorDecisionFlow</text>
+      <register name="1" type="2">
+        <text encoding="base64">QE5hbWVkCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>private</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBASW5qZWN0Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBASW5qZWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICBASW5qZWN0Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">RGF0YVBpcGVGbG93RmFjdG9yeSBkYXRhUGlwZUZsb3dGYWN0b3J5LAogICAgICBDb25uZWN0UmVxdWVzdEF1ZGl0b3IgY29ubmVjdFJlcXVlc3RBdWRpdG9yLAogICAgICBDb25uZWN0UmVwb3J0QXVkaXRvciBjb25uZWN0UmVwb3J0QXVkaXRvciwKICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3Rvcjw/PiBjb25uZWN0QXN5bmNJZGVudGlmaWVyRXh0cmFjdG9yLAogICAgICBTdHJpbmcgY29ubmVjdENhbGxiYWNrVVJJ</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBASW5qZWN0Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="6" type="4">
+        <text>chaseUnderwritingModelRequestBuilderFlow</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZGVjaXNpb24uY29yZS5tb2RlbC5QcmlvckRlY2lzaW9uOwo=</text>
+      <register name="7" type="4">
+        <text>chasePriorDecisionFlow</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">QE5hbWVkKCJjaGFzZVByaW9yRGVjaXNpb25GdW5jdGlvbiIpIA==</text>
+        <text>private</text>
       </register>
       <register name="9" type="4">
-        <text>localhost</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
