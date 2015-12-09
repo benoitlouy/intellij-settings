@@ -6,11 +6,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/marketing/CampaignDataFlow.java" timestamp="1449169787509">
         <mark key="[" line="36" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlowUnitTest.java" timestamp="1449682634474">
-        <mark key="[" line="182" column="15" />
-        <mark key="]" line="182" column="15" />
-        <mark key="." line="182" column="15" />
-        <mark key="^" line="193" column="14" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlowUnitTest.java" timestamp="1449684228923">
+        <mark key="[" line="220" column="59" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1449682584762">
         <mark key="[" line="0" column="0" />
@@ -28,6 +27,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" timestamp="1449682571180" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMergerUnitTest.java" timestamp="1449683759065">
+        <mark key="[" line="140" column="74" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlow.java" timestamp="1449682388130">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
@@ -90,6 +92,9 @@
         <mark key="." line="206" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/common/mhr/ModelExecutionFetcherConfig.java" timestamp="1449166587551" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/model/UnderwritingModelRequest.java" timestamp="1449683431340">
+        <mark key="[" line="47" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/modelhostr/grails-app/conf/DataSource.groovy" timestamp="1449529884736">
         <mark key="[" line="151" column="3" />
         <mark key="]" line="151" column="13" />
@@ -110,6 +115,11 @@
       </file>
       <file name="/Builder" timestamp="1449170814710">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449684391715">
+        <mark key="[" line="2" column="68" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryCachingReportHandlerIntegrationTest.java" timestamp="1447443360710">
         <mark key="[" line="122" column="3" />
@@ -145,6 +155,9 @@
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/usa/USAUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449684936397">
+        <mark key="[" line="59" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/test/AlpacaModelAsserts.java" timestamp="1446497902798">
         <mark key="[" line="293" column="79" />
@@ -215,6 +228,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/main/java/com/odc/connectjobs/BaseConnectJob.java" timestamp="1449080221462">
         <mark key="[" line="103" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMerger.java" timestamp="1449683501935">
+        <mark key="[" line="189" column="46" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/BusinessIdentifierType.java" timestamp="1446561118486">
         <mark key="[" line="17" column="0" />
@@ -331,8 +349,8 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>USAFlow</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>USAFlow</text>
@@ -343,32 +361,32 @@
       <register name="0" type="2">
         <text encoding="base64">c2FsZXNmb3JjZWNsaWVudC5jbGllbnRTZWNyZXQ9NTM3MDUwMTI1MzgzOTkxNjQ1MAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>USAFlow</text>
-      </register>
-      <register name="2" type="4">
-        <text>underTest</text>
-      </register>
-      <register name="3" type="4">
-        <text>underTest</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi85LzE1Lgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGZ1bGxEZWNpc2lvbigpIHRocm93cyBGbG93RXhjZXB0aW9uCiAgewogICAgcmVxdWVzdC5zZXRDcmVkaXREZWNpc2lvblR5cGUoQ3JlZGl0RGVjaXNpb25UeXBlLkZVTEwpOwoKICAgIFVuZGVyd3JpdGluZ01vZGVsUmVxdWVzdCByZXN1bHQgPSBydW5UZXN0KHJlcXVlc3QpOwogICAgYXNzZXJ0RXF1YWxzKHJlcXVlc3QuZ2V0QnVzaW5lc3MoKS5nZXRBZGRyZXNzKCkuZ2V0Q291bnRyeSgpLCByZXN1bHQuZ2V0Q291bnRyeSgpKTsKICAgIGFzc2VydFNhbWUobGV4aXNOZXhpc0J1c2luZXNzSURSZXNwb25zZSwgcmVzdWx0LmdldExleGlzTmV4aXNCdXNpbmVzc0lEcygpLmdldCgwKSk7CiAgICBhc3NlcnRTYW1lKGxleGlzTmV4aXNVQ0NGaWxpbmdSZXNwb25zZSwgcmVzdWx0LmdldExleGlzTmV4aXNVY2NGaWxpbmcoKSk7CiAgICBhc3NlcnRTYW1lKGNzY0J1c2luZXNzSURSZXNwb25zZSwgcmVzdWx0LmdldENzY1Jlc3BvbnNlKCkpOwogICAgYXNzZXJ0U2FtZShjb25zdW1lclNjb3JlUmVzcG9uc2UsIHJlc3VsdC5nZXRDb25zdW1lclNjb3JlKCkpOwogICAgYXNzZXJ0U2FtZShleHBlcmlhblNjb3JlUmVzcG9uc2UsIHJlc3VsdC5nZXRFeHBlcmlhbigpKTsKICAgIGFzc2VydFNhbWUoZXF1aWZheFNjb3JlUmVzcG9uc2UsIHJlc3VsdC5nZXRFcXVpZmF4KCkpOwogICAgYXNzZXJ0U2FtZShwYXluZXRTY29yZVJlc3BvbnNlLCByZXN1bHQuZ2V0UGF5bmV0KCkpOwogICAgYXNzZXJ0U2FtZShzdW1tYXJpZXNEYXRhLCByZXN1bHQuZ2V0U3VtbWFyaWVzKCkpOwogICAgYXNzZXJ0U2FtZSh5ZWxwU2NvcmVEYXRhLCByZXN1bHQuZ2V0WWVscCgpKTsKICAgIGFzc2VydFNhbWUocHJpb3JEZWNpc2lvbkRhdGEsIHJlc3VsdC5nZXRQcmlvckRlY2lzaW9ucygpKTsKICAgIGFzc2VydFNhbWUoY2FzaEZsb3dTY29yZURhdGEsIHJlc3VsdC5nZXRDYXNoRmxvdygpKTsKICAgIGFzc2VydFNhbWUodHJhbnNhY3Rpb25TY29yZURhdGEsIHJlc3VsdC5nZXRUcnhuU2NvcmUoKSk7CiAgICBhc3NlcnRTYW1lKGNhbXBhaWduRGF0YUpzb24sIHJlc3VsdC5nZXRDYW1wYWlnbkRhdGEoKSk7CiAgfQ==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgT25saW5lT3JIaWdoZXJQcmVkaWNhdGUgb25saW5lT3JIaWdoZXIgPSBuZXcgT25saW5lT3JIaWdoZXJQcmVkaWNhdGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgUHJlYXBwcm92YWxPckhpZ2hlclByZWRpY2F0ZSBwcmVhcHByb3ZhbE9ySGlnaGVyID0gbmV3IFByZWFwcHJvdmFsT3JIaWdoZXJQcmVkaWNhdGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>360</text>
