@@ -115,8 +115,8 @@
         <mark key="." line="77" column="47" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/ConnectMultiScoringFlow.java" timestamp="1449776247517">
-        <mark key="[" line="80" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/ConnectMultiScoringFlow.java" timestamp="1449786446413">
+        <mark key="[" line="104" column="117" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
@@ -284,6 +284,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/ConnectToVedaBusinessTradingHistoryRequest.java" timestamp="1447946515780">
         <mark key="[" line="58" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/AbstractConnectMultiScoringFlowUnitTest.java" timestamp="1449785783467">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/tradinghistory/VedaMHRRequestBuilderUnitTest.java" timestamp="1446757224976">
         <mark key="[" line="42" column="26" />
       </file>
@@ -406,7 +411,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -418,31 +423,31 @@
         <text encoding="base64">c2FsZXNmb3JjZWNsaWVudC5jbGllbnRTZWNyZXQ9NTM3MDUwMTI1MzgzOTkxNjQ1MAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8xMC8xNS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbm5lY3RDYWxsYmFja1VSSSkK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3RvcjxFcXVpZmF4Q0NSUmVzcG9uc2U+IGNvbm5lY3RBc3luY0lkZW50aWZpZXJFeHRyYWN0b3IsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>false</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>,</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGNvbm5lY3RBc3luY0lkZW50aWZpZXJFeHRyYWN0b3IsIGNvbm5lY3RDYWxsYmFja1VSSQ==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgU3RyaW5nIGNvbm5lY3RDYWxsYmFja1VSSSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3RvcjxUPiBjb25uZWN0QXN5bmNJZGVudGlmaWVyRXh0cmFjdG9yLAo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3RvcjxFcXVpZmF4Q0NSUmVzcG9uc2U+IGNvbm5lY3RBc3luY0lkZW50aWZpZXJFeHRyYWN0b3IsIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>false</text>
+      </register>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>115</text>
