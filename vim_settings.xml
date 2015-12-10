@@ -6,6 +6,11 @@
       <file name="/a.dummy" timestamp="1449775585127">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/fetchReport/BusinessCreditReportRequest.xsd" timestamp="1449779799314">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" timestamp="1449682571180" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449686711363">
         <mark key="[" line="57" column="3" />
@@ -81,6 +86,7 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelper.java" timestamp="1449780198087" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryCachingReportHandlerIntegrationTest.java" timestamp="1447443360710">
         <mark key="[" line="122" column="3" />
       </file>
@@ -188,11 +194,6 @@
         <mark key="." line="27" column="44" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/business/ConnectMHRRequestMerger.java" timestamp="1449771395097">
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/common/resources/underwriting/valid-request-2.json" timestamp="1449763359408" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/summarize/priordecision/PriorDecisionFlow.java" timestamp="1449186156606">
         <mark key="[" line="70" column="0" />
@@ -275,6 +276,9 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/chase/CahseFlowUnitTest.java" timestamp="1449682575901">
         <mark key="[" line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/Request.xsd" timestamp="1449779728307">
+        <mark key="[" line="9" column="71" />
+      </file>
       <file name="/Dummy.txt" timestamp="1449686830454">
         <mark key="[" line="0" column="0" />
       </file>
@@ -284,6 +288,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/service/DecisionService.java" timestamp="1449777584208" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/businessid/veda/VedaOrgIdCachingReportHandlerIntegrationTest.java" timestamp="1449072074547">
         <mark key="[" line="79" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/fetchReport/ConsumerCreditReportRequest.xsd" timestamp="1449780358346">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlow.java" timestamp="1449526158274">
         <mark key="[" line="133" column="0" />
@@ -407,7 +416,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbm5lY3RDYWxsYmFja1VSSSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -419,31 +428,31 @@
         <text encoding="base64">c2FsZXNmb3JjZWNsaWVudC5jbGllbnRTZWNyZXQ9NTM3MDUwMTI1MzgzOTkxNjQ1MAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbm5lY3RDYWxsYmFja1VSSSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3RvcjxFcXVpZmF4Q0NSUmVzcG9uc2U+IGNvbm5lY3RBc3luY0lkZW50aWZpZXJFeHRyYWN0b3IsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>false</text>
-      </register>
-      <register name="4" type="4">
-        <text>,</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGNvbm5lY3RBc3luY0lkZW50aWZpZXJFeHRyYWN0b3IsIGNvbm5lY3RDYWxsYmFja1VSSQ==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgU3RyaW5nIGNvbm5lY3RDYWxsYmFja1VSSSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3RvcjxUPiBjb25uZWN0QXN5bmNJZGVudGlmaWVyRXh0cmFjdG9yLAo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3RvcjxFcXVpZmF4Q0NSUmVzcG9uc2U+IGNvbm5lY3RBc3luY0lkZW50aWZpZXJFeHRyYWN0b3IsIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>false</text>
+      </register>
+      <register name="6" type="4">
+        <text>,</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IGNvbm5lY3RBc3luY0lkZW50aWZpZXJFeHRyYWN0b3IsIGNvbm5lY3RDYWxsYmFja1VSSQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBjaGVja0Nvbm5lY3RSZXNwb25zZVN0YXR1cywgCg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbm5lY3RDYWxsYmFja1VSSSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQ291bnRyeSBjb3VudHJ5LAo=</text>
+        <text encoding="base64">ICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3RvcjxUPiBjb25uZWN0QXN5bmNJZGVudGlmaWVyRXh0cmFjdG9yLAo=</text>
       </register>
       <register name=":" type="4">
         <text>115</text>
