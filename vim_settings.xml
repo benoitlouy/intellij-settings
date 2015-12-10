@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1449691099126">
+      <file name="/a.dummy" timestamp="1449775585127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" timestamp="1449682571180" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449686711363">
         <mark key="[" line="57" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/equifax/EquifaxCCRScoreRequest.java" timestamp="1449775534751">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/production.connect.properties" timestamp="1447857816837">
         <mark key="[" line="14" column="0" />
@@ -19,10 +25,15 @@
       <file name="/IntelliJ Default" timestamp="1449170814700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/ConnectMultiScoringFlow.java" timestamp="1449774354702">
-        <mark key="[" line="47" column="49" />
-        <mark key="]" line="47" column="49" />
-        <mark key="." line="47" column="49" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1449262148334">
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/ConnectMultiScoringFlow.java" timestamp="1449776247517">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1449161503066">
         <mark key="[" line="220" column="43" />
@@ -30,15 +41,17 @@
         <mark key="." line="220" column="43" />
         <mark key="^" line="220" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/can/CanadaUnderwritingConfig.java" timestamp="1449263151106">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/equifax/EqfuiaxScoringConsumerFlow.java" timestamp="1449776295867">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/ConnectMultiMHRRequestMerger.java" timestamp="1449774325845">
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="22" column="49" />
-        <mark key="." line="22" column="49" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/ConnectMultiMHRRequestMerger.java" timestamp="1449775027695">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/allenvs.decisionservice.properties" timestamp="1449763401863">
         <mark key="[" line="43" column="43" />
@@ -74,16 +87,16 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/resources/com/odc/connect/model/tradinghistory/veda/business/jaxb.index" timestamp="1446581596107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/UnderwritingModelRequestBuilderFlowUnitTest.java" timestamp="1449181122046">
-        <mark key="[" line="465" column="0" />
-        <mark key="]" line="465" column="0" />
-        <mark key="." line="465" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/flow/build.sbt" timestamp="1448467881718">
         <mark key="[" line="45" column="4" />
         <mark key="]" line="46" column="17" />
         <mark key="." line="46" column="17" />
         <mark key="^" line="46" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/UnderwritingFlow.java" timestamp="1449162664163">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/usa/USAUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449689965494" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/summarize/priordecision/PriorDecisionFlowUnitTest.java" timestamp="1449169009260">
@@ -92,21 +105,12 @@
         <mark key="." line="72" column="3" />
         <mark key="^" line="72" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/business/equifax/EquifaxScoreRequest.java" timestamp="1449775466016" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/scoring/tradinghistory/VedaScoringFlowIntegrationTest.java" timestamp="1446757209054">
         <mark key="[" line="13" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/UnderwritingWithPersistenceHandler.java" timestamp="1449093283856">
-        <mark key="[" line="38" column="10" />
-        <mark key="]" line="38" column="10" />
-        <mark key="." line="38" column="10" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/test/unit/java/com/odc/connectjobs/poll/PollReportJobUnitTest.java" timestamp="1446749784403">
         <mark key="[" line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/UnderwritingHandler.java" timestamp="1449093262216">
-        <mark key="[" line="21" column="10" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/ConnectMHRRequestMerger.java" timestamp="1449773869301">
         <mark key="[" line="38" column="30" />
@@ -114,13 +118,9 @@
         <mark key="^" line="38" column="83" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerModelHostRRequestMerger.java" timestamp="1449775425216" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/model/Service.java" timestamp="1446582806447">
         <mark key="[" line="12" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/UnderwritingWithPersistenceHandlerUnitTest.java" timestamp="1449093618632">
-        <mark key="[" line="64" column="50" />
-        <mark key="]" line="64" column="50" />
-        <mark key="." line="64" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/flow/core/src/main/scala/trickle/step/ApplyStep.scala" timestamp="1448474336603">
         <mark key="[" line="8" column="44" />
@@ -128,10 +128,16 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/AbstractUnderwritingHandlerUnitTest.java" timestamp="1449093576949">
-        <mark key="[" line="94" column="46" />
-        <mark key="]" line="94" column="46" />
-        <mark key="." line="94" column="46" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/equifax/EquifaxCCRScoreMHRRequestBuilder.java" timestamp="1449776125340">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/AbstractUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449686718756">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/ConnectToVedaBusinessTradingHistoryRequest.java" timestamp="1447946515780">
         <mark key="[" line="58" column="38" />
@@ -142,13 +148,13 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/BusinessIdentifierType.java" timestamp="1446561118486">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/USAFlow.java" timestamp="1449516405516">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/marketing/CampaignDataFlow.java" timestamp="1449169787509">
         <mark key="[" line="36" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlowUnitTest.java" timestamp="1449684228923">
+        <mark key="[" line="220" column="59" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1449526013148">
         <mark key="[" line="11" column="15" />
@@ -171,6 +177,11 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlow.java" timestamp="1449682388130">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingConfig.java" timestamp="1449690951274">
         <mark key="[" line="27" column="44" />
         <mark key="]" line="27" column="44" />
@@ -183,6 +194,11 @@
         <mark key="." line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/common/resources/underwriting/valid-request-2.json" timestamp="1449763359408" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/summarize/priordecision/PriorDecisionFlow.java" timestamp="1449186156606">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/AbstractCountrySpecificFlowUnitTest.java" timestamp="1449261841662">
         <mark key="[" line="138" column="3" />
       </file>
@@ -234,11 +250,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/EndpointKeyConfig.java" timestamp="1446586723740">
         <mark key="[" line="105" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/UnderwritingFlowSwitch.java" timestamp="1449690337229">
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="15" />
-        <mark key="." line="42" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/test/unit/java/com/odc/connectjobs/trigger/TriggerJobUnitTest.java" timestamp="1446749856824">
         <mark key="[" line="33" column="44" />
       </file>
@@ -248,11 +259,6 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/build.gradle" timestamp="1447354626610">
         <mark key="[" line="58" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/AbstractUnderwritingHandler.java" timestamp="1449093096167">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/test/java/com/ondeck/common/model/underwritting/UnderwritingIT.java" timestamp="1449610804378">
         <mark key="[" line="74" column="59" />
@@ -269,11 +275,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/chase/CahseFlowUnitTest.java" timestamp="1449682575901">
         <mark key="[" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/UnderwritingHandlerUnitTest.java" timestamp="1449093658512">
-        <mark key="[" line="44" column="35" />
-        <mark key="]" line="44" column="35" />
-        <mark key="." line="44" column="35" />
-      </file>
       <file name="/Dummy.txt" timestamp="1449686830454">
         <mark key="[" line="0" column="0" />
       </file>
@@ -283,9 +284,19 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/businessid/veda/VedaOrgIdCachingReportHandlerIntegrationTest.java" timestamp="1449072074547">
         <mark key="[" line="79" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlow.java" timestamp="1449526158274">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/dev01.connect.properties" timestamp="1449675690674" />
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/main/java/com/odc/connectjobs/BaseConnectJob.java" timestamp="1449080221462">
         <mark key="[" line="103" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMerger.java" timestamp="1449683501935">
+        <mark key="[" line="189" column="46" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1449771767013">
         <mark key="[" line="0" column="0" />
@@ -394,11 +405,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Collection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbm5lY3RDYWxsYmFja1VSSSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Collection</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -406,32 +417,32 @@
       <register name="0" type="2">
         <text encoding="base64">c2FsZXNmb3JjZWNsaWVudC5jbGllbnRTZWNyZXQ9NTM3MDUwMTI1MzgzOTkxNjQ1MAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Collection</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbm5lY3RDYWxsYmFja1VSSSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>Collection</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3RvcjxFcXVpZmF4Q0NSUmVzcG9uc2U+IGNvbm5lY3RBc3luY0lkZW50aWZpZXJFeHRyYWN0b3IsIAo=</text>
       </register>
       <register name="3" type="4">
-        <text>Collection</text>
+        <text>false</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>Collection</text>
+        <text encoding="base64">IGNvbm5lY3RBc3luY0lkZW50aWZpZXJFeHRyYWN0b3IsIGNvbm5lY3RDYWxsYmFja1VSSQ==</text>
       </register>
-      <register name="6" type="4">
-        <text>Collection</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbm5lY3RDYWxsYmFja1VSSSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>Collection</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgQ29ubmVjdEFzeW5jSWRlbnRpZmllckV4dHJhY3RvcjxUPiBjb25uZWN0QXN5bmNJZGVudGlmaWVyRXh0cmFjdG9yLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>Collection</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYm9vbGVhbiBjaGVja0Nvbm5lY3RSZXNwb25zZVN0YXR1cywgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Collection</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgQ291bnRyeSBjb3VudHJ5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>115</text>
