@@ -85,6 +85,9 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/business/ConnectBCRMHRRequestMerger.java" timestamp="1449771345801">
         <mark key="[" line="16" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/us/EquifaxCCRConnectionHelper.java" timestamp="1449851041005">
+        <mark key="[" line="70" column="5" />
+      </file>
       <file name="/IntelliJ Default" timestamp="1449170814700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,8 +137,8 @@
       <file name="$USER_HOME$/Projects/OnDeck/flow/src/main/scala/com/benoitlouy/workflow/step/StepIOOperators.scala" timestamp="1446565539707">
         <mark key="[" line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1449161503066">
-        <mark key="[" line="220" column="43" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1449851126306">
+        <mark key="[" line="24" column="45" />
         <mark key="]" line="220" column="43" />
         <mark key="." line="220" column="43" />
         <mark key="^" line="220" column="43" />
@@ -151,6 +154,11 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/constants/PropertyConstants.java" timestamp="1449851012860">
+        <mark key="[" line="41" column="60" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1446492232754">
         <mark key="[" line="196" column="50" />
@@ -422,10 +430,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTEVOREVSX05BTUVfQkFOS19PRl9JTlRFUk5FVCA9ICJCb2ZJIEZlZGVyYWwgQmFuayI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>PropertyConstants.</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -433,32 +441,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>null</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTEVOREVSX05BTUVfQkFOS19PRl9JTlRFUk5FVCA9ICJCb2ZJIEZlZGVyYWwgQmFuayI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTEVOREVSX05BTUVfTUVUQUJBTksgPSAiTWV0YUJhbmsiOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8xMC8xNS4K</text>
+      <register name="3" type="4">
+        <text>PropertyConstants.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="4" type="4">
+        <text>PropertyConstants</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICBTdHJpbmcgVE9LRU5fU0VDVFJFVEtFWSA9ICJ0b2tlbi5zZWNyZXRrZXkiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8xMC8xNS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICBTdHJpbmcgVVNFUl9TRVJWSUNFX1VSTCA9ICJ1c2Vyc2VydmljZS51cmwiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
+        <text encoding="base64">ICAvKiogRGVmaW5lcyB0aGUgbmFtZSBvZiBhIHByb3BlcnR5IGZvciB0aGUgVXNlciBTZXJ2aWNlIFVSTC4gKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
+        <text encoding="base64">ICBTdHJpbmcgUFNfRVFVSUZBWF9UT1RBTF9WQUxVRUxJU1QgPSAiZXF1aWZheC5jb25zdW1lci5kYXRhYXR0cmlidXRleG1sZmllbGQudG90YWwudmFsdWVsaXN0IjsK</text>
       </register>
       <register name=":" type="4">
         <text>115</text>
