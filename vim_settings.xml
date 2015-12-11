@@ -126,11 +126,11 @@
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/UnderwritingFlowSwitchUnitTest.java" timestamp="1449690394541">
-        <mark key="[" line="77" column="47" />
-        <mark key="]" line="77" column="47" />
-        <mark key="." line="77" column="47" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/UnderwritingFlowSwitchUnitTest.java" timestamp="1449857551982">
+        <mark key="[" line="75" column="47" />
+        <mark key="]" line="75" column="47" />
         <mark key="^" line="16" column="29" />
+        <mark key="." line="75" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/ConnectMultiScoringFlow.java" timestamp="1449786446413">
         <mark key="[" line="108" column="117" />
@@ -172,8 +172,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1446492232754">
         <mark key="[" line="196" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/allenvs.decisionservice.properties" timestamp="1449763401863">
-        <mark key="[" line="43" column="43" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/allenvs.decisionservice.properties" timestamp="1449857664319">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/modelhostr/grails-app/conf/Config.groovy" timestamp="1449514272254">
         <mark key="[" line="206" column="22" />
@@ -192,6 +194,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/EndpointKeyConfig.java" timestamp="1446586723740">
         <mark key="[" line="105" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/UnderwritingFlowSwitch.java" timestamp="1449857556527">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/test/unit/java/com/odc/connectjobs/trigger/TriggerJobUnitTest.java" timestamp="1446749856824">
         <mark key="[" line="33" column="44" />
@@ -444,11 +451,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sbcsSubCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sbcsSubCode</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -456,32 +463,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>sbcsSubCode</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Strin</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y2hhc2UucGFydG5lci5pZD1SRUYtQ0hTLUZGTAo=</text>
       </register>
       <register name="3" type="4">
-        <text>chaseIntelliscoreSubCode</text>
+        <text>private</text>
       </register>
       <register name="4" type="4">
-        <text>false</text>
+        <text>chasePartnerId</text>
       </register>
-      <register name="5" type="4">
-        <text>getIntelliscore</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBjaGFzZVBhcnRuZXJJZCA9ICJjaGFzZVBhcnRuZXJJZCI7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>, chasePartnerId</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1YnNjcmliZXJUeXBlLnNldFN1YkNvZGUoKTsK</text>
+      <register name="8" type="4">
+        <text>@Value(&quot;${chase.partner.id}&quot;) String chasePartnerId</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0Cg==</text>
+      <register name="9" type="4">
+        <text>chasePartnerId</text>
       </register>
       <register name=":" type="4">
         <text>115</text>
