@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianConnectionHelper.java" timestamp="1449854394586">
+        <mark key="[" line="49" column="37" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/marketing/CampaignDataFlow.java" timestamp="1449169787509">
         <mark key="[" line="36" column="47" />
       </file>
@@ -65,7 +70,7 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/production.connect.properties" timestamp="1447857816837">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/production.connect.properties" timestamp="1449854238442">
         <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/AbstractCountrySpecificFlowUnitTest.java" timestamp="1449261841662">
@@ -106,6 +111,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/resources/odas-dev.decisionservice.test.properties" timestamp="1449689199100">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1449854252549" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/ConnectMultiMhrRequestMerger.java" timestamp="1449773743988">
         <mark key="[" line="36" column="36" />
         <mark key="]" line="33" column="88" />
@@ -140,7 +146,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/flow/src/main/scala/com/benoitlouy/workflow/step/StepIOOperators.scala" timestamp="1446565539707">
         <mark key="[" line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1449851126306">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1449854384081">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="220" column="43" />
         <mark key="." line="220" column="43" />
@@ -199,10 +205,13 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelper.java" timestamp="1449852307277">
-        <mark key="]" line="84" column="46" />
-        <mark key="^" line="84" column="46" />
-        <mark key="." line="84" column="46" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelper.java" timestamp="1449853882660">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/business/experian/ExperianConnectionHelperTest.java" timestamp="1449854981332">
+        <mark key="[" line="44" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryCachingReportHandlerIntegrationTest.java" timestamp="1447443360710">
         <mark key="[" line="122" column="3" />
@@ -327,6 +336,7 @@
       <file name="/fragment.java" timestamp="1449771767013">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/staging.connect.properties" timestamp="1449854266566" />
     </filemarks>
     <jumps>
       <jump line="155" column="22" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryRunnable.java" />
@@ -431,8 +441,8 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>boiSecurityCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN1YnNjcmliZXJUeXBlLnNldFN1YkNvZGUoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>boiSecurityCode</text>
@@ -443,32 +453,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>boiSecurityCode</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHN1YnNjcmliZXJUeXBlLnNldFN1YkNvZGUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTEVOREVSX05BTUVfQkFOS19PRl9JTlRFUk5FVCA9ICJCb2ZJIEZlZGVyYWwgQmFuayI7Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTEVOREVSX05BTUVfTUVUQUJBTksgPSAiTWV0YUJhbmsiOwo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuZ2V0Q3VzdG8K</text>
       </register>
       <register name="4" type="4">
-        <text>PropertyConstants.</text>
+        <text>boiSecurityCode</text>
       </register>
-      <register name="5" type="4">
-        <text>PropertyConstants</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTEVOREVSX05BTUVfQkFOS19PRl9JTlRFUk5FVCA9ICJCb2ZJIEZlZGVyYWwgQmFuayI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTdHJpbmcgVE9LRU5fU0VDVFJFVEtFWSA9ICJ0b2tlbi5zZWNyZXRrZXkiOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTEVOREVSX05BTUVfTUVUQUJBTksgPSAiTWV0YUJhbmsiOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>PropertyConstants.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBTdHJpbmcgVVNFUl9TRVJWSUNFX1VSTCA9ICJ1c2Vyc2VydmljZS51cmwiOwo=</text>
+      <register name="8" type="4">
+        <text>PropertyConstants</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKiogRGVmaW5lcyB0aGUgbmFtZSBvZiBhIHByb3BlcnR5IGZvciB0aGUgVXNlciBTZXJ2aWNlIFVSTC4gKi8K</text>
+        <text encoding="base64">ICBTdHJpbmcgVE9LRU5fU0VDVFJFVEtFWSA9ICJ0b2tlbi5zZWNyZXRrZXkiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>115</text>
