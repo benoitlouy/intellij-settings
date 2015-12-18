@@ -67,10 +67,19 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/can/CanadaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449686698034">
         <mark key="[" line="65" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/resources/odas-dev.decisionservice.test.properties" timestamp="1449689199100">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/resources/odas-dev.decisionservice.test.properties" timestamp="1450451106834">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1450377685637" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/odas-dev.decisionservice.properties" timestamp="1450450997485">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="56" column="22" />
+        <mark key="." line="56" column="22" />
+        <mark key="^" line="56" column="22" />
+      </file>
       <file name="/WithBuilder" timestamp="1449170825234">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,15 +177,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/Request.xsd" timestamp="1449779728307">
         <mark key="[" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/gradle/GitInfoTask.gradle" timestamp="1450388457914">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/model/Service.java" timestamp="1446582806447">
         <mark key="[" line="12" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1450124466323">
+      <file name="/Dummy.txt" timestamp="1450450140864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice/build.gradle" timestamp="1450127120321">
@@ -228,7 +232,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/BusinessIdentifierType.java" timestamp="1446561118486">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1450124466396">
+      <file name="/fragment.java" timestamp="1450450140884">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -335,11 +339,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ondeck123</text>
       </register>
       <register name="-" type="4">
-        <text>branch</text>
+        <text>ondeck123</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -347,32 +351,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>ondeck123</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBicmFuY2ggPSAiZ2l0IHN5bWJvbGljLXJlZiBIRUFEIi5leGVjdXRlKCkudGV4dC50cmltKCkK</text>
+      <register name="2" type="4">
+        <text>5370501253839916450</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYXRjaGVyID0gKGJyYW5jaCA9fiAvXnJlZnNcLyhcdytcLykvICkK</text>
+      <register name="3" type="4">
+        <text>3MVG9ahGHqp.k2_zpbu4FX9JjPCEC0h0pX.KBxmT046W5zWkcveC0SHFXHPskpVrJeJMSR.rsHWGuKP.zzzLO</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJyYW5jaCA9IG1hdGNoZXIucmVwbGFjZUFsbCgiIikK</text>
+      <register name="4" type="4">
+        <text>d2win01</text>
       </register>
       <register name="5" type="4">
-        <text>branch</text>
+        <text>localhost</text>
       </register>
       <register name="6" type="4">
-        <text>VERSION_RV</text>
+        <text>localhost</text>
       </register>
       <register name="7" type="4">
-        <text>E</text>
+        <text>localhost</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbS52ZXJzaW9uID0gVkVSU0lPTl9SRVYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>VERSION_REV</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBicmFuY2ggPSAiZ2l0IHN5bWJvbGljLXJlZiBIRUFEIi5leGVjdXRlKCkudGV4dC50cmltKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
