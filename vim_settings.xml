@@ -6,6 +6,12 @@
       <file name="/a.dummy" timestamp="1449775585127">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/converter/UnifiedToConsumerScoreRequestCreator.java" timestamp="1450810262548">
+        <mark key="[" line="39" column="60" />
+        <mark key="]" line="40" column="54" />
+        <mark key="^" line="40" column="54" />
+        <mark key="." line="40" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/fetchReport/BusinessCreditReportRequest.xsd" timestamp="1449779799314">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -37,9 +43,6 @@
         <mark key="^" line="201" column="80" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/UnderwritingFlowIntegrationTest.java" timestamp="1450457541341">
-        <mark key="[" line="33" column="53" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1449262148334">
         <mark key="[" line="220" column="0" />
         <mark key="]" line="220" column="0" />
@@ -50,10 +53,25 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerScoreRequestBuilderUnitTest.java" timestamp="1450810539335">
+        <mark key="[" line="63" column="112" />
+        <mark key="]" line="48" column="49" />
+        <mark key="^" line="48" column="49" />
+        <mark key="." line="48" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/model/ConsumerScoreRequest.java" timestamp="1450809940405">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="108" column="1" />
+        <mark key="^" line="108" column="1" />
+        <mark key="." line="108" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/constants/PropertyConstants.java" timestamp="1449851012860">
         <mark key="[" line="41" column="60" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/model/EquifaxConsumerScoreRequest.java" timestamp="1450809742696">
+        <mark key="[" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/allenvs.decisionservice.properties" timestamp="1449857664319">
         <mark key="[" line="44" column="0" />
@@ -66,8 +84,11 @@
       <file name="/Builder" timestamp="1449170814710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1450805240746">
-        <mark key="[" line="54" column="69" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1450809266196">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="78" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryCachingReportHandlerIntegrationTest.java" timestamp="1447443360710">
         <mark key="[" line="122" column="3" />
@@ -155,26 +176,26 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlow.java" timestamp="1450803748006">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlow.java" timestamp="1450809445047">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingConfig.java" timestamp="1450801796359">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="28" column="46" />
-        <mark key="^" line="28" column="46" />
-        <mark key="." line="28" column="46" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingConfig.java" timestamp="1450809466721">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="46" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/summarize/priordecision/PriorDecisionFlow.java" timestamp="1449186156606">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/AbstractSpecializedFlowUnitTest.java" timestamp="1450798410854">
-        <mark key="[" line="149" column="55" />
-        <mark key="]" line="149" column="55" />
-        <mark key="." line="149" column="55" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/AbstractSpecializedFlowUnitTest.java" timestamp="1450809490811">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/business/ReconnectScoringFlow.java" timestamp="1450797478221">
         <mark key="[" line="71" column="106" />
@@ -219,6 +240,12 @@
         <mark key="]" line="75" column="47" />
         <mark key="^" line="16" column="29" />
         <mark key="." line="75" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/common/resources/underwriting/valid-request-chase.json" timestamp="1450808928448">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/flow/src/main/scala/com/benoitlouy/workflow/step/StepIOOperators.scala" timestamp="1446565539707">
         <mark key="[" line="17" column="49" />
@@ -271,6 +298,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/flow/.editorconfig" timestamp="1448378029396">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/converter/UnifiedToConsumerScoreRequestConverterUnitTest.java" timestamp="1450810430801">
+        <mark key="[" line="31" column="88" />
+        <mark key="]" line="48" column="69" />
+        <mark key="^" line="48" column="69" />
+        <mark key="." line="48" column="69" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/build.gradle" timestamp="1447354626610">
         <mark key="[" line="58" column="4" />
       </file>
@@ -302,7 +335,7 @@
         <mark key="]" line="243" column="0" />
         <mark key="." line="243" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1450805683780">
+      <file name="/Dummy.txt" timestamp="1450809333659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice/build.gradle" timestamp="1450127120321">
@@ -316,6 +349,12 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/businessid/veda/VedaOrgIdCachingReportHandlerIntegrationTest.java" timestamp="1450119421731">
         <mark key="[" line="79" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerScoreRequestBuilder.java" timestamp="1450809859809">
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="36" column="68" />
+        <mark key="^" line="36" column="68" />
+        <mark key="." line="36" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/business/ReconnectMHRRequestMergerUnitTest.java" timestamp="1450799537775">
         <mark key="[" line="26" column="24" />
@@ -343,7 +382,7 @@
         <mark key="]" line="189" column="0" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1450805683831">
+      <file name="/fragment.java" timestamp="1450809333673">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -454,7 +493,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZlJlcG9ydGVkLCB2ZXJpZmllZCwg</text>
+        <text>11</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -468,26 +507,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gIHB1YmxpYyBTdGVwczxTPiBjcmVhdGVGbG93KEZsb3dTdGVwPFI+IGlucHV0LAovLyAgICAgIEZsb3dTdGVwPFVuaWZpZWRBcHBCdXNpbmVzcz4gYnVzaW5lc3MsIEZsb3dTdGVwPENvbGxlY3Rpb248VW5pZmllZEFwcE93bmVyPj4gb3duZXJzLAovLyAgICAgIEZsb3dTdGVwPENhc2hGbG93PiBjYXNoRmxvdywgRmxvd1N0ZXA8VW5pZmllZEFwcFNlbGZSZXBvcnRlZD4gc2VsZlJlcG9ydGVkLAovLyAgICAgIEZsb3dTdGVwPFZlcmlmaWVkQnVzaW5lc3NEYXRhPiB2ZXJpZmllZCwgRmxvd1N0ZXA8T25EZWNrQ3VzdG9tRGF0YT4gb25EZWNrQ3VzdG9tRGF0YSwKLy8gICAgICBGbG93U3RlcDxBcHBsaWNhdGlvblR5cGU+IGFwcGxpY2F0aW9uVHlwZSwgQXVkaXRDb25maWd1cmF0aW9uIGF1ZGl0Q29uZmlndXJhdGlvbikKLy8gIHsKLy8gICAgcmV0dXJuIGNyZWF0ZUZsb3coaW5wdXQsIGJ1c2luZXNzLCBvd25lcnMsIGNhc2hGbG93LCBzZWxmUmVwb3J0ZWQsIHZlcmlmaWVkLCBvbkRlY2tDdXN0b21EYXRhLCBhcHBsaWNhdGlvblR5cGUsCi8vICAgICAgICBhdWRpdENvbmZpZ3VyYXRpb24sIG51bGwsIG51bGwpOwovLyAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFBhcnRuZXJEZXRhaWxzIHBhcnRuZXJEZXRhaWxzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0RXF1YWxzKHJlcXVlc3QuZ2V0T3duZXJzKCkuaXRlcmF0b3IoKS5uZXh0KCkuZ2V0T3duZXJzaGlwKCksIHJlc3VsdC5nZXRPd25lcnMoKS5pdGVyYXRvcigpLm5leHQoKS5nZXRPd25lcnNoaXAoKSwgMC4wKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmF0dGFjaCgpLmdldEZpbmFsU3RlcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRDb25maWd1cmF0aW9uKS53aXRoQXBwbGljYXRpb25UeXBlKGFwcGxpY2F0aW9uVHlwZSkud2l0aE9uRGVja0N1c3RvbURhdGEob25EZWNrQ3VzdG9tRGF0YSkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gIHByb3RlY3RlZCA8UiwgVD4gdm9pZCBtb2NrQXN5bmNCdXNpbmVzc1Njb3JlRmxvdyhBYnN0cmFjdFNjb3JpbmdGbG93PFIsIFQsID8sID8+IGJ1c2luZXNzRmxvdywKLy8gICAgICBGbG93U3RlcDxNYXA8U3RyaW5nLCBPYmplY3Q+PiBmaW5hbFN0ZXAsIEZsb3dTdGVwPFQ+IGRhdGFQcm92aWRlclN0ZXApCi8vICB7Ci8vICAgIHdoZW4oYnVzaW5lc3NGbG93LmNyZWF0ZUZsb3coTWF0Y2hlcnMuPEZsb3dTdGVwPFI+PmFueSgpLAovLyAgICAgICAgTWF0Y2hlcnMuPEZsb3dTdGVwPFVuaWZpZWRBcHBCdXNpbmVzcz4+YW55KCksIE1hdGNoZXJzLjxGbG93U3RlcDxDb2xsZWN0aW9uPFVuaWZpZWRBcHBPd25lcj4+PmFueSgpLAovLyAgICAgICAgTWF0Y2hlcnMuPEZsb3dTdGVwPENhc2hGbG93Pj5hbnkoKSwgTWF0Y2hlcnMuPEZsb3dTdGVwPFVuaWZpZWRBcHBTZWxmUmVwb3J0ZWQ+PmFueSgpLAovLyAgICAgICAgTWF0Y2hlcnMuPEZsb3dTdGVwPFZlcmlmaWVkQnVzaW5lc3NEYXRhPj5hbnkoKSwgTWF0Y2hlcnMuPEZsb3dTdGVwPE9uRGVja0N1c3RvbURhdGE+PmFueSgpLAovLyAgICAgICAgTWF0Y2hlcnMuPEZsb3dTdGVwPEFwcGxpY2F0aW9uVHlwZT4+YW55KCksIGFueShBdWRpdENvbmZpZ3VyYXRpb24uY2xhc3MpLAovLyAgICAgICAgTWF0Y2hlcnMuPEZsb3dTdGVwPFN0cmluZz4+YW55KCksIGFueShBc3luY0lkZW50aWZpZXJDb25maWd1cmF0aW9uLmNsYXNzKSkpCi8vICAgICAgICAudGhlblJldHVybihuZXcgQWJzdHJhY3RTY29yaW5nRmxvdy5TdGVwczw+KGZpbmFsU3RlcCwgZGF0YVByb3ZpZGVyU3RlcCkpOwovLyAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpZmF4U2NvcmluZ0J1c2luZXNzRmxvdy5hdHRhY2hlcihjcmVhdGVCQ1JSZXF1ZXN0LCBidXNpbmVzcywgb3duZXJzLCBjYXNoRmxvdywgc2VsZlJlcG9ydGVkLCB2ZXJpZmllZCwK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBNT0RFTF9OQU1FID0gIlVuaWZpZWR1bmRlcndyaXRpbmciOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmF0dGFjaCgpLmdldEZpbmFsU3RlcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRDb25maWd1cmF0aW9uKS53aXRoQXBwbGljYXRpb25UeXBlKGFwcGxpY2F0aW9uVHlwZSkud2l0aE9uRGVja0N1c3RvbURhdGEob25EZWNrQ3VzdG9tRGF0YSkK</text>
+        <text encoding="base64">ICAgIGF1ZGl0VXRpbC5jaGVja0NhbXBhaWduRGF0YShyZXBvcnRzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
