@@ -31,12 +31,14 @@
       <file name="/IntelliJ Default" timestamp="1449170814700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/config/general_ledger/GeneralLedgerJobConfiguration.java" timestamp="1450730908946" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/AbstractConnectScoringFlowUnitTest.java" timestamp="1450798316271">
         <mark key="[" line="203" column="0" />
         <mark key="]" line="203" column="0" />
         <mark key="^" line="201" column="80" />
         <mark key="." line="203" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/UnderwritingFlowIntegrationTest.java" timestamp="1450457541341">
+        <mark key="[" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1449262148334">
         <mark key="[" line="220" column="0" />
@@ -58,14 +60,15 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/functional/java/com/odc/connect/AbstractConnectFunctionalTest.java" timestamp="1450377197513" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/model/UnderwritingModelRequest.java" timestamp="1449683431340">
         <mark key="[" line="47" column="32" />
       </file>
       <file name="/Builder" timestamp="1449170814710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1450802170912" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1450805240746">
+        <mark key="[" line="54" column="69" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryCachingReportHandlerIntegrationTest.java" timestamp="1447443360710">
         <mark key="[" line="122" column="3" />
       </file>
@@ -78,18 +81,16 @@
         <mark key="." line="375" column="49" />
         <mark key="^" line="375" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/config/eci_combine/InitStepConfiguration.java" timestamp="1450475420878" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/UnderwritingFlow.java" timestamp="1449162664163">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/AbstractScoringFlow.java" timestamp="1450797699354">
-        <mark key="[" line="132" column="46" />
-        <mark key="]" line="132" column="46" />
-        <mark key="." line="132" column="46" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/AbstractScoringFlow.java" timestamp="1450805930057">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/config/eci_combine/outbound/EciOutboundJobConfiguration.java" timestamp="1450471627509" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/scoring/tradinghistory/VedaScoringFlowIntegrationTest.java" timestamp="1446757209054">
         <mark key="[" line="13" column="97" />
       </file>
@@ -104,10 +105,10 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/AbstractUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449686718756">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/AbstractUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1450805356413">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/ConnectToVedaBusinessTradingHistoryRequest.java" timestamp="1447946515780">
         <mark key="[" line="58" column="38" />
@@ -122,7 +123,6 @@
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/3.0.5.RELEASE/c8f888c292b7fa04adeadbd743a9c9b490e33618/spring-batch-core-3.0.5.RELEASE-sources.jar!/org/springframework/batch/core/configuration/annotation/StepScope.java" timestamp="1450473141267" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/business/AbstractReconnectScoringFlowUnitTest.java" timestamp="1450799451437">
         <mark key="[" line="102" column="114" />
         <mark key="]" line="104" column="0" />
@@ -171,7 +171,6 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/config/eci_combine/CleanUpStepConfiguration.java" timestamp="1450471997856" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/AbstractSpecializedFlowUnitTest.java" timestamp="1450798410854">
         <mark key="[" line="149" column="55" />
         <mark key="]" line="149" column="55" />
@@ -206,7 +205,6 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1450377685637" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/odas-dev.decisionservice.properties" timestamp="1450450997485">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="56" column="22" />
@@ -239,8 +237,6 @@
         <mark key="]" line="182" column="0" />
         <mark key="." line="182" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/gradle/VersionTask.gradle" timestamp="1450370041195" />
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/build.gradle" timestamp="1450466594166" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/AbstractScoreMHRRequestMergerUnitTest.java" timestamp="1450799927427">
         <mark key="[" line="63" column="78" />
       </file>
@@ -278,7 +274,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/build.gradle" timestamp="1447354626610">
         <mark key="[" line="58" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/AbstractScoreMHRRequestMerger.java" timestamp="1450797204125">
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/AbstractScoreMHRRequestMerger.java" timestamp="1450805179842">
         <mark key="[" line="71" column="67" />
         <mark key="]" line="76" column="59" />
         <mark key="." line="76" column="59" />
@@ -287,7 +283,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/business/ConnectBCRMHRRequestMergerUnitTest.java" timestamp="1450799545824">
         <mark key="[" line="33" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/test/java/com/ondeck/jobs/firefly/ApplicationTest.java" timestamp="1450468590720" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/business/BCRScoreFlow.java" timestamp="1450797846808">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -307,10 +302,9 @@
         <mark key="]" line="243" column="0" />
         <mark key="." line="243" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1450801893553">
+      <file name="/Dummy.txt" timestamp="1450805683780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/config/accinfo/opened/AccountInfoOpenedJobConfiguration.java" timestamp="1450726077062" />
       <file name="$USER_HOME$/Projects/OnDeck/userservice/build.gradle" timestamp="1450127120321">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -336,7 +330,6 @@
         <mark key="]" line="124" column="8" />
         <mark key="." line="124" column="8" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/3.0.5.RELEASE/c8f888c292b7fa04adeadbd743a9c9b490e33618/spring-batch-core-3.0.5.RELEASE-sources.jar!/org/springframework/batch/core/ExitStatus.java" timestamp="1450732660081" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/AbstractConnectMultiScoringFlowUnitTest.java" timestamp="1449785783467">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -345,14 +338,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/main/java/com/odc/connectjobs/BaseConnectJob.java" timestamp="1449080221462">
         <mark key="[" line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/resources/dev01.decisionservice.test.properties" timestamp="1450454065580" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMerger.java" timestamp="1449683501935">
         <mark key="[" line="189" column="46" />
         <mark key="]" line="189" column="0" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/config/loandocs/noaa/GetNoaaStepConfiguration.java" timestamp="1450735165611" />
-      <file name="/fragment.java" timestamp="1450801893568">
+      <file name="/fragment.java" timestamp="1450805683831">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -460,7 +451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmF0dGFjaCgpLmdldEZpbmFsU3RlcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c2VsZlJlcG9ydGVkLCB2ZXJpZmllZCwg</text>
@@ -472,31 +463,31 @@
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmF0dGFjaCgpLmdldEZpbmFsU3RlcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRDb25maWd1cmF0aW9uKS53aXRoQXBwbGljYXRpb25UeXBlKGFwcGxpY2F0aW9uVHlwZSkud2l0aE9uRGVja0N1c3RvbURhdGEob25EZWNrQ3VzdG9tRGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpZmF4U2NvcmluZ0J1c2luZXNzRmxvdy5hdHRhY2hlcihjcmVhdGVCQ1JSZXF1ZXN0LCBidXNpbmVzcywgb3duZXJzLCBjYXNoRmxvdywgc2VsZlJlcG9ydGVkLCB2ZXJpZmllZCwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gIHB1YmxpYyBTdGVwczxTPiBjcmVhdGVGbG93KEZsb3dTdGVwPFI+IGlucHV0LAovLyAgICAgIEZsb3dTdGVwPFVuaWZpZWRBcHBCdXNpbmVzcz4gYnVzaW5lc3MsIEZsb3dTdGVwPENvbGxlY3Rpb248VW5pZmllZEFwcE93bmVyPj4gb3duZXJzLAovLyAgICAgIEZsb3dTdGVwPENhc2hGbG93PiBjYXNoRmxvdywgRmxvd1N0ZXA8VW5pZmllZEFwcFNlbGZSZXBvcnRlZD4gc2VsZlJlcG9ydGVkLAovLyAgICAgIEZsb3dTdGVwPFZlcmlmaWVkQnVzaW5lc3NEYXRhPiB2ZXJpZmllZCwgRmxvd1N0ZXA8T25EZWNrQ3VzdG9tRGF0YT4gb25EZWNrQ3VzdG9tRGF0YSwKLy8gICAgICBGbG93U3RlcDxBcHBsaWNhdGlvblR5cGU+IGFwcGxpY2F0aW9uVHlwZSwgQXVkaXRDb25maWd1cmF0aW9uIGF1ZGl0Q29uZmlndXJhdGlvbikKLy8gIHsKLy8gICAgcmV0dXJuIGNyZWF0ZUZsb3coaW5wdXQsIGJ1c2luZXNzLCBvd25lcnMsIGNhc2hGbG93LCBzZWxmUmVwb3J0ZWQsIHZlcmlmaWVkLCBvbkRlY2tDdXN0b21EYXRhLCBhcHBsaWNhdGlvblR5cGUsCi8vICAgICAgICBhdWRpdENvbmZpZ3VyYXRpb24sIG51bGwsIG51bGwpOwovLyAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmF0dGFjaCgpLmdldEZpbmFsU3RlcCgpOwo=</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0RXF1YWxzKHJlcXVlc3QuZ2V0T3duZXJzKCkuaXRlcmF0b3IoKS5uZXh0KCkuZ2V0T3duZXJzaGlwKCksIHJlc3VsdC5nZXRPd25lcnMoKS5pdGVyYXRvcigpLm5leHQoKS5nZXRPd25lcnNoaXAoKSwgMC4wKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRDb25maWd1cmF0aW9uKS53aXRoQXBwbGljYXRpb25UeXBlKGFwcGxpY2F0aW9uVHlwZSkud2l0aE9uRGVja0N1c3RvbURhdGEob25EZWNrQ3VzdG9tRGF0YSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlcmlhblNjb3JpbmdCdXNpbmVzc0Zsb3cuYXR0YWNoZXIoY3JlYXRlQkNSUmVxdWVzdCwgYnVzaW5lc3MsIG93bmVycywgY2FzaEZsb3csIHNlbGZSZXBvcnRlZCwgdmVyaWZpZWQsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmF0dGFjaCgpLmdldEZpbmFsU3RlcCgpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRDb25maWd1cmF0aW9uKS53aXRoQXBwbGljYXRpb25UeXBlKGFwcGxpY2F0aW9uVHlwZSkud2l0aE9uRGVja0N1c3RvbURhdGEob25EZWNrQ3VzdG9tRGF0YSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlcXVpZmF4U2NvcmluZ0J1c2luZXNzRmxvdy5hdHRhY2hlcihjcmVhdGVCQ1JSZXF1ZXN0LCBidXNpbmVzcywgb3duZXJzLCBjYXNoRmxvdywgc2VsZlJlcG9ydGVkLCB2ZXJpZmllZCwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndpdGhQYXJ0bmVyRGV0YWlscyhwYXJ0bmVyRGV0YWlscykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmF0dGFjaCgpLmdldEZpbmFsU3RlcCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndpdGhPbkRlY2tDdXN0b21EYXRhKG9uRGVja0N1c3RvbURhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRDb25maWd1cmF0aW9uKS53aXRoQXBwbGljYXRpb25UeXBlKGFwcGxpY2F0aW9uVHlwZSkud2l0aE9uRGVja0N1c3RvbURhdGEob25EZWNrQ3VzdG9tRGF0YSkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
