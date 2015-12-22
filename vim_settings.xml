@@ -67,20 +67,8 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/can/CanadaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449686698034">
         <mark key="[" line="65" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/resources/odas-dev.decisionservice.test.properties" timestamp="1450451106834">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1450377685637" />
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/config/general_ledger/GeneralLedgerJobConfiguration.java" timestamp="1450730908946" />
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/odas-dev.decisionservice.properties" timestamp="1450450997485">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="56" column="22" />
-        <mark key="." line="56" column="22" />
-        <mark key="^" line="56" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/UnderwritingFlowIntegrationTest.java" timestamp="1450457541341">
         <mark key="[" line="33" column="53" />
       </file>
@@ -160,6 +148,11 @@
         <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/test/java/com/ondeck/jobs/firefly/ApplicationTest.java" timestamp="1450468590720" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/AbstractScoringFlow.java" timestamp="1450794271134">
+        <mark key="[" line="34" column="3" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/test/AlpacaModelAsserts.java" timestamp="1446497902798">
         <mark key="[" line="293" column="79" />
       </file>
@@ -337,10 +330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUuCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>new JodaMapper()</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -349,31 +342,31 @@
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUuCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>new JodaMapper()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRmxvd1N0ZXA8QnVzaW5lc3M+IGJ1c2luZXNzOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>ObjectMapper</text>
+        <text>l</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUuCg==</text>
       </register>
       <register name="5" type="4">
-        <text>scraIndicator</text>
+        <text>new JodaMapper()</text>
       </register>
       <register name="6" type="4">
-        <text>ondeck123</text>
+        <text>ObjectMapper</text>
       </register>
-      <register name="7" type="4">
-        <text>5370501253839916450</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>3MVG9ahGHqp.k2_zpbu4FX9JjPCEC0h0pX.KBxmT046W5zWkcveC0SHFXHPskpVrJeJMSR.rsHWGuKP.zzzLO</text>
+        <text>scraIndicator</text>
       </register>
       <register name="9" type="4">
-        <text>d2win01</text>
+        <text>ondeck123</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
