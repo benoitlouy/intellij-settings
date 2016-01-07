@@ -49,11 +49,17 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/business/ConnectBCRMHRRequestMerger.java" timestamp="1450797213710">
         <mark key="[" line="26" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/us/EquifaxCCRConnectionHelper.java" timestamp="1452191002867">
+        <mark key="[" line="89" column="3" />
+      </file>
       <file name="/IntelliJ Default" timestamp="1449170814700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/can/CanadaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1449686698034">
         <mark key="[" line="65" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1452191505923">
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/UnderwritingFlowIntegrationTest.java" timestamp="1450457541341">
         <mark key="[" line="33" column="53" />
@@ -80,6 +86,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/flow/src/main/scala/com/benoitlouy/workflow/step/StepIOOperators.scala" timestamp="1446565539707">
         <mark key="[" line="17" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1452191432666">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/jobs/loandocs/noaa/reader/SmbFileDataReader.java" timestamp="1452185127246" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/model/EquifaxConsumerScoreRequest.java" timestamp="1450809742696">
@@ -125,6 +136,7 @@
       <file name="/Builder" timestamp="1449170814710">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelper.java" timestamp="1452191212716" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryCachingReportHandlerIntegrationTest.java" timestamp="1447443360710">
         <mark key="[" line="122" column="3" />
       </file>
@@ -174,6 +186,9 @@
         <mark key="[" line="9" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/test/java/com/ondeck/jobs/firefly/it/loandocs/BlsaJobIntegrationTest.java" timestamp="1452115025528" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qw.connect.properties" timestamp="1452191515459">
+        <mark key="[" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/model/Service.java" timestamp="1446582806447">
         <mark key="[" line="12" column="12" />
       </file>
@@ -205,6 +220,12 @@
         <mark key="]" line="124" column="8" />
         <mark key="." line="124" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/dev01.connect.properties" timestamp="1452191501659">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/ConnectToVedaBusinessTradingHistoryRequest.java" timestamp="1447946515780">
         <mark key="[" line="58" column="38" />
       </file>
@@ -223,6 +244,9 @@
       </file>
       <file name="/fragment.java" timestamp="1452108198193">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/staging.connect.properties" timestamp="1452191536070">
+        <mark key="[" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -328,11 +352,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lsp-dump</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>lsp-dump</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -340,32 +364,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>lsp-dump</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">YXBwbGljYXRpb24g</text>
+        <text />
       </register>
-      <register name="3" type="4">
-        <text>odc_lsp.</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>odc_lsp.</text>
+        <text />
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>FIXME</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gQUxMIE9EQyBwdWJsaWMgc2NoZW1hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
+        <text>lsp-dump</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">YXBwbGljYXRpb24g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LS0gQUxMIE9EQyBwdWJsaWMgc2NoZW1hCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>odc_lsp.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
