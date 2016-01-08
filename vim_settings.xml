@@ -17,6 +17,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/tradinghistory/VedaScoreRequest.java" timestamp="1446757162733">
         <mark key="[" line="7" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/functional/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRFunctionalTest.java" timestamp="1452291290537" />
       <file name="$USER_HOME$/Projects/OnDeck/flow/.jvmopts" timestamp="1446737112684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,6 +25,12 @@
         <mark key="[" line="52" column="47" />
         <mark key="]" line="52" column="47" />
         <mark key="." line="52" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/fetchReport/BusinessCreditReportRequest.xsd" timestamp="1452292030828">
+        <mark key="[" line="19" column="69" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMergerUnitTest.java" timestamp="1449683759065">
         <mark key="[" line="140" column="74" />
@@ -53,9 +60,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/tradinghistory/VedaScoringFlowUnitTest.java" timestamp="1446757215995">
         <mark key="[" line="24" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/main/resources/allenvs.connectjobs.properties" timestamp="1452282278875">
-        <mark key="[" line="30" column="65" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/business/ConnectBCRMHRRequestMerger.java" timestamp="1450797213710">
         <mark key="[" line="26" column="50" />
       </file>
@@ -84,6 +88,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1452198024365">
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/common/resources/business/valid-request-ca.xml" timestamp="1452291547961" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/UnderwritingFlowIntegrationTest.java" timestamp="1450457541341">
         <mark key="[" line="33" column="53" />
       </file>
@@ -219,8 +224,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/chase/CahseFlowUnitTest.java" timestamp="1449682575901">
         <mark key="[" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/Request.xsd" timestamp="1449779728307">
-        <mark key="[" line="9" column="71" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/Request.xsd" timestamp="1452292034553">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/us/EquifaxCCRLenderIdentiferConfig.java" timestamp="1452285595287" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qw.connect.properties" timestamp="1452191515459">
@@ -275,6 +282,12 @@
         <mark key="[" line="27" column="3" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/fetchReport/ConsumerCreditReportRequest.xsd" timestamp="1452292051665">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="19" column="81" />
+        <mark key="^" line="19" column="81" />
+        <mark key="." line="19" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlow.java" timestamp="1450799884125">
         <mark key="[" line="124" column="8" />
@@ -412,8 +425,8 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -424,32 +437,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iTGVuZGVyIiB0eXBlPSJ4czpzdHJpbmciIG1pbk9jY3Vycz0iMCIvPgo=</text>
       </register>
       <register name="2" type="4">
         <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;/spring/consumerBeans.xml&quot;,</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICBAQmVhbihuYW1lID0gImVxdWlmYXhDQ1JJZGVudGlmaWVycyIpCiAgcHVibGljIExpc3Q8RXF1aWZheExlbmRlcklkZW50aWZpZXI+IGVxdWlmYXhDQ1JJZGVudGlmaWVycygKICAgICAgRXF1aWZheExlbmRlcklkZW50aWZpZXIgZXF1aWZheENDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhDQ1JNZXRhQmFua0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhDQ1JCYW5rT2ZJbnRlcm5ldElkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhDQ1JDaGFzZUlkZW50aWZpZXIpCiAgewogICAgcmV0dXJuIEltbXV0YWJsZUxpc3Qub2YoCiAgICAgICAgZXF1aWZheENDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgICAgZXF1aWZheENDUk1ldGFCYW5rSWRlbnRpZmllciwKICAgICAgICBlcXVpZmF4Q0NSQmFua09mSW50ZXJuZXRJZGVudGlmaWVyLAogICAgICAgIGVxdWlmYXhDQ1JDaGFzZUlkZW50aWZpZXIpOwogIH0=</text>
+        <text>&quot;/spring/consumerBeans.xml&quot;,</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text encoding="base64">ICBAQmVhbihuYW1lID0gImVxdWlmYXhDQ1JJZGVudGlmaWVycyIpCiAgcHVibGljIExpc3Q8RXF1aWZheExlbmRlcklkZW50aWZpZXI+IGVxdWlmYXhDQ1JJZGVudGlmaWVycygKICAgICAgRXF1aWZheExlbmRlcklkZW50aWZpZXIgZXF1aWZheENDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhDQ1JNZXRhQmFua0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhDQ1JCYW5rT2ZJbnRlcm5ldElkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhDQ1JDaGFzZUlkZW50aWZpZXIpCiAgewogICAgcmV0dXJuIEltbXV0YWJsZUxpc3Qub2YoCiAgICAgICAgZXF1aWZheENDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgICAgZXF1aWZheENDUk1ldGFCYW5rSWRlbnRpZmllciwKICAgICAgICBlcXVpZmF4Q0NSQmFua09mSW50ZXJuZXRJZGVudGlmaWVyLAogICAgICAgIGVxdWlmYXhDQ1JDaGFzZUlkZW50aWZpZXIpOwogIH0=</text>
       </register>
       <register name="6" type="4">
+        <text>;</text>
+      </register>
+      <register name="7" type="4">
         <text>equifaxBCRIdentifiers</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBAQmVhbihuYW1lID0gImVxdWlmYXhCQ1JJZGVudGlmaWVycyIpCiAgcHVibGljIExpc3Q8RXF1aWZheExlbmRlcklkZW50aWZpZXI+IGVxdWlmYXhCQ1JJZGVudGlmaWVycygKICAgICAgRXF1aWZheExlbmRlcklkZW50aWZpZXIgZXF1aWZheEJDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhCQ1JNZXRhQmFua0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhCQ1JCYW5rT2ZJbnRlcm5ldElkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhCQ1JDaGFzZUlkZW50aWZpZXIpCiAgewogICAgcmV0dXJuIEltbXV0YWJsZUxpc3Qub2YoCiAgICAgICAgZXF1aWZheEJDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgICAgZXF1aWZheEJDUk1ldGFCYW5rSWRlbnRpZmllciwKICAgICAgICBlcXVpZmF4QkNSQmFua09mSW50ZXJuZXRJZGVudGlmaWVyLAogICAgICAgIGVxdWlmYXhCQ1JDaGFzZUlkZW50aWZpZXIpOwogIH0K</text>
-      </register>
       <register name="9" type="4">
-        <text>B</text>
+        <text encoding="base64">ICBAQmVhbihuYW1lID0gImVxdWlmYXhCQ1JJZGVudGlmaWVycyIpCiAgcHVibGljIExpc3Q8RXF1aWZheExlbmRlcklkZW50aWZpZXI+IGVxdWlmYXhCQ1JJZGVudGlmaWVycygKICAgICAgRXF1aWZheExlbmRlcklkZW50aWZpZXIgZXF1aWZheEJDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhCQ1JNZXRhQmFua0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhCQ1JCYW5rT2ZJbnRlcm5ldElkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhCQ1JDaGFzZUlkZW50aWZpZXIpCiAgewogICAgcmV0dXJuIEltbXV0YWJsZUxpc3Qub2YoCiAgICAgICAgZXF1aWZheEJDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgICAgZXF1aWZheEJDUk1ldGFCYW5rSWRlbnRpZmllciwKICAgICAgICBlcXVpZmF4QkNSQmFua09mSW50ZXJuZXRJZGVudGlmaWVyLAogICAgICAgIGVxdWlmYXhCQ1JDaGFzZUlkZW50aWZpZXIpOwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
