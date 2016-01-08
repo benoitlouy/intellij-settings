@@ -20,11 +20,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/flow/.jvmopts" timestamp="1446737112684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1452284216537">
-        <mark key="[" line="47" column="51" />
-        <mark key="]" line="47" column="51" />
-        <mark key="." line="47" column="51" />
-        <mark key="^" line="47" column="50" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1452285252267">
+        <mark key="[" line="52" column="47" />
+        <mark key="]" line="52" column="47" />
+        <mark key="." line="52" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMergerUnitTest.java" timestamp="1449683759065">
         <mark key="[" line="140" column="74" />
@@ -60,7 +59,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/us/EquifaxCCRConnectionHelper.java" timestamp="1452284054623">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/us/EquifaxCCRConnectionHelper.java" timestamp="1452285598020">
         <mark key="[" line="59" column="88" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
@@ -212,20 +211,18 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/Request.xsd" timestamp="1449779728307">
         <mark key="[" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/us/EquifaxCCRLenderIdentiferConfig.java" timestamp="1452284221079">
-        <mark key="[" line="47" column="51" />
-        <mark key="]" line="47" column="50" />
-        <mark key="." line="47" column="50" />
-        <mark key="^" line="47" column="50" />
-      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/us/EquifaxCCRLenderIdentiferConfig.java" timestamp="1452285595287" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qw.connect.properties" timestamp="1452191515459">
         <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/model/Service.java" timestamp="1446582806447">
         <mark key="[" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/business/equifax/us/EquifaxBCRCachingReportHandlerIntegrationTest.java" timestamp="1452284202747">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/business/equifax/us/EquifaxBCRCachingReportHandlerIntegrationTest.java" timestamp="1452285775313">
         <mark key="[" line="28" column="65" />
+        <mark key="]" line="28" column="63" />
+        <mark key="." line="28" column="63" />
+        <mark key="^" line="28" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/resources/business/equifax/us/request1.xml" timestamp="1451402012085">
         <mark key="[" line="5" column="43" />
@@ -399,11 +396,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;/spring/consumerBeans.xml&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>&quot;/spring/consumerBeans.xml&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -411,32 +408,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;/spring/consumerBeans.xml&quot;,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBAQmVhbihuYW1lID0gImVxdWlmYXhDQ1JJZGVudGlmaWVycyIpCiAgcHVibGljIExpc3Q8RXF1aWZheExlbmRlcklkZW50aWZpZXI+IGVxdWlmYXhDQ1JJZGVudGlmaWVycygKICAgICAgRXF1aWZheExlbmRlcklkZW50aWZpZXIgZXF1aWZheENDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhDQ1JNZXRhQmFua0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhDQ1JCYW5rT2ZJbnRlcm5ldElkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhDQ1JDaGFzZUlkZW50aWZpZXIpCiAgewogICAgcmV0dXJuIEltbXV0YWJsZUxpc3Qub2YoCiAgICAgICAgZXF1aWZheENDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgICAgZXF1aWZheENDUk1ldGFCYW5rSWRlbnRpZmllciwKICAgICAgICBlcXVpZmF4Q0NSQmFua09mSW50ZXJuZXRJZGVudGlmaWVyLAogICAgICAgIGVxdWlmYXhDQ1JDaGFzZUlkZW50aWZpZXIpOwogIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGNoYXNlTGVuZGVyKCkgdGhyb3dzIERhdGF0eXBlQ29uZmlndXJhdGlvbkV4Y2VwdGlvbgogIHsKICAgIENvbnN1bWVyQ3JlZGl0UmVwb3J0UmVxdWVzdCByZXF1ZXN0ID0gY3JlYXRlRmFrZVJlcXVlc3QoKTsKICAgIHJlcXVlc3Quc2V0TGVuZGVyKCJjaGFzZSIpOwoKICAgIEVmeFJlY2VpdmUgcmVzdWx0ID0gY2xhc3NVbmRlclRlc3QuY3JlYXRlRXF1aWZheENvbnN1bWVyUmVxdWVzdChyZXF1ZXN0LCBZTkZsYWdUeXBlLlkpOwoKICAgIGFzc2VydEVxdWFscyhjaGFzZUN1c3RvbWVyTnVtYmVyLCByZXN1bHQuZ2V0Q3VzdG9tZXJOdW1iZXIoKSk7CiAgICBhc3NlcnRFcXVhbHMoY2hhc2VTZWN1cml0eUNvZGUsIHJlc3VsdC5nZXRTZWN1cml0eUNvZGUoKSk7CiAgfQ==</text>
+        <text>equifaxBCRIdentifiers</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzVW5kZXJUZXN0LnNldENoYXNlU2VjdXJpdHlDb2RlKGNoYXNlU2VjdXJpdHlDb2RlKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzVW5kZXJUZXN0LnNldENoYXNlQ3VzdG9tZXJOdW1iZXIoY2hhc2VDdXN0b21lck51bWJlcik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgY2hhc2VTZWN1cml0eUNvZGUgPSAiY2hhc2VTZWN1cml0eUNvZGUiOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBAQmVhbihuYW1lID0gImVxdWlmYXhCQ1JJZGVudGlmaWVycyIpCiAgcHVibGljIExpc3Q8RXF1aWZheExlbmRlcklkZW50aWZpZXI+IGVxdWlmYXhCQ1JJZGVudGlmaWVycygKICAgICAgRXF1aWZheExlbmRlcklkZW50aWZpZXIgZXF1aWZheEJDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhCQ1JNZXRhQmFua0lkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhCQ1JCYW5rT2ZJbnRlcm5ldElkZW50aWZpZXIsCiAgICAgIEVxdWlmYXhMZW5kZXJJZGVudGlmaWVyIGVxdWlmYXhCQ1JDaGFzZUlkZW50aWZpZXIpCiAgewogICAgcmV0dXJuIEltbXV0YWJsZUxpc3Qub2YoCiAgICAgICAgZXF1aWZheEJDUk9uRGVja0lkZW50aWZpZXIsCiAgICAgICAgZXF1aWZheEJDUk1ldGFCYW5rSWRlbnRpZmllciwKICAgICAgICBlcXVpZmF4QkNSQmFua09mSW50ZXJuZXRJZGVudGlmaWVyLAogICAgICAgIGVxdWlmYXhCQ1JDaGFzZUlkZW50aWZpZXIpOwogIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgY2hhc2VDdXN0b21lck51bWJlciA9ICJjaGFzZUN1c3RvbWVyTnVtYmVyIjsK</text>
+      <register name="7" type="4">
+        <text>B</text>
+      </register>
+      <register name="8" type="4">
+        <text>B</text>
+      </register>
+      <register name="9" type="4">
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
