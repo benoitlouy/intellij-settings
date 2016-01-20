@@ -19,10 +19,11 @@
         <mark key="." line="538" column="60" />
         <mark key="^" line="538" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/FetchOrReuseConnectReport.java" timestamp="1453316110005">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/FetchOrReuseConnectReport.java" timestamp="1453319378967">
+        <mark key="[" line="13" column="70" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="32" />
+        <mark key="^" line="42" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/converter/UnifiedToConsumerScoreRequestCreator.java" timestamp="1453307517522">
         <mark key="[" line="26" column="47" />
@@ -87,6 +88,9 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerScoreRequestBuilderUnitTest.java" timestamp="1452875326750">
         <mark key="[" line="48" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/intl/can/UnifiedCanadaConsumerScoringFlow.java" timestamp="1453318138766">
+        <mark key="[" line="72" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierUnitTest.java" timestamp="1452270639952">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="2" column="0" />
@@ -108,11 +112,11 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/ConsumerScoreRequestToCCRWithLocatorConverter.java" timestamp="1453317188591">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="48" column="139" />
-        <mark key="." line="48" column="139" />
-        <mark key="^" line="48" column="139" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/ConsumerScoreRequestToCCRWithLocatorConverter.java" timestamp="1453318074244">
+        <mark key="[" line="48" column="102" />
+        <mark key="]" line="48" column="128" />
+        <mark key="." line="48" column="128" />
+        <mark key="^" line="48" column="128" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/scoring/AbstractConnectScoringFlowIntegrationTest.java" timestamp="1450799416502">
         <mark key="[" line="84" column="0" />
@@ -363,11 +367,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IERvemVyT25lVG9PbmVDb252ZXJ0ZXI8Pigp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IERvemVyT25lVG9PbmVDb252ZXJ0ZXI8Pigp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -375,32 +379,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmV3IERvemVyT25lVG9PbmVDb252ZXJ0ZXI8Pigp</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>@</text>
+        <text encoding="base64">ICAgIGlmIChpbnB1dC5nZXRMb2NhdG9yKCkgIT0gbnVsbCkKICAgIHsKCiAgICB9</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">TnVsbGFibGUg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIENvbm5lY3REYXRhUGlwZU91dHB1dDxSZXBvcnQ8Uj4+IGRhdGFQaXBlT3V0cHV0ID0gaW5wdXQuZ2V0TG9jYXRvcigpICE9IG51bGwgPyBkYXRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBATnVsbGFibGUK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leHBlcmlhbi53ZWJkZWxpdmVyeS5SZXF1ZXN0Owo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzIwLzE2Lgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="8" type="4">
+        <text>@</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="9" type="4">
+        <text>Nullable</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
