@@ -19,11 +19,10 @@
         <mark key="." line="538" column="60" />
         <mark key="^" line="538" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/FetchOrReuseConnectReport.java" timestamp="1453319378967">
-        <mark key="[" line="13" column="70" />
-        <mark key="]" line="42" column="32" />
-        <mark key="." line="42" column="32" />
-        <mark key="^" line="42" column="32" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/FetchOrReuseConnectReport.java" timestamp="1453319914093">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/converter/UnifiedToConsumerScoreRequestCreator.java" timestamp="1453307517522">
         <mark key="[" line="26" column="47" />
@@ -56,6 +55,7 @@
         <mark key="]" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-impl/1.50/509db98990beb4fccc033b94b6c94d0efa42417e/datapipes-impl-1.50-sources.jar!/com/odc/datapipes/connect/ConnectDataPipeOutput.java" timestamp="1453319459460" />
       <file name="_mac/path.macros.xml" timestamp="1453312254992">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,8 +88,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerScoreRequestBuilderUnitTest.java" timestamp="1452875326750">
         <mark key="[" line="48" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/intl/can/UnifiedCanadaConsumerScoringFlow.java" timestamp="1453318138766">
-        <mark key="[" line="72" column="3" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/intl/can/UnifiedCanadaConsumerScoringFlow.java" timestamp="1453320182872">
+        <mark key="[" line="90" column="34" />
+        <mark key="]" line="90" column="37" />
+        <mark key="^" line="90" column="37" />
+        <mark key="." line="90" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierUnitTest.java" timestamp="1452270639952">
         <mark key="[" line="3" column="1" />
@@ -367,11 +370,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>equifaxCCRs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>equifaxCCRs</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -379,32 +382,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>equifaxCCRs</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGlmIChpbnB1dC5nZXRMb2NhdG9yKCkgIT0gbnVsbCkKICAgIHsKCiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIENvbm5lY3RSZXF1ZXN0QXVkaXRvciBjb25uZWN0UmVxdWVzdEF1ZGl0b3I7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbm5lY3REYXRhUGlwZU91dHB1dDxSZXBvcnQ8Uj4+IGRhdGFQaXBlT3V0cHV0ID0gaW5wdXQuZ2V0TG9jYXRvcigpICE9IG51bGwgPyBkYXRhCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIERhdGFQaXBlRmxvd0ZhY3RvcnkgZGF0YVBpcGVGbG93RmFjdG9yeTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="4" type="4">
+        <text>equifaxCCRs</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>equifaxCCRs</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leHBlcmlhbi53ZWJkZWxpdmVyeS5SZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>@</text>
+        <text>consume</text>
       </register>
       <register name="9" type="4">
-        <text>Nullable</text>
+        <text encoding="base64">Q29ubmVjdEZldGNoUmVwb3J0RGF0YVBpcGU8VCwgUj4gZmV0Y2hSZXBvcnREYXRhUGlwZSwKICAgICAgQ29ubmVjdEZldGNoUmVwb3J0QnlJZERhdGFQaXBlPFI+IGZldGNoUmVwb3J0QnlJZERhdGFQaXBl</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
