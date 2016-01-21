@@ -49,6 +49,12 @@
         <mark key="." line="53" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/resources/applicationContext-datapipes.xml" timestamp="1453390691358" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/salesforce/ThirdPartyReportServiceImpl.java" timestamp="1453403953171">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+        <mark key="^" line="18" column="88" />
+      </file>
       <file name="_mac/path.macros.xml" timestamp="1453312254992">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,7 +129,7 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/ConnectRequestAuditor.java" timestamp="1453397540636" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/salesforce/ThirdPartyReportService.java" timestamp="1453402518282">
-        <mark key="[" line="3" column="1" />
+        <mark key="[" line="7" column="1" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -157,6 +163,11 @@
         <mark key="[" line="47" column="39" />
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/salesforce/ThirdPartyReportServiceImplTest.java" timestamp="1453404287182">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectFetchByIdRequest.java" timestamp="1453314853578" />
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/resources/sql/lsp_dump/lsp-reg-losses-query.sql" timestamp="1452116787404">
@@ -503,10 +514,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>same(expected)</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -515,31 +526,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzIxLzE2Lgo=</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="4" type="4">
+        <text>same(expected)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzIxLzE2Lgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">SW1tdXRhYmxlTGlzdC48VGhpcmRQYXJ0eVJlcG9ydD5vZigpKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzIxLzE2Lgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>a07m0000006kkWA</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
