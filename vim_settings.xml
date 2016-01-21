@@ -133,6 +133,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/DecisionManagementTest.java" timestamp="1453406788128">
+        <mark key="[" line="1928" column="0" />
+        <mark key="]" line="1928" column="0" />
+        <mark key="." line="1928" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReport.java" timestamp="1453392170051">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="25" />
@@ -184,6 +189,12 @@
         <mark key="[" line="27" column="3" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilder.java" timestamp="1453406876046">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="^" line="239" column="40" />
+        <mark key="." line="256" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReportUnitTest.java" timestamp="1453392867283">
         <mark key="[" line="73" column="58" />
@@ -275,11 +286,11 @@
         <mark key="." line="62" column="30" />
         <mark key="^" line="62" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/DecisionManagement.java" timestamp="1453401231616">
-        <mark key="[" line="567" column="68" />
-        <mark key="]" line="567" column="67" />
-        <mark key="^" line="567" column="67" />
-        <mark key="." line="567" column="67" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/DecisionManagement.java" timestamp="1453406842323">
+        <mark key="[" line="564" column="72" />
+        <mark key="]" line="564" column="67" />
+        <mark key="^" line="564" column="67" />
+        <mark key="." line="564" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/scoring/AbstractConnectScoringFlowIntegrationTest.java" timestamp="1450799416502">
         <mark key="[" line="84" column="0" />
@@ -301,11 +312,11 @@
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/salesforce/Application.java" timestamp="1453402404913">
-        <mark key="[" line="128" column="46" />
-        <mark key="]" line="131" column="70" />
-        <mark key="^" line="131" column="70" />
-        <mark key="." line="131" column="70" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/salesforce/Application.java" timestamp="1453406810705">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="481" column="19" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/converter/UnifiedToConsumerScoreRequestConverterUnitTest.java" timestamp="1452875804741">
         <mark key="[" line="48" column="72" />
@@ -514,10 +525,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>same(expected)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -526,31 +537,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>same(expected)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudE9wcG9ydHVuaXR5LmdldEFwcGxpY2F0aW9uKCkuZ2V0T3duZXIyRG9Ob3RSZXB1bGxDQ1IoKSkK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">SW1tdXRhYmxlTGlzdC48VGhpcmRQYXJ0eVJlcG9ydD5vZigpKQ==</text>
+        <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHx8IG9wcG9ydHVuaXR5LmdldEFwcGxpY2F0aW9uKCkuZ2V0T3duZXIyRG9Ob3RSZXB1bGxDQ1IoKSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzIxLzE2Lgo=</text>
+      <register name="7" type="4">
+        <text>(</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>a07m0000006kkWA</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
