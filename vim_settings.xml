@@ -190,11 +190,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilder.java" timestamp="1453406876046">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="256" column="0" />
-        <mark key="^" line="239" column="40" />
-        <mark key="." line="256" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilder.java" timestamp="1453408132474">
+        <mark key="[" line="406" column="19" />
+        <mark key="]" line="406" column="18" />
+        <mark key="." line="406" column="18" />
+        <mark key="^" line="406" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReportUnitTest.java" timestamp="1453392867283">
         <mark key="[" line="73" column="58" />
@@ -524,11 +524,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgJiYgY3VycmVudE9wcG9ydHVuaXR5LmdldEFwcGxpY2F0aW9uKCkuZ2V0T3duZXIxRG9Ob3RSZXB1bGxDQ1IoKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, currentOpportunity, thirdPartyReports);</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -536,29 +536,29 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgJiYgY3VycmVudE9wcG9ydHVuaXR5LmdldEFwcGxpY2F0aW9uKCkuZ2V0T3duZXIxRG9Ob3RSZXB1bGxDQ1IoKQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>, currentOpportunity, thirdPartyReports);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudE9wcG9ydHVuaXR5LmdldEFwcGxpY2F0aW9uKCkuZ2V0T3duZXIyRG9Ob3RSZXB1bGxDQ1IoKSkK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudE9wcG9ydHVuaXR5LmdldEFwcGxpY2F0aW9uKCkuZ2V0T3duZXIxRG9Ob3RSZXB1bGxDQ1IoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHx8IG9wcG9ydHVuaXR5LmdldEFwcGxpY2F0aW9uKCkuZ2V0T3duZXIyRG9Ob3RSZXB1bGxDQ1IoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgIG93bmVyCg==</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>getCountry</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
