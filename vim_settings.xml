@@ -63,11 +63,11 @@
         <mark key="." line="208" column="48" />
         <mark key="^" line="208" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" timestamp="1453476137439">
-        <mark key="[" line="11" column="90" />
-        <mark key="]" line="11" column="94" />
-        <mark key="." line="11" column="94" />
-        <mark key="^" line="11" column="94" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" timestamp="1453479079883">
+        <mark key="[" line="88" column="35" />
+        <mark key="]" line="60" column="63" />
+        <mark key="." line="60" column="63" />
+        <mark key="^" line="60" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerScoreRequestBuilderUnitTest.java" timestamp="1452875326750">
         <mark key="[" line="48" column="52" />
@@ -99,6 +99,12 @@
         <mark key="." line="57" column="104" />
         <mark key="^" line="57" column="104" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1453479605214">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="51" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="30" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/ConnectReport.java" timestamp="1453308724305">
         <mark key="[" line="11" column="7" />
         <mark key="]" line="11" column="7" />
@@ -106,6 +112,7 @@
         <mark key="." line="11" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/ConnectRequestAuditor.java" timestamp="1453397540636" />
+      <file name="$MAVEN_REPOSITORY$/com/odc/connect/connect-thirdparty-equifax-ca/1.60/connect-thirdparty-equifax-ca-1.60-sources.jar!/com/odc/equifax/canada/model/xml/EfxReportType.java" timestamp="1453477220451" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReport.java" timestamp="1453392170051">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="25" />
@@ -138,14 +145,15 @@
         <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectFetchByIdRequest.java" timestamp="1453314853578" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianBusinessCreditReportConverter.java" timestamp="1453477575410" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Ordinal.java" timestamp="1453415706850">
         <mark key="[" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/HistoricalReportServiceImpl.java" timestamp="1453475826193">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="64" column="14" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/HistoricalReportServiceImpl.java" timestamp="1453479042056">
+        <mark key="[" line="64" column="14" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="51" column="25" />
+        <mark key="." line="51" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReportUnitTest.java" timestamp="1453392867283">
         <mark key="[" line="73" column="58" />
@@ -159,6 +167,7 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/odc/connect/connect-thirdparty-equifax-ca/1.60/connect-thirdparty-equifax-ca-1.60-sources.jar!/com/odc/equifax/canada/model/xml/CNConsumerCreditReportType.java" timestamp="1453477400696" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/ConnectByIdRequestAuditor.java" timestamp="1453321130865" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/CollectionAuditor.java" timestamp="1453386265488">
         <mark key="[" line="17" column="9" />
@@ -167,6 +176,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/util/AuditReportDataExtractor.java" timestamp="1453397848153" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-impl/1.50/509db98990beb4fccc033b94b6c94d0efa42417e/datapipes-impl-1.50-sources.jar!/com/odc/datapipes/connect/ConnectDataPipeOutput.java" timestamp="1453319459460" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/thirdparty/equifax/ca/conf/jaxb-equifax-canada-commercial-binding.xjb" timestamp="1453480320552">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierSelectorUnitTest.java" timestamp="1452271983704">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -185,6 +199,7 @@
         <mark key="." line="61" column="92" />
         <mark key="^" line="61" column="92" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/odc/connect/connect-thirdparty-equifax-ca/1.60/connect-thirdparty-equifax-ca-1.60-sources.jar!/com/odc/equifax/canada/model/xml/CNSubjectNameType.java" timestamp="1453477796348" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1453400502946">
         <mark key="[" line="208" column="21" />
         <mark key="]" line="208" column="37" />
@@ -196,6 +211,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/thirdparty/equifax/ca/src/schemas/CNEfxCommon.xsd" timestamp="1453480287916" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/HistoricalReportService.java" timestamp="1453415224014">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="13" />
@@ -272,7 +288,11 @@
         <mark key="^" line="38" column="27" />
         <mark key="." line="38" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReport.java" timestamp="1453475910478" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReport.java" timestamp="1453478527474">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1453329086136">
         <mark key="[" line="0" column="0" />
       </file>
@@ -414,10 +434,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>efxTransmitEquifaxInternationalResponse</text>
+        <text>date</text>
       </register>
       <register name="-" type="4">
-        <text>efxTransmitEquifaxInternationalResponse</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -426,31 +446,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="4">
-        <text>efxTransmitEquifaxInternationalResponse</text>
+        <text>date</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXF1aWZheC5jYW5hZGEubW9kZWwueG1sLkFkZHJlc3M7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="3" type="4">
+        <text>cnAddressType</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzIyLzE2Lgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="5" type="4">
+        <text>@</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Nullable</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBIaXN0b3JpY2FsUmVwb3J0UmVxdWVzdCByZXF1ZXN0ID0gbmV3IEhpc3RvcmljYWxSZXBvcnRSZXF1ZXN0KFZlbmRvci5FUVVJRkFYLCBTZXJ2aWNlLkJDUiwgQ291bnRyeS5DQSwKICAgICAgICAgICAgICAgIHJlcG9ydC5nZXRSZXBvcnRJZCgpKTsKICAgICAgICBmaW5hbCBDb25uZWN0UmVzcG9uc2U8SGlzdG9yaWNhbFJlcG9ydDw/IGV4dGVuZHMgVGhpcmRQYXJ0eVJlc3BvbnNlPj4gYmNyUmVzcG9uc2UgPQogICAgICAgICAgICAgICAgY29ubmVjdENsaWVudC5nZXRIaXN0b3JpY2FsUmVwb3J0KHJlcXVlc3QpOwogICAgICAgIGZpbmFsIEhpc3RvcmljYWxSZXBvcnQ8RXF1aWZheEludGVybmF0aW9uYWxSZXNwb25zZTxFZnhUcmFuc21pdD4+IGJjciA9CiAgICAgICAgICAgICAgICAoSGlzdG9yaWNhbFJlcG9ydDxFcXVpZmF4SW50ZXJuYXRpb25hbFJlc3BvbnNlPEVmeFRyYW5zbWl0Pj4pIGJjclJlc3BvbnNlLmdldFBheWxvYWQoKTsKICAgICAgICByZXR1cm4gbnVsbDsKLy8gICAgICAgIHJldHVybiBjYW5hZGlhbkJDUkNvbnZlcnRlci5hcHBseShiY3IuZ2V0QXBpUmVzcG9uc2UoKSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
