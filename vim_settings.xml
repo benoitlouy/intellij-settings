@@ -77,6 +77,12 @@
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/client/JaxrsConnectServiceClient.java" timestamp="1453474516873">
+        <mark key="[" line="208" column="13" />
+        <mark key="]" line="208" column="48" />
+        <mark key="." line="208" column="48" />
+        <mark key="^" line="208" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1452632671263">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
@@ -199,11 +205,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Ordinal.java" timestamp="1453415706850">
         <mark key="[" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/HistoricalReportServiceImpl.java" timestamp="1453472875870">
-        <mark key="[" line="64" column="111" />
-        <mark key="]" line="57" column="38" />
-        <mark key="^" line="57" column="38" />
-        <mark key="." line="57" column="38" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/HistoricalReportServiceImpl.java" timestamp="1453474672916">
+        <mark key="[" line="60" column="102" />
+        <mark key="]" line="64" column="14" />
+        <mark key="." line="64" column="14" />
+        <mark key="^" line="64" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReportUnitTest.java" timestamp="1453392867283">
         <mark key="[" line="73" column="58" />
@@ -383,6 +389,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/PersistedToHistoricalReportConverter.java" timestamp="1453308626283">
         <mark key="[" line="17" column="82" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/client/ConnectServiceClient.java" timestamp="1453474478936">
+        <mark key="[" line="93" column="96" />
+        <mark key="]" line="93" column="68" />
+        <mark key="." line="93" column="68" />
+        <mark key="^" line="93" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/test/resources/creditProfile/fullCreditDecision.json" timestamp="1453307548949">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="38" column="27" />
@@ -549,7 +561,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>String.format(QUERY, service.toString(), vendor.toString(), country.name(), applicationNumber)</text>
+        <text>? extends ThirdPartyResponse</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -561,28 +573,28 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIExpc3RzLm5ld0FycmF5TGlzdChJdGVyYWJsZXMudHJhbnNmb3JtKHJlcG9ydHMsIGNvbnZlcnRlcikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5ncy5pc051bGxPckVtcHR5KHJlcG9ydC5nZXRSZXBvcnRJZCgpKSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgTGlzdDxTRlRoaXJkUGFydHlSZXBvcnQ+IHJlcG9ydHMgPSBzZkNsaWVudC5zZWxlY3QoU0ZUaGlyZFBhcnR5UmVwb3J0LmNsYXNzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5ncy5pc051bGxPckVtcHR5KHJlcG9ydC5nZXRSZXBvcnRJZCgpKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CgogICAgICAgIGZpbmFsIEhpc3RvcmljYWxSZXBvcnRSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgSGlzdG9yaWNhbFJlcG9ydFJlcXVlc3QoVmVuZG9yLkVRVUlGQVgsIFNlcnZpY2UuQkNSLCBDb3VudHJ5LkNBLAogICAgICAgICAgICAgICAgcmVwb3J0LmdldFJlcG9ydElkKCkpOwogICAgICAgIGZpbmFsIENvbm5lY3RSZXNwb25zZTxIaXN0b3JpY2FsUmVwb3J0PD8gZXh0ZW5kcyBUaGlyZFBhcnR5UmVzcG9uc2U+PiBiY3JSZXNwb25zZSA9CiAgICAgICAgICAgICAgICBjb25uZWN0Q2xpZW50LmdldEhpc3RvcmljYWxSZXBvcnQocmVxdWVzdCk7CiAgICAgICAgZmluYWwgSGlzdG9yaWNhbFJlcG9ydDxFcXVpZmF4SW50ZXJuYXRpb25hbFJlc3BvbnNlPEVmeFRyYW5zbWl0Pj4gYmNyID0KICAgICAgICAgICAgICAgIChIaXN0b3JpY2FsUmVwb3J0PEVxdWlmYXhJbnRlcm5hdGlvbmFsUmVzcG9uc2U8RWZ4VHJhbnNtaXQ+PikgYmNyUmVzcG9uc2UuZ2V0UGF5bG9hZCgpOwogICAgICAgIHJldHVybiBjYW5hZGlhbkJDUkNvbnZlcnRlci5hcHBseShiY3IuZ2V0QXBpUmVzcG9uc2UoKSk7</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBmaW5hbCBMaXN0PFNGVGhpcmRQYXJ0eVJlcG9ydD4gcmVwb3J0cyA9IHNmQ2xpZW50LnNlbGVjdChTRlRoaXJkUGFydHlSZXBvcnQuY2xhc3MsCiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgcmV0dXJuIExpc3RzLm5ld0FycmF5TGlzdChJdGVyYWJsZXMudHJhbnNmb3JtKHJlcG9ydHMsIGNvbnZlcnRlcikpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKFN0cmluZy5mb3JtYXQoIkV4Y2VwdGlvbiB3aGlsZSByZXRyaWV2aW5nIFRoaXJkIFBhcnR5IFJlcG9ydHMgZm9yICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIkFwcGxpY2F0aW9uICMlcyIsIGFwcGxpY2F0aW9uTnVtYmVyKSwgZSk7CiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="4">
-        <text>String.format(QUERY, service.toString(), vendor.toString(), country.name(), applicationNumber)</text>
+        <text>? extends ThirdPartyResponse</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>? extends ThirdPartyRespons</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
