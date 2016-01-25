@@ -8,7 +8,6 @@
         <mark key="]" line="272" column="0" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/DateTimeJsonSerializer.java" timestamp="1453488016135" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/FetchOrReuseConnectReport.java" timestamp="1453319914093">
         <mark key="[" line="22" column="35" />
         <mark key="]" line="22" column="35" />
@@ -57,7 +56,6 @@
         <mark key="]" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/resources/applicationContext-datapipes.xml" timestamp="1453390691358" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/salesforce/ThirdPartyReportServiceImpl.java" timestamp="1453415315560">
         <mark key="[" line="27" column="64" />
         <mark key="]" line="27" column="64" />
@@ -89,10 +87,10 @@
         <mark key="." line="208" column="48" />
         <mark key="^" line="208" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" timestamp="1453733017294">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" timestamp="1453739100828">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/jaxb-adapters/jaxb-adapters-joda-time/src/test/java/com/ondeck/jaxb/adapters/joda/time/DateTimeAdapterUnitTest.java" timestamp="1453481960359">
         <mark key="[" line="35" column="72" />
@@ -148,11 +146,11 @@
         <mark key="." line="57" column="104" />
         <mark key="^" line="57" column="104" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1453479605214">
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="30" column="51" />
-        <mark key="^" line="30" column="51" />
-        <mark key="." line="30" column="51" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1453741156214">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+        <mark key="^" line="30" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/ConnectReport.java" timestamp="1453308724305">
         <mark key="[" line="11" column="7" />
@@ -160,18 +158,21 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/converter/historicalbusinesscreditreport/HistoricalCanadianConsumerCreditReportConverterTest.java" timestamp="1453739197724">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/business/experian/ExperianConnectionHelperTest.java" timestamp="1452633113077">
         <mark key="[" line="193" column="0" />
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/ConnectRequestAuditor.java" timestamp="1453397540636" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/salesforce/ThirdPartyReportService.java" timestamp="1453402518282">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/odc/connect/connect-thirdparty-equifax-ca/1.60/connect-thirdparty-equifax-ca-1.60-sources.jar!/com/odc/equifax/canada/model/xml/EfxReportType.java" timestamp="1453477220451" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReport.java" timestamp="1453392170051">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="25" />
@@ -182,7 +183,6 @@
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/util/ConnectRequestAuditDataExtractor.java" timestamp="1453397652244" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/HistoricalReport.java" timestamp="1453308752046">
         <mark key="[" line="10" column="68" />
         <mark key="]" line="10" column="68" />
@@ -200,6 +200,11 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1453736565942">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/consumer/equifax/us/EquifaxCCRConnectionHelperTest.java" timestamp="1452284255054">
         <mark key="[" line="47" column="39" />
         <mark key="]" line="143" column="0" />
@@ -210,7 +215,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectFetchByIdRequest.java" timestamp="1453314853578" />
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/resources/sql/lsp_dump/lsp-reg-losses-query.sql" timestamp="1452116787404">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
@@ -221,7 +225,6 @@
         <mark key="]" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianBusinessCreditReportConverter.java" timestamp="1453477575410" />
       <file name="$USER_HOME$/Projects/OnDeck/jaxb-adapters/jaxb-adapters-joda-time/src/main/java/com/ondeck/jaxb/adapters/joda/time/YearMonthAdapter.java" timestamp="1453480665298">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -241,12 +244,6 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Ordinal.java" timestamp="1453415706850">
         <mark key="[" line="20" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/HistoricalReportServiceImpl.java" timestamp="1453479042056">
-        <mark key="[" line="64" column="14" />
-        <mark key="]" line="51" column="25" />
-        <mark key="^" line="51" column="25" />
-        <mark key="." line="51" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReportUnitTest.java" timestamp="1453392867283">
         <mark key="[" line="73" column="58" />
@@ -275,20 +272,16 @@
         <mark key="]" line="95" column="82" />
         <mark key="." line="95" column="81" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/odc/connect/connect-thirdparty-equifax-ca/1.60/connect-thirdparty-equifax-ca-1.60-sources.jar!/com/odc/equifax/canada/model/xml/CNConsumerCreditReportType.java" timestamp="1453477400696" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/extractor/PartnerDetailsExtractor.java" timestamp="1450803307756">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/ConnectByIdRequestAuditor.java" timestamp="1453321130865" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/CollectionAuditor.java" timestamp="1453386265488">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/util/AuditReportDataExtractor.java" timestamp="1453397848153" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-impl/1.50/509db98990beb4fccc033b94b6c94d0efa42417e/datapipes-impl-1.50-sources.jar!/com/odc/datapipes/connect/ConnectDataPipeOutput.java" timestamp="1453319459460" />
       <file name="$USER_HOME$/Projects/OnDeck/jaxb-adapters/build.gradle" timestamp="1453481660399">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -312,8 +305,6 @@
         <mark key="^" line="40" column="26" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-flow-audit/INTL-305-SNAPSHOT/c73eb3bb0e49a8df8c0ec3c3db2aaea2706c198c/datapipes-flow-audit-INTL-305-SNAPSHOT-sources.jar!/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1453326254356" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1453485104488" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/qd.decisionservice.properties" timestamp="1453398546400">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -325,7 +316,6 @@
         <mark key="." line="61" column="92" />
         <mark key="^" line="61" column="92" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/odc/connect/connect-thirdparty-equifax-ca/1.60/connect-thirdparty-equifax-ca-1.60-sources.jar!/com/odc/equifax/canada/model/xml/CNSubjectNameType.java" timestamp="1453477796348" />
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/resources/sql/lsp_dump/lsp-nonreg-transaction-query.sql" timestamp="1452116455546">
         <mark key="[" line="25" column="1" />
         <mark key="]" line="25" column="1" />
@@ -342,7 +332,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/thirdparty/equifax/ca/src/schemas/CNEfxCommon.xsd" timestamp="1453480287916" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/HistoricalReportService.java" timestamp="1453415224014">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="13" />
@@ -370,7 +359,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.5/de094907ce9aab8509792f5587c5c890ea2384d6/jackson-databind-2.4.5-sources.jar!/com/fasterxml/jackson/databind/deser/std/StdDeserializer.java" timestamp="1453488782647" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/scoring/AbstractConnectScoringFlowIntegrationTest.java" timestamp="1450799416502">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -391,8 +379,7 @@
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/spring/auditBeans.xml" timestamp="1453484446948" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/pom.xml" timestamp="1453731373165">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/pom.xml" timestamp="1453741222374">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
@@ -429,8 +416,7 @@
         <mark key="." line="52" column="82" />
         <mark key="^" line="52" column="82" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-flow-audit/1.50/33ee69fe7d1c83ac49f89a23f173fc4fdf3d5bf9/datapipes-flow-audit-1.50-sources.jar!/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1453324400235" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/pom.xml" timestamp="1453731384556">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/pom.xml" timestamp="1453741169499">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
@@ -446,6 +432,7 @@
         <mark key="." line="202" column="16" />
         <mark key="^" line="202" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/converter/historicalbusinesscreditreport/HistoricalCanadianBusinessCreditReportConverterTest.java" timestamp="1453739191314" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/Request.xsd" timestamp="1452292034553">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -453,6 +440,9 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/PersistedToHistoricalReportConverter.java" timestamp="1453308626283">
         <mark key="[" line="17" column="82" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverterJava.java" timestamp="1453736718203">
+        <mark key="[" line="21" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/client/ConnectServiceClient.java" timestamp="1453474478936">
         <mark key="[" line="93" column="96" />
@@ -466,10 +456,11 @@
         <mark key="^" line="38" column="27" />
         <mark key="." line="38" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReport.java" timestamp="1453731702189">
-        <mark key="[" line="31" column="37" />
-        <mark key="]" line="80" column="16" />
-        <mark key="." line="80" column="10" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReport.java" timestamp="1453735961055">
+        <mark key="[" line="118" column="33" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="116" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1453500337547">
         <mark key="[" line="0" column="0" />
@@ -512,13 +503,11 @@
         <mark key="]" line="124" column="8" />
         <mark key="." line="124" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/salesforceclient/model/CreditDecision.java" timestamp="1453402044477" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/dev01.connect.properties" timestamp="1453485892152">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/dev01.connect.properties" timestamp="1453739813966">
         <mark key="[" line="52" column="21" />
         <mark key="]" line="52" column="21" />
         <mark key="." line="52" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/DateTimeJsonDeserializer.java" timestamp="1453488248815" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/intl/can/CanadaConsumerScoringModelRequestMerger.java" timestamp="1453313347775">
         <mark key="[" line="56" column="27" />
         <mark key="]" line="56" column="27" />
@@ -527,7 +516,6 @@
       <file name="/fragment.java" timestamp="1453500337573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/jobs/accinfo/database/Query.java" timestamp="1453414027531" />
     </filemarks>
     <jumps>
       <jump line="193" column="91" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryRunnable.java" />
@@ -632,11 +620,11 @@
       <jump line="152" column="69" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilderTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Money.of()input.getHighCreditAmount().get</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -644,32 +632,39 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmdldFRyYWRlcygpLmFkZChUUkFERV9DT05WRVJURVIuYXBwbHkoY25UcmFkZSkpOwo=</text>
+      <register name="3" type="4">
+        <text>import com.odc.lexisnexis.wsidentity.client.model.xml.*;
+import com.odc.lexisnexis.wsidentity.client.model.xml.AuthorizedRepresentativeResults.AKAs;
+import com.odc.lexisnexis.wsidentity.client.model.xml.AuthorizedRepresentativeResults.AlternateAddressPhones;
+import com.odc.lexisnexis.wsidentity.client.model.xml.AuthorizedRepresentativeResults.FollowupActions;
+import com.odc.lexisnexis.wsidentity.client.model.xml.BusinessInstantIDResult.Models;
+import com.odc.lexisnexis.wsidentity.client.model.xml.CompanyResults.FEINMatchResults;
+import com.odc.lexisnexis.wsidentity.client.model.xml.Model.Scores;
+import com.odc.lexisnexis.wsidentity.client.model.xml.Score.RiskIndicators;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKENOVHJhZGVUeXBlIGNuVHJhZGU6IGNuVHJhZGVzKSB7Cg==</text>
+      <register name="4" type="4">
+        <text>${dep.ondeck.connect-client}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFzdER1ZUFtb3VudCBwYXN0RHVlQW1vdW50ID0gY25UcmFkZS5nZXRQYXN0RHVlQW1vdW50KCk7Cg==</text>
+      <register name="5" type="4">
+        <text>Assert.</text>
       </register>
-      <register name="6" type="4">
-        <text>Money.of()input.getHighCreditAmount().get</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QE51bGxhYmxlIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzI1LzE2Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBOdWxsYWJsZQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">QE51bGxhYmxlIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
