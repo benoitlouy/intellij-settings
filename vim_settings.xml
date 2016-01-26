@@ -480,11 +480,9 @@
       <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/test/resources/creditProfile/fullCreditDecision.json" timestamp="1453307548949">
         <mark key="[" line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReport.java" timestamp="1453735961055">
-        <mark key="[" line="118" column="33" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="116" column="21" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReport.java" timestamp="1453761403856">
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/UnderwritingModelRequestBuilderFlow.java" timestamp="1453752704965">
         <mark key="[" line="195" column="49" />
@@ -652,11 +650,11 @@
       <jump line="152" column="69" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilderTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>I</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -664,32 +662,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQnVpbGRlciB7CiAgICAgIHByaXZhdGUgTG9jYWxEYXRlIGxhc3RBY3RpdmVEYXRlOwogICAgICBwcml2YXRlIE1vbmV5IGhpZ2hDcmVkaXRBbW91bnQ7CiAgICAgIHByaXZhdGUgU3RyaW5nIGNyZWRpdG9yOwogICAgICBwcml2YXRlIExvY2FsRGF0ZSBkYXRlT3BlbmVkOwogICAgICBwcml2YXRlIFN0cmluZyBwYXltZW50U3RhdHVzRGVzY3JpcHRpb247CiAgICAgIHByaXZhdGUgTG9jYWxEYXRlIGRhdGVSZXBvcnRlZDsKICAgICAgcHJpdmF0ZSBNb25leSBjdXJyZW50QmFsYW5jZTsKICAgICAgcHJpdmF0ZSBNb25leSBwYXN0RHVlQW1vdW50OwogICAgICBwcml2YXRlIFN0cmluZyB0cmFkZVR5cGU7CgogICAgICBwdWJsaWMgQnVpbGRlciB3aXRoTGFzdEFjdGl2ZURhdGUoTG9jYWxEYXRlIGxhc3RBY3RpdmVEYXRlKSB7CiAgICAgICAgdGhpcy5sYXN0QWN0aXZlRGF0ZSA9IGxhc3RBY3RpdmVEYXRlOwogICAgICAgIHJldHVybiB0aGlzOwogICAgICB9CgogICAgICBwdWJsaWMgQnVpbGRlciB3aXRoSGlnaENyZWRpdEFtb3VudChNb25leSBoaWdoQ3JlZGl0QW1vdW50KSB7CiAgICAgICAgdGhpcy5oaWdoQ3JlZGl0QW1vdW50ID0gaGlnaENyZWRpdEFtb3VudDsKICAgICAgICByZXR1cm4gdGhpczsKICAgICAgfQoKICAgICAgcHVibGljIEJ1aWxkZXIgd2l0aENyZWRpdG9yKFN0cmluZyBjcmVkaXRvcikgewogICAgICAgIHRoaXMuY3JlZGl0b3IgPSBjcmVkaXRvcjsKICAgICAgICByZXR1cm4gdGhpczsKICAgICAgfQoKICAgICAgcHVibGljIEJ1aWxkZXIgd2l0aERhdGVPcGVuZWQoTG9jYWxEYXRlIGRhdGVPcGVuZWQpIHsKICAgICAgICB0aGlzLmRhdGVPcGVuZWQgPSBkYXRlT3BlbmVkOwogICAgICAgIHJldHVybiB0aGlzOwogICAgICB9CgogICAgICBwdWJsaWMgQnVpbGRlciB3aXRoUGF5bWVudFN0YXR1c0Rlc2NyaXB0aW9uKFN0cmluZyBwYXltZW50U3RhdHVzRGVzY3JpcHRpb24pIHsKICAgICAgICB0aGlzLnBheW1lbnRTdGF0dXNEZXNjcmlwdGlvbiA9IHBheW1lbnRTdGF0dXNEZXNjcmlwdGlvbjsKICAgICAgICByZXR1cm4gdGhpczsKICAgICAgfQoKICAgICAgcHVibGljIEJ1aWxkZXIgd2l0aERhdGVSZXBvcnRlZChMb2NhbERhdGUgZGF0ZVJlcG9ydGVkKSB7CiAgICAgICAgdGhpcy5kYXRlUmVwb3J0ZWQgPSBkYXRlUmVwb3J0ZWQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgIH0KCiAgICAgIHB1YmxpYyBCdWlsZGVyIHdpdGhDdXJyZW50QmFsYW5jZShNb25leSBjdXJyZW50QmFsYW5jZSkgewogICAgICAgIHRoaXMuY3VycmVudEJhbGFuY2UgPSBjdXJyZW50QmFsYW5jZTsKICAgICAgICByZXR1cm4gdGhpczsKICAgICAgfQoKICAgICAgcHVibGljIEJ1aWxkZXIgd2l0aFBhc3REdWVBbW91bnQoTW9uZXkgcGFzdER1ZUFtb3VudCkgewogICAgICAgIHRoaXMucGFzdER1ZUFtb3VudCA9IHBhc3REdWVBbW91bnQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgIH0KCiAgICAgIHB1YmxpYyBCdWlsZGVyIHdpdGhUcmFkZVR5cGUoU3RyaW5nIHRyYWRlVHlwZSkgewogICAgICAgIHRoaXMudHJhZGVUeXBlID0gdHJhZGVUeXBlOwogICAgICAgIHJldHVybiB0aGlzOwogICAgICB9CgogICAgICBwdWJsaWMgVHJhZGUgYnVpbGQoKSB7CiAgICAgICAgcmV0dXJuCiAgICAgIH0KICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
+        <text>final</text>
+      </register>
+      <register name="4" type="4">
         <text>I</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzI1LzE2Lgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">QE51bGxhYmxlIA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBATnVsbGFibGUK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
