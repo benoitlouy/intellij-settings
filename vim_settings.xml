@@ -104,11 +104,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1453826908988">
         <mark key="[" line="167" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" timestamp="1453838023318">
-        <mark key="[" line="83" column="48" />
-        <mark key="]" line="84" column="33" />
-        <mark key="." line="84" column="33" />
-        <mark key="^" line="84" column="33" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" timestamp="1453841769899">
+        <mark key="[" line="170" column="31" />
+        <mark key="]" line="170" column="37" />
+        <mark key="." line="170" column="37" />
+        <mark key="^" line="170" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/jaxb-adapters/jaxb-adapters-joda-time/src/test/java/com/ondeck/jaxb/adapters/joda/time/DateTimeAdapterUnitTest.java" timestamp="1453481960359">
         <mark key="[" line="35" column="72" />
@@ -175,10 +175,10 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/converter/historicalbusinesscreditreport/HistoricalCanadianConsumerCreditReportConverterTest.java" timestamp="1453837208698">
-        <mark key="[" line="145" column="7" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/converter/historicalbusinesscreditreport/HistoricalCanadianConsumerCreditReportConverterTest.java" timestamp="1453842027484">
+        <mark key="[" line="95" column="56" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/business/experian/ExperianConnectionHelperTest.java" timestamp="1452633113077">
         <mark key="[" line="193" column="0" />
@@ -741,11 +741,11 @@
       <jump line="152" column="69" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilderTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cnScore.getReasons()</text>
       </register>
       <register name="-" type="4">
-        <text>new LocalDate(2016, 1, 26)</text>
+        <text>cnScore.getReasons()</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -753,32 +753,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>cnScore.getReasons()</text>
       </register>
       <register name="2" type="4">
-        <text>new LocalDate(2016, 1, 26)</text>
+        <text>foreignInquiries</text>
       </register>
       <register name="3" type="4">
-        <text>description</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>new LocalDate(2016, 1, 26)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>description</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGYWtlTW9kZWxEYXRhLmRhCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdW1lclJlcG9ydC5nZXRDTkZvcmVpZ25JbnF1aXJpZXMoKS5nZXRDTkZvcmVpZ25JbnF1aXJpZXMoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDTkZvcmVpZ25JbnF1aXJ5VHlwZT4gZm9yZWlnbklucXVpcmllcyA9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>description</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDTkxvY2FsSW5xdWlyeVR5cGU+IGxvY2FsSW5xdWlyaWVzID0gY29uc3VtZXJSZXBvcnQuZ2V0Q05Mb2NhbElucXVpcmllcygpLmdldENOTG9jYWxJbnF1aXJpZXMoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
