@@ -101,11 +101,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/intl/can/UnifiedCanadaConsumerScoringFlow.java" timestamp="1453821063157">
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="42" column="40" />
-        <mark key="^" line="42" column="40" />
-        <mark key="." line="42" column="40" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/intl/can/UnifiedCanadaConsumerScoringFlow.java" timestamp="1453821807295">
+        <mark key="[" line="73" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierUnitTest.java" timestamp="1452270639952">
         <mark key="[" line="3" column="1" />
@@ -319,6 +316,11 @@
         <mark key="]" line="9" column="31" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/AddPreviouslyUsedReportId.java" timestamp="1453822158902">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierSelectorUnitTest.java" timestamp="1452271983704">
         <mark key="[" line="42" column="0" />
@@ -658,10 +660,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8VGhpcmRQYXJ0eVJlcG9ydD4gdGhpcmRQYXJ0eVJlcG9ydHMgPSBnZXQodGhpcmRQYXJ0eVJlcG9ydHNJbmRleCwgZGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>priorThirdPartyReportFetcher</text>
+        <text>implements</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -670,31 +672,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8VGhpcmRQYXJ0eVJlcG9ydD4gdGhpcmRQYXJ0eVJlcG9ydHMgPSBnZXQodGhpcmRQYXJ0eVJlcG9ydHNJbmRleCwgZGF0YSk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>priorThirdPartyReportFetcher</text>
+        <text>implements</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzYWxlc2ZvcmNlQ2xpZW50LnNlbGVjdChjbGF6eiwgU3RyaW5nLmZvcm1hdCgiQXBwbGljYXRpb25fX2MgPSAnJXMnIiwgYXBwbGljYXRpb24uZ2V0SWQoKSkpOwo=</text>
-      </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>Object</text>
       </register>
-      <register name="5" type="4">
-        <text>? extends UnifiedUnderwritingRequest,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzI2LzE2Lgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>@Nullable</text>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBATnVsbGFibGUK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
