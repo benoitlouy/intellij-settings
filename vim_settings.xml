@@ -143,6 +143,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilderTest.java" timestamp="1453905670067">
+        <mark key="[" line="161" column="79" />
+        <mark key="]" line="161" column="91" />
+        <mark key="." line="161" column="91" />
+        <mark key="^" line="161" column="91" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierSwitchUnitTest.java" timestamp="1452270811526">
         <mark key="[" line="8" column="40" />
         <mark key="]" line="8" column="40" />
@@ -209,6 +215,11 @@
         <mark key="]" line="8" column="41" />
         <mark key="." line="8" column="41" />
         <mark key="^" line="8" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/DecisionManagementTest.java" timestamp="1453904646154">
+        <mark key="[" line="1881" column="0" />
+        <mark key="]" line="1881" column="0" />
+        <mark key="." line="1881" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReport.java" timestamp="1453826250144">
         <mark key="[" line="36" column="29" />
@@ -309,6 +320,11 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilder.java" timestamp="1453905022509">
+        <mark key="[" line="346" column="51" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReportUnitTest.java" timestamp="1453827251164">
         <mark key="[" line="62" column="0" />
@@ -467,6 +483,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/DecisionManagement.java" timestamp="1453904525937">
+        <mark key="[" line="574" column="0" />
+        <mark key="]" line="574" column="0" />
+        <mark key="." line="574" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/YearMonthJsonDeserializer.java" timestamp="1453489862757">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -619,9 +640,6 @@
         <mark key="^" line="56" column="74" />
         <mark key="." line="56" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/checkstyle.xml" timestamp="1453837758796">
-        <mark key="[" line="175" column="48" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerScoreRequestBuilder.java" timestamp="1452875302166">
         <mark key="[" line="118" column="63" />
         <mark key="]" line="119" column="63" />
@@ -763,11 +781,11 @@
       <jump line="152" column="69" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilderTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>consumerIdCanada</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE9wcG9ydHVuaXR5IG9wcG9ydHVuaXR5ID0gY3JlYXRlT3Bwb3J0dW5pdHkoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>consumerIdCanada</text>
+        <text>createOpportunity</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -775,32 +793,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>consumerIdCanada</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIE9wcG9ydHVuaXR5IG9wcG9ydHVuaXR5ID0gY3JlYXRlT3Bwb3J0dW5pdHkoKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>CONSUMER_CREDIT</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>ResultType</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>CreditType.CONSUMER</text>
+        <text encoding="base64">ICBwcml2YXRlIFVuZGVyd3JpdGluZ1JlcXVlc3QgdGVzdENyZWF0ZVVuZGVyd3JpdGluZ1JlcXVlc3RGb3JDb3VudHJ5KFN0cmluZyBjb3VudHJ5KQogIHsKICAgIHJldHVybiB0ZXN0Q3JlYXRlVW5kZXJ3cml0aW5nUmVxdWVzdChjb3VudHJ5LCBjcmVhdGVPcHBvcnR1bml0eSgpLCBJbW11dGFibGVMaXN0LjxUaGlyZFBhcnR5UmVwb3J0Pm9mKCkpOwogIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+      <register name="5" type="4">
+        <text>createOpportunity</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMS8yMS8xNi4K</text>
+        <text encoding="base64">ICAgIGFzc2VydE51bGwocmVxdWVzdC5nZXRPd25lcnMoKS5pdGVyYXRvcigpLm5leHQoKS5nZXRDY3JMb2NhdG9yKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydE51bGwocmVxdWVzdC5nZXRPd25lcnMoKS5pdGVyYXRvcigpLm5leHQoKS5nZXRDY3JMb2NhdG9yKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGQoIk93bmVyTnVtYmVyIiwgb3duZXJOdW1iZXIpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydE51bGwocmVxdWVzdC5nZXRPd25lcnMoKS5pdGVyYXRvcigpLm5leHQoKS5nZXRDY3JMb2NhdG9yKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuc2V0VGhpcmRQYXJ0eVJlcG9ydHModGhpcmRQYXJ0eVJlcG9ydHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
