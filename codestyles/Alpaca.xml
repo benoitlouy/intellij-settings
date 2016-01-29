@@ -7,6 +7,8 @@
       <package name="java" withSubpackages="true" static="false" />
       <package name="javax" withSubpackages="true" static="false" />
       <emptyLine />
+      <package name="org" withSubpackages="true" static="false" />
+      <emptyLine />
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
