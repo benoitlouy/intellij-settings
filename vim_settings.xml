@@ -309,11 +309,10 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454348005156">
-        <mark key="[" line="33" column="80" />
-        <mark key="]" line="33" column="80" />
-        <mark key="." line="33" column="80" />
-        <mark key="^" line="33" column="81" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454348785155">
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReportScala.scala" timestamp="1454345151631">
         <mark key="[" line="12" column="16" />
@@ -892,11 +891,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBsMSA9IFNlcShpbnB1dC5nZXRDaXZpY051bWJlciwgaW5wdXQuZ2V0U3RyZWV0TmFtZSkuZmlsdGVyKF8gIT0gbnVsbCkucmVkdWNlKF8gKyAiICIgKyBfKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>getOrElse(null)</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -904,32 +903,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbCBsMSA9IFNlcShpbnB1dC5nZXRDaXZpY051bWJlciwgaW5wdXQuZ2V0U3RyZWV0TmFtZSkuZmlsdGVyKF8gIT0gbnVsbCkucmVkdWNlKF8gKyAiICIgKyBfKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>.getOrElse(Nil)</text>
+        <text>getOrElse(null)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IE9wdGlvblt1dGlsLkxpc3RbQ05PdGhlck5hbWVUeXBlXV0=</text>
+        <text>.filter(_ != null)</text>
       </register>
       <register name="4" type="4">
-        <text>_.getCNOtherNames</text>
+        <text>asScala</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>.getOrElse(Nil)</text>
       </register>
       <register name="7" type="4">
-        <text>cnHeader</text>
+        <text encoding="base64">IE9wdGlvblt1dGlsLkxpc3RbQ05PdGhlck5hbWVUeXBlXV0=</text>
       </register>
       <register name="8" type="4">
-        <text>cnHeader</text>
+        <text>_.getCNOtherNames</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBlcXVpZmF4SW50ZXJuYXRpb25hbFJlc3BvbnNlID0gaGlzdG9yaWNhbFJlcG9ydC5tYXAoXy5nZXRBcGlSZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>498</text>
