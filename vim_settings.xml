@@ -309,12 +309,12 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454348785155">
-        <mark key="[" line="64" column="5" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454350176369">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="61" />
+        <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReportScala.scala" timestamp="1454345151631">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReportScala.scala" timestamp="1454349519932">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="19" />
@@ -891,11 +891,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBsMSA9IFNlcShpbnB1dC5nZXRDaXZpY051bWJlciwgaW5wdXQuZ2V0U3RyZWV0TmFtZSkuZmlsdGVyKF8gIT0gbnVsbCkucmVkdWNlKF8gKyAiICIgKyBfKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Option(input.getPayload)</text>
       </register>
       <register name="-" type="4">
-        <text>getOrElse(null)</text>
+        <text>Option(input.getPayload)</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -903,32 +903,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBsMSA9IFNlcShpbnB1dC5nZXRDaXZpY051bWJlciwgaW5wdXQuZ2V0U3RyZWV0TmFtZSkuZmlsdGVyKF8gIT0gbnVsbCkucmVkdWNlKF8gKyAiICIgKyBfKQo=</text>
+      <register name="1" type="4">
+        <text>Option(input.getPayload)</text>
       </register>
-      <register name="2" type="4">
-        <text>getOrElse(null)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.filter(_ != null)</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>asScala</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXF1aWZheC5jYW5hZGEubW9kZWwueG1sLkVmeFJlcG9ydFR5cGUuQ05Db25zdW1lckNyZWRpdFJlcG9ydHMK</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXF1aWZheC5jYW5hZGEubW9kZWwueG1sLkNOSGVhZGVyVHlwZS5TdWJqZWN0Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>.getOrElse(Nil)</text>
+        <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IE9wdGlvblt1dGlsLkxpc3RbQ05PdGhlck5hbWVUeXBlXV0=</text>
+        <text>consumerReport.map(_.getCNScores).map(_.getCNScores).flatMap(_.headOption)</text>
       </register>
       <register name="8" type="4">
-        <text>_.getCNOtherNames</text>
+        <text>input</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBsMSA9IFNlcShpbnB1dC5nZXRDaXZpY051bWJlciwgaW5wdXQuZ2V0U3RyZWV0TmFtZSkuZmlsdGVyKF8gIT0gbnVsbCkucmVkdWNlKF8gKyAiICIgKyBfKQo=</text>
       </register>
       <register name=":" type="4">
         <text>498</text>
