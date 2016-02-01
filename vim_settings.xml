@@ -132,7 +132,7 @@
         <mark key="." line="208" column="48" />
         <mark key="^" line="208" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" timestamp="1454347082150">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" timestamp="1454351008855">
         <mark key="'" line="103" column="74" />
         <mark key="[" line="235" column="42" />
         <mark key="]" line="176" column="19" />
@@ -309,10 +309,11 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454350176369">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="19" column="61" />
-        <mark key="." line="19" column="61" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454351810744">
+        <mark key="[" line="58" column="67" />
+        <mark key="]" line="121" column="39" />
+        <mark key="." line="121" column="39" />
+        <mark key="^" line="121" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReportScala.scala" timestamp="1454349519932">
         <mark key="[" line="12" column="16" />
@@ -892,10 +893,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Option(input.getPayload)</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>Option(input.getPayload)</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -904,31 +905,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
       <register name="1" type="4">
-        <text>Option(input.getPayload)</text>
+        <text>a</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbAo=</text>
+      <register name="3" type="4">
+        <text>a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXF1aWZheC5jYW5hZGEubW9kZWwueG1sLkVmeFJlcG9ydFR5cGUuQ05Db25zdW1lckNyZWRpdFJlcG9ydHMK</text>
+      <register name="4" type="4">
+        <text>c</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXF1aWZheC5jYW5hZGEubW9kZWwueG1sLkNOSGVhZGVyVHlwZS5TdWJqZWN0Cg==</text>
+      <register name="5" type="4">
+        <text>S</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>consumerReport.map(_.getCNScores).map(_.getCNScores).flatMap(_.headOption)</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>input</text>
+        <text>mutable</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBsMSA9IFNlcShpbnB1dC5nZXRDaXZpY051bWJlciwgaW5wdXQuZ2V0U3RyZWV0TmFtZSkuZmlsdGVyKF8gIT0gbnVsbCkucmVkdWNlKF8gKyAiICIgKyBfKQo=</text>
+      <register name="9" type="4">
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>498</text>
