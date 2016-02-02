@@ -131,13 +131,6 @@
         <mark key="." line="208" column="48" />
         <mark key="^" line="208" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" timestamp="1454351008855">
-        <mark key="'" line="103" column="74" />
-        <mark key="[" line="235" column="42" />
-        <mark key="]" line="176" column="19" />
-        <mark key="." line="176" column="19" />
-        <mark key="^" line="176" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/jaxb-adapters/jaxb-adapters-joda-time/src/test/java/com/ondeck/jaxb/adapters/joda/time/DateTimeAdapterUnitTest.java" timestamp="1453481960359">
         <mark key="[" line="35" column="72" />
         <mark key="]" line="37" column="0" />
@@ -314,11 +307,11 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454426936456">
-        <mark key="[" line="72" column="65" />
-        <mark key="]" line="72" column="65" />
-        <mark key="." line="72" column="65" />
-        <mark key="^" line="68" column="112" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454427936619">
+        <mark key="[" line="41" column="89" />
+        <mark key="]" line="34" column="8" />
+        <mark key="^" line="34" column="8" />
+        <mark key="." line="34" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReportScala.scala" timestamp="1454352115891">
         <mark key="[" line="16" column="58" />
@@ -697,6 +690,11 @@
         <mark key="." line="202" column="16" />
         <mark key="^" line="202" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/OptionOpsSpec.scala" timestamp="1454428517289">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/Request.xsd" timestamp="1452292034553">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -769,6 +767,12 @@
         <mark key="]" line="119" column="63" />
         <mark key="." line="119" column="63" />
         <mark key="^" line="119" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/util/OptionOps.scala" timestamp="1454427657911">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/consumer/ConsumerScoreRequestToCCRWithLocatorConverterUnitTest.java" timestamp="1453394567301">
         <mark key="[" line="58" column="55" />
@@ -922,10 +926,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBPcHRpb25PcHMuXwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Optional</text>
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -934,31 +938,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBPcHRpb25PcHMuXwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cmVzdWx0LnB1dChyZXBvcnQuZ2V0T3duZXJOdW1iZXIoKSwgY2NyLnRyYW5zZm9ybSgKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEZ1bmN0aW9uPENvbm5lY3RSZXNwb25zZTxIaXN0b3JpY2FsUmVwb3J0PEVxdWlmYXhJbnRlcm5hdGlvbmFsUmVzcG9uc2U8RWZ4VHJhbnNtaXQ+Pj4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSGlzdG9yaWNhbENvbnN1bWVyQ3JlZGl0UmVwb3J0PigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydCBhcHBseSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29ubmVjdFJlc3BvbnNlPEhpc3RvcmljYWxSZXBvcnQ8RXF1aWZheEludGVybmF0aW9uYWxSZXNwb25zZTxFZnhUcmFuc21pdD4+PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RvcmljYWxSZXBvcnRDb25uZWN0UmVzcG9uc2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gY2FuYWRpYW5DQ1JDb252ZXJ0ZXIuYXBwbHkoaGlzdG9yaWNhbFJlcG9ydENvbm5lY3RSZXNwb25zZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBPcHRpb25PcHMuXwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>Optional</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBOdWxsYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSBudWxsCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IHs=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Optional</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMi8yLzE2Lgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBOdWxsVHJhdmVydmFsT3BlcmF0b3JzLl8K</text>
       </register>
       <register name=":" type="4">
         <text>498</text>
