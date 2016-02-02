@@ -309,10 +309,10 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454439527117">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454443668231">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReportScala.scala" timestamp="1454352115891">
         <mark key="[" line="16" column="58" />
@@ -922,11 +922,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>APPROVED</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCByID0gY29uc3VtZXJSZXBvcnQuc2FmZU1hcChfLmdldENOVHJhZGVzKS5zYWZlTWFwKF8uZ2V0Q05UcmFkZXMpLnNhZmVNYXAoXy5hc1NjYWxhKS5mbGF0dGVuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>APPROVED</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -934,32 +934,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
-      <register name="1" type="4">
-        <text>APPROVED</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbCByID0gY29uc3VtZXJSZXBvcnQuc2FmZU1hcChfLmdldENOVHJhZGVzKS5zYWZlTWFwKF8uZ2V0Q05UcmFkZXMpLnNhZmVNYXAoXy5hc1NjYWxhKS5mbGF0dGVuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihfLmlzRGVmaW5lZCkubWFwKF8uZ2V0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbAo=</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihfLmlzRGVmaW5lZCkubWFwKF8uZ2V0KQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>APPROVED</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLmZpbHRlcihfLmlzRGVmaW5lZCkubWFwKF8uZ2V0KQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBjY3IudHJhbnNmb3JtKE1vcmVGdW5jdGlvbnMudG9HdWF2YShjYW5hZGlhbkNDUkNvbnZlcnRlcikpOwo=</text>
+      <register name="5" type="4">
+        <text>map</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgT3B0aW9uYWw8SGlzdG9yaWNhbENvbnN1bWVyQ3JlZGl0UmVwb3J0PiBoaXN0b3JpY2FsQ0NSID0K</text>
+      <register name="6" type="4">
+        <text>.filter(_.isDefined).map(_.get)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihfLmlzRGVmaW5lZCkubWFwKF8uZ2V0KQo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0b0d1YXZhKCkgewogICAgICAgIEZ1bmN0aW9uMTxJbnRlZ2VyLCBTdHJpbmc+IGYgPSBtb2NrKEZ1bmN0aW9uMS5jbGFzcyk7CiAgICAgICAgU3RyaW5nIGV4cGVjdGVkID0gImV4cGVjdGVkIjsKICAgICAgICB3aGVuKGYuYXBwbHkoYW55SW50KCkpKS50aGVuUmV0dXJuKGV4cGVjdGVkKTsKCiAgICAgICAgYXNzZXJ0VGhhdChNb3JlRnVuY3Rpb25zLnRvR3VhdmEoZikuYXBwbHkoNDIpLCBlcXVhbFRvKGV4cGVjdGVkKSk7CiAgICB9</text>
+        <text>map</text>
       </register>
-      <register name="9" type="4">
-        <text>MoreFunctions.toGuava(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLmZsYXR0ZW4K</text>
       </register>
       <register name=":" type="4">
         <text>498</text>
