@@ -40,6 +40,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/util/MapOps.scala" timestamp="1454451892903">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/JodaMongoModule.java" timestamp="1453501303493">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -228,6 +233,7 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar!/scala/collection/MapLike.scala" timestamp="1454451390993" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/salesforce/ThirdPartyReportService.java" timestamp="1453402518282">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="2" column="0" />
@@ -309,10 +315,11 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454443668231">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454451105803">
+        <mark key="[" line="127" column="31" />
+        <mark key="]" line="127" column="12" />
+        <mark key="." line="127" column="12" />
+        <mark key="^" line="127" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReportScala.scala" timestamp="1454352115891">
         <mark key="[" line="16" column="58" />
@@ -506,6 +513,11 @@
         <mark key="^" line="40" column="26" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/MapOpsSpec.scala" timestamp="1454451813852">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/qd.decisionservice.properties" timestamp="1453398546400">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -523,6 +535,7 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="16" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/TaskOpsSpec.scala" timestamp="1454451617624" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/common/salesforce/dao/AbstractSalesforceApplicationObjectDAO.java" timestamp="1453822593531">
         <mark key="[" line="66" column="78" />
         <mark key="]" line="62" column="0" />
@@ -686,8 +699,8 @@
         <mark key="." line="202" column="16" />
         <mark key="^" line="202" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/OptionOpsSpec.scala" timestamp="1454428517289">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/OptionOpsSpec.scala" timestamp="1454451622245">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="0" />
       </file>
@@ -923,10 +936,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCByID0gY29uc3VtZXJSZXBvcnQuc2FmZU1hcChfLmdldENOVHJhZGVzKS5zYWZlTWFwKF8uZ2V0Q05UcmFkZXMpLnNhZmVNYXAoXy5hc1NjYWxhKS5mbGF0dGVuCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uTWFwTGlrZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -935,31 +948,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCByID0gY29uc3VtZXJSZXBvcnQuc2FmZU1hcChfLmdldENOVHJhZGVzKS5zYWZlTWFwKF8uZ2V0Q05UcmFkZXMpLnNhZmVNYXAoXy5hc1NjYWxhKS5mbGF0dGVuCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uTWFwTGlrZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihfLmlzRGVmaW5lZCkubWFwKF8uZ2V0KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihfLmlzRGVmaW5lZCkubWFwKF8uZ2V0KQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi51dGlsLk1hcE9wcy5fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihfLmlzRGVmaW5lZCkubWFwKF8uZ2V0KQo=</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>map</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMi8yLzE2Lgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>.filter(_.isDefined).map(_.get)</text>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihfLmlzRGVmaW5lZCkubWFwKF8uZ2V0KQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
-      <register name="8" type="4">
-        <text>map</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmZsYXR0ZW4K</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMi8yLzE2Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>498</text>
