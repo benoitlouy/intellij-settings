@@ -14,7 +14,7 @@
         <mark key="." line="190" column="57" />
         <mark key="^" line="190" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/pom.xml" timestamp="1454510142755">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/pom.xml" timestamp="1454513892720">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="17" column="36" />
         <mark key="." line="17" column="36" />
@@ -41,8 +41,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/util/MapOps.scala" timestamp="1454509685663">
-        <mark key="[" line="6" column="12" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/util/MapOps.scala" timestamp="1454513647481">
+        <mark key="[" line="3" column="48" />
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
@@ -967,11 +967,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5jb3JlLmNvbnN0YW50cy5Qcm9wZXJ0eUNvbnN0YW50czsK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -979,32 +979,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5jb3JlLmNvbnN0YW50cy5Qcm9wZXJ0eUNvbnN0YW50czsK</text>
+      <register name="1" type="4">
+        <text>2</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBPREFTLTI4MTogcmVtb3ZpbmcgY2hhc2UgaW1wZXJzb25hdGlvbiBmb3IgZXhwZXJpYW4gQkNSCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5jb3JlLmNvbnN0YW50cy5Qcm9wZXJ0eUNvbnN0YW50czsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5tb2RlbC54bWwuQmFzZUFkZHJlc3M7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBPREFTLTI4MTogcmVtb3ZpbmcgY2hhc2UgaW1wZXJzb25hdGlvbiBmb3IgZXhwZXJpYW4gQkNSCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5tb2RlbC54bWwuQmFzZUFkZHJlc3M7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCA5OTkzOTVjY2NhODNiMWNhOTA0ZGI3MGZkMmQ5NzM3MTg2MGU0NjliCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBPREFTLTI4MTogcmVmYWN0b3IgZXF1aWZheCBsZW5kZXIgc2VsZWN0aW9uCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5idXNpbmVzcy51dGlsLkJ1c2luZXNzQ3JlZGl0UmVwb3J0UmVxdWVzdEhlbHBlcjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCA5OTkzOTVjY2NhODNiMWNhOTA0ZGI3MGZkMmQ5NzM3MTg2MGU0NjliCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBPREFTLTI4MTogcmVmYWN0b3IgZXF1aWZheCBsZW5kZXIgc2VsZWN0aW9uCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5idXNpbmVzcy51dGlsLkJ1c2luZXNzQ3JlZGl0UmVwb3J0UmVxdWVzdEhlbHBlcjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5jb3JlLmNvbnN0YW50cy5Qcm9wZXJ0eUNvbnN0YW50czsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>498</text>
