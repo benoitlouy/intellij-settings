@@ -128,10 +128,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/util/ConnectRequestWithLocatorAuditDataExtractor.java" timestamp="1453397678599">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/util/ConnectRequestWithLocatorAuditDataExtractor.java" timestamp="1454536010658">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/client/JaxrsConnectServiceClient.java" timestamp="1453474516873">
         <mark key="[" line="208" column="13" />
@@ -192,9 +193,6 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/requestKeys/ConsumerCreditReportRequestXPaths.txt" timestamp="1454514503856">
         <mark key="[" line="15" column="61" />
-        <mark key="]" line="16" column="44" />
-        <mark key="^" line="16" column="44" />
-        <mark key="." line="16" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/ConsumerScoreRequestToCCRWithLocatorConverter.java" timestamp="1453821096712">
         <mark key="[" line="13" column="58" />
@@ -304,7 +302,7 @@
         <mark key="]" line="36" column="29" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/CreditReportServiceImpl.java" timestamp="1453907401137">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/CreditReportServiceImpl.java" timestamp="1454536448219">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
@@ -688,7 +686,7 @@
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/spring/auditBeans.xml" timestamp="1454529291048" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/spring/auditBeans.xml" timestamp="1454537160978" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/pom.xml" timestamp="1454425555789">
         <mark key="[" line="179" column="21" />
         <mark key="]" line="152" column="20" />
@@ -801,6 +799,7 @@
         <mark key="]" line="182" column="35" />
         <mark key="." line="182" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/Lender.java" timestamp="1454536595688" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1454084748736">
         <mark key="[" line="1536" column="0" />
         <mark key="]" line="1536" column="0" />
@@ -1002,10 +1001,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Service</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Service</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1014,31 +1013,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>Service</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb3VudHJ5LnZhbHVlT2YoY291bnRyeSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBwb2xpY3lDb3VudDogRGVjaXNpb24gPT4gSW50ID0gXy5nZXRSZXN1bHQuZ2V0UG9saWNpZXMuc2l6ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBvdXRjb21lOiBEZWNpc2lvbiA9PiBPdXRjb21lID0gXy5nZXRSZXN1bHQuZ2V0T3V0Y29tZQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.policyCount(decision)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChjb3VudHJ5ID09IG51bGwpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>70</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBTZXJ2aWNlLnZhbHVlT2Yoc2VydmljZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBJTlRMLTMwNjogcmVkdWNlIGNvdmVyYWdlIHRocmVzaG9sZCBpbiBjb21tb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8amFjb2NvLnRvdGFsQnJhbmNoUmF0aW8+MC43MTwvamFjb2NvLnRvdGFsQnJhbmNoUmF0aW8+Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGlmIChzZXJ2aWNlID09IG51bGwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>498</text>
