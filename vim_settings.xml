@@ -349,7 +349,7 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerify.java" timestamp="1454614394433">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerify.java" timestamp="1454615784379">
         <mark key="[" line="85" column="38" />
         <mark key="]" line="86" column="49" />
         <mark key="." line="86" column="0" />
@@ -423,11 +423,11 @@
         <mark key="." line="24" column="36" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1453997546071">
-        <mark key="[" line="496" column="27" />
-        <mark key="]" line="502" column="12" />
-        <mark key="^" line="502" column="12" />
-        <mark key="." line="502" column="12" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1454616342281">
+        <mark key="[" line="195" column="43" />
+        <mark key="]" line="195" column="43" />
+        <mark key="." line="195" column="43" />
+        <mark key="^" line="242" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/resources/resources.js" timestamp="1454077802442">
         <mark key="[" line="283" column="29" />
@@ -608,11 +608,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -620,52 +620,35 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>//    @Test
-//    public void validBusinessIdentifierType() {
-//        opportunity = SalesforceFakeData.opportunity(Country.US);
-//        opportunity.getApplication().setBusinessIdentifierType(BusinessIdentifierType.USA_TAX_ID.toString());
-//        verify(opportunity);
-//
-//        opportunity = SalesforceFakeData.opportunity(Country.CA);
-//        opportunity.getApplication().setBusinessIdentifierType(BusinessIdentifierType.CAN_HST_NUMBER.toString());
-//        verify(opportunity);
-//
-//        opportunity = SalesforceFakeData.opportunity(Country.AU);
-//        opportunity.getApplication().setBusinessIdentifierType(BusinessIdentifierType.AUS_ABN.toString());
-//        verify(opportunity);
-//
-//        opportunity = SalesforceFakeData.opportunity(Country.AU);
-//        opportunity.getApplication().setBusinessIdentifierType(BusinessIdentifierType.AUS_ACN.toString());
-//        verify(opportunity);
-//    }</text>
+        <text>BusinessIdentifierType.from(application.getBusinessIdentifierType()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0TWVzc2FnZSgiRW5jb3VudGVyZWQgMSBwcm9ibGVtIHdoaWxlIHZhbGlkYXRpbmcgT3Bwb3J0dW5pdHkgIgogICAgICAgIHRocm93bi5leHBlY3RNZXNzYWdlKCJCdXNpbmVzcyBJZGVudGlmaWVyIFR5cGUgc2hvdWxkIGJlIgogICAgICAgICAgICAgICAgKyAiIFVTQSBUYXggSWRlbnRpZmljYXRpb24gTnVtYmVyIG9yIG51bGwgZm9yIFVTLCIKICAgICAgICAgICAgICAgICsgIiBDYW5hZGlhbiBIU1QgTnVtYmVyIG9yIG51bGwgZm9yIENhbmFkYSwiCiAgICAgICAgICAgICAgICArICIgQXVzdHJhbGlhbiBCdXNpbmVzcyBOdW1iZXIgb3IgQXVzdHJhbGlhbiBDb21wYW55IE51bWJlciBmb3IgQXVzdHJhbGlhIik7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>businessIdentifierType =</text>
       </register>
       <register name="7" type="4">
-        <text>);</text>
+        <text>businessIdentifierType =</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhc1ZhbGlkQnVzaW5lc3NJZGVudGlmaWVyVHlwZSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICBidXNpbmVzcy5zZXRCdXNpbmVzc0lkZW50aWZpZXJUeXBlKGJ1c2luZXNzSWRlbnRpZmllclR5cGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>71</text>
+        <text>195</text>
       </register>
     </registers>
     <search>
@@ -688,7 +671,6 @@
         <entry>marketing</entry>
       </history-search>
       <history-cmd>
-        <entry>228</entry>
         <entry>288</entry>
         <entry>1427</entry>
         <entry>$</entry>
@@ -708,6 +690,7 @@
         <entry>498</entry>
         <entry>203</entry>
         <entry>71</entry>
+        <entry>195</entry>
       </history-cmd>
       <history-expr />
       <history-input />
