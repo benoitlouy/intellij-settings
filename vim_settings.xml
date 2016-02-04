@@ -145,6 +145,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/requestKeys/BusinessCreditReportRequestXPaths.txt" timestamp="1454514453351">
         <mark key="[" line="25" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/loan/LoanServiceJerseyTest.java" timestamp="1454622243797">
+        <mark key="[" line="125" column="57" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1454617728574">
         <mark key="[" line="395" column="8" />
         <mark key="]" line="395" column="8" />
@@ -613,8 +618,8 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>final Opportunity opportunity =</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VydE5vdE51bGwocmVxdWVzdC5tZXJjaGFudERldGFpbHMuYnVzaW5lc3NJRFR5cGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>final Opportunity opportunity =</text>
@@ -625,32 +630,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
-      <register name="1" type="4">
-        <text>final Opportunity opportunity =</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFzc2VydE5vdE51bGwocmVxdWVzdC5tZXJjaGFudERldGFpbHMuYnVzaW5lc3NJRFR5cGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG9wcG9ydHVuaXR5LmdldEJ1c2luZXNzKCkuZ2V0QnVzaW5lc3NJZGVudGlmaWVyVHlwZSgpLCBpcyhCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkNBTl9IU1RfTlVNQkVSKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZhaWwoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>US</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>USA_TAX_ID</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNlLmhlYWRlci4K</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>final Opportunity opportunity =</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG9wcG9ydHVuaXR5LmdldEJ1c2luZXNzKCkuZ2V0QnVzaW5lc3NJZGVudGlmaWVyVHlwZSgpLCBpcyhCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkNBTl9IU1RfTlVNQkVSKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>BusinessIdentifierType.from(application.getBusinessIdentifierType()</text>
+        <text>US</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="8" type="4">
+        <text>USA_TAX_ID</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>195</text>
