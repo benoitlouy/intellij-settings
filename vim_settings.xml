@@ -100,6 +100,12 @@
         <mark key="^" line="57" column="58" />
         <mark key="." line="57" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/util/CollectionOps.scala" timestamp="1454601763430">
+        <mark key="[" line="57" column="3" />
+        <mark key="]" line="62" column="16" />
+        <mark key="^" line="62" column="16" />
+        <mark key="." line="62" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/historicalreport/HistoricalCanadianConsumerCreditReportConverterTest.scala" timestamp="1454352705021">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="64" />
@@ -123,11 +129,10 @@
         <mark key="." line="57" column="104" />
         <mark key="^" line="57" column="104" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1454361071654">
-        <mark key="[" line="477" column="25" />
-        <mark key="]" line="481" column="37" />
-        <mark key="." line="481" column="37" />
-        <mark key="^" line="481" column="37" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1454601557796">
+        <mark key="[" line="873" column="0" />
+        <mark key="]" line="873" column="0" />
+        <mark key="." line="873" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/converter/historicalbusinesscreditreport/HistoricalCanadianConsumerCreditReportConverterTest.java" timestamp="1454015557596">
         <mark key="[" line="95" column="0" />
@@ -225,9 +230,6 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/requestKeys/BusinessCreditReportRequestXPaths.txt" timestamp="1454514453351">
         <mark key="[" line="25" column="69" />
-        <mark key="]" line="26" column="44" />
-        <mark key="^" line="26" column="44" />
-        <mark key="." line="26" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/USAUnderwritingConfig.java" timestamp="1453826332884">
         <mark key="[" line="55" column="2" />
@@ -627,10 +629,10 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454509610207">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1454602066198">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/consumer/equifax/us/EquifaxCCRConnectionHelperTest.java" timestamp="1452284255054">
         <mark key="[" line="47" column="39" />
@@ -729,10 +731,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/MapOpsSpec.scala" timestamp="1454596375176">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/MapOpsSpec.scala" timestamp="1454601508980">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/core/connect/ConnectRequestWithLocator.java" timestamp="1453822469069">
         <mark key="[" line="42" column="39" />
@@ -853,6 +856,12 @@
         <mark key="]" line="93" column="68" />
         <mark key="." line="93" column="68" />
         <mark key="^" line="93" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/CollectionOpsSpec.scala" timestamp="1454601825574">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/historicalreport/HistoricalConsumerCreditReport.java" timestamp="1454018736567">
         <mark key="[" line="182" column="35" />
@@ -1008,11 +1017,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>decision</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>decision</text>
+        <text>MapOps._</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1020,32 +1029,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
-      <register name="1" type="4">
-        <text>decision</text>
-      </register>
-      <register name="2" type="4">
-        <text>approved</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjb20ub25kZWNrLmFscGFjYS5jb21tb24udXRpbC5NYXBPcHMuXwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi51dGlsLk1hcE9wcy5fCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi51dGlsLk1hcE9wcy5fCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi51dGlsLk1hcE9wcy5fCg==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBjb20ub25kZWNrLmFscGFjYS5jb21tb24udXRpbC5NYXBPcHMuXwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>MapOps._</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpbXBvcnQgY29tLm9uZGVjay5hbHBhY2EuY29tbW9uLnV0aWwuTWFwT3BzLl8K</text>
+      </register>
+      <register name="8" type="4">
+        <text>decision</text>
+      </register>
+      <register name="9" type="4">
+        <text>approved</text>
       </register>
       <register name=":" type="4">
         <text>498</text>
