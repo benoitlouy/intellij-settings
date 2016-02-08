@@ -77,6 +77,7 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1454531100493" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/intl/can/UnifiedCanadaConsumerScoringFlow.java" timestamp="1454949231917" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/constants/PropertyConstants.java" timestamp="1454511537158">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -402,7 +403,7 @@
         <mark key="^" line="216" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/Lender.java" timestamp="1454536595688" />
-      <file name="/Dummy.txt" timestamp="1454695700279">
+      <file name="/Dummy.txt" timestamp="1454952132031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/core/async/extractor/ConnectAsyncIdentifierExtractorUnitTest.java" timestamp="1454100704374">
@@ -452,7 +453,7 @@
         <mark key="." line="76" column="28" />
         <mark key="^" line="76" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1454695700295">
+      <file name="/fragment.java" timestamp="1454952132053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="30" />
@@ -592,10 +593,11 @@
         <mark key="." line="8" column="41" />
         <mark key="^" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReport.java" timestamp="1453826250144">
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="29" />
-        <mark key="." line="36" column="29" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReport.java" timestamp="1454952106043">
+        <mark key="[" line="77" column="42" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+        <mark key="^" line="44" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/CreditReportServiceImpl.java" timestamp="1454536448219">
         <mark key="[" line="85" column="0" />
@@ -670,10 +672,10 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/BusinessIdentifierType.java" timestamp="1454614072909" />
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReportUnitTest.java" timestamp="1453827251164">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/core/connect/FetchOrReuseConnectReportUnitTest.java" timestamp="1454951347197">
+        <mark key="[" line="142" column="30" />
+        <mark key="]" line="142" column="30" />
+        <mark key="." line="142" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/aus/AustraliaFlowUnitTest.java" timestamp="1450799875391">
         <mark key="[" line="144" column="4" />
@@ -1021,10 +1023,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVGhpcmRQYXJ0eVJlcG9ydCgiaWQxIiwgIkVxdWlmYXgiLCAiQnVzaW5lc3NDcmVkaXRSZXBvcnQiLCAiQ0EiLCBudWxsLCBudWxsKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new UnifiedAppOwner()</text>
+        <text>? extends Repor</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1033,31 +1035,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVGhpcmRQYXJ0eVJlcG9ydCgiaWQxIiwgIkVxdWlmYXgiLCAiQnVzaW5lc3NDcmVkaXRSZXBvcnQiLCAiQ0EiLCBudWxsLCBudWxsKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>new UnifiedAppOwner()</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>private</text>
+        <text encoding="base64">Ly8gICAgICBDb25uZWN0RGF0YVBpcGVPdXRwdXQ8SGlzdG9yaWNhbFJlcG9ydDxSPj4gaGlzdG9yaWNhbE91dHB1dCA9IG51bGw7Ci8vICAgICAgaWYgKGlucHV0LmdldFByZXZpb3VzUmVwb3J0SWQoKSAhPSBudWxsKQovLyAgICAgIHsKLy8gICAgICAgIGhpc3RvcmljYWxPdXRwdXQgPSBmZXRjaFJlcG9ydEJ5SWREYXRhUGlwZS5leGVjdXRlKGlucHV0LmdldENvbm5lY3RGZXRjaEJ5SWRSZXF1ZXN0KCkpOwovLyAgICAgICAgaWYgKCFoaXN0b3JpY2FsT3V0cHV0LmlzU3VjY2VzcygpKQovLyAgICAgICAgewovLyAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihjcmVhdGVFcnJvck1lc3NhZ2UoImZhaWxlZCBmZXRjaGluZyBDb25uZWN0IHJlcG9ydCBieSBpZCIsIGhpc3RvcmljYWxPdXRwdXQpKTsKLy8gICAgICAgIH0KLy8gICAgICB9Ci8vCi8vICAgICAgaWYgKGhpc3RvcmljYWxPdXRwdXQgIT0gbnVsbAovLyAgICAgICAgICAmJiBEYXlzLmRheXNCZXR3ZWVuKGhpc3RvcmljYWxPdXRwdXQuZ2V0UmVzcG9uc2UoKS5nZXRQYXlsb2FkKCkuZ2V0RmV0Y2hlZFRpbWUoKSwgRGF0ZVRpbWUubm93KCkpCi8vICAgICAgICAgIC5pc0xlc3NUaGFuKFJFUE9SVF9SRVVTRV9USU1FKSkKLy8gICAgICB7Ci8vICAgICAgICByZXR1cm4gaGlzdG9yaWNhbE91dHB1dC5nZXRSZXNwb25zZSgpOwovLyAgICAgIH0KLy8KLy8gICAgICBDb25uZWN0RGF0YVBpcGVPdXRwdXQ8UmVwb3J0PFI+PiBvdXRwdXQgPSBmZXRjaFJlcG9ydERhdGFQaXBlLmV4ZWN1dGUoaW5wdXQuZ2V0Q29ubmVjdEZldGNoUmVxdWVzdCgpKTsKLy8gICAgICBpZiAoIW91dHB1dC5pc1N1Y2Nlc3MoKSkKLy8gICAgICB7Ci8vICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihjcmVhdGVFcnJvck1lc3NhZ2UoImZhaWxlZCBmZXRjaGluZyBDb25uZWN0IHJlcG9ydCIsIG91dHB1dCkpOwovLyAgICAgIH0KLy8gICAgICByZXR1cm4gb3V0cHV0LmdldFJlc3BvbnNlKCk7</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>? extends Repor</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICArIENvbm5lY3RSZXF1ZXN0V2l0aExvY2F0b3JBdWRpdG9yci5SRVBPUlRfVFlQRSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBMTy0xNjE5OiBBbGwgaW50ZWdyYXRpb24gdGVzdHMgcGFzc2luZwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Q29ubmVjdERhdGFQaXBlT3V0cHV0PEhpc3RvcmljYWxSZXBvcnQ8Uj4+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5xdWlja0RlY2xpbmUob3Bwb3J0dW5pdHkoKSwgYWxwYWNhVXNlci5nZXRJZCgpLCBFdmFsdWF0aW9uVHlwZS5GSVJTVF9SVU4pOwo=</text>
+      <register name="7" type="4">
+        <text>historicalOutput</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBPcHBvcnR1bml0eUV4Y2VwdGlvblBhaXIgb3JpZ2luYWxSZXN1bHQgPSBuZXcgRGVjaXNpb25TZXJ2aWNlKG1vY2tEZWNpc2lvblRhc2tzRm9yKG9wcG9ydHVuaXR5KCksIGRlY2lkZXJzKSkK</text>
+        <text encoding="base64">ICBwcml2YXRlIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>195</text>
