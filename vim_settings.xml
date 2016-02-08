@@ -646,6 +646,11 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerify.java" timestamp="1454963681955">
+        <mark key="[" line="375" column="87" />
+        <mark key="]" line="375" column="87" />
+        <mark key="." line="375" column="87" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/provider/DecisionTreeProvider.java" timestamp="1453910909697">
         <mark key="[" line="94" column="16" />
         <mark key="]" line="94" column="16" />
@@ -915,11 +920,11 @@
         <mark key="]" line="56" column="27" />
         <mark key="." line="56" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerifyTest.java" timestamp="1454614465284">
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="^" line="350" column="62" />
-        <mark key="." line="378" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerifyTest.java" timestamp="1454963856680">
+        <mark key="[" line="356" column="46" />
+        <mark key="]" line="356" column="45" />
+        <mark key="^" line="356" column="45" />
+        <mark key="." line="356" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -1025,11 +1030,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>? extends Repor</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1037,35 +1042,35 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>return</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gICAgICBDb25uZWN0RGF0YVBpcGVPdXRwdXQ8SGlzdG9yaWNhbFJlcG9ydDxSPj4gaGlzdG9yaWNhbE91dHB1dCA9IG51bGw7Ci8vICAgICAgaWYgKGlucHV0LmdldFByZXZpb3VzUmVwb3J0SWQoKSAhPSBudWxsKQovLyAgICAgIHsKLy8gICAgICAgIGhpc3RvcmljYWxPdXRwdXQgPSBmZXRjaFJlcG9ydEJ5SWREYXRhUGlwZS5leGVjdXRlKGlucHV0LmdldENvbm5lY3RGZXRjaEJ5SWRSZXF1ZXN0KCkpOwovLyAgICAgICAgaWYgKCFoaXN0b3JpY2FsT3V0cHV0LmlzU3VjY2VzcygpKQovLyAgICAgICAgewovLyAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihjcmVhdGVFcnJvck1lc3NhZ2UoImZhaWxlZCBmZXRjaGluZyBDb25uZWN0IHJlcG9ydCBieSBpZCIsIGhpc3RvcmljYWxPdXRwdXQpKTsKLy8gICAgICAgIH0KLy8gICAgICB9Ci8vCi8vICAgICAgaWYgKGhpc3RvcmljYWxPdXRwdXQgIT0gbnVsbAovLyAgICAgICAgICAmJiBEYXlzLmRheXNCZXR3ZWVuKGhpc3RvcmljYWxPdXRwdXQuZ2V0UmVzcG9uc2UoKS5nZXRQYXlsb2FkKCkuZ2V0RmV0Y2hlZFRpbWUoKSwgRGF0ZVRpbWUubm93KCkpCi8vICAgICAgICAgIC5pc0xlc3NUaGFuKFJFUE9SVF9SRVVTRV9USU1FKSkKLy8gICAgICB7Ci8vICAgICAgICByZXR1cm4gaGlzdG9yaWNhbE91dHB1dC5nZXRSZXNwb25zZSgpOwovLyAgICAgIH0KLy8KLy8gICAgICBDb25uZWN0RGF0YVBpcGVPdXRwdXQ8UmVwb3J0PFI+PiBvdXRwdXQgPSBmZXRjaFJlcG9ydERhdGFQaXBlLmV4ZWN1dGUoaW5wdXQuZ2V0Q29ubmVjdEZldGNoUmVxdWVzdCgpKTsKLy8gICAgICBpZiAoIW91dHB1dC5pc1N1Y2Nlc3MoKSkKLy8gICAgICB7Ci8vICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihjcmVhdGVFcnJvck1lc3NhZ2UoImZhaWxlZCBmZXRjaGluZyBDb25uZWN0IHJlcG9ydCIsIG91dHB1dCkpOwovLyAgICAgIH0KLy8gICAgICByZXR1cm4gb3V0cHV0LmdldFJlc3BvbnNlKCk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>? extends Repor</text>
+        <text encoding="base64">Ly8gICAgICBDb25uZWN0RGF0YVBpcGVPdXRwdXQ8SGlzdG9yaWNhbFJlcG9ydDxSPj4gaGlzdG9yaWNhbE91dHB1dCA9IG51bGw7Ci8vICAgICAgaWYgKGlucHV0LmdldFByZXZpb3VzUmVwb3J0SWQoKSAhPSBudWxsKQovLyAgICAgIHsKLy8gICAgICAgIGhpc3RvcmljYWxPdXRwdXQgPSBmZXRjaFJlcG9ydEJ5SWREYXRhUGlwZS5leGVjdXRlKGlucHV0LmdldENvbm5lY3RGZXRjaEJ5SWRSZXF1ZXN0KCkpOwovLyAgICAgICAgaWYgKCFoaXN0b3JpY2FsT3V0cHV0LmlzU3VjY2VzcygpKQovLyAgICAgICAgewovLyAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihjcmVhdGVFcnJvck1lc3NhZ2UoImZhaWxlZCBmZXRjaGluZyBDb25uZWN0IHJlcG9ydCBieSBpZCIsIGhpc3RvcmljYWxPdXRwdXQpKTsKLy8gICAgICAgIH0KLy8gICAgICB9Ci8vCi8vICAgICAgaWYgKGhpc3RvcmljYWxPdXRwdXQgIT0gbnVsbAovLyAgICAgICAgICAmJiBEYXlzLmRheXNCZXR3ZWVuKGhpc3RvcmljYWxPdXRwdXQuZ2V0UmVzcG9uc2UoKS5nZXRQYXlsb2FkKCkuZ2V0RmV0Y2hlZFRpbWUoKSwgRGF0ZVRpbWUubm93KCkpCi8vICAgICAgICAgIC5pc0xlc3NUaGFuKFJFUE9SVF9SRVVTRV9USU1FKSkKLy8gICAgICB7Ci8vICAgICAgICByZXR1cm4gaGlzdG9yaWNhbE91dHB1dC5nZXRSZXNwb25zZSgpOwovLyAgICAgIH0KLy8KLy8gICAgICBDb25uZWN0RGF0YVBpcGVPdXRwdXQ8UmVwb3J0PFI+PiBvdXRwdXQgPSBmZXRjaFJlcG9ydERhdGFQaXBlLmV4ZWN1dGUoaW5wdXQuZ2V0Q29ubmVjdEZldGNoUmVxdWVzdCgpKTsKLy8gICAgICBpZiAoIW91dHB1dC5pc1N1Y2Nlc3MoKSkKLy8gICAgICB7Ci8vICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihjcmVhdGVFcnJvck1lc3NhZ2UoImZhaWxlZCBmZXRjaGluZyBDb25uZWN0IHJlcG9ydCIsIG91dHB1dCkpOwovLyAgICAgIH0KLy8gICAgICByZXR1cm4gb3V0cHV0LmdldFJlc3BvbnNlKCk7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>? extends Repor</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Q29ubmVjdERhdGFQaXBlT3V0cHV0PEhpc3RvcmljYWxSZXBvcnQ8Uj4+</text>
-      </register>
-      <register name="7" type="4">
-        <text>historicalOutput</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIAo=</text>
-      </register>
-      <register name="9" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">Q29ubmVjdERhdGFQaXBlT3V0cHV0PEhpc3RvcmljYWxSZXBvcnQ8Uj4+</text>
+      </register>
+      <register name="8" type="4">
+        <text>historicalOutput</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcml2YXRlIAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>195</text>
+        <text>374</text>
       </register>
     </registers>
     <search>
@@ -1088,7 +1093,6 @@
         <entry>marketing</entry>
       </history-search>
       <history-cmd>
-        <entry>288</entry>
         <entry>1427</entry>
         <entry>$</entry>
         <entry>313</entry>
@@ -1108,6 +1112,7 @@
         <entry>203</entry>
         <entry>71</entry>
         <entry>195</entry>
+        <entry>374</entry>
       </history-cmd>
       <history-expr />
       <history-input />
