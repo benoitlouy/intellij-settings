@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/OnDeck/loanservicing/build.gradle" timestamp="1455208443300">
+        <mark key="[" line="249" column="50" />
+        <mark key="]" line="249" column="50" />
+        <mark key="." line="249" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/FetchOrReuseConnectReport.java" timestamp="1453319914093">
         <mark key="[" line="22" column="35" />
         <mark key="]" line="22" column="35" />
@@ -265,6 +270,7 @@
         <mark key="]" line="95" column="82" />
         <mark key="." line="95" column="81" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/odc/loanservicing/api/client/LoanServiceClient.java" timestamp="1455207788226" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/pom.xml" timestamp="1454360320077">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="16" column="34" />
@@ -1034,10 +1040,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1.77-SNAPSHOT</text>
+        <text>-26dbb74a3ecc0ff25bf48045753c23c9abf450c7</text>
       </register>
       <register name="-" type="4">
-        <text>1.77-SNAPSHOT</text>
+        <text>-26dbb74a3ecc0ff25bf48045753c23c9abf450c7</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1046,31 +1052,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
       <register name="1" type="4">
-        <text>1.77-SNAPSHOT</text>
+        <text>-26dbb74a3ecc0ff25bf48045753c23c9abf450c7</text>
       </register>
       <register name="2" type="4">
-        <text>times</text>
+        <text>1.77-SNAPSHOT</text>
       </register>
       <register name="3" type="4">
-        <text>expectedCountry</text>
+        <text>times</text>
       </register>
       <register name="4" type="4">
-        <text>expectedVendor</text>
+        <text>expectedCountry</text>
       </register>
       <register name="5" type="4">
-        <text>auditReport.getInputs().iterator().next().getData().get</text>
+        <text>expectedVendor</text>
       </register>
       <register name="6" type="4">
+        <text>auditReport.getInputs().iterator().next().getData().get</text>
+      </register>
+      <register name="7" type="4">
         <text>expectedService</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>ConnectRequestAuditor</text>
-      </register>
       <register name="9" type="4">
-        <text>Object</text>
+        <text>ConnectRequestAuditor</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
