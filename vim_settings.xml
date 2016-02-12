@@ -8,6 +8,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/test/integration/java/com/odc/datapipes/flow/audit/TimedAuditVisitorIntegrationTest.java" timestamp="1455303021313">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/pom.xml" timestamp="1454533989621">
         <mark key="[" line="17" column="35" />
         <mark key="]" line="17" column="35" />
@@ -88,10 +93,11 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/CollectionAuditor.java" timestamp="1453386265488">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/CollectionAuditor.java" timestamp="1455303685410">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="62" />
+        <mark key="." line="15" column="62" />
+        <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/merger/AddReplyToInfoToConnectRequestUnitTest.java" timestamp="1454100761135">
         <mark key="[" line="58" column="0" />
@@ -324,6 +330,7 @@
         <mark key="]" line="448" column="0" />
         <mark key="." line="448" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/auditor/ConnectRequestWithLocatorAuditor.java" timestamp="1455303679678" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/OptionOpsSpec.scala" timestamp="1454451622245">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="3" column="18" />
@@ -366,6 +373,12 @@
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/util/CollectionReportAuditDataExtractor.java" timestamp="1455303832033">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/salesforce/ThirdPartyReportServiceImplTest.java" timestamp="1453404287182">
         <mark key="[" line="45" column="0" />
@@ -560,11 +573,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyByZXF1ZXN0SWQgPSBleHRyYWN0b3IuZ2V0RGF0YUlkKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TYPE_PREFIX</text>
       </register>
       <register name="-" type="4">
-        <text>-26dbb74a3ecc0ff25bf48045753c23c9abf450c7</text>
+        <text>TYPE_PREFIX</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -572,32 +585,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyByZXF1ZXN0SWQgPSBleHRyYWN0b3IuZ2V0RGF0YUlkKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>TYPE_PREFIX</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFJ1bnRpbWVFeGNlcHRpb24uY2xhc3MpOwo=</text>
+      <register name="2" type="4">
+        <text>report.getType().startsWith(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzCg==</text>
+      <register name="3" type="4">
+        <text />
       </register>
       <register name="4" type="4">
-        <text>-26dbb74a3ecc0ff25bf48045753c23c9abf450c7</text>
+        <text>private</text>
       </register>
-      <register name="5" type="4">
-        <text>1.77-SNAPSHOT</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKHJlcG9ydCkK</text>
       </register>
       <register name="6" type="4">
-        <text>times</text>
+        <text>extends AuditReportDataExtractor</text>
       </register>
-      <register name="7" type="4">
-        <text>expectedCountry</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>expectedVendor</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAyLzEyLzE2Lgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>auditReport.getInputs().iterator().next().getData().get</text>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
