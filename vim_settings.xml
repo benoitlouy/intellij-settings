@@ -8,11 +8,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/test/integration/java/com/odc/datapipes/flow/audit/TimedAuditVisitorIntegrationTest.java" timestamp="1455304623454">
-        <mark key="[" line="242" column="75" />
-        <mark key="]" line="244" column="36" />
-        <mark key="." line="244" column="36" />
-        <mark key="^" line="244" column="36" />
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/test/integration/java/com/odc/datapipes/flow/audit/TimedAuditVisitorIntegrationTest.java" timestamp="1455313091197">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/pom.xml" timestamp="1454533989621">
         <mark key="[" line="17" column="35" />
@@ -38,6 +37,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/AuditVisitor.java" timestamp="1455312733498">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/JodaMongoModule.java" timestamp="1453501303493">
         <mark key="[" line="20" column="0" />
@@ -186,6 +190,12 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/test/integration/java/com/odc/datapipes/flow/audit/AuditVisitorIntegrationTest.java" timestamp="1455312919079">
+        <mark key="[" line="258" column="23" />
+        <mark key="]" line="258" column="23" />
+        <mark key="^" line="258" column="25" />
+        <mark key="." line="258" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/salesforce/ThirdPartyReportServiceImplTest.java" timestamp="1453404287182">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -282,6 +292,12 @@
         <mark key="]" line="110" column="18" />
         <mark key="." line="110" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/TimedAuditVisitor.java" timestamp="1455312153664">
+        <mark key="[" line="56" column="72" />
+        <mark key="]" line="56" column="50" />
+        <mark key="^" line="56" column="50" />
+        <mark key="." line="56" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/common/converter/GetPreviousConnectReportLocator.java" timestamp="1453752518254">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="10" column="0" />
@@ -357,10 +373,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455310697406">
-        <mark key="[" line="292" column="20" />
-        <mark key="]" line="292" column="20" />
-        <mark key="." line="292" column="20" />
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455313513403">
+        <mark key="[" line="255" column="57" />
+        <mark key="]" line="255" column="57" />
+        <mark key="." line="255" column="57" />
+        <mark key="^" line="255" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelperTest.java" timestamp="1452282658942">
         <mark key="[" line="43" column="51" />
@@ -588,11 +605,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>auditReports.iterator().next()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>auditReports.iterator().next()</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -600,32 +617,45 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlc3VsdC5zZXRUeXBlKFRZUEVfUFJFRklYICsgZGVsZWdhdGUuZ2V0VHlwZSgpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>auditReports.iterator().next()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgIGJvb2xlYW4gc3ViU3RlcElucHV0SXNBU3RlcFJldHVybmluZ0FDb2xsZWN0aW9uID0gaXNBdWRpdGVkUGFyZW50U3RlcEFNdWx0aVN0ZXAoc3RlcCwgc3ViQXVkaXRSZXBvcnRzLnNpemUoKSwKICAgICAgICAgICAgICAgICAgUHJlZGljYXRlcy48Rmxvd1N0ZXA8Pz4+YWx3YXlzVHJ1ZSgpKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gICAgICBlbHNlIGlmIChjdXJyZW50U3RlcC5nZXRQYXJlbnRTdGVwKCkgaW5zdGFuY2VvZiBJbnRlcm1lZGlhcnlGbG93U3RlcCkKLy8gICAgICB7Ci8vICAgICAgICBjdXJyZW50U3RlcCA9IChJbnRlcm1lZGlhcnlGbG93U3RlcDw/LCA/PikgY3VycmVudFN0ZXAuZ2V0UGFyZW50U3RlcCgpOwovLyAgICAgIH0KLy8gICAgICBlbHNlCi8vICAgICAgewovLyAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChwYXJlbnRTdGVwICE9IG51bGwgJiYgcGFyZW50U3RlcCBpbnN0YW5jZW9mIEludGVybWVkaWFyeUZsb3dTdGVwKQovLyAgICAgICAgewovLyAgICAgICAgICBjdXJyZW50U3RlcCA9IChJbnRlcm1lZGlhcnlGbG93U3RlcDw/LCA/PikgcGFyZW50U3RlcDsKLy8gICAgICAgIH0KLy8gICAgICAgIGVsc2UKLy8gICAgICAgIHsKLy8gICAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+      <register name="5" type="4">
+        <text>//        for (AuditReportType subAuditReport : subAuditReports)
+//        {
+//          if (subStepInputIsAMultiStep)
+//          {
+//            if (inputsIterator.hasNext())
+//            {
+//              subAuditReport.getInputs().add(inputsIterator.next());
+//            }
+//          }
+//          else
+//          {
+//            subAuditReport.setInputs(inputs);
+//          }
+//        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcHBsaWNhdGlvbi5nZXRJZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc29jaWF0ZURlY2lzaW9uSGFuZGxlci5hc3NvY2lhdGUocmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcHBsaWNhdGlvbi5nZXRJZCgpKTtkZAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3QoKSB0aHJvd3MgRmxvd0V4Y2VwdGlvbgogIHsKICAgIERhdGFQcm92aWRlclN0ZXA8TGlzdDxJbnRlZ2VyPj4gaW5wdXQgPSBuZXcgRGF0YVByb3ZpZGVyU3RlcDw+KG5ldyBUeXBlVG9rZW48TGlzdDxJbnRlZ2VyPj4oKSB7fSk7CgogICAgSW50ZXJtZWRpYXJ5Rmxvd1N0ZXBJbXBsPEludGVnZXIsIEludGVnZXI+IHN1YlN0ZXAgPSBuZXcgRnVuY3Rpb25TdGVwPD4oCiAgICAgICAgICAgIG5ldyBGdW5jdGlvbjxJbnRlZ2VyLCBJbnRlZ2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgSW50ZWdlciBhcHBseShJbnRlZ2VyIGlucHV0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaW5wdXQgKyAxOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwgbnVsbCwgVHlwZVRva2VuLm9mKEludGVnZXIuY2xhc3MpKTsKCiAgICBGbG93U3RlcDxBcnJheUxpc3Q8SW50ZWdlcj4+IGluYyA9IG5ldyBNdWx0aVN0ZXA8PihzdWJTdGVwLCBpbnB1dCwgbmV3IFR5cGVUb2tlbjxBcnJheUxpc3Q8SW50ZWdlcj4+KCkge30pOwoKICAgIEF1ZGl0Q29uZmlndXJhdGlvbiBhdWRpdENvbmZpZ3VyYXRpb24gPSBuZXcgQXVkaXRDb25maWd1cmF0aW9uKCk7CiAgICBhdWRpdENvbmZpZ3VyYXRpb24uYWRkQXVkaXRvcihpbnB1dCwgaW50ZWdlckxpc3RBdWRpdG9yKTsKICAgIGF1ZGl0Q29uZmlndXJhdGlvbi5hZGRBdWRpdG9yKGluYywgaW50ZWdlckF1ZGl0b3IpOwoKICAgIExpc3Q8RXhlY3V0ZVZpc2l0b3I8QXJyYXlMaXN0PEludGVnZXI+Pj4gZXhlY3V0ZVZpc2l0b3JzID0gZ2V0RXhlY3V0ZVZpc2l0b3JzKCk7CiAgICBmb3IgKEV4ZWN1dGVWaXNpdG9yPEFycmF5TGlzdDxJbnRlZ2VyPj4gZXhlY3V0ZVZpc2l0b3I6IGV4ZWN1dGVWaXNpdG9ycykKICAgIHsKICAgICAgTGlzdGVuZXIgbGlzdGVuZXIgPSBuZXcgTGlzdGVuZXIoKTsKICAgICAgZXhlY3V0ZVZpc2l0b3IuYWRkTGlzdGVuZXIobGlzdGVuZXIpOwogICAgICBleGVjdXRlVmlzaXRvci5hZGRJbnB1dChuZXcgVHlwZVRva2VuPExpc3Q8SW50ZWdlcj4+KCkge30sIExpc3RzLm5ld0FycmF5TGlzdCgxLCAyLCAzKSk7CgogICAgICBleGVjdXRlVmlzaXRvci5leGVjdXRlKGluYyk7CgogICAgICBUaW1lZEF1ZGl0VmlzaXRvcjxMb25nPiBhdWRpdFZpc2l0b3IgPQogICAgICAgICAgICAgIG5ldyBUaW1lZEF1ZGl0VmlzaXRvcjw+KGV4ZWN1dGVWaXNpdG9yLmdldFN0ZXBSZXN1bHRzKCksIGF1ZGl0Q29uZmlndXJhdGlvbiwKICAgICAgICAgICAgICAgICAgICAgIGxpc3RlbmVyLmdldFRpbWluZ3MoKSk7CgogICAgICBDb2xsZWN0aW9uPFRpbWVkQXVkaXRSZXBvcnQ8TG9uZz4+IGF1ZGl0UmVwb3J0cyA9IGF1ZGl0VmlzaXRvci5hdWRpdChpbmMpOwoKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGF1ZGl0UmVwb3J0cyk7CiAgICB9CiAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+      <register name="9" type="4">
+        <text>[</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
