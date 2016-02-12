@@ -357,6 +357,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455310697406">
+        <mark key="[" line="292" column="20" />
+        <mark key="]" line="292" column="20" />
+        <mark key="." line="292" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelperTest.java" timestamp="1452282658942">
         <mark key="[" line="43" column="51" />
         <mark key="]" line="69" column="0" />
@@ -584,10 +589,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8gICAgICBlbHNlIGlmIChjdXJyZW50U3RlcC5nZXRQYXJlbnRTdGVwKCkgaW5zdGFuY2VvZiBJbnRlcm1lZGlhcnlGbG93U3RlcCkKLy8gICAgICB7Ci8vICAgICAgICBjdXJyZW50U3RlcCA9IChJbnRlcm1lZGlhcnlGbG93U3RlcDw/LCA/PikgY3VycmVudFN0ZXAuZ2V0UGFyZW50U3RlcCgpOwovLyAgICAgIH0KLy8gICAgICBlbHNlCi8vICAgICAgewovLyAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICAgIH0=</text>
+        <text>auditReports.iterator().next()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VFlQRV9QUkVGSVggKyA=</text>
+        <text>auditReports.iterator().next()</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -596,31 +601,31 @@
         <text encoding="base64">ICAgIHJlc3VsdC5zZXRUeXBlKFRZUEVfUFJFRklYICsgZGVsZWdhdGUuZ2V0VHlwZSgpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Ly8gICAgICBlbHNlIGlmIChjdXJyZW50U3RlcC5nZXRQYXJlbnRTdGVwKCkgaW5zdGFuY2VvZiBJbnRlcm1lZGlhcnlGbG93U3RlcCkKLy8gICAgICB7Ci8vICAgICAgICBjdXJyZW50U3RlcCA9IChJbnRlcm1lZGlhcnlGbG93U3RlcDw/LCA/PikgY3VycmVudFN0ZXAuZ2V0UGFyZW50U3RlcCgpOwovLyAgICAgIH0KLy8gICAgICBlbHNlCi8vICAgICAgewovLyAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICAgIH0=</text>
+        <text>auditReports.iterator().next()</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgIGJvb2xlYW4gc3ViU3RlcElucHV0SXNBU3RlcFJldHVybmluZ0FDb2xsZWN0aW9uID0gaXNBdWRpdGVkUGFyZW50U3RlcEFNdWx0aVN0ZXAoc3RlcCwgc3ViQXVkaXRSZXBvcnRzLnNpemUoKSwKICAgICAgICAgICAgICAgICAgUHJlZGljYXRlcy48Rmxvd1N0ZXA8Pz4+YWx3YXlzVHJ1ZSgpKTs=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gICAgICBlbHNlIGlmIChjdXJyZW50U3RlcC5nZXRQYXJlbnRTdGVwKCkgaW5zdGFuY2VvZiBJbnRlcm1lZGlhcnlGbG93U3RlcCkKLy8gICAgICB7Ci8vICAgICAgICBjdXJyZW50U3RlcCA9IChJbnRlcm1lZGlhcnlGbG93U3RlcDw/LCA/PikgY3VycmVudFN0ZXAuZ2V0UGFyZW50U3RlcCgpOwovLyAgICAgIH0KLy8gICAgICBlbHNlCi8vICAgICAgewovLyAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICAgIH0=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">Ly8gICAgICAgIGlmIChwYXJlbnRTdGVwICE9IG51bGwgJiYgcGFyZW50U3RlcCBpbnN0YW5jZW9mIEludGVybWVkaWFyeUZsb3dTdGVwKQovLyAgICAgICAgewovLyAgICAgICAgICBjdXJyZW50U3RlcCA9IChJbnRlcm1lZGlhcnlGbG93U3RlcDw/LCA/PikgcGFyZW50U3RlcDsKLy8gICAgICAgIH0KLy8gICAgICAgIGVsc2UKLy8gICAgICAgIHsKLy8gICAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcHBsaWNhdGlvbi5nZXRJZCgpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGFzc29jaWF0ZURlY2lzaW9uSGFuZGxlci5hc3NvY2lhdGUocmVxdWVzdCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcHBsaWNhdGlvbi5nZXRJZCgpKTtkZAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5zZXRUeXBlKGRlbGVnYXRlLmdldFR5cGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
