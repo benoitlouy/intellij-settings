@@ -8,10 +8,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/test/integration/java/com/odc/datapipes/flow/audit/TimedAuditVisitorIntegrationTest.java" timestamp="1455303021313">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/test/integration/java/com/odc/datapipes/flow/audit/TimedAuditVisitorIntegrationTest.java" timestamp="1455304623454">
+        <mark key="[" line="242" column="75" />
+        <mark key="]" line="244" column="36" />
+        <mark key="." line="244" column="36" />
+        <mark key="^" line="244" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/pom.xml" timestamp="1454533989621">
         <mark key="[" line="17" column="35" />
@@ -265,10 +266,10 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455302479629">
-        <mark key="[" line="286" column="7" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455305020996">
+        <mark key="[" line="244" column="5" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelperTest.java" timestamp="1452282658942">
         <mark key="[" line="43" column="51" />
@@ -375,10 +376,10 @@
         <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/audit/util/CollectionReportAuditDataExtractor.java" timestamp="1455303832033">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/salesforce/ThirdPartyReportServiceImplTest.java" timestamp="1453404287182">
         <mark key="[" line="45" column="0" />
@@ -449,10 +450,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/associate/decision/AssociateDecisionHandler.java" timestamp="1455302149388">
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="." line="212" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/associate/decision/AssociateDecisionHandler.java" timestamp="1455304139940">
+        <mark key="[" line="182" column="9" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/intl/can/CanadaConsumerScoringModelRequestMerger.java" timestamp="1453313347775">
         <mark key="[" line="56" column="27" />
@@ -573,11 +574,11 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TYPE_PREFIX</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEZsb3dTdGVwPD4K</text>
       </register>
       <register name="-" type="4">
-        <text>TYPE_PREFIX</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -585,32 +586,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEhpc3RvcmljYWxDb25zdW1lckNyZWRpdFJlcG9ydD4gaGlzdG9yaWNhbENDUiA9CiAgICAgICAgICAgICAgICAgICAgICAgIGNjci50cmFuc2Zvcm0oTW9yZUZ1bmN0aW9ucy50b0d1YXZhKGNhbmFkaWFuQ0NSQ29udmVydGVyKSk7</text>
       </register>
-      <register name="1" type="4">
-        <text>TYPE_PREFIX</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEZsb3dTdGVwPD4K</text>
       </register>
-      <register name="2" type="4">
-        <text>report.getType().startsWith(</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEZsb3dTdGVwPD8+IGN1cnJlbnRTdGVwCg==</text>
       </register>
-      <register name="3" type="4">
-        <text />
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJyZW50U3RlcCA9IAo=</text>
       </register>
       <register name="4" type="4">
-        <text>private</text>
+        <text>add</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHJlcG9ydCkK</text>
+      <register name="5" type="4">
+        <text>MultiStep</text>
       </register>
       <register name="6" type="4">
-        <text>extends AuditReportDataExtractor</text>
+        <text>TYPE_PREFIX</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="7" type="4">
+        <text>report.getType().startsWith(</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAyLzEyLzE2Lgo=</text>
+      <register name="8" type="4">
+        <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="9" type="4">
+        <text>private</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
