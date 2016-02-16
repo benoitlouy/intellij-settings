@@ -217,6 +217,9 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/requestKeys/BusinessCreditReportRequestXPaths.txt" timestamp="1454514453351">
         <mark key="[" line="25" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/loan/LoanServiceJerseyTest.java" timestamp="1455638249721">
+        <mark key="[" line="134" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1455221773364">
         <mark key="[" line="394" column="8" />
         <mark key="]" line="394" column="0" />
@@ -410,8 +413,10 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/LoanService.java" timestamp="1455637445366">
-        <mark key="[" line="373" column="3" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/LoanService.java" timestamp="1455638147811">
+        <mark key="[" line="410" column="0" />
+        <mark key="]" line="410" column="0" />
+        <mark key="." line="410" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/util/OptionOpsSpec.scala" timestamp="1454451622245">
         <mark key="[" line="4" column="0" />
@@ -600,8 +605,8 @@
       <jump line="101" column="74" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -612,32 +617,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlc3VsdC5zZXRUeXBlKFRZUEVfUFJFRklYICsgZGVsZWdhdGUuZ2V0VHlwZSgpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>(</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text encoding="base64">ICAgIG1lcmNoYW50RGV0YWlscy5tZXJjaGFudElkID0gYnVzaW5lc3MuZ2V0TWVyY2hhbnQoKTsKICAgIG1lcmNoYW50RGV0YWlscy5tZXJjaGFudE5hbWUgPSBidXNpbmVzcy5nZXRMZWdhbE5hbWUoKTsKICAgIG1lcmNoYW50RGV0YWlscy5lbWFpbCA9IG1lcmNoYW50VXNlci5nZXRVc2VyQWNjb3VudCgpLmdldEVtYWlsKCk7CiAgICBtZXJjaGFudERldGFpbHMuY29udGFjdE5hbWUgPSBvd25lci5nZXRGdWxsTmFtZSgpOwogICAgbWVyY2hhbnREZXRhaWxzLnJvdXRpbmdOdW1iZXIgPSBiYW5rQWNjb3VudC5nZXRSb3V0aW5nTnVtYmVyKCk7CiAgICBtZXJjaGFudERldGFpbHMuYWNjb3VudE51bWJlciA9IHNlY3VyaXR5U2VydmljZS5kZWNyeXB0KGJhbmtBY2NvdW50LmdldEFjY291bnROdW1iZXIoKSk7CiAgICBtZXJjaGFudERldGFpbHMudGF4SWQgPSBzZWN1cml0eVNlcnZpY2UuZGVjcnlwdChidXNpbmVzcy5nZXRUYXhJZCgpKTs=</text>
       </register>
-      <register name="4" type="4">
-        <text>z</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3QubWVyY2hhbnREZXRhaWxzID0gbWVyY2hhbnREZXRhaWxzOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE1lcmNoYW50RGV0YWlscyBtZXJjaGFudERldGFpbHMgPSBuZXcgTWVyY2hhbnREZXRhaWxzKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZChjb3B5QXVkaXRSZXBvcnRBbmRSZXBsYWNlRGF0YShhdWRpdFJlcG9ydCwgbykpOwo=</text>
+        <text encoding="base64">ICAgIERlY2lzaW9uT3duZXIgZGVjaXNpb25Pd25lciA9IGNvbnRyYWN0LmdldE93bmVyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbGxlY3Rpb248QXVkaXRSZXBvcnRUeXBlPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oZGF0YUNvbC5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIERlY2lzaW9uQnVzaW5lc3MgYnVzaW5lc3MgPSBjb250cmFjdC5nZXRCdXNpbmVzcygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
