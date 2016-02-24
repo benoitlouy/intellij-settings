@@ -164,7 +164,7 @@
         <mark key="]" line="773" column="0" />
         <mark key="." line="773" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1455819409845">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1456334490853">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="36" />
@@ -200,6 +200,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/config/WebJacksonJsonProvider.java" timestamp="1456331435675" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/CreditReportServiceImpl.java" timestamp="1454536448219">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -224,6 +225,12 @@
         <mark key="[" line="30" column="27" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1456333440249">
+        <mark key="[" line="132" column="20" />
+        <mark key="]" line="132" column="24" />
+        <mark key="." line="132" column="24" />
+        <mark key="^" line="132" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/consumer/equifax/us/EquifaxCCRConnectionHelperTest.java" timestamp="1452284255054">
         <mark key="[" line="47" column="39" />
@@ -417,11 +424,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/historicalreport/HistoricalCanadianConsumerCreditReportConverterSpec.scala" timestamp="1456329916004">
-        <mark key="[" line="783" column="8" />
-        <mark key="]" line="787" column="64" />
-        <mark key="." line="787" column="64" />
-        <mark key="^" line="787" column="64" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/historicalreport/HistoricalCanadianConsumerCreditReportConverterSpec.scala" timestamp="1456334565659">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/DecisionManagement.java" timestamp="1455141429454">
         <mark key="[" line="32" column="0" />
@@ -474,6 +480,11 @@
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/pom.xml" timestamp="1456334595736">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/business/BCRScoreFlow.java" timestamp="1450797846808">
         <mark key="[" line="120" column="0" />
@@ -713,10 +724,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzYy5jb3JwLnNlYXJjaC5Qcm9jZXNzUHJlU2VhcmNoT3JkZXJSZXF1ZXN0Owo=</text>
+        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>esc-corp-search-model</text>
+        <text>println(</text>
       </register>
       <register name="/" type="4">
         <text>soapenc</text>
@@ -725,31 +736,31 @@
         <text encoding="base64">ICAgICAgICBkZWYgdmVuZG9yTW9kZWxWZXJzaW9uID0gJzEuOS1kZXZlbG9wLVNOQVBTSE9UJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzYy5jb3JwLnNlYXJjaC5Qcm9jZXNzUHJlU2VhcmNoT3JkZXJSZXF1ZXN0Owo=</text>
+        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzYy5jb3JwLnNlYXJjaC5FU0NTZWFyY2hDcml0ZXJpYUJ5TmFtZTsK</text>
+        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzYy5jb3JwLnNlYXJjaC5FU0NQU1Jlc3BvbnNlOwo=</text>
+        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzYy5jb3JwLnNlYXJjaC5Qcm9jZXNzUHJlU2VhcmNoT3JkZXJSZXF1ZXN0Owo=</text>
+        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzYy5jb3JwLnNlYXJjaC5FU0NQU1Jlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgIHZhbCBtOiBNb2R1bGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzYy5jb3JwLnNlYXJjaC5FU0NPcmRlck1hbmFnZW1lbnRTZXJ2aWNlTG9jYXRvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzYy5jb3JwLnNlYXJjaC5FU0NPcmRlck1hbmFnZW1lbnRTZXJ2aWNlOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmphY2tzb24tZGF0YWJpbmQ8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzYy5jb3JwLnNlYXJjaC5FU0NPcmRlck1hbmFnZW1lbnQ7Cg==</text>
+        <text encoding="base64">CQkJPGFydGlmYWN0SWQ+amFja3Nvbi1tb2R1bGUtc2NhbGFfMi4xMTwvYXJ0aWZhY3RJZD4K</text>
       </register>
-      <register name="9" type="4">
-        <text>esc-corp-search-model</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZTwvZ3JvdXBJZD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
