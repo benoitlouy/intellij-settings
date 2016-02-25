@@ -27,7 +27,7 @@
         <mark key="." line="49" column="83" />
         <mark key="^" line="49" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/IntegrationTestHelper.java" timestamp="1456430346176">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/IntegrationTestHelper.java" timestamp="1456431777228">
         <mark key="[" line="45" column="27" />
         <mark key="]" line="45" column="27" />
         <mark key="." line="45" column="27" />
@@ -43,9 +43,9 @@
         <mark key="[" line="31" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/DecisionResource.java" timestamp="1456422179646">
-        <mark key="[" line="491" column="0" />
-        <mark key="]" line="491" column="0" />
-        <mark key="." line="491" column="0" />
+        <mark key="[" line="508" column="0" />
+        <mark key="]" line="508" column="0" />
+        <mark key="." line="508" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/resources/sql/gl/sap-gl-query.sql" timestamp="1452634913963">
         <mark key="[" line="202" column="21" />
@@ -79,6 +79,11 @@
         <mark key="^" line="38" column="27" />
         <mark key="." line="38" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/eservicecorp-model/src/main/java/com/odc/vendor/model/eservicecorp/Constants.java" timestamp="1456432167634">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1456430354231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -93,6 +98,12 @@
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/decision/CheckoutConditionType.java" timestamp="1456433115690">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerScoreRequestBuilder.java" timestamp="1452875302166">
         <mark key="[" line="118" column="63" />
@@ -115,13 +126,14 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/messaging/consumer/ConditionalDecisionIntegrationTest.java" timestamp="1456428543964">
-        <mark key="[" line="199" column="51" />
-        <mark key="]" line="199" column="51" />
-        <mark key="." line="199" column="51" />
-      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/UnderwritingHelper.java" timestamp="1456433066396" />
       <file name="/fragment.java" timestamp="1456428875039">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/gradle/WSDLToJavaAxisTask.gradle" timestamp="1456432178730">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -227,11 +239,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>conditionReasons</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -239,69 +251,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>2</text>
-      </register>
-      <register name="2" type="4">
-        <text>mvn s</text>
-      </register>
-      <register name="3" type="4">
-        <text>)</text>
-      </register>
-      <register name="4" type="4">
-        <text>String.format(</text>
-      </register>
-      <register name="5" type="4">
-        <text />
-      </register>
-      <register name="6" type="4">
-        <text>, business.merchant</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGlmIChyZWFzb25zID09IG51bGwpCiAgICB7CiAgICAgIHJlYXNvbnMgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgIH0KICAgIAogICAgZm9yIChTdHJpbmcgcmVhc29uIDogY29uZGl0aW9uUmVhc29ucykKICAgIHsKICAgICAgdGhpcy5yZWFzb25zLmFkZChyZWFzb24pOwogICAgfQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text>conditionReasons</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>0</text>
+      </register>
       <register name="9" type="4">
-        <text>//  @Test
-//  public void shouldSuccessfullyAddConditionToDecision()
-//  {
-//    String authToken = newAuthToken();
-//    BusinessTestDto business = setupNewUSABusiness(authToken);
-//    BusinessTestDto updatedBusiness = new BusinessTestDto();
-//    updatedBusiness.id = business.id;
-//    updatedBusiness.address1 = &quot;Conditional Address&quot;;
-//    updatedBusiness.businessIdType = &quot;USA_TAX_ID&quot;;
-//    business = updateBusiness(authToken, updatedBusiness);
-//    DecisionTestDto decision = getNewDecision(business, null, authToken);
-//
-//    DecisionTestDto readDecision =
-//        getJsonWebResourceFor(&quot;decision/&quot; + decision.id)
-//            .header(ClientAppAuthenticator.CLIENT_APP_ID, &quot;TEST-ADMIN-APP-ID&quot;)
-//            .header(ClientAppAuthenticator.CLIENT_APP_SECRET, &quot;TEST&quot;)
-//            .header(&quot;auth-token&quot;, authToken).get(DecisionTestDto.class);
-//
-//    assertThat(readDecision.status, is(DecisionStatus.Conditional.name()));
-//
-//    String url = String.format(&quot;decision/addCheckoutCondition&quot;, business.merchant);
-//
-//    DecisionResource.CheckoutConditionBody checkoutConditionBody = new DecisionResource.CheckoutConditionBody();
-//    checkoutConditionBody.checkoutConditions = Collections.singletonList(CheckoutConditionType.PPSA);
-//    checkoutConditionBody.username = &quot;test@123.com&quot;;
-//
-//    DecisionTestDto updatedDecision = getJsonWebResourceFor(url).header(ClientAppAuthenticator.CLIENT_APP_ID, &quot;TEST-ADMIN-APP-ID&quot;)
-//        .header(ClientAppAuthenticator.CLIENT_APP_SECRET, &quot;TEST&quot;).header(&quot;auth-token&quot;, authToken)
-//        .post(DecisionTestDto.class, checkoutConditionBody);
-//
-//    readDecision =
-//        getJsonWebResourceFor(&quot;decision/&quot; + updatedDecision.id)
-//            .header(ClientAppAuthenticator.CLIENT_APP_ID, &quot;TEST-ADMIN-APP-ID&quot;)
-//            .header(ClientAppAuthenticator.CLIENT_APP_SECRET, &quot;TEST&quot;).header(&quot;auth-token&quot;, authToken)
-//            .get(DecisionTestDto.class);
-//
-//    assertFalse(readDecision.allConditionsCleared);
-//  }</text>
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
