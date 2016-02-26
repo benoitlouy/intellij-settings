@@ -9,6 +9,11 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlowUnitTest.java" timestamp="1456497984319">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1453307870733">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="49" />
@@ -48,6 +53,11 @@
         <mark key="]" line="508" column="0" />
         <mark key="." line="508" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseFlow.java" timestamp="1456497821497">
+        <mark key="[" line="166" column="42" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/resources/sql/gl/sap-gl-query.sql" timestamp="1452634913963">
         <mark key="[" line="202" column="21" />
         <mark key="]" line="202" column="16" />
@@ -85,7 +95,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1456430354231">
+      <file name="/Dummy.txt" timestamp="1456498221816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,7 +138,7 @@
         <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/UnderwritingHelper.java" timestamp="1456433066396" />
-      <file name="/fragment.java" timestamp="1456428875039">
+      <file name="/fragment.java" timestamp="1456498221836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/gradle/WSDLToJavaAxisTask.gradle" timestamp="1456432178730">
@@ -241,10 +251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFNhbWUocGF5bmV0U2NvcmVSZXNwb25zZSwgcmVzdWx0LmdldFBheW5ldCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>conditionReasons</text>
+        <text encoding="base64">cGF5bmV0LCA=</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -253,16 +263,16 @@
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFNhbWUocGF5bmV0U2NvcmVSZXNwb25zZSwgcmVzdWx0LmdldFBheW5ldCgpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGlmIChyZWFzb25zID09IG51bGwpCiAgICB7CiAgICAgIHJlYXNvbnMgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgIH0KICAgIAogICAgZm9yIChTdHJpbmcgcmVhc29uIDogY29uZGl0aW9uUmVhc29ucykKICAgIHsKICAgICAgdGhpcy5yZWFzb25zLmFkZChyZWFzb24pOwogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFNhbWUocGF5bmV0U2NvcmVSZXNwb25zZSwgcmVzdWx0LmdldFBheW5ldCgpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>conditionReasons</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAud2l0aFBheW5ldEJ1c2luZXNzU2NvcmUocGF5bmV0KTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cGF5bmV0LCA=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -270,14 +280,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">Ly8gICAgLy8gQkNSIC0gUGF5bmV0Ci8vICAgIEZsb3dTdGVwPE1hcDxTdHJpbmcsIE9iamVjdD4+IHBheW5ldCA9Ci8vICAgICAgICBnZXRTY29yaW5nRmxvdyhwYXluZXRTY29yaW5nQnVzaW5lc3NGbG93LCBjcmVhdGVCQ1JSZXF1ZXN0LCBhcHBsaWNhdGlvblR5cGUsIGJ1c2luZXNzLCBjYXNoRmxvdywKLy8gICAgICAgICAgICBvbkRlY2tDdXN0b21EYXRhLCBvd25lcnMsIHNlbGZSZXBvcnRlZCwgdmVyaWZpZWQsIHBhcnRuZXJEZXRhaWxzLCBhdWRpdENvbmZpZ3VyYXRpb24pOwovLyAgICBwYXluZXQuc2V0TmFtZSgicGF5bmV0U2NvcmUiKTs=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>0</text>
-      </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text encoding="base64">ICAgIGlmIChyZWFzb25zID09IG51bGwpCiAgICB7CiAgICAgIHJlYXNvbnMgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgIH0KICAgIAogICAgZm9yIChTdHJpbmcgcmVhc29uIDogY29uZGl0aW9uUmVhc29ucykKICAgIHsKICAgICAgdGhpcy5yZWFzb25zLmFkZChyZWFzb24pOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
