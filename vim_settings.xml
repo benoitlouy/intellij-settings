@@ -33,6 +33,12 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/decider/ConsumerIdCanadaDecider.java" timestamp="1456428289770" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/decision/CheckoutConditionType.java" timestamp="1456510707731">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerScoreRequestBuilderUnitTest.java" timestamp="1452875326750">
         <mark key="[" line="48" column="52" />
       </file>
@@ -47,12 +53,6 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/messaging/consumer/ConditionalDecisionIntegrationTest.java" timestamp="1456507914336">
-        <mark key="[" line="199" column="91" />
-        <mark key="]" line="199" column="93" />
-        <mark key="^" line="199" column="93" />
-        <mark key="." line="199" column="93" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/gradle/WSDLToJavaAxisTask.gradle" timestamp="1456432178730">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -62,12 +62,6 @@
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagementTest.java" timestamp="1456507817881">
-        <mark key="[" line="202" column="3" />
-        <mark key="]" line="335" column="0" />
-        <mark key="^" line="335" column="0" />
-        <mark key="." line="335" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/ConnectReport.java" timestamp="1453308724305">
         <mark key="[" line="11" column="7" />
@@ -100,21 +94,9 @@
         <mark key="[" line="31" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/DecisionResource.java" timestamp="1456508078283">
-        <mark key="[" line="532" column="39" />
-        <mark key="]" line="532" column="22" />
-        <mark key="." line="532" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/resource/DecisionResourceTest.java" timestamp="1456507765979">
-        <mark key="[" line="937" column="77" />
-        <mark key="]" line="937" column="77" />
-        <mark key="^" line="937" column="44" />
-        <mark key="." line="937" column="77" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagement.java" timestamp="1456506488997">
-        <mark key="[" line="162" column="32" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="162" column="101" />
-        <mark key="." line="130" column="0" />
+        <mark key="[" line="523" column="39" />
+        <mark key="]" line="523" column="22" />
+        <mark key="." line="523" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/resources/sql/gl/sap-gl-query.sql" timestamp="1452634913963">
         <mark key="[" line="202" column="21" />
@@ -285,11 +267,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -297,32 +279,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>d</text>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="2" type="4">
-        <text>d</text>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYAo=</text>
       </register>
       <register name="3" type="4">
-        <text>A</text>
+        <text>;</text>
       </register>
-      <register name="4" type="4">
-        <text>d</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="5" type="4">
         <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>A</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>A</text>
       </register>
       <register name="8" type="4">
         <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>A</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
