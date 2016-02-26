@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/intl/usa/chase/ChaseUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1456499420977">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/ConnectReport.java" timestamp="1453308724305">
         <mark key="[" line="11" column="7" />
         <mark key="]" line="11" column="7" />
@@ -95,7 +100,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1456498221816">
+      <file name="/Dummy.txt" timestamp="1456499654630">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -138,7 +143,7 @@
         <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/UnderwritingHelper.java" timestamp="1456433066396" />
-      <file name="/fragment.java" timestamp="1456498221836">
+      <file name="/fragment.java" timestamp="1456499654649">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/gradle/WSDLToJavaAxisTask.gradle" timestamp="1456432178730">
@@ -251,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFNhbWUocGF5bmV0U2NvcmVSZXNwb25zZSwgcmVzdWx0LmdldFBheW5ldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlLkJ1c2luZXNzQ3JlZGl0UmVwb3J0LCBWZW5kb3IuUGF5bmV0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGF5bmV0LCA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -263,31 +268,31 @@
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFNhbWUocGF5bmV0U2NvcmVSZXNwb25zZSwgcmVzdWx0LmdldFBheW5ldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlLkJ1c2luZXNzQ3JlZGl0UmVwb3J0LCBWZW5kb3IuUGF5bmV0KTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGF1ZGl0VXRpbC5jaGVja01vZGVsRXhlY3V0aW9uKHJlcG9ydHMsIFBheW5ldFNjb3JpbmdCdXNpbmVzc0Zsb3cuTU9ERUxfTkFNRSwgMSwgQ291bnRyeS5VUywK</text>
+      </register>
+      <register name="3" type="4">
+        <text>,</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGFzc2VydFNhbWUocGF5bmV0U2NvcmVSZXNwb25zZSwgcmVzdWx0LmdldFBheW5ldCgpKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aFBheW5ldEJ1c2luZXNzU2NvcmUocGF5bmV0KTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">cGF5bmV0LCA=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFNhbWUocGF5bmV0U2NvcmVSZXNwb25zZSwgcmVzdWx0LmdldFBheW5ldCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aFBheW5ldEJ1c2luZXNzU2NvcmUocGF5bmV0KTsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Ly8gICAgLy8gQkNSIC0gUGF5bmV0Ci8vICAgIEZsb3dTdGVwPE1hcDxTdHJpbmcsIE9iamVjdD4+IHBheW5ldCA9Ci8vICAgICAgICBnZXRTY29yaW5nRmxvdyhwYXluZXRTY29yaW5nQnVzaW5lc3NGbG93LCBjcmVhdGVCQ1JSZXF1ZXN0LCBhcHBsaWNhdGlvblR5cGUsIGJ1c2luZXNzLCBjYXNoRmxvdywKLy8gICAgICAgICAgICBvbkRlY2tDdXN0b21EYXRhLCBvd25lcnMsIHNlbGZSZXBvcnRlZCwgdmVyaWZpZWQsIHBhcnRuZXJEZXRhaWxzLCBhdWRpdENvbmZpZ3VyYXRpb24pOwovLyAgICBwYXluZXQuc2V0TmFtZSgicGF5bmV0U2NvcmUiKTs=</text>
+        <text encoding="base64">cGF5bmV0LCA=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGlmIChyZWFzb25zID09IG51bGwpCiAgICB7CiAgICAgIHJlYXNvbnMgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgIH0KICAgIAogICAgZm9yIChTdHJpbmcgcmVhc29uIDogY29uZGl0aW9uUmVhc29ucykKICAgIHsKICAgICAgdGhpcy5yZWFzb25zLmFkZChyZWFzb24pOwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
