@@ -87,6 +87,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/associate/dao/salesforce/SalesforceThirdPartyReportDAOIntegrationTest.java" timestamp="1456786577426">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/merger/AddReplyToInfoToConnectRequestUnitTest.java" timestamp="1454100761135">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -475,10 +480,11 @@
         <mark key="." line="88" column="33" />
         <mark key="^" line="88" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/common/salesforce/dao/AbstractSalesforceApplicationObjectDAO.java" timestamp="1453822593531">
-        <mark key="[" line="66" column="78" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/common/salesforce/dao/AbstractSalesforceApplicationObjectDAO.java" timestamp="1456786195999">
+        <mark key="[" line="66" column="94" />
+        <mark key="]" line="66" column="94" />
+        <mark key="." line="66" column="94" />
+        <mark key="^" line="66" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/resources/sql/lsp_dump/lsp-nonreg-transaction-query.sql" timestamp="1454524309054">
         <mark key="[" line="25" column="1" />
@@ -682,7 +688,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1456785138598">
+      <file name="/Dummy.txt" timestamp="1456786027285">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -753,7 +759,7 @@
         <mark key="]" line="56" column="27" />
         <mark key="." line="56" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1456785138658">
+      <file name="/fragment.java" timestamp="1456786027320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="30" />
@@ -868,8 +874,8 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vedaTradingHistoryTestModeConfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>vedaTradingHistoryTestModeConfig</text>
@@ -880,32 +886,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEVTQ1BTUmVzcG9uc2UgcHJlU2VhcmNoUmVzcG9uc2UgPSBwcmVTZWFyY2hPcmRlckNvbm5lY3Rpb24uc3VibWl0KG5ldyBFU0NQcm9jZXNzUHJlU2VhcmNoT3JkZXJSZXF1ZXN0KDEwMCwgbnVsbCwgbnVsbCksIG5ldyBDb25uZWN0aW9uUGFyYW1zKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>vedaTradingHistoryTestModeConfig</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">VmVuZG9yQ29ubmVjdGlvbkJ1aWxkZXI8RVNDUHJvY2Vzc1ByZVNlYXJjaE9yZGVyUmVxdWVzdCwgRVNDUFNSZXNwb25zZT4gYnVpbGRlciA9</text>
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBteVRlc3QoKSB0aHJvd3MgU2FsZXNmb3JjZUV4Y2VwdGlvbgogIHsKICAgIExpc3Q8VGhpcmRQYXJ0eVJlcG9ydD4gdGhpcmRQYXJ0eVJlcG9ydHMgPSBzYWxlc2ZvcmNlVGhpcmRQYXJ0eVJlcG9ydERBTy5maW5kQnlBcHBsaWNhdGlvbklkKCJhMDdtMDAwMDAwNzRYNGEiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbih0aGlyZFBhcnR5UmVwb3J0cyk7CiAgfQ==</text>
       </register>
       <register name="3" type="4">
-        <text>return</text>
+        <text>vedaTradingHistoryTestModeConfig</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">VmVuZG9yQ29ubmVjdGlvbkJ1aWxkZXI8RVNDUHJvY2Vzc1ByZVNlYXJjaE9yZGVyUmVxdWVzdCwgRVNDUFNSZXNwb25zZT4gYnVpbGRlciA9</text>
+      </register>
+      <register name="5" type="4">
+        <text>return</text>
+      </register>
+      <register name="6" type="4">
         <text>ESCProcessSearchOrderConnection</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXF1ZXN0LmdldFJlcXVlc3RIZWFkZXIoKS5nZXRDb250YWN0RW1haWwoKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoZW4oKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
