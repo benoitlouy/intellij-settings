@@ -563,6 +563,12 @@
         <mark key="." line="49" column="83" />
         <mark key="^" line="49" column="83" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcherUnitTest.java" timestamp="1456777166310">
+        <mark key="[" line="79" column="34" />
+        <mark key="]" line="83" column="67" />
+        <mark key="^" line="83" column="67" />
+        <mark key="." line="83" column="67" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/businessid/eservicecorp/ESCCorpSearchResponse.java" timestamp="1456766283450">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="6" column="0" />
@@ -594,11 +600,10 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1456767156345">
-        <mark key="[" line="78" column="23" />
-        <mark key="]" line="111" column="39" />
-        <mark key="." line="111" column="39" />
-        <mark key="^" line="111" column="39" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1456777153353">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="2" />
+        <mark key="." line="33" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/util/AuditTestClient.java" timestamp="1453397732032">
         <mark key="[" line="125" column="0" />
@@ -859,11 +864,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgRVNDUFNSZXNwb25zZSBwcmVTZWFyY2hSZXNwb25zZSA9IHByZVNlYXJjaE9yZGVyQ29ubmVjdGlvbi5zdWJtaXQobmV3IEVTQ1Byb2Nlc3NQcmVTZWFyY2hPcmRlclJlcXVlc3QoMTAwLCBudWxsLCBudWxsKSwgbmV3IENvbm5lY3Rpb25QYXJhbXMoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>getOwne</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -871,32 +876,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEVTQ1BTUmVzcG9uc2UgcHJlU2VhcmNoUmVzcG9uc2UgPSBwcmVTZWFyY2hPcmRlckNvbm5lY3Rpb24uc3VibWl0KG5ldyBFU0NQcm9jZXNzUHJlU2VhcmNoT3JkZXJSZXF1ZXN0KDEwMCwgbnVsbCwgbnVsbCksIG5ldyBDb25uZWN0aW9uUGFyYW1zKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgRVNDUFNSZXNwb25zZSBwcmVTZWFyY2hSZXNwb25zZSA9IHByZVNlYXJjaE9yZGVyQ29ubmVjdGlvbi5zdWJtaXQobmV3IEVTQ1Byb2Nlc3NQcmVTZWFyY2hPcmRlclJlcXVlc3QoMTAwLCBudWxsLCBudWxsKSwgbmV3IENvbm5lY3Rpb25QYXJhbXMoKSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>getOwne</text>
+        <text>private</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb25QYXJhbXMK</text>
+      <register name="3" type="4">
+        <text>criteria</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJlU2VhcmNoRGF0YS5zZXRTZWxlY3RlZEVsZW1lbnQoMCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>presearchData</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEVTQ0NvbnN0YW50cy5Qcm9kdWN0Lgo=</text>
       </register>
       <register name="6" type="4">
-        <text>params</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFBBUkFNU3Muc2V0VmFsdWVzKG5ldyBFU0NWYWx1ZVtdeyhuZXcgRVNDVmFsdWUoMSwgRVNDQ29uc3RhbnRzLkFkZGl0aW9uYWxQYXJhbWV0ZXJzLkxBTkdVQUdFX0xBQkVMLAo=</text>
+      <register name="8" type="4">
+        <text>private</text>
       </register>
-      <register name="9" type="4">
-        <text>ESCProcessSearchOrderRequest request =</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgQ09NUExFVEVfT1JERVJfU1RBVFVTID0gMjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
