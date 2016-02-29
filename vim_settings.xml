@@ -81,6 +81,12 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/Country.java" timestamp="1456762961959">
+        <mark key="[" line="91" column="29" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/merger/AddReplyToInfoToConnectRequestUnitTest.java" timestamp="1454100761135">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -150,10 +156,9 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/country/subdivision/SubDivisionTest.java" timestamp="1456760977523">
-        <mark key="[" line="84" column="31" />
-        <mark key="]" line="85" column="43" />
-        <mark key="." line="85" column="43" />
-        <mark key="^" line="85" column="43" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierSwitchUnitTest.java" timestamp="1452270811526">
         <mark key="[" line="8" column="40" />
@@ -312,11 +317,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1456758932710">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1456761791404">
         <mark key="[" line="535" column="42" />
-        <mark key="]" line="395" column="0" />
-        <mark key="." line="395" column="0" />
-        <mark key="^" line="599" column="47" />
+        <mark key="]" line="536" column="57" />
+        <mark key="." line="536" column="57" />
+        <mark key="^" line="536" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/settings.gradle" timestamp="1456264049140">
         <mark key="[" line="18" column="11" />
@@ -420,12 +425,6 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/subdivision/SubDivision.java" timestamp="1456760795792">
-        <mark key="[" line="252" column="40" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="248" column="112" />
-        <mark key="." line="252" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/AbstractCountrySpecificFlowUnitTest.java" timestamp="1455655076831">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
@@ -442,6 +441,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/can/CanadaFlow.java" timestamp="1456762346482" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/EquifaxIdentifierSwitch.java" timestamp="1452270057560">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="2" column="0" />
@@ -589,10 +589,11 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1456759168902">
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="42" column="25" />
-        <mark key="." line="42" column="25" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1456762683955">
+        <mark key="[" line="57" column="87" />
+        <mark key="]" line="57" column="87" />
+        <mark key="^" line="50" column="31" />
+        <mark key="." line="57" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/util/AuditTestClient.java" timestamp="1453397732032">
         <mark key="[" line="125" column="0" />
@@ -854,10 +855,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fromFullName</text>
+        <text>United States of America</text>
       </register>
       <register name="-" type="4">
-        <text>fromFullName</text>
+        <text>United States of America</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -866,31 +867,31 @@
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>fromFullName</text>
+        <text>United States of America</text>
       </register>
       <register name="2" type="4">
-        <text>is(SubDivision.NEW_YORK)</text>
+        <text>address.getState()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KFN1YkRpdmlzaW9uLmZyb20oIk5ldyBZb3JrIiwgQ291bnRyeS5VU0EpLCBpcyhTdWJEaXZpc2lvbi5ORVdfWU9SSykpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCk7Cg==</text>
+        <text encoding="base64">ICAgIEVTQ0FkZHJlc3MgcmVzdWx0ID0gbmV3IEVTQ0FkZHJlc3MoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmFtZUxvb2t1cE1hcC5nZXQoY291bnRyeSkuZ2V0KFdvcmRVdGlscy5jYXBpdGFsaXplRnVsbHkoc3ViRGl2aXNpb24pKTsK</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2hvcnROYW1lTG9va3VwTWFwLmdldChzdWJEaXZpc2lvbi50b1VwcGVyQ2FzZSgpKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIEVTQ0FkZHJlc3MgYWRkcmVzcyhCYXNlQWRkcmVzcyBhZGRyZXNzKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>request.getBusinessInformation().getCompanyAddress()</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5hbWVMb29rdXBNYXAuZ2V0KFdvcmRVdGlscy5jYXBpdGFsaXplRnVsbHkoc3ViRGl2aXNpb24pKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBqdXJpZGljdGlvbihTdHJpbmcgc3RhdGUpCiAgewogIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmFtZUxvb2t1cE1hcC5jb250YWluc0tleShXb3JkVXRpbHMuY2FwaXRhbGl6ZUZ1bGx5KHN1YkRpdmlzaW9uKSkpIHsK</text>
+      <register name="9" type="4">
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
