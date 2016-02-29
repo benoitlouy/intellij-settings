@@ -149,10 +149,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/country/subdivision/SubDivisionTest.java" timestamp="1456759338723">
-        <mark key="[" line="69" column="58" />
-        <mark key="]" line="69" column="58" />
-        <mark key="." line="69" column="58" />
+      <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/country/subdivision/SubDivisionTest.java" timestamp="1456760977523">
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="85" column="43" />
+        <mark key="." line="85" column="43" />
+        <mark key="^" line="85" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierSwitchUnitTest.java" timestamp="1452270811526">
         <mark key="[" line="8" column="40" />
@@ -419,8 +420,11 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/subdivision/SubDivision.java" timestamp="1456759417577">
-        <mark key="[" line="221" column="53" />
+      <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/subdivision/SubDivision.java" timestamp="1456760795792">
+        <mark key="[" line="252" column="40" />
+        <mark key="]" line="252" column="0" />
+        <mark key="^" line="248" column="112" />
+        <mark key="." line="252" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/AbstractCountrySpecificFlowUnitTest.java" timestamp="1455655076831">
         <mark key="[" line="129" column="0" />
@@ -850,10 +854,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WESTERN_AUSTRALIA</text>
+        <text>fromFullName</text>
       </register>
       <register name="-" type="4">
-        <text>WESTERN_AUSTRALIA</text>
+        <text>fromFullName</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -862,31 +866,31 @@
         <text encoding="base64">ICBAVmFsdWUoIiR7ZXF1aWZheC5jb21tZXJjaWFsLmNoYXNlLmN1c3RvbWVyLm51bWJlcn0iKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>WESTERN_AUSTRALIA</text>
+        <text>fromFullName</text>
       </register>
       <register name="2" type="4">
-        <text>juridiction(request.getBusinessInformation().getCompanyAddress().getState());</text>
+        <text>is(SubDivision.NEW_YORK)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRpbwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KFN1YkRpdmlzaW9uLmZyb20oIk5ldyBZb3JrIiwgQ291bnRyeS5VU0EpLCBpcyhTdWJEaXZpc2lvbi5ORVdfWU9SSykpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IFNlcnZpY2VFeGNlcHRpb24=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgdmVuZG9yTW9kZWxWZXJzaW9uID0gJzEuOScK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmFtZUxvb2t1cE1hcC5nZXQoY291bnRyeSkuZ2V0KFdvcmRVdGlscy5jYXBpdGFsaXplRnVsbHkoc3ViRGl2aXNpb24pKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgdmVuZG9yQ29ubmVjdGlvblZlcnNpb24gPSAnMS4xMicK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2hvcnROYW1lTG9va3VwTWFwLmdldChzdWJEaXZpc2lvbi50b1VwcGVyQ2FzZSgpKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>username</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>username</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5hbWVMb29rdXBNYXAuZ2V0KFdvcmRVdGlscy5jYXBpdGFsaXplRnVsbHkoc3ViRGl2aXNpb24pKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobmFtZUxvb2t1cE1hcC5jb250YWluc0tleShXb3JkVXRpbHMuY2FwaXRhbGl6ZUZ1bGx5KHN1YkRpdmlzaW9uKSkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
