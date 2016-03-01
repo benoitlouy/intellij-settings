@@ -480,12 +480,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessSearchOrderConnectionIntegrationTest.java" timestamp="1456782237119">
-        <mark key="[" line="88" column="34" />
-        <mark key="]" line="88" column="33" />
-        <mark key="." line="88" column="33" />
-        <mark key="^" line="88" column="33" />
-      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessSearchOrderConnectionIntegrationTest.java" timestamp="1456782237119" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/common/salesforce/dao/AbstractSalesforceApplicationObjectDAO.java" timestamp="1456843026988">
         <mark key="[" line="66" column="94" />
         <mark key="]" line="66" column="94" />
@@ -721,6 +716,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/eservicecorp-model/src/main/java/com/odc/vendor/model/eservicecorp/ESCConstants.java" timestamp="1456850147247">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/canadaconsumercreditcontroller.js" timestamp="1456336143028">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -775,6 +776,12 @@
         <mark key="]" line="95" column="54" />
         <mark key="." line="95" column="54" />
         <mark key="^" line="95" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessPreSearchOrderConnectionIntegrationTest.java" timestamp="1456850423666">
+        <mark key="[" line="35" column="82" />
+        <mark key="]" line="36" column="94" />
+        <mark key="." line="36" column="94" />
+        <mark key="^" line="36" column="94" />
       </file>
     </filemarks>
     <jumps>
@@ -881,10 +888,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -893,31 +900,31 @@
         <text encoding="base64">ICAgIEVTQ1BTUmVzcG9uc2UgcHJlU2VhcmNoUmVzcG9uc2UgPSBwcmVTZWFyY2hPcmRlckNvbm5lY3Rpb24uc3VibWl0KG5ldyBFU0NQcm9jZXNzUHJlU2VhcmNoT3JkZXJSZXF1ZXN0KDEwMCwgbnVsbCwgbnVsbCksIG5ldyBDb25uZWN0aW9uUGFyYW1zKCkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>4</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>PRESEARCH_TYPE_NAMESEARCH_AUTO</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBvYmplY3RJZDEgPSBTdHJpbmcudmFsdWVPZihuZXcgRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBteVRlc3QoKSB0aHJvd3MgU2FsZXNmb3JjZUV4Y2VwdGlvbgogIHsKICAgIExpc3Q8VGhpcmRQYXJ0eVJlcG9ydD4gdGhpcmRQYXJ0eVJlcG9ydHMgPSBzYWxlc2ZvcmNlVGhpcmRQYXJ0eVJlcG9ydERBTy5maW5kQnlBcHBsaWNhdGlvbklkKCJhMDdtMDAwMDAwNzRYNGEiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbih0aGlyZFBhcnR5UmVwb3J0cyk7CiAgfQ==</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>vedaTradingHistoryTestModeConfig</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">VmVuZG9yQ29ubmVjdGlvbkJ1aWxkZXI8RVNDUHJvY2Vzc1ByZVNlYXJjaE9yZGVyUmVxdWVzdCwgRVNDUFNSZXNwb25zZT4gYnVpbGRlciA9</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>return</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>ESCProcessSearchOrderConnection</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
