@@ -114,6 +114,7 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc.vendor.model/eservicecorp-model/1.10-INTL-376-SNAPSHOT/f7b24731d278fb156f604fc50bee84ba29277fd6/eservicecorp-model-1.10-INTL-376-SNAPSHOT.jar!/com/odc/vendor/model/eservicecorp/ESCConstants.class" timestamp="1456935816592" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaConsumerCreditDecider.scala" timestamp="1454533670927">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -188,6 +189,7 @@
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="32" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc.vendor.model/eservicecorp-model/1.10-INTL-376-SNAPSHOT/f7b24731d278fb156f604fc50bee84ba29277fd6/eservicecorp-model-1.10-INTL-376-SNAPSHOT.jar!/com/odc/vendor/model/eservicecorp/ESCProduct.class" timestamp="1456935837380" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/eservicecorp-model/src/main/java/com/odc/vendor/model/eservicecorp/ESCProcessPreSearchOrderRequest.java" timestamp="1456870529075" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverterTest.java" timestamp="1454355830707">
         <mark key="[" line="26" column="12" />
@@ -242,7 +244,7 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessAutoPreSearchOrderConnectionIntegrationTest.java" timestamp="1456932782610">
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessAutoPreSearchOrderConnectionIntegrationTest.java" timestamp="1456935904219">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -506,6 +508,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Owner.java" timestamp="1456936394729">
+        <mark key="[" line="133" column="31" />
+        <mark key="]" line="133" column="31" />
+        <mark key="." line="133" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/common/salesforce/dao/AbstractSalesforceApplicationObjectDAO.java" timestamp="1456843026988">
         <mark key="[" line="66" column="94" />
@@ -795,7 +802,7 @@
         <mark key="." line="95" column="54" />
         <mark key="^" line="95" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessPreSearchOrderConnectionIntegrationTest.java" timestamp="1456932778075">
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessPreSearchOrderConnectionIntegrationTest.java" timestamp="1456935719219">
         <mark key="[" line="41" column="54" />
         <mark key="]" line="36" column="94" />
         <mark key="." line="36" column="94" />
@@ -905,11 +912,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Boolean</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>Boolean</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -917,32 +924,32 @@
       <register name="0" type="2">
         <text encoding="base64">bG9hbnNlcnZpY2UudXJsPWh0dHA6Ly9kZXYwMWxvYW5zZXJ2aWNlCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHQpOwo=</text>
+      <register name="1" type="4">
+        <text>Boolean</text>
       </register>
       <register name="2" type="4">
-        <text>Object</text>
+        <text>Boolean</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzZXJ2aWNlY29ycC5FU0NQU1Jlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHQpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>Product</text>
+        <text>Object</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLm1vZGVsLmVzZXJ2aWNlY29ycC5FU0NQU1Jlc3BvbnNlOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzEvMTYuCg==</text>
+      <register name="6" type="4">
+        <text>Product</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzEvMTYuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>341</text>
