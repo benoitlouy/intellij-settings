@@ -666,6 +666,11 @@
         <mark key="^" line="198" column="51" />
         <mark key="." line="198" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/main/java/com/ondeck/common/model/underwriting/PartnerOfferDetails.java" timestamp="1456948267430">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/resources/sql/gl/sap-gl-query.sql" timestamp="1452634913963">
         <mark key="[" line="202" column="21" />
         <mark key="]" line="202" column="16" />
@@ -918,11 +923,11 @@
       <jump line="303" column="20" filename="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UmVwb3J0RmV0Y2hlcjxCdXNpbmVzc0lEU2VhcmNoUmVxdWVzdCwgRVNDQ29ycFNlYXJjaFJlc3BvbnNlPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVwb3J0RmV0Y2hlcjxCdXNpbmVzc0lEU2VhcmNoUmVxdWVzdCwgRVNDQ29ycFNlYXJjaFJlc3BvbnNlPg==</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -930,32 +935,32 @@
       <register name="0" type="2">
         <text encoding="base64">bG9hbnNlcnZpY2UudXJsPWh0dHA6Ly9kZXYwMWxvYW5zZXJ2aWNlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">UmVwb3J0RmV0Y2hlcjxCdXNpbmVzc0lEU2VhcmNoUmVxdWVzdCwgRVNDQ29ycFNlYXJjaFJlc3BvbnNlPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>E</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gQVVUTyBQUkUgU0VBUkNICg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgewogICAgICAgICJzY29yZSI6IDk5OSwKICAgICAgICAicmV2ZW51ZSI6IDI1MDAwCiAgICB9</text>
       </register>
       <register name="5" type="4">
-        <text>null</text>
+        <text>String</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmdldFJlc3VsdHMoKS5zZXREYXRhKG5ldyBFU0NEYXRhW117bmV3IEVTQ0RhdGEoKX0pOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">UmVwb3J0RmV0Y2hlcjxCdXNpbmVzc0lEU2VhcmNoUmVxdWVzdCwgRVNDQ29ycFNlYXJjaFJlc3BvbnNlPg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3dzIFZlbmRvckNvbm5lY3Rpb25FeGNlcHRpb24K</text>
+      <register name="7" type="4">
+        <text>E</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8gQVVUTyBQUkUgU0VBUkNICg==</text>
       </register>
-      <register name="9" type="4">
-        <text>u</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>341</text>
