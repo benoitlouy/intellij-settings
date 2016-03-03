@@ -361,7 +361,7 @@
         <mark key="]" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandler.java" timestamp="1457038540766">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandler.java" timestamp="1457043708620">
         <mark key="[" line="112" column="32" />
         <mark key="]" line="132" column="14" />
         <mark key="." line="132" column="14" />
@@ -608,11 +608,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerUnitTest.java" timestamp="1457038598777">
-        <mark key="[" line="151" column="79" />
-        <mark key="]" line="152" column="31" />
-        <mark key="^" line="152" column="31" />
-        <mark key="." line="152" column="31" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerUnitTest.java" timestamp="1457043848461">
+        <mark key="[" line="228" column="83" />
+        <mark key="]" line="234" column="46" />
+        <mark key="." line="234" column="46" />
+        <mark key="^" line="234" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455727804257">
         <mark key="[" line="249" column="18" />
@@ -965,10 +965,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getStillPending</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>getStillPending</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -977,31 +977,31 @@
         <text encoding="base64">bG9hbnNlcnZpY2UudXJsPWh0dHA6Ly9kZXYwMWxvYW5zZXJ2aWNlCg==</text>
       </register>
       <register name="1" type="4">
-        <text>getStillPending</text>
+        <text>error</text>
       </register>
       <register name="2" type="4">
-        <text>REQUESTED</text>
+        <text>HIT</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMoY2FsbGJhY2tNYW5hZ2VyKTsK</text>
+      <register name="3" type="4">
+        <text>INVOICED</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHBlcnNpc3RlclJlcG9ydEFyZ0NhcHRvci5nZXRWYWx1ZSgpOw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeU5vTW9yZUludGVyYWN0aW9ucyhkYW8sIGNhbGxiYWNrTWFuYWdlcik7Cg==</text>
+      <register name="5" type="4">
+        <text>COMPLETE</text>
       </register>
       <register name="6" type="4">
-        <text>FAILED</text>
+        <text>ESCConstants.OrderStatus.COMPLETE</text>
       </register>
-      <register name="7" type="4">
-        <text>null</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>onnectionParams(initialResponse.getApiResponse().getEmail())</text>
+        <text encoding="base64">TWF0Y2hlcnMuPFBlcnNpc3RlZFJlcG9ydDxFU0NDb3JwU2VhcmNoUmVzcG9uc2U+PmFueSgp</text>
       </register>
-      <register name="9" type="4">
-        <text>setPreSearchResponse(null);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEFyZ3VtZW50Q2FwdG9yPFBlcnNpc3RlZFJlcG9ydDxFU0NDb3JwU2VhcmNoUmVzcG9uc2U+PiBuZXdSZXBvcnQgPSBBcmd1bWVudENhcHRvci5mb3JDbGFzcyhQZXJzaXN0ZWRSZXBvcnQuY2xhc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>341</text>
