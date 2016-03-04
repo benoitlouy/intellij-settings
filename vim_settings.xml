@@ -361,10 +361,10 @@
         <mark key="]" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandler.java" timestamp="1457043708620">
-        <mark key="[" line="112" column="32" />
-        <mark key="]" line="132" column="14" />
-        <mark key="." line="132" column="14" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandler.java" timestamp="1457043972482">
+        <mark key="[" line="139" column="86" />
+        <mark key="]" line="139" column="86" />
+        <mark key="." line="139" column="0" />
         <mark key="^" line="132" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierSwitch.java" timestamp="1452270410667">
@@ -608,11 +608,10 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerUnitTest.java" timestamp="1457043848461">
-        <mark key="[" line="228" column="83" />
-        <mark key="]" line="234" column="46" />
-        <mark key="." line="234" column="46" />
-        <mark key="^" line="234" column="46" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerUnitTest.java" timestamp="1457044845126">
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="0" />
+        <mark key="." line="278" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455727804257">
         <mark key="[" line="249" column="18" />
@@ -642,11 +641,11 @@
         <mark key="." line="49" column="83" />
         <mark key="^" line="49" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcherUnitTest.java" timestamp="1457036575391">
-        <mark key="[" line="91" column="25" />
-        <mark key="]" line="86" column="28" />
-        <mark key="." line="86" column="28" />
-        <mark key="^" line="86" column="28" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcherUnitTest.java" timestamp="1457045211452">
+        <mark key="[" line="212" column="4" />
+        <mark key="]" line="212" column="4" />
+        <mark key="." line="212" column="4" />
+        <mark key="^" line="45" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/businessid/eservicecorp/ESCCorpSearchResponse.java" timestamp="1457030113961">
         <mark key="^" line="13" column="21" />
@@ -677,11 +676,11 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1457028540539">
-        <mark key="[" line="65" column="101" />
-        <mark key="]" line="65" column="52" />
-        <mark key="^" line="65" column="52" />
-        <mark key="." line="65" column="52" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1457045098736">
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="54" column="6" />
+        <mark key="." line="54" column="6" />
+        <mark key="^" line="54" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/util/AuditTestClient.java" timestamp="1453397732032">
         <mark key="[" line="125" column="0" />
@@ -965,43 +964,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>checkResponse(response, ResponseStatus.PENDING, result);</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>checkResponse(response, ResponseStatus.PENDING, result);</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9hbnNlcnZpY2UudXJsPWh0dHA6Ly9kZXYwMWxvYW5zZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShkYW8pLnVwZGF0ZShNYXRjaGVycy48UGVyc2lzdGVkUmVwb3J0PEVTQ0NvcnBTZWFyY2hSZXNwb25zZT4+YW55KCkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>error</text>
+        <text>checkResponse(response, ResponseStatus.PENDING, result);</text>
       </register>
       <register name="2" type="4">
-        <text>HIT</text>
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>INVOICED</text>
+        <text>params.getEmail()</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHBlcnNpc3RlclJlcG9ydEFyZ0NhcHRvci5nZXRWYWx1ZSgpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>COMPLETE</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>ESCConstants.OrderStatus.COMPLETE</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgdmVyaWZ5KGRhbykudXBkYXRlKE1hdGNoZXJzLjxQZXJzaXN0ZWRSZXBvcnQ8RVNDQ29ycFNlYXJjaFJlc3BvbnNlPj5hbnkoKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygpOwo=</text>
-      </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text encoding="base64">TWF0Y2hlcnMuPFBlcnNpc3RlZFJlcG9ydDxFU0NDb3JwU2VhcmNoUmVzcG9uc2U+PmFueSgp</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEFyZ3VtZW50Q2FwdG9yPFBlcnNpc3RlZFJlcG9ydDxFU0NDb3JwU2VhcmNoUmVzcG9uc2U+PiBuZXdSZXBvcnQgPSBBcmd1bWVudENhcHRvci5mb3JDbGFzcyhQZXJzaXN0ZWRSZXBvcnQuY2xhc3MpOwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZlcmlmeShkYW8pLnVwZGF0ZShNYXRjaGVycy48UGVyc2lzdGVkUmVwb3J0PEVTQ0NvcnBTZWFyY2hSZXNwb25zZT4+YW55KCkpOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>341</text>
