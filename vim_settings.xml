@@ -149,6 +149,14 @@
         <mark key="^" line="67" column="24" />
         <mark key="." line="70" column="102" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/domain/credit/LineOfCreditTest.java" timestamp="1457473893518">
+        <mark key="[" line="34" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/loc/PreviewDrawRequest.java" timestamp="1457474534971">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1455655109840">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -315,9 +323,7 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/credit/LineOfCredit.java" timestamp="1457469201968">
-        <mark key="[" line="28" column="34" />
-      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/credit/LineOfCredit.java" timestamp="1457474435242" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/HistoricalReport.java" timestamp="1453308752046">
         <mark key="[" line="10" column="68" />
         <mark key="]" line="10" column="68" />
@@ -492,6 +498,11 @@
         <mark key="[" line="73" column="35" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/loc/CreateDrawRequest.java" timestamp="1457474530114">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/pom.xml" timestamp="1454360320077">
         <mark key="[" line="16" column="34" />
@@ -989,10 +1000,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnRyYWN0LmFtCg==</text>
+        <text encoding="base64">ICAgIHByZXZpZXdEcmF3UmVxdWVzdC5udW1iZXJPZlBheW1lbnRzID0gbGluZU9mQ3JlZGl0LnBheW1lbnRTY2hlZHVsZURldGFpbHMucGF5bWVudEZyZXF1ZW5jeS5nZXREZWZhdWx0TnVtYmVyUGF5bWVudHMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1001,31 +1012,31 @@
         <text encoding="base64">ICAgIHZlcmlmeShkYW8pLnVwZGF0ZShNYXRjaGVycy48UGVyc2lzdGVkUmVwb3J0PEVTQ0NvcnBTZWFyY2hSZXNwb25zZT4+YW55KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRyYWN0LmFtCg==</text>
+        <text encoding="base64">ICAgIHByZXZpZXdEcmF3UmVxdWVzdC5udW1iZXJPZlBheW1lbnRzID0gbGluZU9mQ3JlZGl0LnBheW1lbnRTY2hlZHVsZURldGFpbHMucGF5bWVudEZyZXF1ZW5jeS5nZXREZWZhdWx0TnVtYmVyUGF5bWVudHMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZURyYXdSZXF1ZXN0Lm51bWJlck9mUGF5bWVudHMgPSBsaW5lT2ZDcmVkaXQucGF5bWVudFNjaGVkdWxlRGV0YWlscy5wYXltZW50RnJlcXVlbmN5LmdldERlZmF1bHROdW1iZXJQYXltZW50cygpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>int</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBUcnVzdE1hbmFnZXJGYWN0b3J5IHRydXN0TWFuYWdlckZhY3RvcnkgPSBUcnVzdE1hbmFnZXJGYWN0b3J5LmdldEluc3RhbmNlKFRydXN0TWFuYWdlckZhY3RvcnkuZ2V0RGVmYXVsdEFsZ29yaXRobSgpKTsKICAgICAgICB0cnVzdE1hbmFnZXJGYWN0b3J5LmluaXQoKEtleVN0b3JlKW51bGwpOwogICAgICAgIFRydXN0TWFuYWdlcltdIHRydXN0TWFuYWdlcnMgPSB0cnVzdE1hbmFnZXJGYWN0b3J5LmdldFRydXN0TWFuYWdlcnMoKTsKICAgICAgICBYNTA5VHJ1c3RNYW5hZ2VyIHN1bkpTU0VYNTA5VHJ1c3RNYW5hZ2VyID0gbnVsbDsKICAgICAgICBmb3IgKFRydXN0TWFuYWdlciB0cnVzdE1hbmFnZXIgOiB0cnVzdE1hbmFnZXJzKQogICAgICAgIHsKICAgICAgICAgIGlmICh0cnVzdE1hbmFnZXIgaW5zdGFuY2VvZiBYNTA5VHJ1c3RNYW5hZ2VyKQogICAgICAgICAgewogICAgICAgICAgICBzdW5KU1NFWDUwOVRydXN0TWFuYWdlciA9IChYNTA5VHJ1c3RNYW5hZ2VyKSB0cnVzdE1hbmFnZXI7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnRyYWN0LmFtCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICsraTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBUcnVzdE1hbmFnZXJGYWN0b3J5IHRydXN0TWFuYWdlckZhY3RvcnkgPSBUcnVzdE1hbmFnZXJGYWN0b3J5LmdldEluc3RhbmNlKFRydXN0TWFuYWdlckZhY3RvcnkuZ2V0RGVmYXVsdEFsZ29yaXRobSgpKTsKICAgICAgICB0cnVzdE1hbmFnZXJGYWN0b3J5LmluaXQoKEtleVN0b3JlKW51bGwpOwogICAgICAgIFRydXN0TWFuYWdlcltdIHRydXN0TWFuYWdlcnMgPSB0cnVzdE1hbmFnZXJGYWN0b3J5LmdldFRydXN0TWFuYWdlcnMoKTsKICAgICAgICBYNTA5VHJ1c3RNYW5hZ2VyIHN1bkpTU0VYNTA5VHJ1c3RNYW5hZ2VyID0gbnVsbDsKICAgICAgICBmb3IgKFRydXN0TWFuYWdlciB0cnVzdE1hbmFnZXIgOiB0cnVzdE1hbmFnZXJzKQogICAgICAgIHsKICAgICAgICAgIGlmICh0cnVzdE1hbmFnZXIgaW5zdGFuY2VvZiBYNTA5VHJ1c3RNYW5hZ2VyKQogICAgICAgICAgewogICAgICAgICAgICBzdW5KU1NFWDUwOVRydXN0TWFuYWdlciA9IChYNTA5VHJ1c3RNYW5hZ2VyKSB0cnVzdE1hbmFnZXI7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleVN0b3JlLnNldENlcnRpZmljYXRlRW50cnkoImRlZmF1bHRfIiArIGksIGNlcnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>341</text>
