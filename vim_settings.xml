@@ -205,10 +205,10 @@
         <mark key="." line="51" column="18" />
         <mark key="^" line="20" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/ConfigurableSSLSocketFactory.java" timestamp="1457456897205">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/ConfigurableSSLSocketFactory.java" timestamp="1457458576844">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/eservicecorp-model/src/main/java/com/odc/vendor/model/eservicecorp/ESCProcessPreSearchOrderRequest.java" timestamp="1457453934916">
         <mark key="[" line="18" column="0" />
@@ -691,11 +691,11 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1457045098736">
-        <mark key="[" line="53" column="24" />
-        <mark key="]" line="54" column="6" />
-        <mark key="." line="54" column="6" />
-        <mark key="^" line="54" column="6" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1457458411054">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="53" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/util/AuditTestClient.java" timestamp="1453397732032">
         <mark key="[" line="125" column="0" />
@@ -981,7 +981,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPj4+Pj4+Pj4+PiAiICsgY2VydC5nZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -993,31 +993,31 @@
         <text encoding="base64">ICAgIHZlcmlmeShkYW8pLnVwZGF0ZShNYXRjaGVycy48UGVyc2lzdGVkUmVwb3J0PEVTQ0NvcnBTZWFyY2hSZXNwb25zZT4+YW55KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPj4+Pj4+Pj4+PiAiICsgY2VydC5nZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBUcnVzdE1hbmFnZXJGYWN0b3J5IHRydXN0TWFuYWdlckZhY3RvcnkgPSBUcnVzdE1hbmFnZXJGYWN0b3J5LmdldEluc3RhbmNlKFRydXN0TWFuYWdlckZhY3RvcnkuZ2V0RGVmYXVsdEFsZ29yaXRobSgpKTsKICAgICAgICB0cnVzdE1hbmFnZXJGYWN0b3J5LmluaXQoKEtleVN0b3JlKW51bGwpOwogICAgICAgIFRydXN0TWFuYWdlcltdIHRydXN0TWFuYWdlcnMgPSB0cnVzdE1hbmFnZXJGYWN0b3J5LmdldFRydXN0TWFuYWdlcnMoKTsKICAgICAgICBYNTA5VHJ1c3RNYW5hZ2VyIHN1bkpTU0VYNTA5VHJ1c3RNYW5hZ2VyID0gbnVsbDsKICAgICAgICBmb3IgKFRydXN0TWFuYWdlciB0cnVzdE1hbmFnZXIgOiB0cnVzdE1hbmFnZXJzKQogICAgICAgIHsKICAgICAgICAgIGlmICh0cnVzdE1hbmFnZXIgaW5zdGFuY2VvZiBYNTA5VHJ1c3RNYW5hZ2VyKQogICAgICAgICAgewogICAgICAgICAgICBzdW5KU1NFWDUwOVRydXN0TWFuYWdlciA9IChYNTA5VHJ1c3RNYW5hZ2VyKSB0cnVzdE1hbmFnZXI7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNzbENvbnRleHRCdWlsZGVyLmxvYWRUcnVzdE1hdGVyaWFsKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICsraTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGtleVN0b3JlLnNldENlcnRpZmljYXRlRW50cnkoImRlZmF1bHRfIiArIGksIGNlcnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzc2xDb250ZXh0QnVpbGRlci4K</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9IFN5c3RlbS5nZXRQcm9wZXJ0eSgiamF2YXgubmV0LnNzbC5rZXlTdG9yZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFg1MDlDZXJ0aWZpY2F0ZSBjZXJ0OiBhY2NlcHRlZElzc3VlcnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>341</text>
