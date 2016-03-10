@@ -29,7 +29,12 @@
         <mark key="]" line="249" column="50" />
         <mark key="." line="249" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/core/async/AsyncDecisionServiceIntegrationTest.java" timestamp="1457552983800" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/core/async/AsyncDecisionServiceIntegrationTest.java" timestamp="1457645679693">
+        <mark key="[" line="296" column="20" />
+        <mark key="]" line="287" column="64" />
+        <mark key="." line="287" column="64" />
+        <mark key="^" line="287" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/FetchOrReuseConnectReport.java" timestamp="1453319914093">
         <mark key="[" line="22" column="35" />
         <mark key="]" line="22" column="35" />
@@ -327,7 +332,6 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/credit/LineOfCredit.java" timestamp="1457474435242" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/HistoricalReport.java" timestamp="1453308752046">
         <mark key="[" line="10" column="68" />
         <mark key="]" line="10" column="68" />
@@ -1041,10 +1045,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>ImmutableList.builder().addAll(asyncDecisionRecord1.getIdentifiers()).)</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>ImmutableList.builder().addAll(asyncDecisionRecord1.getIdentifiers()).)</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1053,31 +1057,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>ImmutableList.builder().addAll(asyncDecisionRecord1.getIdentifiers()).)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKGFzeW5jSWRlbnRpZmllcjEsIGFzeW5jSWRlbnRpZmllcjIpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkRXhjZXB0aW9uLmV4cGVjdE1lc3NhZ2UoIlVuYWJsZSB0byBjbGVhciBhIGNoZWNrb3V0IGNvbmRpdGlvbiBvZiBbUFBTQV0gZnJvbSBkZWNpc2lvbiIpOwo=</text>
+      <register name="3" type="4">
+        <text>1</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkRXhjZXB0aW9uLmV4cGVjdChWYWxpZGF0aW9uRXhjZXB0aW9uLmNsYXNzKTsK</text>
+      <register name="4" type="4">
+        <text>, asyncDecisionRecord1</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>2</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>d</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVmFsaWRhdGlvbkV4Y2VwdGlvbihlcnJvck1zZyk7Cg==</text>
+      <register name="9" type="4">
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
