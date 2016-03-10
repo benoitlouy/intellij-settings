@@ -29,11 +29,10 @@
         <mark key="]" line="249" column="50" />
         <mark key="." line="249" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/core/async/AsyncDecisionServiceIntegrationTest.java" timestamp="1457645679693">
-        <mark key="[" line="296" column="20" />
-        <mark key="]" line="287" column="64" />
-        <mark key="." line="287" column="64" />
-        <mark key="^" line="287" column="64" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/core/async/AsyncDecisionServiceIntegrationTest.java" timestamp="1457647014048">
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/FetchOrReuseConnectReport.java" timestamp="1453319914093">
         <mark key="[" line="22" column="35" />
@@ -616,10 +615,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/qd.decisionservice.properties" timestamp="1453398546400">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/qd.decisionservice.properties" timestamp="1457646828483">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Owner.java" timestamp="1456936394729">
         <mark key="[" line="26" column="31" />
@@ -840,7 +840,7 @@
         <mark key="^" line="38" column="27" />
         <mark key="." line="38" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1457643639293">
+      <file name="/Dummy.txt" timestamp="1457646800695">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -923,7 +923,7 @@
         <mark key="^" line="265" column="15" />
         <mark key="." line="265" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1457643639330">
+      <file name="/fragment.java" timestamp="1457646800742">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="30" />
@@ -1044,44 +1044,44 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/OnDeck/decisionservice/conf/dev01.decisionservice.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ImmutableList.builder().addAll(asyncDecisionRecord1.getIdentifiers()).)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgYXNzZXJ0RXF1YWxzKGFzeW5jRGVjaXNpb25SZWNvcmQuZ2V0SWRlbnRpZmllcnMoKS5zaXplKCkgLSAxLCByZWZyZXNoZWRBc3luY0RlY2lzaW9uUmVjb3JkLmdldElkZW50aWZpZXJzKCkuc2l6ZSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ImmutableList.builder().addAll(asyncDecisionRecord1.getIdentifiers()).)</text>
+        <text>qdfullconnect</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
+        <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="4">
-        <text>ImmutableList.builder().addAll(asyncDecisionRecord1.getIdentifiers()).)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgYXNzZXJ0RXF1YWxzKGFzeW5jRGVjaXNpb25SZWNvcmQuZ2V0SWRlbnRpZmllcnMoKS5zaXplKCkgLSAxLCByZWZyZXNoZWRBc3luY0RlY2lzaW9uUmVjb3JkLmdldElkZW50aWZpZXJzKCkuc2l6ZSgpKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKGFzeW5jSWRlbnRpZmllcjEsIGFzeW5jSWRlbnRpZmllcjIpOwo=</text>
+      <register name="2" type="4">
+        <text>qdfullconnect</text>
       </register>
-      <register name="3" type="4">
-        <text>1</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>, asyncDecisionRecord1</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICB1bmRlclRlc3QucmVydW5EZWNpc2lvbnMoYXN5bmNJZGVudGlmaWVyMSwgYXN5bmNJZGVudGlmaWVyMSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>2</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8K</text>
       </register>
-      <register name="6" type="4">
-        <text>d</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICBBc3luY0lkZW50aWZpZXI8Pz4gYXN5bmNJZGVudGlmaWVyMiA9IGFzeW5jRGVjaXNpb25SZWNvcmQyLmdldElkZW50aWZpZXJzKCkuaXRlcmF0b3IoKS5uZXh0KCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>r</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICBBc3luY0lkZW50aWZpZXI8Pz4gYXN5bmNJZGVudGlmaWVyMSA9IGFzeW5jRGVjaXNpb25SZWNvcmQxLmdldElkZW50aWZpZXJzKCkuaXRlcmF0b3IoKS5uZXh0KCk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>ImmutableList.builder().addAll(asyncDecisionRecord1.getIdentifiers()).)</text>
       </register>
-      <register name="9" type="4">
-        <text>c</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKGFzeW5jSWRlbnRpZmllcjEsIGFzeW5jSWRlbnRpZmllcjIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
