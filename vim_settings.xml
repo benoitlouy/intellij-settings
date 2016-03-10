@@ -122,6 +122,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/loc/LocStatusResponse.java" timestamp="1457472729352">
         <mark key="[" line="33" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/security/ConfigurableSSLSocketFactory.java" timestamp="1457648941430">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaConsumerCreditDecider.scala" timestamp="1454533670927">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -224,6 +229,7 @@
         <mark key="." line="51" column="18" />
         <mark key="^" line="20" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/ConfigurableSSLSocketFactory.java" timestamp="1457648949534" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/eservicecorp-model/src/main/java/com/odc/vendor/model/eservicecorp/ESCProcessPreSearchOrderRequest.java" timestamp="1457453934916">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -305,7 +311,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PoodleSafeAxisSecureSocketFactory.java" timestamp="1456954361322">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PoodleSafeAxisSecureSocketFactory.java" timestamp="1457648857899">
         <mark key="[" line="25" column="50" />
         <mark key="]" line="25" column="54" />
         <mark key="." line="25" column="54" />
@@ -326,6 +332,7 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/credit/LineOfCredit.java" timestamp="1457474435242" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/HistoricalReport.java" timestamp="1453308752046">
         <mark key="[" line="10" column="68" />
         <mark key="]" line="10" column="68" />
@@ -518,13 +525,6 @@
         <mark key="]" line="73" column="37" />
         <mark key="." line="73" column="37" />
         <mark key="^" line="73" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMergerUnitTest.java" timestamp="1457552132060">
-        <mark key="'" line="427" column="41" />
-        <mark key="[" line="413" column="16" />
-        <mark key="]" line="413" column="13" />
-        <mark key="^" line="413" column="13" />
-        <mark key="." line="413" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/pom.xml" timestamp="1454360320077">
         <mark key="[" line="16" column="34" />
@@ -1040,7 +1040,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0RXF1YWxzKGFzeW5jRGVjaXNpb25SZWNvcmQuZ2V0SWRlbnRpZmllcnMoKS5zaXplKCkgLSAxLCByZWZyZXNoZWRBc3luY0RlY2lzaW9uUmVjb3JkLmdldElkZW50aWZpZXJzKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>qdfullconnect</text>
@@ -1052,31 +1052,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0RXF1YWxzKGFzeW5jRGVjaXNpb25SZWNvcmQuZ2V0SWRlbnRpZmllcnMoKS5zaXplKCkgLSAxLCByZWZyZXNoZWRBc3luY0RlY2lzaW9uUmVjb3JkLmdldElkZW50aWZpZXJzKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>qdfullconnect</text>
+      <register name="2" type="2">
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIENvbmZpZ3VyYWJsZVNTTFNvY2tldEZhY3RvcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICB1bmRlclRlc3QucmVydW5EZWNpc2lvbnMoYXN5bmNJZGVudGlmaWVyMSwgYXN5bmNJZGVudGlmaWVyMSk7Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzEwLzE2Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICBBc3luY0lkZW50aWZpZXI8Pz4gYXN5bmNJZGVudGlmaWVyMiA9IGFzeW5jRGVjaXNpb25SZWNvcmQyLmdldElkZW50aWZpZXJzKCkuaXRlcmF0b3IoKS5uZXh0KCk7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICBBc3luY0lkZW50aWZpZXI8Pz4gYXN5bmNJZGVudGlmaWVyMSA9IGFzeW5jRGVjaXNpb25SZWNvcmQxLmdldElkZW50aWZpZXJzKCkuaXRlcmF0b3IoKS5uZXh0KCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0RXF1YWxzKGFzeW5jRGVjaXNpb25SZWNvcmQuZ2V0SWRlbnRpZmllcnMoKS5zaXplKCkgLSAxLCByZWZyZXNoZWRBc3luY0RlY2lzaW9uUmVjb3JkLmdldElkZW50aWZpZXJzKCkuc2l6ZSgpKTsK</text>
       </register>
       <register name="8" type="4">
-        <text>ImmutableList.builder().addAll(asyncDecisionRecord1.getIdentifiers()).)</text>
+        <text>qdfullconnect</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKGFzeW5jSWRlbnRpZmllcjEsIGFzeW5jSWRlbnRpZmllcjIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
