@@ -247,6 +247,11 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagementTest.java" timestamp="1457628836010">
+        <mark key="[" line="349" column="0" />
+        <mark key="]" line="349" column="0" />
+        <mark key="." line="349" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/converter/historicalbusinesscreditreport/HistoricalCanadianConsumerCreditReportConverterTest.java" timestamp="1454015557596">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="223" column="0" />
@@ -750,6 +755,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagement.java" timestamp="1457628753212">
+        <mark key="[" line="184" column="58" />
+        <mark key="]" line="185" column="6" />
+        <mark key="." line="185" column="6" />
+        <mark key="^" line="185" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/main/java/com/ondeck/common/model/underwriting/PartnerOfferDetails.java" timestamp="1456948267430">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1024,8 +1035,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/OnDeck/decisionservice/conf/dev01.decisionservice.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dev01connect</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>dev01connect</text>
@@ -1036,32 +1047,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>dev01connect</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>c</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdGVkRXhjZXB0aW9uLmV4cGVjdE1lc3NhZ2UoIlVuYWJsZSB0byBjbGVhciBhIGNoZWNrb3V0IGNvbmRpdGlvbiBvZiBbUFBTQV0gZnJvbSBkZWNpc2lvbiIpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHdoZW4oZGFvLmZpbmRCeURvY3VtZW50SWQoYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKHBlcnNpc3RlZFJlcG9ydCgpKTsKCiAgICB3aGVuKGdldFJlc3VsdENvbm5lY3Rpb24uc3VibWl0KGFueVN0cmluZygpLCBhbnkoQ29ubmVjdGlvblBhcmFtcy5jbGFzcykpKQogICAgICAgIC50aGVuUmV0dXJuKGVzY1Jlc3BvbnNlKEVTQ0NvbnN0YW50cy5PcmRlclN0YXR1cy5DT01QTEVURSkpOwoKICAgIENvbm5lY3RSZXNwb25zZTxSZXBvcnQ8UG9sbFJlcG9ydFBheWxvYWQ+PiByZXNwb25zZSA9IGhhbmRsZXIucHJvY2Vzc1JlcXVlc3QocmVxdWVzdCgpKTsKCiAgICBhc3NlcnRUcnVlKHJlc3BvbnNlLmdldFBheWxvYWQoKS5nZXRBcGlSZXNwb25zZSgpLmdldEVycm9yTWVzc2FnZXNCeVJlcG9ydElkKCkuaXNFbXB0eSgpKTsKICAgIGFzc2VydEVxdWFscygxLCByZXNwb25zZS5nZXRQYXlsb2FkKCkuZ2V0QXBpUmVzcG9uc2UoKS5nZXRTdGlsbFBlbmRpbmcoKS5zaXplKCkpOwogICAgYXNzZXJ0VHJ1ZShyZXNwb25zZS5nZXRQYXlsb2FkKCkuZ2V0QXBpUmVzcG9uc2UoKS5nZXRTdWNjZXNzZnVsUmVwb3J0cygpLmlzRW1wdHkoKSk7CiAgICB2ZXJpZnkoZGFvKS5maW5kQnlEb2N1bWVudElkKGFueVN0cmluZygpKTsKICAgIHZlcmlmeShldmVudEhhbmRsZXIpLmhhbmRsZShhbnkoKSk7CiAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMoZGFvLCBjYWxsYmFja01hbmFnZXIpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdGVkRXhjZXB0aW9uLmV4cGVjdChWYWxpZGF0aW9uRXhjZXB0aW9uLmNsYXNzKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHdoZW4oZGFvLmZpbmRCeURvY3VtZW50SWQoYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKHBlcnNpc3RlZFJlcG9ydCgpKTsKCiAgICB3aGVuKGdldFJlc3VsdENvbm5lY3Rpb24uc3VibWl0KGFueVN0cmluZygpLCBhbnkoQ29ubmVjdGlvblBhcmFtcy5jbGFzcykpKQogICAgICAgIC50aGVuUmV0dXJuKGVzY1Jlc3BvbnNlKEVTQ0NvbnN0YW50cy5PcmRlclN0YXR1cy5SRVFVRVNURUQpKTsKCiAgICBDb25uZWN0UmVzcG9uc2U8UmVwb3J0PFBvbGxSZXBvcnRQYXlsb2FkPj4gcmVzcG9uc2UgPSBoYW5kbGVyLnByb2Nlc3NSZXF1ZXN0KHJlcXVlc3QoKSk7CgogICAgYXNzZXJ0VHJ1ZShyZXNwb25zZS5nZXRQYXlsb2FkKCkuZ2V0QXBpUmVzcG9uc2UoKS5nZXRFcnJvck1lc3NhZ2VzQnlSZXBvcnRJZCgpLmlzRW1wdHkoKSk7CiAgICBhc3NlcnRFcXVhbHMoMSwgcmVzcG9uc2UuZ2V0UGF5bG9hZCgpLmdldEFwaVJlc3BvbnNlKCkuZ2V0U3RpbGxQZW5kaW5nKCkuc2l6ZSgpKTsKICAgIGFzc2VydFRydWUocmVzcG9uc2UuZ2V0UGF5bG9hZCgpLmdldEFwaVJlc3BvbnNlKCkuZ2V0U3VjY2Vzc2Z1bFJlcG9ydHMoKS5pc0VtcHR5KCkpOwogICAgdmVyaWZ5KGRhbykuZmluZEJ5RG9jdW1lbnRJZChhbnlTdHJpbmcoKSk7CiAgICB2ZXJpZnkoZXZlbnRIYW5kbGVyKS5oYW5kbGUoYW55KCkpOwogICAgdmVyaWZ5Tm9Nb3JlSW50ZXJhY3Rpb25zKGRhbywgY2FsbGJhY2tNYW5hZ2VyKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>ESCConstants.OrderStatus.REQUESTED</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>public</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>FAILED</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>COMPLETE</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVmFsaWRhdGlvbkV4Y2VwdGlvbihlcnJvck1zZyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGdldFJlc3VsdFJldHVybnNDb21wbGV0ZVN0YXR1cygpCiAgICAgIHRocm93cyBWZW5kb3JDb25uZWN0aW9uRXhjZXB0aW9uLCBIYW5kbGVyRXhjZXB0aW9uLCBDYWxsYmFja01hbmFnZXJFeGNlcHRpb24KICB7CiAgICBQZXJzaXN0ZWRSZXBvcnQ8RVNDQ29ycFNlYXJjaFJlc3BvbnNlPiBuZXdSZXBvcnQgPQogICAgICAgIHRlc3RFU0NHZXRSZXN1bHRSZXR1cm5zRmluYWxTdGF0dXMoRVNDQ29uc3RhbnRzLk9yZGVyU3RhdHVzLkNPTVBMRVRFLCB0cnVlKTsKCiAgICBhc3NlcnRFcXVhbHMoUmVzcG9uc2VTdGF0dXMuUEVORElORywgbmV3UmVwb3J0LmdldEFwaVJlc3BvbnNlKCkuZ2V0U3RhdHVzKCkpOwogICAgYXNzZXJ0Tm90TnVsbChuZXdSZXBvcnQuZ2V0QXBpUmVzcG9uc2UoKS5nZXRTdGF0dXNNZXNzYWdlKCkpOwogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoZXJyb3JNc2cpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
