@@ -19,11 +19,6 @@
         <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/associate/creditdecision/UnderwritingModelResult.java" timestamp="1457714383417" />
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCGetResultFilesConnectionIntegrationTest.java" timestamp="1457706475824">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/AuditVisitor.java" timestamp="1455312733498">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
@@ -516,6 +511,11 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-bind/build.gradle" timestamp="1457727436477">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/unit/src/java/com/odc/decision/troubleshooting/summarizers/DecisionSummarizerTest.java" timestamp="1454100725742">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -708,12 +708,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PooledServiceConnection.java" timestamp="1457709114075">
         <mark key="[" line="15" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1457726095363">
-        <mark key="[" line="593" column="51" />
-        <mark key="]" line="594" column="50" />
-        <mark key="^" line="594" column="50" />
-        <mark key="." line="594" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/pollReport/PollReportRequest.xsd" timestamp="1457367269432">
         <mark key="[" line="13" column="51" />
         <mark key="]" line="18" column="63" />
@@ -761,10 +755,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/build.gradle" timestamp="1457716034130">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/build.gradle" timestamp="1457727443028">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/eservicecorp-model/src/main/java/com/odc/vendor/model/eservicecorp/ESCProcessAutoPreSearchOrderRequest.java" timestamp="1456957392975">
         <mark key="[" line="21" column="0" />
@@ -886,6 +880,11 @@
         <mark key="]" line="185" column="6" />
         <mark key="." line="185" column="6" />
         <mark key="^" line="185" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/csc-biid-connection/build.gradle" timestamp="1457727427104">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/config/prod/loanservice.properties" timestamp="1455646919442">
         <mark key="[" line="197" column="54" />
@@ -1102,7 +1101,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGUgJ2phdmF4LnhtbC5iaW5kOmpheGItYXBpOjIuMi4xMScK</text>
       </register>
       <register name="-" type="4">
         <text>intellij</text>
@@ -1114,31 +1113,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGUgJ2phdmF4LnhtbC5iaW5kOmpheGItYXBpOjIuMi4xMScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGUgJ2phdmF4LnhtbC5iaW5kOmpheGItYXBpOjIuMScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzY29wZXMuUlVOVElNRS5wbHVzICs9IGNvbmZpZ3VyYXRpb25zLmludGVsbGlqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1vZHVsZSB7Cg==</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGUgJ2phdmF4LnhtbC5iaW5kOmpheGItYXBpOjIuMScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaWRlYSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbGxpago=</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzY29wZXMuUlVOVElNRS5wbHVzICs9IGNvbmZpZ3VyYXRpb25zLmludGVsbGlqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
