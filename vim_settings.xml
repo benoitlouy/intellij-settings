@@ -132,11 +132,11 @@
         <mark key="." line="15" column="102" />
         <mark key="^" line="15" column="102" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1456334490853">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="28" column="39" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1457964657206">
+        <mark key="[" line="81" column="25" />
+        <mark key="]" line="81" column="33" />
+        <mark key="." line="81" column="33" />
+        <mark key="^" line="81" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagementTest.java" timestamp="1457628836010">
         <mark key="[" line="349" column="0" />
@@ -681,6 +681,11 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerify.java" timestamp="1457965000862">
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="382" column="0" />
+        <mark key="." line="382" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/test/integration/java/com/odc/datapipes/flow/audit/AuditVisitorIntegrationTest.java" timestamp="1455312919079">
         <mark key="[" line="258" column="23" />
         <mark key="]" line="258" column="23" />
@@ -1103,8 +1108,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/OnDeck/decisionservice/conf/dev01.decisionservice.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CanadaValidations.isValidHSTGSTNumber(number)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE1vcmVQYXR0ZXJucy5tYXRjaGVzKExJTUlUX1RPX05JTkVfTlVNRVJJQ19SRUdFWCwgdGF4SWQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>CanadaValidations.isValidHSTGSTNumber(number)</text>
@@ -1115,32 +1120,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
-      <register name="1" type="4">
-        <text>CanadaValidations.isValidHSTGSTNumber(number)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE1vcmVQYXR0ZXJucy5tYXRjaGVzKExJTUlUX1RPX05JTkVfTlVNRVJJQ19SRUdFWCwgdGF4SWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE1vcmVQYXR0ZXJucy5tYXRjaGVzKExJTUlUX1RPX0VMRVZFTl9OVU1FUklDX1JFR0VYLCB0YXhJZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzE0LzE2Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICBNb3JlUGF0dGVybnMubWF0Y2hlcyhMSU1JVF9UT19OSU5FX05VTUVSSUNfUkVHRVgsIHRheElkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gTW9yZVBhdHRlcm5zLm1hdGNoZXMoTElNSVRfVE9fRUxFVkVOX05VTUVSSUNfUkVHRVgsIHRheElkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzExLzE2Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0eXBlID09IG51bGwpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBNb3JlUGF0dGVybnMubWF0Y2hlcyhMSU1JVF9UT19OSU5FX05VTUVSSUNfUkVHRVgsIHRheElEKTsK</text>
       </register>
       <register name="8" type="4">
-        <text>number</text>
+        <text>CanadaValidations.isValidHSTGSTNumber(number)</text>
       </register>
-      <register name="9" type="4">
-        <text>number</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
