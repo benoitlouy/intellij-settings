@@ -109,6 +109,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/test/FakeData.java" timestamp="1457969616205">
+        <mark key="[" line="710" column="41" />
+        <mark key="]" line="257" column="53" />
+        <mark key="." line="257" column="53" />
+        <mark key="^" line="257" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/css/style.css" timestamp="1454080648331">
         <mark key="[" line="773" column="0" />
         <mark key="]" line="773" column="0" />
@@ -257,11 +263,10 @@
         <mark key="]" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1457968766600">
-        <mark key="[" line="435" column="49" />
-        <mark key="]" line="505" column="41" />
-        <mark key="^" line="505" column="41" />
-        <mark key="." line="505" column="41" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1457969354591">
+        <mark key="[" line="107" column="86" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/validation/CanadaHSTGSTValidationTest.java" timestamp="1457963172890">
         <mark key="[" line="34" column="24" />
@@ -979,11 +984,8 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/test/FakeModelData.java" timestamp="1457968846266">
-        <mark key="[" line="553" column="96" />
-        <mark key="]" line="553" column="92" />
-        <mark key="." line="553" column="92" />
-        <mark key="^" line="553" column="92" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/test/FakeModelData.java" timestamp="1457968982939">
+        <mark key="^" line="549" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/build.gradle" timestamp="1457715953553">
         <mark key="[" line="0" column="20" />
@@ -1107,10 +1109,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>numericString</text>
+        <text>country</text>
       </register>
       <register name="-" type="4">
-        <text>numericString</text>
+        <text>country</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1119,31 +1121,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL3FkZnVsbGNvbm5lY3QvY29ubmVjdHNlcnZpY2UK</text>
       </register>
       <register name="1" type="4">
-        <text>numericString</text>
+        <text>country</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ29vZ2xlLmNvbW1vbi5iYXNlLlByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsOwo=</text>
+      <register name="2" type="4">
+        <text>country</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE1vcmVQYXR0ZXJucy5tYXRjaGVzKExJTUlUX1RPX05JTkVfTlVNRVJJQ19SRUdFWCwgdGF4SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVzaW5lc3NJZGVudGlmaWVyVHlwZSBidXNpbmVzc0lkZW50aWZpZXJUeXBlKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE1vcmVQYXR0ZXJucy5tYXRjaGVzKExJTUlUX1RPX0VMRVZFTl9OVU1FUklDX1JFR0VYLCB0YXhJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVzaW5lc3NJZGVudGlmaWVyVHlwZSBidXNpbmVzc0lkZW50aWZpZXJUeXBlKSB7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text>country</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICBNb3JlUGF0dGVybnMubWF0Y2hlcyhMSU1JVF9UT19OSU5FX05VTUVSSUNfUkVHRVgsIHRheElkKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHRheElkKEJ1c2luZXNzSWRlbnRpZmllclR5cGUgYnVzaW5lc3NJZGVudGlmaWVyVHlwZSkgewogICAgICAgIHN3aXRjaCAoYnVzaW5lc3NJZGVudGlmaWVyVHlwZSkgewogICAgICAgICAgICBjYXNlIFVTQV9UQVhfSUQ6CiAgICAgICAgICAgIGNhc2UgQ0FOX0hTVF9OVU1CRVI6CiAgICAgICAgICAgICAgICByZXR1cm4gbnVtZXJpY1N0cmluZyg5KTsKICAgICAgICAgICAgY2FzZSBBVVNfQUJOOiByZXR1cm4gIjUzMDA0MDg1NjE2IjsKICAgICAgICAgICAgY2FzZSBBVVNfQUNOOiByZXR1cm4gIjAwNDA4NTYxNiI7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gTW9yZVBhdHRlcm5zLm1hdGNoZXMoTElNSVRfVE9fRUxFVkVOX05VTUVSSUNfUkVHRVgsIHRheElkKQo=</text>
+      <register name="7" type="4">
+        <text>ountry.U</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0eXBlID09IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBNb3JlUGF0dGVybnMubWF0Y2hlcyhMSU1JVF9UT19OSU5FX05VTUVSSUNfUkVHRVgsIHRheElEKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
