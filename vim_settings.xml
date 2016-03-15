@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianConnectionHelper.java" timestamp="1458068116989">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianConnectionHelper.java" timestamp="1458072949742">
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/model/Vendor.java" timestamp="1456864605340">
         <mark key="[" line="14" column="15" />
@@ -73,13 +73,13 @@
         <mark key="." line="37" column="89" />
         <mark key="^" line="37" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianBCRLenderIdentifierConfig.java" timestamp="1458068025057">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianBCRLenderIdentifierConfig.java" timestamp="1458072827243">
+        <mark key="[" line="5" column="1" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1457466562722">
-        <mark key="[" line="214" column="16" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1458072564446">
+        <mark key="[" line="143" column="46" />
         <mark key="]" line="214" column="20" />
         <mark key="." line="214" column="20" />
         <mark key="^" line="214" column="20" />
@@ -229,6 +229,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458072694812">
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="40" />
+        <mark key="^" line="52" column="40" />
+        <mark key="." line="52" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/loc/CreateDrawRequest.java" timestamp="1458057477532">
         <mark key="[" line="35" column="90" />
@@ -384,8 +390,11 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianLenderIdentifier.java" timestamp="1458067284486">
-        <mark key="[" line="2" column="37" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianLenderIdentifier.java" timestamp="1458072442823">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="9" column="47" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="9" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/test/unit/src/java/com/odc/salesforceservice/handler/PricingDecisionHandlerUnitTest.java" timestamp="1457992048865">
         <mark key="[" line="191" column="0" />
@@ -580,10 +589,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1YnNjcmliZXJUeXBlLnNldAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBzYmNzU3ViQ29kZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>EquifaxLenderIdentifier</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -592,31 +601,31 @@
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1YnNjcmliZXJUeXBlLnNldAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBzYmNzU3ViQ29kZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBpbnRlbGxpc2NvcmVTdWJDb2RlOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzE1LzE2Lgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IFN0cmluZyBzdWJjb2Rl</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzE1LzE2Lgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdWJjb2RlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>EquifaxLenderIdentifier</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFN1YmNvZGUoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>EquifaxLenderIdentifier</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>267</text>
