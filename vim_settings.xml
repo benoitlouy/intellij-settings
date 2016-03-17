@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianConnectionHelper.java" timestamp="1458074315806">
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="263" column="0" />
-        <mark key="." line="263" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/model/Vendor.java" timestamp="1456864605340">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="15" column="13" />
@@ -59,11 +54,6 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianLenderIdentifierSelector.java" timestamp="1458067212732">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/us/EquifaxCCRConnectionHelper.java" timestamp="1458067768535">
         <mark key="[" line="37" column="34" />
       </file>
@@ -79,11 +69,6 @@
         <mark key="." line="35" column="80" />
         <mark key="^" line="35" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/ExperianBCRLenderIdentifierConfig.java" timestamp="1458074198019">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1458074680671">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
@@ -98,6 +83,12 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/src/java/com/odc/salesforceservice/handler/ondeckonline/OpportunityHelper.java" timestamp="1458162444852">
         <mark key="[" line="190" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilderTest.java" timestamp="1458250471974">
+        <mark key="[" line="207" column="81" />
+        <mark key="]" line="199" column="2" />
+        <mark key="." line="199" column="2" />
+        <mark key="^" line="199" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/Report.java" timestamp="1453308780423">
         <mark key="[" line="11" column="49" />
@@ -218,10 +209,11 @@
         <mark key="^" line="18" column="63" />
         <mark key="." line="18" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/LenderIdentifier.java" timestamp="1458067072741">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilder.java" timestamp="1458250104167">
+        <mark key="[" line="403" column="8" />
+        <mark key="]" line="402" column="84" />
+        <mark key="^" line="402" column="84" />
+        <mark key="." line="402" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1457550301816">
         <mark key="[" line="13" column="25" />
@@ -244,7 +236,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/loc/CreateDrawRequest.java" timestamp="1458139367802">
         <mark key="[" line="35" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/validation/CanadaHSTGSTValidationTest.java" timestamp="1457963172890">
+      <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/validation/CanadaHSTGSTValidationTest.java" timestamp="1458249138153">
         <mark key="[" line="34" column="24" />
         <mark key="]" line="34" column="24" />
         <mark key="." line="34" column="24" />
@@ -298,10 +290,10 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/validation/USATaxIDValidationTest.java" timestamp="1457963213240">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/validation/USATaxIDValidationTest.java" timestamp="1458249069842">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455727804257">
         <mark key="[" line="249" column="18" />
@@ -351,11 +343,6 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/DecisionResource.java" timestamp="1457979469673">
-        <mark key="[" line="523" column="39" />
-        <mark key="]" line="523" column="22" />
-        <mark key="." line="523" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1457537023696">
         <mark key="[" line="76" column="80" />
         <mark key="]" line="76" column="80" />
@@ -400,11 +387,6 @@
         <mark key="]" line="9" column="47" />
         <mark key="^" line="12" column="26" />
         <mark key="." line="9" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/test/unit/src/java/com/odc/salesforceservice/handler/PricingDecisionHandlerUnitTest.java" timestamp="1457992048865">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/test/resources/creditProfile/fullCreditDecision.json" timestamp="1453307548949">
         <mark key="[" line="36" column="4" />
@@ -453,11 +435,6 @@
         <mark key="]" line="119" column="63" />
         <mark key="." line="119" column="63" />
         <mark key="^" line="119" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/EquifaxLenderIdentifier.java" timestamp="1458067113826">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/dev01.connect.properties" timestamp="1452269740438">
         <mark key="[" line="20" column="42" />
@@ -590,11 +567,11 @@
       <jump line="13" column="24" filename="$MAVEN_REPOSITORY$/com/ondeck/common/unified-app-model/1.26.2/unified-app-model-1.26.2.jar!/com/ondeck/common/model/pricing/PricingDecision.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE9wcG9ydHVuaXR5IG9wcG9ydHVuaXR5ID0gY3JlYXRlT3Bwb3J0dW5pdHkoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>USAValidations</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -602,32 +579,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIE9wcG9ydHVuaXR5IG9wcG9ydHVuaXR5ID0gY3JlYXRlT3Bwb3J0dW5pdHkoKTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>USAValidations</text>
+      </register>
+      <register name="3" type="4">
+        <text>CanadaValidations.isValidHSTGSTNumber</text>
+      </register>
+      <register name="4" type="4">
         <text>null</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">TW9ja2l0b0Fubm90YXRpb25zLmluaXRNb2Nrcyh0aGlzKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIE1vY2tpdG9Bbm5vdGF0aW9ucy5pbml0TW9ja3ModGhpcyk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNsYXNzVW5kZXJUZXN0LnNldFNiY3NTdWJDb2RlKHNiY3NTdWJDb2RlKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNsYXNzVW5kZXJUZXN0LnNldEludGVsbGlzY29yZVN1YkNvZGUoaW50ZWxsaXNjb3JlU3ViQ29kZSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2Jjc1N1YkNvZGUgPSBzYmNzU3ViQ29kZTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
