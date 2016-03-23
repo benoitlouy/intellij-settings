@@ -73,6 +73,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/us/EquifaxCCRConnectionHelper.java" timestamp="1458067768535">
         <mark key="[" line="37" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/AustraliaEligibilityManagement.java" timestamp="1458743231701">
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="11" />
+        <mark key="." line="45" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/functional/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchFunctionalTest.java" timestamp="1457367208807">
         <mark key="[" line="70" column="102" />
         <mark key="]" line="70" column="103" />
@@ -295,6 +300,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/subdivision/SubDivision.java" timestamp="1458583350321">
         <mark key="[" line="91" column="104" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/EligibilityManagement.java" timestamp="1458743632228" />
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/TimedAuditVisitor.java" timestamp="1455312153664">
         <mark key="[" line="56" column="72" />
         <mark key="]" line="56" column="50" />
@@ -319,6 +325,11 @@
         <mark key="." line="11" column="111" />
         <mark key="^" line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/GenericEligibilityManagement.java" timestamp="1458742965201">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/qd.decisionservice.properties" timestamp="1457646828483">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="41" />
@@ -331,6 +342,7 @@
         <mark key="." line="66" column="94" />
         <mark key="^" line="66" column="94" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/CanadaEligibilityManagement.java" timestamp="1458743178848" />
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/validation/USAValidations.java" timestamp="1458314496408">
         <mark key="[" line="5" column="0" />
       </file>
@@ -643,10 +655,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -655,31 +667,31 @@
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>null</text>
       </register>
       <register name="2" type="4">
-        <text>10</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>7</text>
+        <text>null</text>
       </register>
       <register name="4" type="4">
-        <text>3</text>
+        <text>null;</text>
       </register>
       <register name="5" type="4">
-        <text>7</text>
+        <text>null</text>
       </register>
-      <register name="6" type="4">
-        <text>-</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>S</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzIzLzE2Lgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>A</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>D</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzVmFsaWRTYWxlc0NoYW5uZWwgPSBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
