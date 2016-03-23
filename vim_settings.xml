@@ -295,8 +295,10 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.js" timestamp="1458758348405">
-        <mark key="[" line="186" column="77" />
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.js" timestamp="1458765119824">
+        <mark key="[" line="188" column="18" />
+        <mark key="]" line="188" column="18" />
+        <mark key="." line="188" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1457550301816">
         <mark key="[" line="13" column="25" />
@@ -704,10 +706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>USA</text>
+        <text>summary</text>
       </register>
       <register name="-" type="4">
-        <text>USA</text>
+        <text>summary</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -716,31 +718,31 @@
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>USA</text>
+        <text>summary</text>
       </register>
       <register name="2" type="4">
-        <text>usaEligibilityManagement</text>
-      </register>
-      <register name="3" type="4">
         <text>USA</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>usaEligibilityManagement</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="4" type="4">
+        <text>USA</text>
+      </register>
+      <register name="5" type="4">
+        <text>usaEligibilityManagement</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzIzLzE2Lgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzIzLzE2Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1c3RyYWxpYUVsaWdpYmlsaXR5TWFuYWdlbWVudCA9IG5ldyBBdXN0cmFsaWFFbGlnaWJpbGl0eU1hbmFnZW1lbnQoKTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBBdXN0cmFsaWFFbGlnaWJpbGl0eU1hbmFnZW1lbnQgYXVzdHJhbGlhRWxpZ2liaWxpdHlNYW5hZ2VtZW50Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGF1c3RyYWxpYUVsaWdpYmlsaXR5TWFuYWdlbWVudCA9IG5ldyBBdXN0cmFsaWFFbGlnaWJpbGl0eU1hbmFnZW1lbnQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
