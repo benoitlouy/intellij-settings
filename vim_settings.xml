@@ -183,7 +183,9 @@
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/validation/CanadaValidations.java" timestamp="1458314353171">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1458758292046" />
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1458766771588">
+        <mark key="[" line="235" column="78" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PoodleSafeAxisSecureSocketFactory.java" timestamp="1457708184842">
         <mark key="[" line="38" column="23" />
         <mark key="]" line="38" column="50" />
@@ -256,6 +258,9 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.spec.js" timestamp="1458766986420">
+        <mark key="[" line="140" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/src/java/com/odc/salesforceservice/handler/PricingDecisionHandler.java" timestamp="1457990998805">
         <mark key="[" line="38" column="9" />
         <mark key="]" line="38" column="8" />
@@ -295,10 +300,11 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.js" timestamp="1458765119824">
-        <mark key="[" line="188" column="18" />
-        <mark key="]" line="188" column="18" />
-        <mark key="." line="188" column="18" />
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.js" timestamp="1458768723113">
+        <mark key="[" line="301" column="46" />
+        <mark key="]" line="299" column="30" />
+        <mark key="." line="299" column="30" />
+        <mark key="^" line="299" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1457550301816">
         <mark key="[" line="13" column="25" />
@@ -705,11 +711,11 @@
       <jump line="13" column="24" filename="$MAVEN_REPOSITORY$/com/ondeck/common/unified-app-model/1.26.2/unified-app-model-1.26.2.jar!/com/ondeck/common/model/pricing/PricingDecision.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>summary</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVuZGVmaW5lZDsK</text>
       </register>
       <register name="-" type="4">
-        <text>summary</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -717,32 +723,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>summary</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVuZGVmaW5lZDsK</text>
       </register>
-      <register name="2" type="4">
-        <text>USA</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIE1hdGguY2VpbChNYXRoLm1heChyZW1haW5pbmdCYWxhbmNlIC0gbWFya0JhbGFuY2VBdDQ1LCAwKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>usaEligibilityManagement</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8gdmFyIG1hcmtCYWxhbmNlQXQgPSAwLjU1ICogYmVnaW5uaW5nQmFsYW5jZTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>USA</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>usaEligibilityManagement</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIC8vIGZ1bmN0aW9uIGNhbGN1bGF0ZUJhbGFuY2VUb0dldFRvNDVQZXJjZW50KGJlZ2lubmluZ0JhbGFuY2UsIHJlbWFpbmluZ0JhbGFuY2UpIHsKICAgIC8vICAgdmFyIG1hcmtCYWxhbmNlQXQ0NSA9IDAuNTUgKiBiZWdpbm5pbmdCYWxhbmNlOwogICAgLy8gICByZXR1cm4gTWF0aC5jZWlsKE1hdGgubWF4KHJlbWFpbmluZ0JhbGFuY2UgLSBtYXJrQmFsYW5jZUF0NDUsIDApKTsKICAgIC8vIH0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzIzLzE2Lgo=</text>
+      <register name="7" type="4">
+        <text>5</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="8" type="4">
+        <text>4</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1c3RyYWxpYUVsaWdpYmlsaXR5TWFuYWdlbWVudCA9IG5ldyBBdXN0cmFsaWFFbGlnaWJpbGl0eU1hbmFnZW1lbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29lZmZpY2llbnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
