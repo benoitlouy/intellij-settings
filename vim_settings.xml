@@ -58,6 +58,7 @@
         <mark key="]" line="57" column="117" />
         <mark key="." line="57" column="117" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/review/releaseModal.tpl.html" timestamp="1458835813847" />
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/Country.java" timestamp="1458318077962">
         <mark key="[" line="105" column="5" />
         <mark key="]" line="105" column="4" />
@@ -198,6 +199,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1458766771588">
         <mark key="[" line="235" column="78" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/review/releases.js" timestamp="1458835819933">
+        <mark key="[" line="579" column="54" />
+        <mark key="]" line="579" column="54" />
+        <mark key="." line="579" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PoodleSafeAxisSecureSocketFactory.java" timestamp="1457708184842">
         <mark key="[" line="38" column="23" />
         <mark key="]" line="38" column="50" />
@@ -270,7 +276,6 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.spec.js" timestamp="1458827389962" />
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/src/java/com/odc/salesforceservice/handler/PricingDecisionHandler.java" timestamp="1457990998805">
         <mark key="[" line="38" column="9" />
         <mark key="]" line="38" column="8" />
@@ -728,10 +733,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>countryCode</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>countryCode</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -740,19 +745,19 @@
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>countryCode</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgIA==</text>
+      </register>
+      <register name="3" type="4">
         <text>USA</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIHJlczsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
