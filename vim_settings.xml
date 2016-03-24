@@ -270,9 +270,7 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.spec.js" timestamp="1458766986420">
-        <mark key="[" line="140" column="52" />
-      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.spec.js" timestamp="1458827389962" />
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/src/java/com/odc/salesforceservice/handler/PricingDecisionHandler.java" timestamp="1457990998805">
         <mark key="[" line="38" column="9" />
         <mark key="]" line="38" column="8" />
@@ -312,11 +310,11 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.js" timestamp="1458826844072">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="^" line="284" column="34" />
-        <mark key="." line="187" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.js" timestamp="1458827493769">
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="^" line="286" column="11" />
+        <mark key="." line="287" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1457550301816">
         <mark key="[" line="13" column="25" />
@@ -729,8 +727,8 @@
       <jump line="13" column="24" filename="$MAVEN_REPOSITORY$/com/ondeck/common/unified-app-model/1.26.2/unified-app-model-1.26.2.jar!/com/ondeck/common/model/pricing/PricingDecision.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLnRlcm1TdGF0dXMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>USA</text>
       </register>
       <register name="-" type="4">
         <text>USA</text>
@@ -741,32 +739,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLnRlcm1TdGF0dXMpOwo=</text>
+      <register name="1" type="4">
+        <text>USA</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0ZPTycpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5wYXlkb3duUGVyY2VudGFnZUZvclJlbmV3YWxFbGlnaWJsZSA9IHBheWRvd25QZXJjZW50YWdlRm9yUmVuZXdhbEVsaWdpYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="4">
-        <text>USA</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>USA</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHBheWRvd25QZXJjZW50YWdlRm9yUmVuZXdhbEVsaWdpYmxlKGNvdW50cnlDb2RlKSB7CiAgICAgIGlmIChjb3VudHJ5Q29kZSAmJiAoY291bnRyeUNvZGUgPT09ICdVU0EnIHx8IGNvdW50cnlDb2RlID09PSAnQ0FOJykpIHsKICAgICAgICByZXR1cm4gNDU7CiAgICAgIH0gZWxzZSBpZiAoY291bnRyeUNvZGUgJiYgKGNvdW50cnlDb2RlID09PSAnQVVTJykpIHsKICAgICAgICByZXR1cm4gNTA7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcmV0dXJuIHVuZGVmaW5lZDsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
