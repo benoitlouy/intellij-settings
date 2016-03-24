@@ -444,10 +444,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianCorpSearchReportConverter.scala" timestamp="1458847388391">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianCorpSearchReportConverter.scala" timestamp="1458848181231">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/test/resources/creditProfile/fullCreditDecision.json" timestamp="1453307548949">
         <mark key="[" line="36" column="4" />
@@ -631,11 +632,11 @@
       <jump line="13" column="24" filename="$MAVEN_REPOSITORY$/com/ondeck/common/unified-app-model/1.26.2/unified-app-model-1.26.2.jar!/com/ondeck/common/model/pricing/PricingDecision.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5nZXQuZ2UK</text>
+      <register name="&quot;" type="4">
+        <text>ESCData</text>
       </register>
       <register name="-" type="4">
-        <text>Option</text>
+        <text>ESCData</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -643,32 +644,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5nZXQuZ2UK</text>
+      <register name="1" type="4">
+        <text>ESCData</text>
       </register>
       <register name="2" type="4">
-        <text>Option</text>
+        <text>C</text>
       </register>
       <register name="3" type="4">
-        <text>Option[Array[ESCData]]</text>
+        <text>S</text>
       </register>
-      <register name="4" type="4">
-        <text>orderNumber</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdC5nZXQuZ2UK</text>
       </register>
       <register name="5" type="4">
+        <text>Option</text>
+      </register>
+      <register name="6" type="4">
+        <text>Option[Array[ESCData]]</text>
+      </register>
+      <register name="7" type="4">
+        <text>orderNumber</text>
+      </register>
+      <register name="8" type="4">
         <text>v1</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAqLwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMy8yNC8xNi4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
