@@ -46,6 +46,9 @@
   <option name="DOWHILE_BRACE_FORCE" value="3" />
   <option name="WHILE_BRACE_FORCE" value="3" />
   <option name="FOR_BRACE_FORCE" value="3" />
+  <ScalaCodeStyleSettings>
+    <option name="DO_NOT_ALIGN_BLOCK_EXPR_PARAMS" value="true" />
+  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
