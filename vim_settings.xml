@@ -85,7 +85,10 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaConsumerCreditDecider.scala" timestamp="1458928087651" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaConsumerCreditDecider.scala" timestamp="1458931165355" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1458931402233">
+        <mark key="[" line="137" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1458928101841">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -105,7 +108,7 @@
         <mark key="]" line="45" column="11" />
         <mark key="." line="45" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/historicalreport/HistoricalCorpSearchReport.scala" timestamp="1458846615310">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/historicalreport/HistoricalCorpSearchReport.scala" timestamp="1458931168334">
         <mark key="[" line="4" column="51" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -121,6 +124,11 @@
         <mark key="]" line="11" column="36" />
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/scala/com/ondeck/alpaca/model/historicalreport/HistoricalCorpSearchReportSpec.scala" timestamp="1458931242876">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/product/EligibilityMangementSwitchTest.java" timestamp="1458748401715">
         <mark key="[" line="6" column="27" />
@@ -557,6 +565,12 @@
         <mark key="]" line="523" column="22" />
         <mark key="." line="523" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_350_add_canada_corp_search_result_type.sql" timestamp="1458931426143">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="51" />
+        <mark key="." line="0" column="51" />
+        <mark key="^" line="0" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1457537023696">
         <mark key="[" line="76" column="80" />
         <mark key="]" line="76" column="80" />
@@ -687,7 +701,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/dev01.connect.properties" timestamp="1458930405520">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/dev01.connect.properties" timestamp="1458931013464">
         <mark key="[" line="32" column="46" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -830,10 +844,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>CONSUMER_CREDIT</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>CONSUMER_CREDIT</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -842,31 +856,31 @@
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>4</text>
+        <text>CONSUMER_CREDIT</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="3" type="4">
-        <text />
+      <register name="3" type="2">
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMy8yNS8xNi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMy8yNS8xNi4K</text>
+      <register name="5" type="4">
+        <text>4</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+      <register name="7" type="4">
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMy8yNS8xNi4K</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMy8yNS8xNi4K</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
