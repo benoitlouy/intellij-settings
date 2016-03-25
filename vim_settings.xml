@@ -247,6 +247,7 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianCorpSearchReportConverterSpec.scala" timestamp="1458913959592" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1458848589238">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -338,7 +339,6 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/log4j.properties" timestamp="1458851922274" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458072694812">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="40" />
@@ -532,11 +532,10 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianCorpSearchReportConverter.scala" timestamp="1458849449572">
-        <mark key="[" line="41" column="67" />
-        <mark key="]" line="42" column="7" />
-        <mark key="." line="42" column="7" />
-        <mark key="^" line="42" column="7" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianCorpSearchReportConverter.scala" timestamp="1458914303486">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/test/unit/src/java/com/odc/salesforceservice/handler/PricingDecisionHandlerUnitTest.java" timestamp="1457992048865">
         <mark key="[" line="191" column="0" />
@@ -736,10 +735,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INFO</text>
+        <text>Array</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>Array</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -748,31 +747,31 @@
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>INFO</text>
+        <text>Array</text>
       </register>
       <register name="2" type="4">
+        <text>s</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocmVzdWx0cy5kZWVwLm1rU3RyaW5nKCJcbiIpKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>Arrays</text>
+      </register>
+      <register name="5" type="4">
         <text>INFO</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
+        <text>INFO</text>
+      </register>
+      <register name="7" type="4">
         <text>someLogAppender</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb21waWxlICdqYXZheC54bWwuYmluZDpqYXhiLWFwaToyLjIuMTEnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21waWxlICdqYXZheC54bWwuYmluZDpqYXhiLWFwaToyLjIuMTEnCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>runtime</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLndzLmNvbm5lY3QuY29udmVydGVyLmhpc3RvcmljYWxyZXBvcnQuSGlzdG9yaWNhbENhbmFkaWFuQ29uc3VtZXJDcmVkaXRSZXBvcnRDb252ZXJ0ZXIK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBjb21waWxlICdqYXZheC54bWwuYmluZDpqYXhiLWFwaToyLjIuMTEnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMy8yNC8xNi4K</text>
+        <text encoding="base64">ICAgICAgICBjb21waWxlICdqYXZheC54bWwuYmluZDpqYXhiLWFwaToyLjIuMTEnCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
