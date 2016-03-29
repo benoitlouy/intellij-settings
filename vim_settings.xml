@@ -25,10 +25,10 @@
         <mark key="]" line="57" column="117" />
         <mark key="." line="57" column="117" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459272247725">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459275745749">
+        <mark key="[" line="35" column="69" />
+        <mark key="]" line="35" column="69" />
+        <mark key="." line="35" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/AustraliaEligibilityManagement.java" timestamp="1458743231701">
         <mark key="[" line="45" column="11" />
@@ -79,7 +79,7 @@
         <mark key="." line="65" column="40" />
         <mark key="^" line="65" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/BusinessInstantIDDecider.scala" timestamp="1459270760808" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/BusinessInstantIDDecider.scala" timestamp="1459275925172" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1458318698422">
         <mark key="[" line="425" column="8" />
         <mark key="]" line="425" column="8" />
@@ -489,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>CorpSearchBusinessStatusPolicy</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>CorpSearchBusinessStatusPolicy</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -501,31 +501,31 @@
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>CorpSearchBusinessStatusPolicy</text>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>CorpSearchBusinessStatusPolicy</text>
       </register>
-      <register name="3" type="4">
-        <text>.minusYears(2)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIChvcHBvcnR1bml0eSwgcmVzdWx0KQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>Yes</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdC5zZXRPdXRjb21lQW5kU2V0Q29tcGxldGVkQXRFcXVhbFRvTm93KE91dGNvbWUuSU5ERVRFUk1JTkFURSkK</text>
       </register>
-      <register name="5" type="4">
-        <text>Some(LocalDate.now().minusYears(2)</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLmRlY2lkZXIucG9saWN5LkNvcnBTZWFyY2hQb2xpY2llcwo=</text>
       </register>
       <register name="6" type="4">
-        <text>businessStatus</text>
+        <text>opportunity</text>
       </register>
       <register name="7" type="4">
-        <text>Days</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>Days</text>
+        <text>n</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLm1vZGVsLmVudW1zLlBvbGljeU5hbWUK</text>
+      <register name="9" type="4">
+        <text>.minusYears(2)</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
