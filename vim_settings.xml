@@ -246,6 +246,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/Users.scala" timestamp="1459264671183" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/review/releases.js" timestamp="1458842168286">
         <mark key="[" line="581" column="0" />
         <mark key="]" line="581" column="0" />
@@ -316,6 +317,10 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="84" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/dao/CorpSearchDao.java" timestamp="1459264340592">
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerify.java" timestamp="1458326357459">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -352,8 +357,8 @@
         <mark key="]" line="91" column="58" />
         <mark key="." line="91" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/ConnectIO.scala" timestamp="1459261630184">
-        <mark key="[" line="168" column="68" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/ConnectIO.scala" timestamp="1459264004718">
+        <mark key="[" line="168" column="58" />
         <mark key="]" line="168" column="68" />
         <mark key="." line="168" column="68" />
       </file>
@@ -461,6 +466,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/DatabaseOps.scala" timestamp="1459264178673">
+        <mark key="[" line="25" column="91" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/EligibilityManagement.java" timestamp="1458745441200">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -547,10 +558,11 @@
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1459262806248">
-        <mark key="[" line="16" column="54" />
-        <mark key="]" line="3" column="47" />
-        <mark key="." line="3" column="47" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1459263946806">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/validation/USATaxIDValidationTest.java" timestamp="1458249069842">
         <mark key="[" line="34" column="24" />
@@ -574,11 +586,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1459262731087">
-        <mark key="[" line="80" column="41" />
-        <mark key="]" line="80" column="40" />
-        <mark key="^" line="80" column="40" />
-        <mark key="." line="80" column="40" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1459263875336">
+        <mark key="[" line="82" column="26" />
+        <mark key="]" line="82" column="26" />
+        <mark key="^" line="83" column="80" />
+        <mark key="." line="82" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/pom.xml" timestamp="1459182507982">
         <mark key="[" line="148" column="0" />
@@ -927,11 +939,11 @@
       <jump line="13" column="24" filename="$MAVEN_REPOSITORY$/com/ondeck/common/unified-app-model/1.26.2/unified-app-model-1.26.2.jar!/com/ondeck/common/model/pricing/PricingDecision.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENvcnBTZWFyY2gK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -939,32 +951,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIENvcnBTZWFyY2gK</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>HistoricalReport</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI5LzE2Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuRnVuY3Rpb24K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="4">
-        <text>override</text>
+        <text>T</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBleHRlbmRzIChDb25uZWN0UmVzcG9uc2VbUmVwb3J0W0VTQ0NvcnBTZWFyY2hSZXNwb25zZV1dID0+IENvcnBTZWFyY2gpCiAgICAgICAgICB3aXRoIEZ1bmN0aW9uW0Nvbm5lY3RSZXNwb25zZVtSZXBvcnRbRVNDQ29ycFNlYXJjaFJlc3BvbnNlXV0sIENvcnBTZWFyY2hd</text>
+        <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG8K</text>
+      <register name="7" type="4">
+        <text>new</text>
       </register>
       <register name="8" type="4">
-        <text>CanadaCorpSearchService</text>
+        <text>CorpSearch(None, None, None, None, None)</text>
       </register>
       <register name="9" type="4">
-        <text>CanadaCorpSearchService</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
