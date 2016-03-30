@@ -753,6 +753,11 @@
         <mark key="]" line="89" column="118" />
         <mark key="." line="89" column="117" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/messaging/consumer/ConditionalDecisionIntegrationTest.java" timestamp="1459345732484">
+        <mark key="[" line="203" column="3" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/experian-bcr-model/src/main/resources/relocate-adapters.xsd" timestamp="1455719795788">
         <mark key="[" line="6" column="37" />
         <mark key="]" line="6" column="43" />
@@ -792,9 +797,9 @@
         <mark key="^" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/DecisionResource.java" timestamp="1457979469673">
-        <mark key="[" line="523" column="39" />
-        <mark key="]" line="523" column="22" />
-        <mark key="." line="523" column="22" />
+        <mark key="[" line="549" column="39" />
+        <mark key="]" line="549" column="22" />
+        <mark key="." line="549" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_350_add_canada_corp_search_result_type.sql" timestamp="1459269695550">
         <mark key="[" line="14" column="1" />
@@ -1036,11 +1041,11 @@
       <jump line="13" column="24" filename="$MAVEN_REPOSITORY$/com/ondeck/common/unified-app-model/1.26.2/unified-app-model-1.26.2.jar!/com/ondeck/common/model/pricing/PricingDecision.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zODVdIGFkZCBiYWNrIHRoZSBhZGQgY2hlY2tvdXQgY29uZGl0aW9uIGVuZHBvaW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1048,32 +1053,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zODVdIGFkZCBiYWNrIHRoZSBhZGQgY2hlY2tvdXQgY29uZGl0aW9uIGVuZHBvaW50Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Option</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>corpSearch</text>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>corpSearch</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBTb21lKChjb3JwU2VhcmNoLCBwZXJzb25zKSkgPT4gewo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBiNTkzZmJhNThjZWVhNzhkNzVmM2ZkMWU3MTFiMTFmMTg1MGY1M2UwCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IG1hdGNoIHs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PT09PT09PQogICAgRGVjaXNpb25UZXN0RHRvIHVwZGF0ZWREZWNpc2lvbiA9IGdldEpzb25XZWJSZXNvdXJjZUZvcih1cmwpLmhlYWRlcihDbGllbnRBcHBBdXRoZW50aWNhdG9yLkNMSUVOVF9BUFBfSUQsICJURVNULUFETUlOLUFQUC1JRCIpCiAgICAgICAgLmhlYWRlcihDbGllbnRBcHBBdXRoZW50aWNhdG9yLkNMSUVOVF9BUFBfU0VDUkVULCAiVEVTVCIpLmhlYWRlcigiYXV0aC10b2tlbiIsIGF1dGhUb2tlbikKICAgICAgICAucG9zdChEZWNpc2lvblRlc3REdG8uY2xhc3MsIGNoZWNrb3V0Q29uZGl0aW9uQm9keSk7CgogICAgcmVhZERlY2lzaW9uID0KICAgICAgICBnZXRKc29uV2ViUmVzb3VyY2VGb3IoImRlY2lzaW9uLyIgKyB1cGRhdGVkRGVjaXNpb24uaWQpCiAgICAgICAgICAgIC5oZWFkZXIoQ2xpZW50QXBwQXV0aGVudGljYXRvci5DTElFTlRfQVBQX0lELCAiVEVTVC1BRE1JTi1BUFAtSUQiKQogICAgICAgICAgICAuaGVhZGVyKENsaWVudEFwcEF1dGhlbnRpY2F0b3IuQ0xJRU5UX0FQUF9TRUNSRVQsICJURVNUIikuaGVhZGVyKCJhdXRoLXRva2VuIiwgYXV0aFRva2VuKQo+Pj4+Pj4+IFtJTlRMLTM4NV0gYWRkIGJhY2sgdGhlIGFkZCBjaGVja291dCBjb25kaXRpb24gZW5kcG9pbnQ=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBiNTkzZmJhNThjZWVhNzhkNzVmM2ZkMWU3MTFiMTFmMTg1MGY1M2UwCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zODVdIGFkZCBiYWNrIHRoZSBhZGQgY2hlY2tvdXQgY29uZGl0aW9uIGVuZHBvaW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
