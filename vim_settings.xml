@@ -46,11 +46,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1458931402233">
         <mark key="[" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459287375844">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="33" column="89" />
-        <mark key="." line="33" column="89" />
-        <mark key="^" line="33" column="89" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459344388933">
+        <mark key="[" line="46" column="38" />
+        <mark key="]" line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+        <mark key="." line="28" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/AustraliaEligibilityManagement.java" timestamp="1458743231701">
         <mark key="[" line="45" column="11" />
@@ -225,11 +225,11 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDeciderSpec.scala" timestamp="1459278053123">
-        <mark key="[" line="55" column="37" />
-        <mark key="]" line="55" column="37" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="55" column="37" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDeciderSpec.scala" timestamp="1459344996269">
+        <mark key="[" line="56" column="101" />
+        <mark key="]" line="56" column="105" />
+        <mark key="^" line="56" column="105" />
+        <mark key="." line="56" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Vendor.java" timestamp="1458925750814">
         <mark key="[" line="14" column="14" />
@@ -331,11 +331,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1459286861173">
-        <mark key="[" line="105" column="126" />
-        <mark key="]" line="96" column="61" />
-        <mark key="^" line="96" column="61" />
-        <mark key="." line="96" column="61" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1459344731237">
+        <mark key="[" line="110" column="31" />
+        <mark key="]" line="103" column="14" />
+        <mark key="^" line="103" column="14" />
+        <mark key="." line="103" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/resources/test.properties" timestamp="1459188062085">
         <mark key="[" line="0" column="28" />
@@ -545,11 +545,11 @@
         <mark key="." line="17" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/src/main/java/com/ondeck/internalui/servicing/configuration/SalesBusinessInfoServiceProvider.java" timestamp="1459194743641" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459274831852">
-        <mark key="[" line="18" column="64" />
-        <mark key="]" line="18" column="64" />
-        <mark key="." line="18" column="64" />
-        <mark key="^" line="14" column="72" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459344414160">
+        <mark key="[" line="22" column="71" />
+        <mark key="]" line="22" column="70" />
+        <mark key="." line="22" column="70" />
+        <mark key="^" line="22" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/resource/HistoricalReportRetrievalResourceTest.java" timestamp="1459282736559">
         <mark key="[" line="81" column="0" />
@@ -1037,10 +1037,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1049,31 +1049,31 @@
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Option</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEVTQ1ZhbHVlKDEsIEVTQ0NvcnBTZWFyY2hSZXNwb25zZUNvbnZlcnRlci5QT1NJVElPTiwgInBlcnNvbjFQb3NpdGlvbiIpCg==</text>
+      <register name="3" type="4">
+        <text>corpSearch</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEVTQ1ZhbHVlKDEsIEVTQ0NvcnBTZWFyY2hSZXNwb25zZUNvbnZlcnRlci5BRERSRVNTLCAicGVyc29uMUFkZHJlc3MiKSwK</text>
+      <register name="4" type="4">
+        <text>corpSearch</text>
       </register>
-      <register name="5" type="4">
-        <text>person1Name</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsdWVzLmZpbmQoXy5nZXROYW1lID09IG5hbWUpLmZvbGQoT3B0aW9uLmVtcHR5W1N0cmluZ10pKHggPT4gT3B0aW9uKHguZ2V0VmFsdWUpKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Seq</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHBvc2l0aW9uID0gZXh0cmFjdFZhbHVlKHZhbHVlcywgIikK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBTb21lKChjb3JwU2VhcmNoLCBwZXJzb25zKSkgPT4gewo=</text>
       </register>
       <register name="9" type="4">
-        <text>Position</text>
+        <text encoding="base64">IG1hdGNoIHs=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
