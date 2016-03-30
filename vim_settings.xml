@@ -46,10 +46,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1458931402233">
         <mark key="[" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459357208408">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="8" />
-        <mark key="." line="44" column="8" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459357312528">
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="14" />
         <mark key="^" line="44" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/AustraliaEligibilityManagement.java" timestamp="1458743231701">
@@ -115,6 +115,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/ConnectServiceClientModuleTest.java" timestamp="1459185276888">
         <mark key="[" line="30" column="107" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/SalesChannelConflictPolicies.scala" timestamp="1459358014452" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/Report.java" timestamp="1453308780423">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="11" column="49" />
@@ -246,6 +247,7 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFOpportunity.java" timestamp="1459358075693" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458929680135">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="40" />
@@ -1046,10 +1048,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>M</text>
+        <text>ask { (None, Nil)</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>ask { (None, Nil)</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1058,31 +1060,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>M</text>
+        <text>ask { (None, Nil)</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>M</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>f</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text>f</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
