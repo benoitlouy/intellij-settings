@@ -46,10 +46,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1458931402233">
         <mark key="[" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459346359029">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459350782648">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="38" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/AustraliaEligibilityManagement.java" timestamp="1458743231701">
         <mark key="[" line="45" column="11" />
@@ -608,11 +609,11 @@
         <mark key="." line="36" column="122" />
         <mark key="^" line="36" column="122" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/CorpSearch.scala" timestamp="1459284540196">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/CorpSearch.scala" timestamp="1459350655151">
         <mark key="[" line="12" column="54" />
-        <mark key="]" line="14" column="39" />
-        <mark key="^" line="14" column="39" />
-        <mark key="." line="14" column="39" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/client/ConnectServiceClientIT.java" timestamp="1459188864423">
         <mark key="[" line="258" column="76" />
@@ -683,8 +684,8 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459278939879">
-        <mark key="[" line="31" column="108" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459349411679">
+        <mark key="[" line="34" column="0" />
         <mark key="]" line="33" column="1" />
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
@@ -806,8 +807,8 @@
         <mark key="]" line="549" column="22" />
         <mark key="." line="549" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_350_add_canada_corp_search_result_type.sql" timestamp="1459269695550">
-        <mark key="[" line="14" column="1" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_350_add_canada_corp_search_result_type.sql" timestamp="1459350275797">
+        <mark key="[" line="16" column="51" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="24" />
         <mark key="." line="14" column="0" />
@@ -1046,11 +1047,11 @@
       <jump line="13" column="24" filename="$MAVEN_REPOSITORY$/com/ondeck/common/unified-app-model/1.26.2/unified-app-model-1.26.2.jar!/com/ondeck/common/model/pricing/PricingDecision.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb3JwU2VhcmNoV2l0aElkOiBPcHRpb25bRml4ZWRTcWxBY3Rpb25bQ29ycFNlYXJjaCwgTm9TdHJlYW0sIFdyaXRlXV0gPSBjb3JwU2VhcmNoLm1hcChDb3JwU2VhcmNoZXMuaW5zZXJ0KF8sIG9wcG9ydHVuaXR5KSkK</text>
+      <register name="&quot;" type="4">
+        <text>_.copy(corpSearchId = corpSearchSavedToDB.id</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>_.copy(corpSearchId = corpSearchSavedToDB.id</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1058,32 +1059,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb3JwU2VhcmNoV2l0aElkOiBPcHRpb25bRml4ZWRTcWxBY3Rpb25bQ29ycFNlYXJjaCwgTm9TdHJlYW0sIFdyaXRlXV0gPSBjb3JwU2VhcmNoLm1hcChDb3JwU2VhcmNoZXMuaW5zZXJ0KF8sIG9wcG9ydHVuaXR5KSkK</text>
+      <register name="1" type="4">
+        <text>_.copy(corpSearchId = corpSearchSavedToDB.id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBjb3JwU2VhcmNoU2F2ZWRUb0RCIDwtIENvcnBTZWFyY2hlcy5pbnNlcnQoY29ycFNlYXJjaCwgb3Bwb3J0dW5pdHkpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">KGNvcnBTZWFyY2gsIHBlcnNvbnMpIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zODVdIGFkZCBiYWNrIHRoZSBhZGQgY2hlY2tvdXQgY29uZGl0aW9uIGVuZHBvaW50Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb3JwU2VhcmNoV2l0aElkOiBPcHRpb25bRml4ZWRTcWxBY3Rpb25bQ29ycFNlYXJjaCwgTm9TdHJlYW0sIFdyaXRlXV0gPSBjb3JwU2VhcmNoLm1hcChDb3JwU2VhcmNoZXMuaW5zZXJ0KF8sIG9wcG9ydHVuaXR5KSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zODVdIGFkZCBiYWNrIHRoZSBhZGQgY2hlY2tvdXQgY29uZGl0aW9uIGVuZHBvaW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBiNTkzZmJhNThjZWVhNzhkNzVmM2ZkMWU3MTFiMTFmMTg1MGY1M2UwCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
