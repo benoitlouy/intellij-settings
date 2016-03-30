@@ -46,11 +46,8 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1458931402233">
         <mark key="[" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459350782648">
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="42" />
-        <mark key="." line="40" column="42" />
-        <mark key="^" line="38" column="40" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459355733132">
+        <mark key="[" line="41" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/AustraliaEligibilityManagement.java" timestamp="1458743231701">
         <mark key="[" line="45" column="11" />
@@ -203,7 +200,8 @@
         <mark key="." line="124" column="101" />
         <mark key="^" line="124" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/BusinessInstantIDDecider.scala" timestamp="1459275925172" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/BusinessInstantIDDecider.scala" timestamp="1459351272360" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/LienJudgmentPolicies.scala" timestamp="1459355285814" />
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/src/java/com/odc/salesforceservice/handler/PricingDecisionHandler.java" timestamp="1457990998805">
         <mark key="[" line="38" column="9" />
         <mark key="]" line="38" column="8" />
@@ -336,11 +334,8 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1459344731237">
-        <mark key="[" line="110" column="31" />
-        <mark key="]" line="103" column="14" />
-        <mark key="^" line="103" column="14" />
-        <mark key="." line="103" column="14" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1459352767822">
+        <mark key="^" line="98" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/resources/test.properties" timestamp="1459188062085">
         <mark key="[" line="0" column="28" />
@@ -441,6 +436,9 @@
         <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/conf/spring/messagingContext.xml" timestamp="1459176798560" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchRequestConverter.scala" timestamp="1459188762617">
+        <mark key="[" line="4" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMerger.java" timestamp="1457551365759">
         <mark key="[" line="265" column="16" />
         <mark key="]" line="265" column="15" />
@@ -657,10 +655,10 @@
         <mark key="]" line="91" column="58" />
         <mark key="." line="91" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/ConnectIO.scala" timestamp="1459286991609">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/ConnectIO.scala" timestamp="1459352684296">
         <mark key="[" line="168" column="65" />
-        <mark key="]" line="168" column="68" />
-        <mark key="." line="168" column="68" />
+        <mark key="]" line="168" column="58" />
+        <mark key="." line="168" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1458929046041">
         <mark key="[" line="635" column="0" />
@@ -684,11 +682,10 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459349411679">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="33" column="1" />
-        <mark key="." line="33" column="1" />
-        <mark key="^" line="33" column="1" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459354831048">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-axis/build.gradle" timestamp="1457706137732">
         <mark key="[" line="1" column="4" />
@@ -775,10 +772,11 @@
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1459286527347">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1459352534109">
         <mark key="[" line="61" column="22" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+        <mark key="]" line="39" column="14" />
+        <mark key="." line="39" column="14" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/validation/USATaxIDValidationTest.java" timestamp="1458249069842">
         <mark key="[" line="34" column="24" />
@@ -1048,43 +1046,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_.copy(corpSearchId = corpSearchSavedToDB.id</text>
+        <text>Task[Option[DBIOAction[(CorpSearch, Seq[CorpSearchPerson]), NoStream, Write with Write with Transactional]]]</text>
       </register>
       <register name="-" type="4">
-        <text>_.copy(corpSearchId = corpSearchSavedToDB.id</text>
+        <text>Task[Option[DBIOAction[(CorpSearch, Seq[CorpSearchPerson]), NoStream, Write with Write with Transactional]]]</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFZlcmlmeUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="4">
-        <text>_.copy(corpSearchId = corpSearchSavedToDB.id</text>
+        <text>Task[Option[DBIOAction[(CorpSearch, Seq[CorpSearchPerson]), NoStream, Write with Write with Transactional]]]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JwU2VhcmNoU2F2ZWRUb0RCIDwtIENvcnBTZWFyY2hlcy5pbnNlcnQoY29ycFNlYXJjaCwgb3Bwb3J0dW5pdHkpCg==</text>
+      <register name="2" type="4">
+        <text>: Option[(CorpSearch, List[CorpSearchPerson])])</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">KGNvcnBTZWFyY2gsIHBlcnNvbnMpIA==</text>
+        <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb3JwU2VhcmNoV2l0aElkOiBPcHRpb25bRml4ZWRTcWxBY3Rpb25bQ29ycFNlYXJjaCwgTm9TdHJlYW0sIFdyaXRlXV0gPSBjb3JwU2VhcmNoLm1hcChDb3JwU2VhcmNoZXMuaW5zZXJ0KF8sIG9wcG9ydHVuaXR5KSkK</text>
+      <register name="4" type="4">
+        <text>_.fold(Task.)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text>_</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text>.map(save(_))</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zODVdIGFkZCBiYWNrIHRoZSBhZGQgY2hlY2tvdXQgY29uZGl0aW9uIGVuZHBvaW50Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>:</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="9" type="4">
+        <text>DBIOAction[(CorpSearch, Seq[CorpSearchPerson]), NoStream, Write with Write with Transactional]</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
