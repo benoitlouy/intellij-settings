@@ -82,11 +82,11 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459442105297">
-        <mark key="[" line="21" column="77" />
-        <mark key="]" line="33" column="100" />
-        <mark key="^" line="33" column="100" />
-        <mark key="." line="33" column="100" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459444220149">
+        <mark key="[" line="22" column="77" />
+        <mark key="]" line="22" column="100" />
+        <mark key="^" line="22" column="100" />
+        <mark key="." line="22" column="100" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/functional/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchFunctionalTest.java" timestamp="1457367208807">
         <mark key="[" line="70" column="102" />
@@ -326,9 +326,7 @@
         <mark key="." line="212" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDeciderSpec.scala" timestamp="1459438971088">
-        <mark key="[" line="21" column="58" />
-        <mark key="]" line="71" column="4" />
-        <mark key="." line="71" column="4" />
+        <mark key="[" line="22" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459441118285">
         <mark key="[" line="50" column="37" />
@@ -508,10 +506,11 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/async/ConnectAsyncService.scala" timestamp="1459443573382">
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="43" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/async/ConnectAsyncService.scala" timestamp="1459444454831">
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_350_add_canada_corp_search_result_type.sql" timestamp="1459437088957">
         <mark key="[" line="9" column="61" />
@@ -700,10 +699,10 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1459374012929">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="/fragment.java" timestamp="1459444959536">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/esc-corp-search-model/src/main/resources/escsoap.wsdl" timestamp="1456179302718">
         <mark key="[" line="95" column="54" />
@@ -815,11 +814,11 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ws.connect.async</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>ws.connect.async</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -827,29 +826,29 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>ws.connect.async</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>CorpSearchDao</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBkZWYgZmluZEJ5Q29ubmVjdElkU3luYyhjb25uZWN0SWQ6IFN0cmluZyk6IE9wdGlvbltDb3JwU2VhcmNoXSA9CiAgICBmaW5kQnlDb25uZWN0SWQoY29ubmVjdElkKS51bnNhZmVQZXJmb3JtU3luY0ZvcihgY3JlZGl0Y29uc29sZS5qZGJjLmlkbGVUaW1lb3V0YCBzZWNvbmRzKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLnNlcnZpY2UuQ29ycFNlYXJjaFNlcnZpY2UK</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5tYXBwZXIuQ29ycFNlYXJjaGVzCg==</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>logic.service</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>v</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text encoding="base64">ICBkZWYgZmluZEJ5Q29ubmVjdElkU3luYyhjb25uZWN0SWQ6IFN0cmluZyk6IE9wdGlvbltDb3JwU2VhcmNoXSA9CiAgICBmaW5kQnlDb25uZWN0SWQoY29ubmVjdElkKS51bnNhZmVQZXJmb3JtU3luY0ZvcihgY3JlZGl0Y29uc29sZS5qZGJjLmlkbGVUaW1lb3V0YCBzZWNvbmRzKQ==</text>
       </register>
       <register name="9" type="4">
         <text>e</text>
