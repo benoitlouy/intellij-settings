@@ -619,11 +619,11 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/mapper/CorpSearchesIT.scala" timestamp="1459374562031">
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="50" column="16" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/mapper/CorpSearchesIT.scala" timestamp="1459432836714">
+        <mark key="[" line="50" column="18" />
+        <mark key="]" line="50" column="18" />
         <mark key="^" line="50" column="16" />
-        <mark key="." line="50" column="16" />
+        <mark key="." line="50" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchConverter.scala" timestamp="1459180084225">
         <mark key="[" line="7" column="16" />
@@ -796,10 +796,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -808,31 +808,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>StreetName</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text>p</text>
+        <text>StreetName</text>
       </register>
       <register name="5" type="4">
-        <text>test</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>CorpSearches.find(opp.getId).result.statements.head</text>
+        <text>test</text>
       </register>
       <register name="7" type="4">
-        <text>statements.head</text>
+        <text>CorpSearches.find(opp.getId).result.statements.head</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Lmdyb3VwQnkoXy5fMSkubWFwIHsKICAgICAgY2FzZSAoY29ycFNlYXJjaCwgcGVyc29ucykgPT4gKGNvcnBTZWFyY2gsIHBlcnNvbnMpCiAgICB9</text>
+        <text>statements.head</text>
       </register>
       <register name="9" type="4">
-        <text>result</text>
+        <text encoding="base64">Lmdyb3VwQnkoXy5fMSkubWFwIHsKICAgICAgY2FzZSAoY29ycFNlYXJjaCwgcGVyc29ucykgPT4gKGNvcnBTZWFyY2gsIHBlcnNvbnMpCiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
