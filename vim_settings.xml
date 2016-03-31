@@ -112,9 +112,6 @@
         <mark key="." line="35" column="80" />
         <mark key="^" line="35" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/AlpacaError.java" timestamp="1459358820918">
-        <mark key="[" line="26" column="95" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/client/JaxrsConnectServiceClient.java" timestamp="1459185867299">
         <mark key="[" line="219" column="85" />
         <mark key="]" line="219" column="55" />
@@ -199,9 +196,6 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelper.java" timestamp="1459374945728">
-        <mark key="[" line="41" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/ConnectReport.java" timestamp="1453308724305">
         <mark key="[" line="11" column="7" />
@@ -322,13 +316,11 @@
         <mark key="." line="18" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/QuickDeclineService.java" timestamp="1459445108314" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/NaicsResource.java" timestamp="1459446458362" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/ConnectIOSpec.scala" timestamp="1459346099122">
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDeciderSpec.scala" timestamp="1459438971088">
-        <mark key="[" line="22" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459441118285">
         <mark key="[" line="50" column="37" />
@@ -347,6 +339,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459446517050">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="20" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458929680135">
         <mark key="[" line="4" column="39" />
@@ -680,13 +678,10 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459445753284">
-        <mark key="[" line="39" column="80" />
-        <mark key="]" line="39" column="80" />
-        <mark key="." line="39" column="80" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchRequestConverter.scala" timestamp="1459188762617">
-        <mark key="[" line="4" column="33" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459446399984">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/build.gradle" timestamp="1457715953553">
         <mark key="[" line="0" column="20" />
@@ -821,11 +816,11 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLnNlcnZpY2UuUXVpY2tEZWNsaW5lU2VydmljZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>processCanadianCorpSearch</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -833,32 +828,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>\</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLnNlcnZpY2UuUXVpY2tEZWNsaW5lU2VydmljZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5kYW8uQ29ycFNlYXJjaERhbwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBkZWYgcHJvY2Vzc0NhbmFkaWFuQ29ycFNlYXJjaChub3RpZmljYXRpb246IENvbm5lY3RSZXBvcnRTdGF0dXNOb3RpZmljYXRpb24pIHsKICAgIGZvciB7CiAgICAgIG1heWJlQ29ycFNlYXJjaCA8LSBjb3JwU2VhcmNoRGFvLmZpbmRCeUNvbm5lY3RJZChub3RpZmljYXRpb24uZ2V0T3JpZ2luYWxDb25uZWN0UmVwb3J0SWQpCiAgICB9IHlpZWxkIGZvciB7CiAgICAgIGNvcnBTZWFyY2ggPC0gbWF5YmVDb3JwU2VhcmNoCiAgICAgIG1heWJlT3Bwb3J0dW5pdHlJZCA8LSBjb3JwU2VhcmNoLm9wcG9ydHVuaXR5SWQKICAgIH0geWllbGQgZm9yIHsKICAgICAgb3Bwb3J0dW5pdHlJZCA8LSBtYXliZU9wcG9ydHVuaXR5SWQKICAgIH0geWllbGQgewoKICAgIH0KICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>processCanadianCorpSearch</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIAogICAgaWYgKG5vdGlmaWNhdGlvbi5nZXRDb3VudHJ5ID09IENvdW50cnkuQ0EKICAgICAgJiYgbm90aWZpY2F0aW9uLmdldFNlcnZpY2UgPT0gU2VydmljZS5CdXNpbmVzc0lECiAgICAgICYmIG5vdGlmaWNhdGlvbi5nZXRWZW5kb3IgPT0gVmVuZG9yLkVTZXJ2aWNlQ29ycCkgew==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMy8zMS8xNi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouc3BpLkxvZ2dlckZhY3RvcnkK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IExvZ2dlckZhY3Rvcnku</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvcnBTZWFyY2hEYW86IENvcnBTZWFyY2hEYW8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1aWNrRGVjbGluZVNlcnZpY2U6IFF1aWNrRGVjbGluZVNlcnZpY2U=</text>
       </register>
       <register name="9" type="4">
-        <text>ws.connect.async</text>
+        <text>\</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
