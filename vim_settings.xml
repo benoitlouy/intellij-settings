@@ -322,11 +322,10 @@
         <mark key="]" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459434167968">
-        <mark key="[" line="44" column="41" />
-        <mark key="]" line="48" column="63" />
-        <mark key="." line="48" column="63" />
-        <mark key="^" line="48" column="63" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459436415223">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="6" />
+        <mark key="." line="43" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1457550301816">
         <mark key="[" line="13" column="25" />
@@ -352,11 +351,11 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchService.scala" timestamp="1459433898882">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchService.scala" timestamp="1459436689457">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/validation/AustraliaValidations.java" timestamp="1458316226555">
         <mark key="[" line="54" column="89" />
@@ -620,11 +619,10 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/mapper/CorpSearchesIT.scala" timestamp="1459434585473">
-        <mark key="[" line="30" column="60" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="24" />
-        <mark key="^" line="31" column="24" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/mapper/CorpSearchesIT.scala" timestamp="1459436424475">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchConverter.scala" timestamp="1459180084225">
         <mark key="[" line="7" column="16" />
@@ -797,10 +795,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgYzogTWFwW0NvcnBTZWFyY2gsIFNlcVtDb3JwU2VhcmNoUGVyc29uXV0gPSBiLm1hcFZhbHVlcyhfLmZsYXR0ZW4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>foreach(println(_.id))</text>
+        <text>joinWithPersons</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -809,31 +807,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgYzogTWFwW0NvcnBTZWFyY2gsIFNlcVtDb3JwU2VhcmNoUGVyc29uXV0gPSBiLm1hcFZhbHVlcyhfLmZsYXR0ZW4pCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgYjogTWFwW0NvcnBTZWFyY2gsIFNlcVtPcHRpb25bQ29ycFNlYXJjaFBlcnNvbl1dXSA9IGEubWFwVmFsdWVzKF8gbWFwIChfLl8yKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgYTogTWFwW0NvcnBTZWFyY2gsIFNlcVsoQ29ycFNlYXJjaCwgT3B0aW9uW0NvcnBTZWFyY2hQZXJzb25dKV1dID0gcmVzLmdyb3VwQnkoXy5fMSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzLmdyb3VwQnkoKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5JbmplY3QK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IEBJbmplY3QoKSAoQ29ycFNlYXJjaGVzOiBDb3JwU2VhcmNoZXMudHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb3JwU2VhcmNoUGVyc29uczogQ29ycFNlYXJjaFBlcnNvbnMudHlwZSkg</text>
+      </register>
+      <register name="4" type="4">
+        <text>joinWithPersons</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIChvcHBvcnR1bnRpdHlJZDogU3RyaW5nKSA9PiBqb2luV2l0aFBlcnNvbnMob3Bwb3J0dW50aXR5SWQpLnJlc3VsdC5ncm91cEJ5KF8uXzEpLm1hcFZhbHVlcyhfLm1hcChfLl8yKSkubWFwVmFsdWVzKF8uZmxhdHRlbikudG9MaXN0LmhlYWRPcHRpb24K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZWRDb3JwU2VhcmNoUGVyc29ucy5mb3JlYWNoKG8gPT4gcHJpbnRsbihvLmlkKSkK</text>
+        <text encoding="base64">ICB2YWwgZmluZCA9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>foreach(println(_.id))</text>
+        <text>find</text>
       </register>
-      <register name="8" type="4">
-        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
