@@ -322,10 +322,11 @@
         <mark key="]" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459430662750">
-        <mark key="[" line="47" column="18" />
-        <mark key="]" line="47" column="18" />
-        <mark key="." line="47" column="18" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1459434167968">
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="48" column="63" />
+        <mark key="." line="48" column="63" />
+        <mark key="^" line="48" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1457550301816">
         <mark key="[" line="13" column="25" />
@@ -351,8 +352,8 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchService.scala" timestamp="1459370025373">
-        <mark key="[" line="12" column="14" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchService.scala" timestamp="1459433898882">
+        <mark key="[" line="18" column="0" />
         <mark key="]" line="12" column="14" />
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
@@ -619,11 +620,11 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/mapper/CorpSearchesIT.scala" timestamp="1459432836714">
-        <mark key="[" line="50" column="18" />
-        <mark key="]" line="50" column="18" />
-        <mark key="^" line="50" column="16" />
-        <mark key="." line="50" column="18" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/mapper/CorpSearchesIT.scala" timestamp="1459434585473">
+        <mark key="[" line="30" column="60" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchConverter.scala" timestamp="1459180084225">
         <mark key="[" line="7" column="16" />
@@ -795,11 +796,11 @@
       <jump line="37" column="65" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICB2YWwgYzogTWFwW0NvcnBTZWFyY2gsIFNlcVtDb3JwU2VhcmNoUGVyc29uXV0gPSBiLm1hcFZhbHVlcyhfLmZsYXR0ZW4pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
+        <text>foreach(println(_.id))</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -807,32 +808,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICB2YWwgYzogTWFwW0NvcnBTZWFyY2gsIFNlcVtDb3JwU2VhcmNoUGVyc29uXV0gPSBiLm1hcFZhbHVlcyhfLmZsYXR0ZW4pCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICB2YWwgYjogTWFwW0NvcnBTZWFyY2gsIFNlcVtPcHRpb25bQ29ycFNlYXJjaFBlcnNvbl1dXSA9IGEubWFwVmFsdWVzKF8gbWFwIChfLl8yKSkK</text>
       </register>
-      <register name="3" type="4">
-        <text>(</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICB2YWwgYTogTWFwW0NvcnBTZWFyY2gsIFNlcVsoQ29ycFNlYXJjaCwgT3B0aW9uW0NvcnBTZWFyY2hQZXJzb25dKV1dID0gcmVzLmdyb3VwQnkoXy5fMSkK</text>
       </register>
-      <register name="4" type="4">
-        <text>StreetName</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmVzLmdyb3VwQnkoKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>p</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>test</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgc2F2ZWRDb3JwU2VhcmNoUGVyc29ucy5mb3JlYWNoKG8gPT4gcHJpbnRsbihvLmlkKSkK</text>
       </register>
       <register name="7" type="4">
-        <text>CorpSearches.find(opp.getId).result.statements.head</text>
+        <text>foreach(println(_.id))</text>
       </register>
       <register name="8" type="4">
-        <text>statements.head</text>
+        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Lmdyb3VwQnkoXy5fMSkubWFwIHsKICAgICAgY2FzZSAoY29ycFNlYXJjaCwgcGVyc29ucykgPT4gKGNvcnBTZWFyY2gsIHBlcnNvbnMpCiAgICB9</text>
+        <text>groupBy(_._1) mapValues (_ map (_._2))</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
