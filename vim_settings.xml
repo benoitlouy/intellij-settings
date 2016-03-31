@@ -209,6 +209,7 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/QuickDeclineServiceImpl.java" timestamp="1459445098466" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PoodleSafeAxisSecureSocketFactory.java" timestamp="1457708184842">
         <mark key="[" line="38" column="23" />
         <mark key="]" line="38" column="50" />
@@ -320,6 +321,7 @@
         <mark key="^" line="18" column="63" />
         <mark key="." line="18" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/java/com/ondeck/alpaca/logic/service/QuickDeclineService.java" timestamp="1459445108314" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/ConnectIOSpec.scala" timestamp="1459346099122">
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="0" />
@@ -678,6 +680,11 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459445753284">
+        <mark key="[" line="39" column="80" />
+        <mark key="]" line="39" column="80" />
+        <mark key="." line="39" column="80" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchRequestConverter.scala" timestamp="1459188762617">
         <mark key="[" line="4" column="33" />
       </file>
@@ -815,10 +822,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ws.connect.async</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>ws.connect.async</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -827,31 +834,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>ws.connect.async</text>
+        <text>\</text>
       </register>
-      <register name="2" type="4">
-        <text>CorpSearchDao</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLnNlcnZpY2UuQ29ycFNlYXJjaFNlcnZpY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5tYXBwZXIuQ29ycFNlYXJjaGVzCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>logic.service</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIAogICAgaWYgKG5vdGlmaWNhdGlvbi5nZXRDb3VudHJ5ID09IENvdW50cnkuQ0EKICAgICAgJiYgbm90aWZpY2F0aW9uLmdldFNlcnZpY2UgPT0gU2VydmljZS5CdXNpbmVzc0lECiAgICAgICYmIG5vdGlmaWNhdGlvbi5nZXRWZW5kb3IgPT0gVmVuZG9yLkVTZXJ2aWNlQ29ycCkgew==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouc3BpLkxvZ2dlckZhY3RvcnkK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICBkZWYgZmluZEJ5Q29ubmVjdElkU3luYyhjb25uZWN0SWQ6IFN0cmluZyk6IE9wdGlvbltDb3JwU2VhcmNoXSA9CiAgICBmaW5kQnlDb25uZWN0SWQoY29ubmVjdElkKS51bnNhZmVQZXJmb3JtU3luY0ZvcihgY3JlZGl0Y29uc29sZS5qZGJjLmlkbGVUaW1lb3V0YCBzZWNvbmRzKQ==</text>
+        <text encoding="base64">IExvZ2dlckZhY3Rvcnku</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>ws.connect.async</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
