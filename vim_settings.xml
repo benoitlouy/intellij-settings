@@ -82,6 +82,12 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDecider.scala" timestamp="1459516693682">
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="72" column="8" />
+        <mark key="^" line="70" column="12" />
+        <mark key="." line="72" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/functional/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchFunctionalTest.java" timestamp="1457367208807">
         <mark key="[" line="70" column="102" />
         <mark key="]" line="70" column="103" />
@@ -352,11 +358,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459460630550">
-        <mark key="[" line="37" column="3" />
-        <mark key="]" line="30" column="8" />
-        <mark key="." line="30" column="8" />
-        <mark key="^" line="30" column="8" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459516360977">
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="61" column="10" />
+        <mark key="." line="61" column="10" />
+        <mark key="^" line="61" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458929680135">
         <mark key="[" line="4" column="39" />
@@ -839,10 +845,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(opportunityId, updatedCorpSearch)</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>(opportunityId, updatedCorpSearch)</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -851,31 +857,31 @@
         <text>r</text>
       </register>
       <register name="1" type="4">
-        <text>(opportunityId, updatedCorpSearch)</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="2" type="4">
-        <text>opportunityId</text>
+        <text>override</text>
       </register>
       <register name="3" type="4">
-        <text>getOpportunityLite</text>
+        <text>(opportunityId, updatedCorpSearch)</text>
       </register>
       <register name="4" type="4">
-        <text>{</text>
+        <text>opportunityId</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgcXVpY2tEZWNsaW5lU2VydmljZS5wcm9jZXNzV2l0aG91dExvY2tpbmcob3Bwb3J0dW5pdHlJZCwgUmVzdWx0VHlwZS5DQU5BREFfQ09SUF9TRUFSQ0gsICkK</text>
+      <register name="5" type="4">
+        <text>getOpportunityLite</text>
       </register>
       <register name="6" type="4">
+        <text>{</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgcXVpY2tEZWNsaW5lU2VydmljZS5wcm9jZXNzV2l0aG91dExvY2tpbmcob3Bwb3J0dW5pdHlJZCwgUmVzdWx0VHlwZS5DQU5BREFfQ09SUF9TRUFSQ0gsICkK</text>
+      </register>
+      <register name="8" type="4">
         <text>QuickDeclineService</text>
       </register>
-      <register name="7" type="4">
-        <text>quickDeclineService: QuickDeclineService</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtkZXAuZ2Vyb25pbW8uc3BlY3N9PC92ZXJzaW9uPgo=</text>
-      </register>
       <register name="9" type="4">
-        <text>ty]</text>
+        <text>quickDeclineService: QuickDeclineService</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
