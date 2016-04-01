@@ -358,11 +358,10 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459529071006">
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="30" />
-        <mark key="." line="54" column="30" />
-        <mark key="^" line="54" column="30" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459532396983">
+        <mark key="[" line="26" column="81" />
+        <mark key="]" line="26" column="81" />
+        <mark key="." line="26" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458929680135">
         <mark key="[" line="4" column="39" />
@@ -839,10 +838,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Task</text>
+        <text encoding="base64">KG1heWJlQ29ycFNlYXJjaDogT3B0aW9uW0NvcnBTZWFyY2hdKSA9PgogICAgICBtYXliZUNvcnBTZWFyY2gubWFwIHs=</text>
       </register>
       <register name="-" type="4">
-        <text>Task</text>
+        <text encoding="base64">IE9wdGlvbltUYXNrW09wdGlvbltUcnlbT3Bwb3J0dW5pdHldXV1dID0=</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -851,31 +850,32 @@
         <text>r</text>
       </register>
       <register name="1" type="4">
-        <text>Task</text>
+        <text encoding="base64">KG1heWJlQ29ycFNlYXJjaDogT3B0aW9uW0NvcnBTZWFyY2hdKSA9PgogICAgICBtYXliZUNvcnBTZWFyY2gubWFwIHs=</text>
       </register>
       <register name="2" type="4">
-        <text>Task[Opportunity]</text>
+        <text>new AlpacaException(oppId, null, AlpacaError.ESC_CORP_SEARCH_UNAVAILABLE))
+      }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhbCBjb3JwU2VhcmNoV2l0aExvY2s6IFRyeVsoKFN0cmluZywgKENvcnBTZWFyY2gsIFNlcVtDb3JwU2VhcmNoUGVyc29uXSkpKSA9PiBUYXNrW09wcG9ydHVuaXR5XV0gPSBsb2NrKGFkdmlzb3J5TG9ja0ZhY3RvcnkpKG9wcElkKShkb0NvcnBTZWFyY2gp</text>
+        <text encoding="base64">KG1heWJlVXBkYXRlZENvcnBTZWFyY2g6IE9wdGlvblsoQ29ycFNlYXJjaCwgTGlzdFtDb3JwU2VhcmNoUGVyc29uXSldKSA9PgogICAgICAgICAgbWF5YmVVcGRhdGVkQ29ycFNlYXJjaCBtYXRjaCB7</text>
       </register>
       <register name="4" type="4">
-        <text>(oppId, updatedCorpSearch)</text>
+        <text encoding="base64">IE9wdGlvbltUYXNrW09wdGlvbltUcnlbT3Bwb3J0dW5pdHldXV1dID0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgXy5tYXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGMK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OiBPcHRpb25bQ29ycFNlYXJjaF0g</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBhNmM0MWZmNGYyMTRjYmRhNmU2NDE5YzM5ZTY5MDViOGI3OWJjMTk3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9ja0FuZERvQ29ycFNlYXJjaCgob3BwSWQsIHVwZGF0ZWRDb3JwU2VhcmNoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC00NjBdIGRpc3BsYXkgY29ycmVjdCBwYXlkb3duIHBlcmNlbnRhZ2UgYW5kIGFtb3VudCByZXF1aXJlZCBmb3IgcmVuZXdhbCBlbGlnaWJpbGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbG9jayBhbmQgaW5zZXJ0IG5ldyBjb3JwIHNlYXJjaCBpbiBEQiBhbmQgcmVydW4gZGVjaWRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
