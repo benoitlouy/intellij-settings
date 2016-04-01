@@ -216,6 +216,12 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/EndToEndIT.scala" timestamp="1459544417499">
+        <mark key="[" line="123" column="4" />
+        <mark key="]" line="123" column="12" />
+        <mark key="^" line="123" column="12" />
+        <mark key="." line="123" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PoodleSafeAxisSecureSocketFactory.java" timestamp="1457708184842">
         <mark key="[" line="38" column="23" />
         <mark key="]" line="38" column="50" />
@@ -373,10 +379,10 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/pom.xml" timestamp="1459536567455">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="326" column="0" />
-        <mark key="." line="326" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/pom.xml" timestamp="1459545435007">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/pom.xml" timestamp="1459457135997">
         <mark key="[" line="17" column="36" />
@@ -705,10 +711,17 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459446399984">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459545266974">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="9" />
+        <mark key="." line="31" column="9" />
+        <mark key="^" line="31" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ConnectAsyncServiceSpec.scala" timestamp="1459545030469">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+        <mark key="^" line="29" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/build.gradle" timestamp="1457715953553">
         <mark key="[" line="0" column="20" />
@@ -844,43 +857,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Some</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>Some</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
       </register>
       <register name="0" type="4">
-        <text>r</text>
+        <text />
       </register>
       <register name="1" type="4">
-        <text>Some</text>
+        <text>8</text>
       </register>
       <register name="2" type="4">
-        <text>Optional.of</text>
+        <text>Some</text>
       </register>
       <register name="3" type="4">
-        <text>null</text>
+        <text>match</text>
       </register>
       <register name="4" type="4">
-        <text>Task</text>
+        <text />
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>queue</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5zZWN1cml0eS5wcm92aWRlci5jZXJ0cGF0aC5PQ1NQUmVzcG9uc2UuUmVzcG9uc2VTdGF0dXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIGlmIHNob3VsZCAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text>Session</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
