@@ -195,11 +195,11 @@
         <mark key="." line="15" column="102" />
         <mark key="^" line="15" column="102" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1459458966303">
-        <mark key="[" line="666" column="25" />
-        <mark key="]" line="83" column="32" />
-        <mark key="." line="83" column="32" />
-        <mark key="^" line="83" column="32" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1459535927752">
+        <mark key="[" line="849" column="57" />
+        <mark key="]" line="850" column="26" />
+        <mark key="." line="850" column="26" />
+        <mark key="^" line="850" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierSelector.java" timestamp="1458067154522">
         <mark key="[" line="14" column="41" />
@@ -299,7 +299,9 @@
         <mark key="." line="124" column="101" />
         <mark key="^" line="124" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/handler/lock.scala" timestamp="1459528480140" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/handler/lock.scala" timestamp="1459533713111">
+        <mark key="[" line="30" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/esc-connection/src/main/java/com/odc/vendor/connection/esc/ESCProcessPreSearchOrderConnection.java" timestamp="1456263956688">
         <mark key="[" line="33" column="105" />
         <mark key="]" line="33" column="32" />
@@ -358,10 +360,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459532396983">
-        <mark key="[" line="26" column="81" />
-        <mark key="]" line="26" column="81" />
-        <mark key="." line="26" column="81" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459535012918">
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458929680135">
         <mark key="[" line="4" column="39" />
@@ -369,10 +372,10 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/pom.xml" timestamp="1459458987536">
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="271" column="0" />
-        <mark key="." line="271" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/pom.xml" timestamp="1459535938617">
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="319" column="0" />
+        <mark key="." line="319" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/pom.xml" timestamp="1459457135997">
         <mark key="[" line="17" column="36" />
@@ -480,10 +483,10 @@
         <mark key="." line="12" column="72" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1459525854742">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="2" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1459536320877">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455727804257">
         <mark key="[" line="249" column="18" />
@@ -837,11 +840,11 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KG1heWJlQ29ycFNlYXJjaDogT3B0aW9uW0NvcnBTZWFyY2hdKSA9PgogICAgICBtYXliZUNvcnBTZWFyY2gubWFwIHs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE9wdGlvbltUYXNrW09wdGlvbltUcnlbT3Bwb3J0dW5pdHldXV1dID0=</text>
+        <text>[AlpacaException]</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -849,33 +852,32 @@
       <register name="0" type="4">
         <text>r</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KG1heWJlQ29ycFNlYXJjaDogT3B0aW9uW0NvcnBTZWFyY2hdKSA9PgogICAgICBtYXliZUNvcnBTZWFyY2gubWFwIHs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>new AlpacaException(oppId, null, AlpacaError.ESC_CORP_SEARCH_UNAVAILABLE))
-      }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocmVzKQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">KG1heWJlVXBkYXRlZENvcnBTZWFyY2g6IE9wdGlvblsoQ29ycFNlYXJjaCwgTGlzdFtDb3JwU2VhcmNoUGVyc29uXSldKSA9PgogICAgICAgICAgbWF5YmVVcGRhdGVkQ29ycFNlYXJjaCBtYXRjaCB7</text>
+        <text>[AlpacaException]</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IE9wdGlvbltUYXNrW09wdGlvbltUcnlbT3Bwb3J0dW5pdHldXV1dID0=</text>
+        <text>left[AlpacaException]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>[AlpacaException]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGMK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhei4tXC8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9ja0FuZERvQ29ycFNlYXJjaCgob3BwSWQsIHVwZGF0ZWRDb3JwU2VhcmNoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtkZXAuc2NhbGF6c2NhbGF0ZXN0fTwvdmVyc2lvbj4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbG9jayBhbmQgaW5zZXJ0IG5ldyBjb3JwIHNlYXJjaCBpbiBEQiBhbmQgcmVydW4gZGVjaWRlcgo=</text>
+      <register name="9" type="4">
+        <text>-\/(_)</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
