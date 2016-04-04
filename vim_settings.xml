@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/entry.html" timestamp="1459803316200" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/scala/com/ondeck/alpaca/model/CorpSearchSpec.scala" timestamp="1459267915220">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="13" />
@@ -370,6 +371,7 @@
         <mark key="^" line="18" column="63" />
         <mark key="." line="18" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/default.html" timestamp="1459802421300" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CanadaCorpSearchDeciderSpec.scala" timestamp="1459796952427">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="31" column="0" />
@@ -539,6 +541,12 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459803770303">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="3" column="51" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="3" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/IntegrationTestHelper.java" timestamp="1456506616338">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -569,6 +577,12 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/controllers.js" timestamp="1459803996232">
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="61" column="12" />
+        <mark key="^" line="61" column="12" />
+        <mark key="." line="61" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/async/ConnectAsyncService.scala" timestamp="1459444454831">
         <mark key="[" line="33" column="7" />
         <mark key="]" line="32" column="11" />
@@ -593,10 +607,11 @@
         <mark key="." line="185" column="6" />
         <mark key="^" line="185" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/corporatesearch.html" timestamp="1459800307681">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/corporatesearch.html" timestamp="1459804255493">
+        <mark key="[" line="12" column="85" />
+        <mark key="]" line="16" column="72" />
+        <mark key="." line="16" column="72" />
+        <mark key="^" line="16" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/config/prod/loanservice.properties" timestamp="1455646919442">
         <mark key="[" line="197" column="54" />
@@ -633,7 +648,7 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/entryCtrl.js" timestamp="1459800985726">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/entryCtrl.js" timestamp="1459803575393">
         <mark key="[" line="85" column="52" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
@@ -657,6 +672,7 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/canadaconsumercredit.html" timestamp="1459802577284" />
       <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/test/resources/creditProfile/fullCreditDecision.json" timestamp="1453307548949">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="38" column="27" />
@@ -700,6 +716,7 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/canadaconsumercreditcontroller.js" timestamp="1459803937156" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/resource/KnowYourCustomerStatefulResource.scala" timestamp="1459798569017" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/scoring/consumer/EquifaxConsumerScoreRequestBuilder.java" timestamp="1452875302166">
         <mark key="[" line="118" column="63" />
@@ -869,10 +886,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIEZPTyB7e3Jlc3VsdC5kZXRhaWxNZXNzYWdlfX0K</text>
       </register>
       <register name="-" type="4">
-        <text>ng-controller=&quot;CountryCheckController&quot;</text>
+        <text>result.outcome</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -881,31 +898,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIEZPTyB7e3Jlc3VsdC5kZXRhaWxNZXNzYWdlfX0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+      <register name="2" type="4">
+        <text>result.outcome</text>
       </register>
       <register name="3" type="4">
-        <text>ng-controller=&quot;CountryCheckController&quot;</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text>{{countryCheckMsg}}</text>
+        <text>, CorporateSearchReports</text>
       </register>
       <register name="5" type="4">
-        <text>tm</text>
+        <text>INDETERMINATE</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5hdXRoLlNlY3VyZWRXaXRoQXV0aE5aCg==</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNlY3VyZWRXaXRoQXV0aE5aCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>H</text>
+        <text encoding="base64">ICAgICAgICAgICAgRVJST1I6ICdnbHlwaGljb24gZ2x5cGhpY29uLWFsZXJ0IG9yYW5nZScsCiAgICAgICAgICAgIEFMRVJUOiAnZ2x5cGhpY29uIGdseXBoaWNvbi1mbGFnIHJlZCc=</text>
       </register>
-      <register name="9" type="4">
-        <text>C</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
