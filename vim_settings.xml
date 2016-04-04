@@ -171,11 +171,10 @@
         <mark key="." line="52" column="113" />
         <mark key="^" line="52" column="113" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459358703064">
-        <mark key="[" line="22" column="50" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="52" />
-        <mark key="^" line="22" column="52" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459804958381">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/Report.java" timestamp="1453308780423">
         <mark key="[" line="11" column="49" />
@@ -885,11 +884,11 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIEZPTyB7e3Jlc3VsdC5kZXRhaWxNZXNzYWdlfX0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Xy5pbmNvcnBvcmF0aW9uRGF0ZS5leGlzdHMoaW5jRGF0ZSA9PiBZZWFycy55ZWFyc0JldHdlZW4oaW5jRGF0ZSwgTG9jYWxEYXRlLm5vdygpKS5nZXRZZWFycyA+IHRocmVzaG9sZCkpKSA=</text>
       </register>
       <register name="-" type="4">
-        <text>result.outcome</text>
+        <text encoding="base64">Xy5pbmNvcnBvcmF0aW9uRGF0ZS5leGlzdHMoaW5jRGF0ZSA9PiBZZWFycy55ZWFyc0JldHdlZW4oaW5jRGF0ZSwgTG9jYWxEYXRlLm5vdygpKS5nZXRZZWFycyA+IHRocmVzaG9sZCkpKSA=</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -897,32 +896,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIEZPTyB7e3Jlc3VsdC5kZXRhaWxNZXNzYWdlfX0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">Xy5pbmNvcnBvcmF0aW9uRGF0ZS5leGlzdHMoaW5jRGF0ZSA9PiBZZWFycy55ZWFyc0JldHdlZW4oaW5jRGF0ZSwgTG9jYWxEYXRlLm5vdygpKS5nZXRZZWFycyA+IHRocmVzaG9sZCkpKSA=</text>
       </register>
-      <register name="2" type="4">
-        <text>result.outcome</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIChjb3JwU2VhcmNoLmV4aXN0cygK</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>.exists(_.</text>
       </register>
       <register name="4" type="4">
-        <text>, CorporateSearchReports</text>
+        <text>Missing</text>
       </register>
       <register name="5" type="4">
-        <text>INDETERMINATE</text>
+        <text>&quot;Business is active&quot;,</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text encoding="base64">IGNvcnBTZWFyY2guZXhpc3RzKF8uYnVzaW5lc3NTdGF0dXMuZXhpc3RzKF8uZXF1YWxzKCJBY3RpdmUiKSkpKQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>&quot;Active&quot;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgRVJST1I6ICdnbHlwaGljb24gZ2x5cGhpY29uLWFsZXJ0IG9yYW5nZScsCiAgICAgICAgICAgIEFMRVJUOiAnZ2x5cGhpY29uIGdseXBoaWNvbi1mbGFnIHJlZCc=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIEZPTyB7e3Jlc3VsdC5kZXRhaWxNZXNzYWdlfX0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>result.outcome</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
