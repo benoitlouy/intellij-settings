@@ -258,11 +258,11 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/client/ConnectServiceClientIT.java" timestamp="1459188864423">
-        <mark key="[" line="258" column="76" />
-        <mark key="]" line="258" column="82" />
-        <mark key="^" line="260" column="58" />
-        <mark key="." line="258" column="76" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/client/ConnectServiceClientIT.java" timestamp="1459782956114">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="^" line="259" column="58" />
+        <mark key="." line="259" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/business/equifax/us/EquifaxBCRCachingReportHandlerIntegrationTest.java" timestamp="1459457110494">
         <mark key="[" line="58" column="101" />
@@ -367,11 +367,10 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459540711737">
-        <mark key="[" line="32" column="75" />
-        <mark key="]" line="32" column="75" />
-        <mark key="." line="32" column="75" />
-        <mark key="^" line="32" column="78" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459783895278">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458929680135">
         <mark key="[" line="4" column="39" />
@@ -710,18 +709,19 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459545266974">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="9" />
-        <mark key="." line="31" column="9" />
-        <mark key="^" line="31" column="9" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459783354810">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ConnectAsyncServiceSpec.scala" timestamp="1459780222733">
-        <mark key="[" line="40" column="3" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ConnectAsyncServiceSpec.scala" timestamp="1459783975128">
+        <mark key="[" line="31" column="42" />
         <mark key="]" line="29" column="49" />
         <mark key="." line="29" column="49" />
         <mark key="^" line="29" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchRequestConverter.scala" timestamp="1459783313892" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/build.gradle" timestamp="1457715953553">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="23" />
@@ -856,10 +856,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -868,31 +868,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>Some</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>match</text>
+        <text>\/-</text>
       </register>
-      <register name="4" type="4">
-        <text />
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwue0ZhaWx1cmUsIFN1Y2Nlc3MsIFRyeX0K</text>
       </register>
       <register name="5" type="4">
-        <text>queue</text>
+        <text encoding="base64">OiBbT3Bwb3J0dW5pdHldIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5zZWN1cml0eS5wcm92aWRlci5jZXJ0cGF0aC5PQ1NQUmVzcG9uc2UuUmVzcG9uc2VTdGF0dXMK</text>
+      <register name="6" type="4">
+        <text>Try</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IG1hdGNoIHsKICAgICAgY2FzZSAtXC8oZXJyb3IpID0+IEZhaWx1cmUoZXJyb3IpCiAgICAgIGNhc2UgXC8tKG9wcCkgPT4gU3VjY2VzcyhvcHApCiAgICB9</text>
       </register>
-      <register name="9" type="4">
-        <text>Session</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFRhc2suZnJvbURpc2p1bmN0aW9uKHRyeU9wcCkK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
