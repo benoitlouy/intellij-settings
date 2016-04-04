@@ -641,6 +641,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1459784842690" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCSocketFactory.java" timestamp="1457707400894">
         <mark key="[" line="33" column="28" />
         <mark key="]" line="35" column="113" />
@@ -709,13 +710,12 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459783354810">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459784768918">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ConnectAsyncServiceSpec.scala" timestamp="1459783975128">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ConnectAsyncServiceSpec.scala" timestamp="1459784754210">
         <mark key="[" line="31" column="42" />
         <mark key="]" line="29" column="49" />
         <mark key="." line="29" column="49" />
@@ -855,8 +855,8 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -867,32 +867,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
+        <text>,</text>
+      </register>
+      <register name="4" type="4">
         <text>\/-</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwue0ZhaWx1cmUsIFN1Y2Nlc3MsIFRyeX0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">OiBbT3Bwb3J0dW5pdHldIA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Try</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text />
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IG1hdGNoIHsKICAgICAgY2FzZSAtXC8oZXJyb3IpID0+IEZhaWx1cmUoZXJyb3IpCiAgICAgIGNhc2UgXC8tKG9wcCkgPT4gU3VjY2VzcyhvcHApCiAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFRhc2suZnJvbURpc2p1bmN0aW9uKHRyeU9wcCkK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
