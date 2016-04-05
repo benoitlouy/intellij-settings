@@ -182,8 +182,8 @@
         <mark key="." line="52" column="113" />
         <mark key="^" line="52" column="113" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459875903982">
-        <mark key="[" line="11" column="43" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459890111434">
+        <mark key="[" line="35" column="71" />
         <mark key="]" line="11" column="43" />
         <mark key="." line="11" column="43" />
         <mark key="^" line="31" column="106" />
@@ -842,11 +842,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1459874592727">
-        <mark key="[" line="23" column="116" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="28" column="3" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1459890265758">
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="72" />
+        <mark key="^" line="58" column="72" />
+        <mark key="." line="58" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMerger.java" timestamp="1457551365759">
         <mark key="[" line="265" column="16" />
@@ -976,10 +976,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_result_type</text>
+        <text>opportunity.getBusiness.getOwners.asScala.toSeq</text>
       </register>
       <register name="-" type="4">
-        <text>_result_type</text>
+        <text>opportunity.getBusiness.getOwners.asScala.toSeq</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -988,31 +988,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>_result_type</text>
+        <text>opportunity.getBusiness.getOwners.asScala.toSeq</text>
       </register>
       <register name="2" type="4">
+        <text>d)</text>
+      </register>
+      <register name="3" type="4">
         <text>_result_type</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuICRzY29wZS5jb3JwU2VhcmNoUmVzdWx0LnBvbGljaWVzLmZpbmQoZnVuY3Rpb24ocG9saWN5KSB7CiAgICAgICAgICAgIC8vICAgICByZXR1cm4gcG9saWN5LmtleSA9PT0gbmFtZTsKICAgICAgICAgICAgLy8gfSk7</text>
+        <text>_result_type</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuICRzY29wZS5jb3JwU2VhcmNoUmVzdWx0LnBvbGljaWVzLmZpbmQoZnVuY3Rpb24ocG9saWN5KSB7CiAgICAgICAgICAgIC8vICAgICByZXR1cm4gcG9saWN5LmtleSA9PT0gbmFtZTsKICAgICAgICAgICAgLy8gfSk7</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuY29ycFNlYXJjaFJlc3VsdCA9ICRzY29wZS5kYXRhLmV2YWx1YXRpb24ucmVzdWx0cy5maW5kKGZ1bmN0aW9uKHJlc3VsdCkgewogICAgICAgIC8vICAgICByZXR1cm4gcmVzdWx0LnR5cGUubmFtZSA9PT0gJ0NvcnBvcmF0ZSBTZWFyY2gnOwogICAgICAgIC8vIH0pOw==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkc2NvcGUuZGF0YS5ldmFsdWF0aW9uLnJlc3VsdHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkc2NvcGUuZGF0YSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuY29ycFNlYXJjaFJlc3VsdCA9ICRzY29wZS5kYXRhLmV2YWx1YXRpb24ucmVzdWx0cy5maW5kKGZ1bmN0aW9uKHJlc3VsdCkgewogICAgICAgIC8vICAgICByZXR1cm4gcmVzdWx0LnR5cGUubmFtZSA9PT0gJ0NvcnBvcmF0ZSBTZWFyY2gnOwogICAgICAgIC8vIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
