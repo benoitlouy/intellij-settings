@@ -333,6 +333,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/node/package.json" timestamp="1459881691111">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerify.java" timestamp="1458326357459">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -600,11 +606,11 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459880395043">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="29" column="31" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459882991088">
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="60" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/IntegrationTestHelper.java" timestamp="1456506616338">
         <mark key="[" line="46" column="0" />
@@ -981,11 +987,11 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuY29ycFNlYXJjaFJlcG9ydCA9IFtdOwogICAgICAgICRzY29wZS5jb3JwU2VhcmNoUmVzdWx0ID0gJHNjb3BlLmRhdGEuZXZhbHVhdGlvbi5yZXN1bHRzLmZpbmQoZnVuY3Rpb24ocmVzdWx0KSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>toBeFalsy</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -993,32 +999,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuY29ycFNlYXJjaFJlcG9ydCA9IFtdOwogICAgICAgICRzY29wZS5jb3JwU2VhcmNoUmVzdWx0ID0gJHNjb3BlLmRhdGEuZXZhbHVhdGlvbi5yZXN1bHRzLmZpbmQoZnVuY3Rpb24ocmVzdWx0KSB7Cg==</text>
+      <register name="1" type="4">
+        <text>d</text>
       </register>
-      <register name="2" type="4">
-        <text>toBeFalsy</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>fakeCorpSearch</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>$scope</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>$scope.</text>
+        <text encoding="base64">ICAgIGlmICghQXJyYXkucHJvdG90eXBlLmZpbmQpIHsKICAgICAgICBBcnJheS5wcm90b3R5cGUuZmluZCA9IGZ1bmN0aW9uKHByZWRpY2F0ZSkgewogICAgICAgICAgICBpZiAodGhpcyA9PT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFR5cGVFcnJvcignQXJyYXkucHJvdG90eXBlLmZpbmQgY2FsbGVkIG9uIG51bGwgb3IgdW5kZWZpbmVkJyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHR5cGVvZiBwcmVkaWNhdGUgIT09ICdmdW5jdGlvbicpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBUeXBlRXJyb3IoJ3ByZWRpY2F0ZSBtdXN0IGJlIGEgZnVuY3Rpb24nKTsKICAgICAgICAgICAgfSAgICAgICAgICAgIH0KICAgICAgICAgICAgdmFyIGxpc3QgPSBPYmplY3QodGhpcyk7CiAgICAgICAgICAgIHZhciBsZW5ndGggPSBsaXN0Lmxlbmd0aCA+Pj4gMDsKICAgICAgICAgICAgdmFyIHRoaXNBcmcgPSBhcmd1bWVudHNbMV07CiAgICAgICAgICAgIHZhciB2YWx1ZTsKCiAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgbGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgIHZhbHVlID0gbGlzdFtpXTsKICAgICAgICAgICAgICAgIGlmIChwcmVkaWNhdGUuY2FsbCh0aGlzQXJnLCB2YWx1ZSwgaSwgbGlzdCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmFsdWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHVuZGVmaW5lZDsKICAgICAgICB9O2Q=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>scope.data.evaluation.results[0]</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>toBeFalsy</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>Corporate Search</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZmluZCA9IGZ1bmN0aW9uKGFyciwgZikgewogICAgICAgICAgICBhcnIuZm9yCiAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
