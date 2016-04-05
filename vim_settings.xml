@@ -482,7 +482,7 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CorpSearchDeciderSpec.scala" timestamp="1459807005103">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CorpSearchDeciderSpec.scala" timestamp="1459861389696">
         <mark key="[" line="30" column="46" />
         <mark key="]" line="30" column="41" />
         <mark key="^" line="30" column="41" />
@@ -823,11 +823,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1459807025716">
-        <mark key="[" line="51" column="124" />
-        <mark key="]" line="28" column="3" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1459861224028">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
         <mark key="^" line="28" column="3" />
-        <mark key="." line="28" column="3" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMerger.java" timestamp="1457551365759">
         <mark key="[" line="265" column="16" />
@@ -971,29 +971,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBjYXNlICAocmVwciwgdHJhbnNmb3JtT3Bwb3J0dW5pdHksIHRyYW5zZm9ybVJlc3VsdCkgaWYgcmVwci5nZXRLZXkgPT0gQ09SUF9TRUFSQ0hfRVhJU1RTX1BPTElDWSAmJiByZXByLmdldFZhbHVlID09IE5vID0+CiAgICAgICAgICBhY2MgYW5kVGhlbihub29wLCBpbmRldGVybWluYXRlKQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICB2YWwgYTogKFJlc3VsdCA9PiBSZXN1bHQpID0geyBfLmFkZFBvbGljaWVzKCl9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>Unable to retrieve Corp Search Report</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>Yes</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0YXR1czogU3RyaW5nLAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Xy5pbmNvcnBvcmF0aW9uRGF0ZS5leGlzdHMoaW5jRGF0ZSA9PiBZZWFycy55ZWFyc0JldHdlZW4oaW5jRGF0ZSwgTG9jYWxEYXRlLm5vdygpKS5nZXRZZWFycyA+IHRocmVzaG9sZCkpKSA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGlmIChjb3JwU2VhcmNoLmV4aXN0cygK</text>
-      </register>
-      <register name="8" type="4">
-        <text>.exists(_.</text>
-      </register>
-      <register name="9" type="4">
-        <text>Missing</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
