@@ -798,10 +798,10 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459871979408">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="45" />
-        <mark key="." line="26" column="45" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459873563088">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
         <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ConnectAsyncServiceSpec.scala" timestamp="1459870538080">
@@ -950,8 +950,8 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIF8gPT4gbWVzc2FnZS5hY2tub3dsZWRnZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -962,32 +962,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIF8gPT4gbWVzc2FnZS5hY2tub3dsZWRnZSgpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>true</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBjb25uZWN0aW9uLmNyZWF0ZQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBleHRlbmRzIEF1dG9DbG9zZWFibGUg</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvc2UoKTogVW5pdCA9IHsKICAgIGNvbnN1bWVyLmNsb3NlKCkKICAgIHNlc3Npb24uY2xvc2UoKQogICAgY29ubmVjdGlvbi5jbG9zZSgpCiAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJHNjb3BlLmNvcnBTZWFyY2hSZXBvcnQpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text />
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">T3Bwb3J0dW5pdHldIA==</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>$</text>
