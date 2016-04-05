@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/entry.html" timestamp="1459803316200" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/scala/com/ondeck/alpaca/model/CorpSearchSpec.scala" timestamp="1459806139667">
-        <mark key="[" line="13" column="28" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/model/Vendor.java" timestamp="1456864605340">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="15" column="13" />
@@ -198,9 +195,6 @@
         <mark key="." line="145" column="34" />
         <mark key="^" line="145" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/business/experian/ExperianBCRCachingReportHandlerIntegrationTest.java" timestamp="1459524652269">
-        <mark key="[" line="41" column="118" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchCachingReportHandler.java" timestamp="1457019863936">
         <mark key="[" line="23" column="83" />
         <mark key="]" line="23" column="43" />
@@ -225,9 +219,6 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelper.java" timestamp="1459523184939">
-        <mark key="[" line="41" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/ConnectReport.java" timestamp="1453308724305">
         <mark key="[" line="11" column="7" />
         <mark key="]" line="11" column="7" />
@@ -241,6 +232,7 @@
         <mark key="." line="123" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/HistoricalReportRetrievalResource.java" timestamp="1459799937585" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/BankruptcyResource.java" timestamp="1459869691622" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/review/releases.js" timestamp="1459794780907">
         <mark key="[" line="688" column="52" />
         <mark key="]" line="688" column="52" />
@@ -344,9 +336,6 @@
         <mark key="." line="124" column="101" />
         <mark key="^" line="124" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/handler/lock.scala" timestamp="1459533713111">
-        <mark key="[" line="30" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/esc-connection/src/main/java/com/odc/vendor/connection/esc/ESCProcessPreSearchOrderConnection.java" timestamp="1456263956688">
         <mark key="[" line="33" column="105" />
         <mark key="]" line="33" column="32" />
@@ -417,7 +406,7 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459799536437">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459869615644">
         <mark key="[" line="42" column="77" />
         <mark key="]" line="42" column="73" />
         <mark key="." line="42" column="73" />
@@ -583,11 +572,11 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459866459378">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="38" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459871237364">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="32" column="97" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/IntegrationTestHelper.java" timestamp="1456506616338">
         <mark key="[" line="46" column="0" />
@@ -601,6 +590,7 @@
         <mark key="." line="49" column="83" />
         <mark key="^" line="49" column="83" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/DecisionService.scala" timestamp="1459869662780" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcherUnitTest.java" timestamp="1457045211452">
         <mark key="[" line="212" column="4" />
         <mark key="]" line="212" column="4" />
@@ -797,9 +787,6 @@
         <mark key="^" line="564" column="0" />
         <mark key="." line="564" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/services/viewservice.js" timestamp="1459800018263">
-        <mark key="[" line="23" column="72" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceSpec.scala" timestamp="1459436850687">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="0" />
@@ -811,16 +798,17 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459867214439">
-        <mark key="[" line="39" column="191" />
-        <mark key="]" line="39" column="191" />
-        <mark key="." line="39" column="191" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459871979408">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ConnectAsyncServiceSpec.scala" timestamp="1459867590924">
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="42" column="50" />
-        <mark key="." line="42" column="50" />
-        <mark key="^" line="42" column="50" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ConnectAsyncServiceSpec.scala" timestamp="1459870538080">
+        <mark key="[" line="61" column="35" />
+        <mark key="]" line="61" column="35" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="22" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchRequestConverter.scala" timestamp="1459783313892" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/build.gradle" timestamp="1457715953553">
@@ -963,10 +951,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>seconds</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>seconds</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -975,31 +963,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>seconds</text>
+        <text>true</text>
       </register>
-      <register name="2" type="4">
-        <text>Matches</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25uZWN0aW9uLmNyZWF0ZQo=</text>
       </register>
       <register name="3" type="4">
-        <text>Less than a year</text>
+        <text encoding="base64">ICBleHRlbmRzIEF1dG9DbG9zZWFibGUg</text>
       </register>
-      <register name="4" type="4">
-        <text>Business Status</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>function() {</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvc2UoKTogVW5pdCA9IHsKICAgIGNvbnN1bWVyLmNsb3NlKCkKICAgIHNlc3Npb24uY2xvc2UoKQogICAgY29ubmVjdGlvbi5jbG9zZSgpCiAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJHNjb3BlLmNvcnBTZWFyY2hSZXBvcnQpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>function() {</text>
+        <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">T3Bwb3J0dW5pdHldIA==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
