@@ -13,6 +13,11 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadaconsumercreditcontrollerSpec.js" timestamp="1459880082374">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/type/BusinessIDType.java" timestamp="1458329244928">
         <mark key="[" line="17" column="86" />
         <mark key="]" line="23" column="5" />
@@ -37,11 +42,11 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/corporatesearchcontrollerSpec.js" timestamp="1459876978381">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/corporatesearchcontrollerSpec.js" timestamp="1459880399860">
+        <mark key="[" line="80" column="57" />
+        <mark key="]" line="80" column="57" />
+        <mark key="." line="80" column="57" />
+        <mark key="^" line="68" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/settings.gradle" timestamp="1456252754578">
         <mark key="[" line="13" column="10" />
@@ -595,11 +600,11 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459874832020">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="32" column="97" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459880395043">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="29" column="31" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/IntegrationTestHelper.java" timestamp="1456506616338">
         <mark key="[" line="46" column="0" />
@@ -976,11 +981,11 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;PENDING&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuY29ycFNlYXJjaFJlcG9ydCA9IFtdOwogICAgICAgICRzY29wZS5jb3JwU2VhcmNoUmVzdWx0ID0gJHNjb3BlLmRhdGEuZXZhbHVhdGlvbi5yZXN1bHRzLmZpbmQoZnVuY3Rpb24ocmVzdWx0KSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;PENDING&quot;</text>
+        <text>toBeFalsy</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -988,32 +993,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>&quot;PENDING&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuY29ycFNlYXJjaFJlcG9ydCA9IFtdOwogICAgICAgICRzY29wZS5jb3JwU2VhcmNoUmVzdWx0ID0gJHNjb3BlLmRhdGEuZXZhbHVhdGlvbi5yZXN1bHRzLmZpbmQoZnVuY3Rpb24ocmVzdWx0KSB7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>.businessName.isDefined</text>
+        <text>toBeFalsy</text>
       </register>
       <register name="3" type="4">
-        <text>override def connectResponse: Option[(CorpSearch, List[CorpSearchPerson])] = ???</text>
+        <text>fakeCorpSearch</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>$scope</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">T3B0aW9uWyhDb3JwU2VhcmNoLCBMaXN0W0NvcnBTZWFyY2hQZXJzb25dKV0g</text>
+        <text>$scope.</text>
       </register>
-      <register name="6" type="4">
-        <text>status</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>toString</text>
+        <text>scope.data.evaluation.results[0]</text>
       </register>
       <register name="8" type="4">
-        <text>Option</text>
+        <text>toBeFalsy</text>
       </register>
       <register name="9" type="4">
-        <text>.headOption</text>
+        <text>Corporate Search</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
