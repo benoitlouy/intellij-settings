@@ -4,8 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/entry.html" timestamp="1459803316200" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/scala/com/ondeck/alpaca/model/CorpSearchSpec.scala" timestamp="1459875003041">
-        <mark key="[" line="13" column="28" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/scala/com/ondeck/alpaca/model/CorpSearchSpec.scala" timestamp="1459961213652">
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="45" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/model/Vendor.java" timestamp="1456864605340">
         <mark key="[" line="14" column="15" />
@@ -23,12 +26,6 @@
         <mark key="]" line="23" column="5" />
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1459957646075">
-        <mark key="[" line="140" column="60" />
-        <mark key="]" line="140" column="60" />
-        <mark key="." line="140" column="60" />
-        <mark key="^" line="147" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/esc-model/build.gradle" timestamp="1456182182236">
         <mark key="[" line="8" column="43" />
@@ -143,6 +140,7 @@
         <mark key="." line="35" column="80" />
         <mark key="^" line="35" column="80" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/AlpacaError.java" timestamp="1459961598307" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/client/JaxrsConnectServiceClient.java" timestamp="1459185867299">
         <mark key="[" line="219" column="85" />
         <mark key="]" line="219" column="55" />
@@ -173,7 +171,7 @@
         <mark key="." line="46" column="25" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/core/src/test/resources/test.properties" timestamp="1459282942154">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/core/src/test/resources/test.properties" timestamp="1459960446034">
         <mark key="[" line="67" column="32" />
         <mark key="]" line="92" column="57" />
         <mark key="^" line="92" column="57" />
@@ -185,8 +183,8 @@
         <mark key="." line="52" column="113" />
         <mark key="^" line="52" column="113" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459958264266">
-        <mark key="^" line="55" column="17" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/enums/EnumsTest.java" timestamp="1459961666423">
+        <mark key="[" line="398" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/Report.java" timestamp="1453308780423">
         <mark key="[" line="11" column="49" />
@@ -227,10 +225,10 @@
         <mark key="." line="15" column="102" />
         <mark key="^" line="15" column="102" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1459786021259">
-        <mark key="[" line="849" column="57" />
-        <mark key="]" line="850" column="26" />
-        <mark key="." line="850" column="26" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1459960950574">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
         <mark key="^" line="850" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierSelector.java" timestamp="1458067154522">
@@ -248,11 +246,10 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/EndToEndIT.scala" timestamp="1459544417499">
-        <mark key="[" line="123" column="4" />
-        <mark key="]" line="123" column="12" />
-        <mark key="^" line="123" column="12" />
-        <mark key="." line="123" column="12" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/EndToEndIT.scala" timestamp="1459960836918">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/HistoricalReportRetrievalResource.java" timestamp="1459799937585" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/BankruptcyResource.java" timestamp="1459869691622" />
@@ -266,11 +263,11 @@
         <mark key="]" line="231" column="79" />
         <mark key="." line="231" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/resources/test.properties" timestamp="1459874561710">
-        <mark key="[" line="69" column="39" />
-        <mark key="]" line="69" column="55" />
-        <mark key="^" line="69" column="55" />
-        <mark key="." line="69" column="55" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/resources/test.properties" timestamp="1459960683147">
+        <mark key="[" line="245" column="16" />
+        <mark key="]" line="245" column="16" />
+        <mark key="^" line="245" column="15" />
+        <mark key="." line="245" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PoodleSafeAxisSecureSocketFactory.java" timestamp="1457708184842">
         <mark key="[" line="38" column="23" />
@@ -610,11 +607,11 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/resources/test.properties" timestamp="1459188062085">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/resources/test.properties" timestamp="1459960879987">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="32" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459888340661">
         <mark key="[" line="36" column="0" />
@@ -863,12 +860,6 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1459890265758">
-        <mark key="[" line="58" column="22" />
-        <mark key="]" line="58" column="72" />
-        <mark key="^" line="58" column="72" />
-        <mark key="." line="58" column="72" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMerger.java" timestamp="1457551365759">
         <mark key="[" line="265" column="16" />
         <mark key="]" line="265" column="15" />
@@ -997,12 +988,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//
-//    println(&quot;&quot;)
-//    println(matches.mkString(&quot;\n&quot;))</text>
+        <text>Report</text>
       </register>
       <register name="-" type="4">
-        <text>JOHN DOE</text>
+        <text>Report</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1011,34 +1000,32 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>//
-//    println(&quot;&quot;)
-//    println(matches.mkString(&quot;\n&quot;))</text>
+        <text>Report</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ly8gICAgdmFsIG1hdGNoZXMgPSBmb3IgewovLyAgICAgIG93bmVyIDwtIG93bmVycwovLyAgICB9IHlpZWxkIGZvciB7Ci8vICAgICAgZGlyZWN0b3IgPC0gZGlyZWN0b3JzCi8vICAgIH0geWllbGQgbWF0Y2hQZXJzb24ob3duZXIpKGRpcmVjdG9yKQ==</text>
+        <text>Historical</text>
       </register>
       <register name="3" type="4">
-        <text>JOHN DOE</text>
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>Benoit Louy</text>
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text>Jane Doe</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>JANE</text>
+        <text>-</text>
       </register>
-      <register name="7" type="4">
-        <text>directors.filter(matchPerson(owner))
-    val uniqueMatches = matches.flatten.toSet</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIGRlZiByZWMocGVyc29uczogU2VxW0NvcnBTZWFyY2hQZXJzb25dLCBvd25lcnM6IFNlcVtPd25lcl0sIGNvdW50OiBJbnQpID0gewogICAgICB2YWwgY3VyT3duZXIgPSBvd25lcnMuaGVhZE9wdGlvbgogICAgICBpZiAoY3VyT3duZXIuaXNEZWZpbmVkKSB7CiAgICAgICAgbWF0Y2hQZXJzb24oY3VyT3duZXIuZ2V0KShwZXJzb25zLmhlYWQpCiAgICAgIH0KICAgIH0=</text>
+        <text>connect.callback.scheme: jms:queue:
+connect.callback.queue.name: callback.Alpaca.ConnectReport</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgdmFsIHIgPSBmb3IgewogICAgICAgIG93bmVyIDwtIG93bmVycy5oZWFkT3B0aW9uCiAgICAgICAgcGVyc29uIDwtIHBlcnNvbnMuaGVhZE9wdGlvbgogICAgICB9IHlpZWxkIG1hdGNoUGVyc29uKG93bmVyKShwZXJzb24pIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
