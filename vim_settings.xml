@@ -605,10 +605,8 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1459976423233">
-        <mark key="]" line="44" column="79" />
-        <mark key="." line="44" column="79" />
-        <mark key="^" line="12" column="48" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1459977620895">
+        <mark key="[" line="24" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1459976764474">
         <mark key="[" line="72" column="23" />
@@ -1019,10 +1017,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nable to reach ESC Corp Search service</text>
+        <text>.safeMap(_.getGetResultResponse)</text>
       </register>
       <register name="-" type="4">
-        <text>nable to reach ESC Corp Search service</text>
+        <text>.safeMap(_.getGetResultResponse)</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1031,31 +1029,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>nable to reach ESC Corp Search service</text>
+        <text>.safeMap(_.getGetResultResponse)</text>
       </register>
-      <register name="2" type="4">
-        <text>fromDisjunction</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGdldFJlc3VsdFJlc3BvbnNlID0gYXBpUmVzcG9uc2Uuc2FmZU1hcChfLmdldEdldFJlc3VsdFJlc3BvbnNlKQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dmFsIGYgPSA=</text>
+        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPC0gT3B0aW9uKGFwaVJlc3BvbnNlLmdldEdldFJlc3VsdFJlc3BvbnNlKQogICAgICByZXN1bHRzIDwtIE9wdGlvbihnZXRSZXN1bHRSZXNwb25zZS5nZXRSZXN1bHRzKQogICAgICByZXN1bHQgPC0gcmVzdWx0cy5oZWFkT3B0aW9uCiAgICAgIHZhbHVlcyA8LSBPcHRpb24ocmVzdWx0LmdldFZhbHVlcykubWFwKE9wdGlvbihfKSkKICAgICAgb3B0aW9uVmFsdWVzIDwtIHZhbHVlcy5tYXAoT3B0aW9uKF8pKQogICAgICBidXNpbmVzc05hbWUgPC0gZXh0cmFjdFZhbHVlKG9wdGlvblZhbHVlcywgQlVTSU5FU1NfTEVHQUxfTkFNRSk=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGYuZmxhdE1hcChvID0+IG8oKG9wcElkLCBjb3JwU2VhcmNoKSkpCg==</text>
+      <register name="4" type="4">
+        <text>nable to reach ESC Corp Search service</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Ly8gICAgZm9yIHsKLy8gICAgICBmIDwtIAovLyAgICAgIG9wcCA8LSBmKChvcHBJZCwgY29ycFNlYXJjaCkpCi8vICAgICAgdGFzayA8LSBUYXNrLmZyb21EaXNqdW5jdGlvbihvcHApCi8vICAgIH0geWllbGQgb3Bw</text>
+        <text>fromDisjunction</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LmZsYXRNYXAoCiAgICAgIChmOiAoKFN0cmluZywgKENvcnBTZWFyY2gsIFNlcVtDb3JwU2VhcmNoUGVyc29uXSkpKSA9PiBUYXNrW09wcG9ydHVuaXR5XSkgPT4gewogICAgICAgIGYoKG9wcElkLCBjb3JwU2VhcmNoKSkKICAgICAgfQogICAgKQ==</text>
+        <text encoding="base64">dmFsIGYgPSA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGYuZmxhdE1hcChvID0+IG8oKG9wcElkLCBjb3JwU2VhcmNoKSkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">b3JwU2VhcmNoKSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gICAgZm9yIHsKLy8gICAgICBmIDwtIAovLyAgICAgIG9wcCA8LSBmKChvcHBJZCwgY29ycFNlYXJjaCkpCi8vICAgICAgdGFzayA8LSBUYXNrLmZyb21EaXNqdW5jdGlvbihvcHApCi8vICAgIH0geWllbGQgb3Bw</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text encoding="base64">LmZsYXRNYXAoCiAgICAgIChmOiAoKFN0cmluZywgKENvcnBTZWFyY2gsIFNlcVtDb3JwU2VhcmNoUGVyc29uXSkpKSA9PiBUYXNrW09wcG9ydHVuaXR5XSkgPT4gewogICAgICAgIGYoKG9wcElkLCBjb3JwU2VhcmNoKSkKICAgICAgfQogICAgKQ==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
