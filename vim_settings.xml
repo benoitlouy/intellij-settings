@@ -24,11 +24,11 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1459951121933">
-        <mark key="[" line="137" column="68" />
-        <mark key="]" line="137" column="68" />
-        <mark key="." line="137" column="68" />
-        <mark key="^" line="127" column="26" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1459956607689">
+        <mark key="[" line="132" column="55" />
+        <mark key="]" line="132" column="55" />
+        <mark key="." line="132" column="55" />
+        <mark key="^" line="147" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/esc-model/build.gradle" timestamp="1456182182236">
         <mark key="[" line="8" column="43" />
@@ -185,10 +185,10 @@
         <mark key="." line="52" column="113" />
         <mark key="^" line="52" column="113" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459950938970">
-        <mark key="[" line="42" column="16" />
-        <mark key="]" line="42" column="16" />
-        <mark key="." line="42" column="16" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459956801140">
+        <mark key="[" line="42" column="56" />
+        <mark key="]" line="48" column="47" />
+        <mark key="." line="48" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/Report.java" timestamp="1453308780423">
         <mark key="[" line="11" column="49" />
@@ -999,10 +999,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MATTHEW JR</text>
+        <text>ownership</text>
       </register>
       <register name="-" type="4">
-        <text>MATTHEW JR</text>
+        <text>ownership</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1011,31 +1011,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>MATTHEW JR</text>
+        <text>ownership</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="4" type="4">
-        <text>3</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>$owner $person</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIjIgJHtOYW1lLmZyb20ocGVyc29uLm5hbWUpfSIpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIjEgJHtvd25lci5nZXROYW1lLmdldFBhcnNlZE5hbWUuZ2V0fSIpCg==</text>
+      <register name="7" type="4">
+        <text>=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzLl8xID4gMC45Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IE1hdHRoZXc=</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
