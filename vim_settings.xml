@@ -146,8 +146,10 @@
         <mark key="." line="35" column="80" />
         <mark key="^" line="35" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/AlpacaError.java" timestamp="1459971340907">
-        <mark key="[" line="27" column="72" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/AlpacaError.java" timestamp="1459976590590">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/client/JaxrsConnectServiceClient.java" timestamp="1459185867299">
         <mark key="[" line="219" column="85" />
@@ -468,10 +470,10 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459974810013">
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="51" column="35" />
-        <mark key="." line="51" column="35" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459976753694">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458929680135">
         <mark key="[" line="4" column="39" />
@@ -603,17 +605,16 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1459875598936">
-        <mark key="[" line="36" column="79" />
-        <mark key="]" line="36" column="79" />
-        <mark key="." line="36" column="79" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1459976423233">
+        <mark key="]" line="44" column="79" />
+        <mark key="." line="44" column="79" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1459972523554">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="95" column="27" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1459976764474">
+        <mark key="[" line="72" column="23" />
+        <mark key="]" line="62" column="149" />
+        <mark key="^" line="62" column="149" />
+        <mark key="." line="62" column="149" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455727804257">
         <mark key="[" line="249" column="18" />
@@ -1018,10 +1019,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(oppId, corpSearch)</text>
+        <text>nable to reach ESC Corp Search service</text>
       </register>
       <register name="-" type="4">
-        <text>(oppId, corpSearch)</text>
+        <text>nable to reach ESC Corp Search service</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1030,31 +1031,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>(oppId, corpSearch)</text>
+        <text>nable to reach ESC Corp Search service</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>fromDisjunction</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text encoding="base64">dmFsIGYgPSA=</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGYuZmxhdE1hcChvID0+IG8oKG9wcElkLCBjb3JwU2VhcmNoKSkpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>Task.fromDisjunction(</text>
+        <text encoding="base64">Ly8gICAgZm9yIHsKLy8gICAgICBmIDwtIAovLyAgICAgIG9wcCA8LSBmKChvcHBJZCwgY29ycFNlYXJjaCkpCi8vICAgICAgdGFzayA8LSBUYXNrLmZyb21EaXNqdW5jdGlvbihvcHApCi8vICAgIH0geWllbGQgb3Bw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFRhc2suZnJvbURpc2p1bmN0aW9uKGYpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">LmZsYXRNYXAoCiAgICAgIChmOiAoKFN0cmluZywgKENvcnBTZWFyY2gsIFNlcVtDb3JwU2VhcmNoUGVyc29uXSkpKSA9PiBUYXNrW09wcG9ydHVuaXR5XSkgPT4gewogICAgICAgIGYoKG9wcElkLCBjb3JwU2VhcmNoKSkKICAgICAgfQogICAgKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBmID0gbG9jayhhZHZpc29yeUxvY2tGYWN0b3J5KShvcHBJZCkoZG9Db3JwU2VhcmNoKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8gICAgdmFsIHIgPSBmb3IgewovLyAgICAgIGYgPC0gbG9jayhhZHZpc29yeUxvY2tGYWN0b3J5KShvcHBJZCkoZG9Db3JwU2VhcmNoKQovLyAgICAgIG9wcCA8LSBUYXNrIHsgZigob3BwSWQsIGNvcnBTZWFyY2gpKSB9KEdsb2JhbElvQm91bmRUaHJlYWRQb29sLmdsb2JhbElvQm91bmRUaHJlYWRQb29sRXhlY3V0b3JTZXJ2aWNlKQovLyAgICB9IHlpZWxkIG9wcA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">b3JwU2VhcmNoKSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0SU8uZ2V0SGlzdG9yaWNhbENhbmFkYUNvcnBTZWFyY2gobm90aWZpY2F0aW9uLmdldE5ld0Nvbm5lY3RSZXBvcnRJZCkuZmxhdE1hcCgpCg==</text>
+      <register name="9" type="4">
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
