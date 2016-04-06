@@ -24,10 +24,10 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1459956607689">
-        <mark key="[" line="132" column="55" />
-        <mark key="]" line="132" column="55" />
-        <mark key="." line="132" column="55" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1459957646075">
+        <mark key="[" line="140" column="60" />
+        <mark key="]" line="140" column="60" />
+        <mark key="." line="140" column="60" />
         <mark key="^" line="147" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/esc-model/build.gradle" timestamp="1456182182236">
@@ -185,10 +185,8 @@
         <mark key="." line="52" column="113" />
         <mark key="^" line="52" column="113" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459956801140">
-        <mark key="[" line="42" column="56" />
-        <mark key="]" line="48" column="47" />
-        <mark key="." line="48" column="47" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459958264266">
+        <mark key="^" line="55" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/Report.java" timestamp="1453308780423">
         <mark key="[" line="11" column="49" />
@@ -999,10 +997,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ownership</text>
+        <text>//
+//    println(&quot;&quot;)
+//    println(matches.mkString(&quot;\n&quot;))</text>
       </register>
       <register name="-" type="4">
-        <text>ownership</text>
+        <text>JOHN DOE</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1011,31 +1011,34 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>ownership</text>
+        <text>//
+//    println(&quot;&quot;)
+//    println(matches.mkString(&quot;\n&quot;))</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text encoding="base64">Ly8gICAgdmFsIG1hdGNoZXMgPSBmb3IgewovLyAgICAgIG93bmVyIDwtIG93bmVycwovLyAgICB9IHlpZWxkIGZvciB7Ci8vICAgICAgZGlyZWN0b3IgPC0gZGlyZWN0b3JzCi8vICAgIH0geWllbGQgbWF0Y2hQZXJzb24ob3duZXIpKGRpcmVjdG9yKQ==</text>
       </register>
       <register name="3" type="4">
-        <text>p</text>
+        <text>JOHN DOE</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>Benoit Louy</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Jane Doe</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>JANE</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>directors.filter(matchPerson(owner))
+    val uniqueMatches = matches.flatten.toSet</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIGRlZiByZWMocGVyc29uczogU2VxW0NvcnBTZWFyY2hQZXJzb25dLCBvd25lcnM6IFNlcVtPd25lcl0sIGNvdW50OiBJbnQpID0gewogICAgICB2YWwgY3VyT3duZXIgPSBvd25lcnMuaGVhZE9wdGlvbgogICAgICBpZiAoY3VyT3duZXIuaXNEZWZpbmVkKSB7CiAgICAgICAgbWF0Y2hQZXJzb24oY3VyT3duZXIuZ2V0KShwZXJzb25zLmhlYWQpCiAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text encoding="base64">ICAgICAgdmFsIHIgPSBmb3IgewogICAgICAgIG93bmVyIDwtIG93bmVycy5oZWFkT3B0aW9uCiAgICAgICAgcGVyc29uIDwtIHBlcnNvbnMuaGVhZE9wdGlvbgogICAgICB9IHlpZWxkIG1hdGNoUGVyc29uKG93bmVyKShwZXJzb24pIA==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
