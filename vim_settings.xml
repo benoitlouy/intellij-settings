@@ -27,6 +27,9 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1459965905776">
+        <mark key="^" line="177" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/esc-model/build.gradle" timestamp="1456182182236">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="43" />
@@ -183,7 +186,12 @@
         <mark key="." line="52" column="113" />
         <mark key="^" line="52" column="113" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459963524001" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1459965576815">
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="57" column="25" />
+        <mark key="." line="57" column="25" />
+        <mark key="^" line="57" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/enums/EnumsTest.java" timestamp="1459961666423">
         <mark key="[" line="398" column="75" />
       </file>
@@ -990,10 +998,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text encoding="base64">SkFORSBDIA==</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text encoding="base64">SkFORSBDIA==</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1002,32 +1010,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>9</text>
+        <text encoding="base64">SkFORSBDIA==</text>
       </register>
       <register name="2" type="4">
-        <text>Report</text>
+        <text>decline</text>
       </register>
       <register name="3" type="4">
-        <text>Historical</text>
+        <text>match less than half of directors</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text>DOE</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>true</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text encoding="base64">Ly8gICAgZGVmIG1hdGNoZShvd25lcnM6IFNlcVtPd25lcl0sIHBlcnNvbnM6IFNlcVtDb3JwU2VhcmNoUGVyc29uXSkgPSB7Ci8vICAgICAgZm9yIHsKLy8gICAgICAgIG93bmVyIDwtIG93bmVycwovLyAgICAgIH0geWllbGQgCi8vICAgIH0KLy8gICAgZm9yICh2YXIgaSA9IDA7IGkgPCBvd25lcnMuc2l6ZTsgKytpKSB7Ci8vCi8vICAgIH0=</text>
       </register>
       <register name="7" type="4">
-        <text>-</text>
+        <text>DOE</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>Doe</text>
       </register>
       <register name="9" type="4">
-        <text>connect.callback.scheme: jms:queue:
-connect.callback.queue.name: callback.Alpaca.ConnectReport</text>
+        <text>half</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
