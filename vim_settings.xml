@@ -601,7 +601,11 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1460055039174" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1460056728988">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1460052182616">
         <mark key="[" line="72" column="23" />
         <mark key="]" line="62" column="149" />
@@ -1004,8 +1008,8 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPC0gT3B0aW9uKGFwaVJlc3BvbnNlLmdldEdldFJlc3VsdFJlc3BvbnNlKQogICAgICBvcmRlck51bWJlciA8LSBmb3IgewogICAgICAgIAogICAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -1016,32 +1020,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPC0gT3B0aW9uKGFwaVJlc3BvbnNlLmdldEdldFJlc3VsdFJlc3BvbnNlKQogICAgICBvcmRlck51bWJlciA8LSBmb3IgewogICAgICAgIAogICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXJOdW1iZXIgPC0gT3B0aW9uKGdldFJlc3VsdFJlc3BvbnNlLmdldE9yZGVyTnVtYmVyKSBpZiBnZXRSZXN1bHRSZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPSBPcHRpb24oYXBpUmVzcG9uc2UuZ2V0R2V0UmVzdWx0UmVzcG9uc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgdmFsdWVzOiBBcnJheVtPcHRpb25bRVNDVmFsdWVdXSA9IHJlc3VsdC5zYWZlTWFwKF8uZ2V0VmFsdWVzKS5nZXRPckVsc2UoQXJyYXkuZW1wdHkpLm1hcChPcHRpb24oXykpCg==</text>
+        <text encoding="base64">ICAgICAgb3JkZXJOdW1iZXIgPC0gZ2V0UmVzdWx0UmVzcG9uc2Uuc2EK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgdmFsdWVzLmZpbmQoXy5leGlzdHMoXy5nZXROYW1lID09IG5hbWUpKS5mbGF0dGVuLnNhZmVNYXAoXy5nZXRWYWx1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYW1lID0gZXh0cmFjdFZhbHVlKHZhbHVlcywgTkFNRSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgCiAgICAgIGZvciB7CiAgICAgICAgCiAgICAgIH0=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGlmIChuYW1lLmV4aXN0cyhfLmxlbmd0aCA+IDApKSB7CiAgICAgIHZhbCBwb3NpdGlvbiA9IGV4dHJhY3RWYWx1ZSh2YWx1ZXMsIFBPU0lUSU9OKQogICAgICB2YWwgYWRkcmVzcyA9IGV4dHJhY3RWYWx1ZSh2YWx1ZXMsIEFERFJFU1MpCiAgICAgIFNvbWUoQ29ycFNlYXJjaFBlcnNvbihOb25lLCBOb25lLCBncm91cC5nZXROYW1lLCBuYW1lLmdldCwgcG9zaXRpb24sIGFkZHJlc3MpKQogICAgfSBlbHNlIE5vbmU=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>]</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>[</text>
+        <text encoding="base64">ICAgICAgKGZvciB7CiAgICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPC0gT3B0aW9uKGFwaVJlc3BvbnNlLmdldEdldFJlc3VsdFJlc3BvbnNlKQogICAgICAgIG9yZGVyTnVtYmVyIDwtIE9wdGlvbihnZXRSZXN1bHRSZXNwb25zZS5nZXRPcmRlck51bWJlcikKICAgICAgfSB5aWVsZCBvcmRlck51bWJlcik=</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPC0gT3B0aW9uKGFwaVJlc3BvbnNlLmdldEdldFJlc3VsdFJlc3BvbnNlKQogICAgICBvcmRlck51bWJlciA8LSBmb3IgewogICAgICAgIAogICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
