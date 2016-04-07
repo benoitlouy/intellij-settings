@@ -594,10 +594,10 @@
         <mark key="^" line="298" column="28" />
         <mark key="." line="298" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460058280593">
-        <mark key="[" line="33" column="61" />
-        <mark key="]" line="33" column="61" />
-        <mark key="." line="33" column="61" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460060176775">
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="61" />
+        <mark key="." line="26" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/MatcherPoliciesHelper.scala" timestamp="1459892541128" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/experian-bcr-model/src/main/resources/relocate-adapters.xsd" timestamp="1455719795788">
@@ -1022,29 +1022,29 @@
       <register name="1" type="4">
         <text>-and-historical</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>-and-historical</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPSBPcHRpb24oYXBpUmVzcG9uc2UuZ2V0R2V0UmVzdWx0UmVzcG9uc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXJOdW1iZXIgPC0gZ2V0UmVzdWx0UmVzcG9uc2Uuc2EK</text>
+        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPSBPcHRpb24oYXBpUmVzcG9uc2UuZ2V0R2V0UmVzdWx0UmVzcG9uc2UpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgb3JkZXJOdW1iZXIgPC0gZ2V0UmVzdWx0UmVzcG9uc2Uuc2EK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgCiAgICAgIGZvciB7CiAgICAgICAgCiAgICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgKGZvciB7CiAgICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPC0gT3B0aW9uKGFwaVJlc3BvbnNlLmdldEdldFJlc3VsdFJlc3BvbnNlKQogICAgICAgIG9yZGVyTnVtYmVyIDwtIE9wdGlvbihnZXRSZXN1bHRSZXNwb25zZS5nZXRPcmRlck51bWJlcikKICAgICAgfSB5aWVsZCBvcmRlck51bWJlcik=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
