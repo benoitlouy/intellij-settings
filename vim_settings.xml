@@ -383,16 +383,19 @@
         <mark key="." line="124" column="101" />
         <mark key="^" line="124" column="101" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/handler/lock.scala" timestamp="1460052216630">
+        <mark key="[" line="30" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/esc-connection/src/main/java/com/odc/vendor/connection/esc/ESCProcessPreSearchOrderConnection.java" timestamp="1456263956688">
         <mark key="[" line="33" column="105" />
         <mark key="]" line="33" column="32" />
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/resource/CorpSearchResource.scala" timestamp="1459969784419">
-        <mark key="[" line="31" column="96" />
-        <mark key="]" line="31" column="96" />
-        <mark key="." line="31" column="96" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/resource/CorpSearchResource.scala" timestamp="1460051896266">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="23" column="59" />
         <mark key="^" line="33" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/resources/test.properties" timestamp="1459874568608">
@@ -465,10 +468,10 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1459976753694">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="28" column="24" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1460054259373">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxBCRLenderIdentifierConfig.java" timestamp="1458929680135">
         <mark key="[" line="4" column="39" />
@@ -598,12 +601,8 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1459978657415">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1459976764474">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1460055039174" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1460052182616">
         <mark key="[" line="72" column="23" />
         <mark key="]" line="62" column="149" />
         <mark key="^" line="62" column="149" />
@@ -860,10 +859,10 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1459970881822">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1460052033463">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ConnectAsyncServiceSpec.scala" timestamp="1459970578078">
         <mark key="[" line="74" column="0" />
@@ -1006,10 +1005,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPC0gT3B0aW9uKGFwaVJlc3BvbnNlLmdldEdldFJlc3VsdFJlc3BvbnNlKQogICAgICBvcmRlck51bWJlciA8LSBmb3IgewogICAgICAgIAogICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1018,31 +1017,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>7</text>
+        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPC0gT3B0aW9uKGFwaVJlc3BvbnNlLmdldEdldFJlc3VsdFJlc3BvbnNlKQogICAgICBvcmRlck51bWJlciA8LSBmb3IgewogICAgICAgIAogICAgICB9</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgb3JkZXJOdW1iZXIgPC0gT3B0aW9uKGdldFJlc3VsdFJlc3BvbnNlLmdldE9yZGVyTnVtYmVyKSBpZiBnZXRSZXN1bHRSZXNwb25zZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGNvcnBTZWFyY2hJZDogSW50</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICB2YWwgdmFsdWVzOiBBcnJheVtPcHRpb25bRVNDVmFsdWVdXSA9IHJlc3VsdC5zYWZlTWFwKF8uZ2V0VmFsdWVzKS5nZXRPckVsc2UoQXJyYXkuZW1wdHkpLm1hcChPcHRpb24oXykpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>//).filter(_._1.opportunityId === opportunityId)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgdmFsdWVzLmZpbmQoXy5leGlzdHMoXy5nZXROYW1lID09IG5hbWUpKS5mbGF0dGVuLnNhZmVNYXAoXy5nZXRWYWx1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBuYW1lID0gZXh0cmFjdFZhbHVlKHZhbHVlcywgTkFNRSkK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CgovLyAgdmFsIGpvaW5XaXRoUGVyc29uczIgPSBDb21waWxlZCgKLy8gICAgKG9wcG9ydHVuaXR5SWQ6IFJlcFtTdHJpbmddKSA9PiAoZm9yIHsKLy8gICAgICBjIDwtIENvcnBTZWFyY2hlcwovLyAgICAgIHAgPC0gQ29ycFNlYXJjaFBlcnNvbnMgaWYgKGMuaWQgPT09IHAuY29ycFNlYXJjaElkKQovLyAgICB9KQovLyAgKQ==</text>
+        <text encoding="base64">ICAgIGlmIChuYW1lLmV4aXN0cyhfLmxlbmd0aCA+IDApKSB7CiAgICAgIHZhbCBwb3NpdGlvbiA9IGV4dHJhY3RWYWx1ZSh2YWx1ZXMsIFBPU0lUSU9OKQogICAgICB2YWwgYWRkcmVzcyA9IGV4dHJhY3RWYWx1ZSh2YWx1ZXMsIEFERFJFU1MpCiAgICAgIFNvbWUoQ29ycFNlYXJjaFBlcnNvbihOb25lLCBOb25lLCBncm91cC5nZXROYW1lLCBuYW1lLmdldCwgcG9zaXRpb24sIGFkZHJlc3MpKQogICAgfSBlbHNlIE5vbmU=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ2V0UmVzdWx0UmVzcG9uc2UgPC0gT3B0aW9uKGFwaVJlc3BvbnNlLmdldEdldFJlc3VsdFJlc3BvbnNlKQo=</text>
+      <register name="7" type="4">
+        <text>]</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>[</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
