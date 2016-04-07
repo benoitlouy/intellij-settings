@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/entry.html" timestamp="1459803316200" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/scala/com/ondeck/alpaca/model/CorpSearchSpec.scala" timestamp="1459961213652">
         <mark key="[" line="44" column="35" />
         <mark key="]" line="45" column="33" />
@@ -27,14 +26,12 @@
         <mark key="^" line="133" column="13" />
         <mark key="." line="133" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/dao/SalesforceCaseDaoIT.scala" timestamp="1460038179647" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/SpecializedFlow.java" timestamp="1459973297163">
         <mark key="[" line="174" column="54" />
         <mark key="]" line="120" column="4" />
         <mark key="^" line="120" column="4" />
         <mark key="." line="120" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/country.html" timestamp="1459800291298" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1459889640786">
         <mark key="[" line="140" column="37" />
         <mark key="]" line="140" column="37" />
@@ -81,6 +78,9 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="850" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/us/EquifaxConnectionHelper.java" timestamp="1459523184939">
+        <mark key="[" line="41" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/EndToEndIT.scala" timestamp="1459960836918">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -120,7 +120,6 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/dao/SalesforceContactDaoIT.scala" timestamp="1459780297242" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_350_add_canada_corp_search.sql" timestamp="1459968076593">
         <mark key="[" line="26" column="17" />
         <mark key="]" line="26" column="17" />
@@ -141,13 +140,17 @@
         <mark key="]" line="34" column="42" />
         <mark key="." line="34" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/missed-call/missed-call-dispatcher-jms/src/test/java/com/ondeck/missedcall/dispatcher/jms/JMSHandlerActiveMQIntegrationTest.java" timestamp="1459786110057" />
-      <file name="$USER_HOME$/Projects/OnDeck/missed-call/missed-call-dispatcher-jms/src/test/java/com/ondeck/missedcall/dispatcher/jms/JMSHandlerActiveMQPoolIntegrationTest.java" timestamp="1459786141124" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Owner.java" timestamp="1459968438491">
+        <mark key="[" line="140" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1460052182616">
         <mark key="[" line="72" column="23" />
         <mark key="]" line="62" column="149" />
         <mark key="^" line="62" column="149" />
         <mark key="." line="62" column="149" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1459876416364">
+        <mark key="[" line="21" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459888340661">
         <mark key="[" line="36" column="0" />
@@ -171,7 +174,6 @@
         <mark key="." line="540" column="67" />
         <mark key="^" line="540" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/canadaconsumercredit.html" timestamp="1459802577284" />
       <file name="$USER_HOME$/Projects/OnDeck/missed-call/missed-call-dispatcher-jms/src/test/java/com/ondeck/missedcall/dispatcher/jms/AbstractJMSHandlerIntegrationTest.java" timestamp="1459176949381">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -185,7 +187,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchRequestConverter.scala" timestamp="1459783313892" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/merger/UnderwritingModelRequestMerger.java" timestamp="1459973389791">
         <mark key="[" line="265" column="16" />
         <mark key="]" line="265" column="15" />
@@ -219,7 +220,6 @@
         <mark key="]" line="779" column="50" />
         <mark key="." line="779" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/matcher/JaroWinklerMatcher.java" timestamp="1459891834429" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/CorpSearchDao.scala" timestamp="1459874230680">
         <mark key="[" line="25" column="62" />
         <mark key="]" line="24" column="49" />
@@ -237,8 +237,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="55" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/HistoricalReportRetrievalResource.java" timestamp="1459799937585" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/BankruptcyResource.java" timestamp="1459869691622" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/enums/EnumsTest.java" timestamp="1459961666423">
+        <mark key="[" line="398" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/business/experian/ExperianBCRCachingReportHandlerIntegrationTest.java" timestamp="1459524652269">
+        <mark key="[" line="41" column="118" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/validation/CanadaValidations.java" timestamp="1460061653249">
         <mark key="[" line="7" column="56" />
       </file>
@@ -284,8 +288,6 @@
         <mark key="]" line="144" column="61" />
         <mark key="." line="144" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/default.html" timestamp="1459802421300" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceBankruptcyDaoIT.java" timestamp="1460038337308" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.js" timestamp="1459794957212">
         <mark key="[" line="284" column="67" />
         <mark key="]" line="284" column="67" />
@@ -296,12 +298,14 @@
         <mark key="]" line="90" column="39" />
         <mark key="." line="90" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/main/java/com/ondeck/common/model/identifiers/BusinessIdentifierType.java" timestamp="1460063576017">
+        <mark key="[" line="11" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1460054259373">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceLienJudgmentDaoIT.java" timestamp="1460038225263" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CorpSearchDeciderSpec.scala" timestamp="1459971826259">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -312,7 +316,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/BusinessInstantIDResource.java" timestamp="1459798637589" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/resources/resources.js" timestamp="1459863428614">
         <mark key="[" line="297" column="29" />
         <mark key="]" line="298" column="28" />
@@ -324,7 +327,6 @@
         <mark key="]" line="26" column="61" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/MatcherPoliciesHelper.scala" timestamp="1459892541128" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1460056728988">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -335,7 +337,6 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/DecisionService.scala" timestamp="1459869662780" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_350_add_canada_corp_search_result_type.sql" timestamp="1459889083677">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="0" column="42" />
@@ -363,20 +364,19 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/countrycheckcontroller.js" timestamp="1459800241594" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1459785749659" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/mapper/CorpSearchesIT.scala" timestamp="1459440351206">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/canadaconsumercreditcontroller.js" timestamp="1459803937156" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/CorpSearchConverter.scala" timestamp="1459180084225">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/resource/KnowYourCustomerStatefulResource.scala" timestamp="1459798569017" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/services/viewservice.js" timestamp="1459800018263">
+        <mark key="[" line="23" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceSpec.scala" timestamp="1459436850687">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="0" />
@@ -387,7 +387,6 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1459970316849" />
     </filemarks>
     <jumps>
       <jump line="46" column="39" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/PendingRequestQueueDAO.java" />
