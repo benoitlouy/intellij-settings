@@ -484,11 +484,11 @@
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/pom.xml" timestamp="1460126412470">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/pom.xml" timestamp="1460129801318">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
         <mark key="^" line="22" column="19" />
-        <mark key="." line="54" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/type/BusinessIDType.java" timestamp="1460128351125">
         <mark key="[" line="66" column="3" />
@@ -579,6 +579,11 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="55" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/enums/EnumsTest.java" timestamp="1460128950848">
+        <mark key="[" line="433" column="0" />
+        <mark key="]" line="433" column="0" />
+        <mark key="." line="433" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/ConnectReport.java" timestamp="1453308724305">
         <mark key="[" line="11" column="7" />
         <mark key="]" line="11" column="7" />
@@ -639,10 +644,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="84" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerify.java" timestamp="1460127861736">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerify.java" timestamp="1460130081719">
         <mark key="[" line="336" column="20" />
-        <mark key="]" line="338" column="0" />
-        <mark key="." line="338" column="0" />
+        <mark key="]" line="336" column="96" />
+        <mark key="." line="336" column="96" />
+        <mark key="^" line="336" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/test/integration/java/com/odc/datapipes/flow/audit/AuditVisitorIntegrationTest.java" timestamp="1455312919079">
         <mark key="[" line="258" column="23" />
@@ -771,6 +777,11 @@
         <mark key="[" line="573" column="0" />
         <mark key="]" line="573" column="0" />
         <mark key="." line="573" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/pom.xml" timestamp="1460130663249">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/BusinessInstantIDResource.java" timestamp="1459798637589" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1460127162218">
@@ -961,7 +972,7 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerifyTest.java" timestamp="1460128327322" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/verifier/SFOpportunityVerifyTest.java" timestamp="1460129327092" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/esc-corp-search-model/src/main/resources/escsoap.wsdl" timestamp="1456179302718">
         <mark key="[" line="95" column="54" />
         <mark key="]" line="95" column="54" />
@@ -1072,8 +1083,8 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BusinessIdentifierType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJPHZlcnNpb24+MC45LUlOVEwtMzYyLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="-" type="4">
         <text>BusinessIdentifierType</text>
@@ -1084,23 +1095,23 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>BusinessIdentifierType</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJPHZlcnNpb24+MC45LUlOVEwtMzYyLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>BusinessIdentifierType</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>BusinessIdentifierType</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLm9uZGVjay5wYXNzcG9ydDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+cGFzc3BvcnQ8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="4" type="4">
-        <text>BusinessIdentifierType</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>BusinessIdentifierType</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>BusinessIdentifierType</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBidXNpbmVzc0lkZW50aWZpZXJUeXBlKCkgewogICAgICAgIGFzc2VydEVxdWFscyhCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkFVU19BQk4sIEJ1c2luZXNzSWRlbnRpZmllclR5cGUuZnJvbSgiQXVzdHJhbGlhbiBCdXNpbmVzcyBOdW1iZXIiKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEJ1c2luZXNzSWRlbnRpZmllclR5cGUuQVVTX0FDTiwgQnVzaW5lc3NJZGVudGlmaWVyVHlwZS5mcm9tKCJBdXN0cmFsaWFuIENvbXBhbnkgTnVtYmVyIikpOwogICAgICAgIGFzc2VydEVxdWFscyhCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkNBTl9IU1RfTlVNQkVSLCBCdXNpbmVzc0lkZW50aWZpZXJUeXBlLmZyb20oIkNhbmFkaWFuIEhTVCBOdW1iZXIiKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEJ1c2luZXNzSWRlbnRpZmllclR5cGUuVVNBX1RBWF9JRCwgQnVzaW5lc3NJZGVudGlmaWVyVHlwZS5mcm9tKCJVU0EgVGF4IElkZW50aWZpY2F0aW9uIE51bWJlciIpKTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKEltbXV0YWJsZVNldC5vZihPcHRpb24uYXBwbHkoQnVzaW5lc3NJZGVudGlmaWVyVHlwZS5BVVNfQUJOKSwKICAgICAgICAgICAgICAgIE9wdGlvbi5hcHBseShCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkFVU19BQ04pKSwKICAgICAgICAgICAgICAgIEJ1c2luZXNzSWRlbnRpZmllclR5cGUuZm9yQ291bnRyeShDb3VudHJ5LkFVKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEltbXV0YWJsZVNldC5vZihPcHRpb24uYXBwbHkoQnVzaW5lc3NJZGVudGlmaWVyVHlwZS5DQU5fSFNUX05VTUJFUiksCiAgICAgICAgICAgICAgICBPcHRpb24uPEJ1c2luZXNzSWRlbnRpZmllclR5cGU+ZW1wdHkoKSksCiAgICAgICAgICAgICAgICBCdXNpbmVzc0lkZW50aWZpZXJUeXBlLmZvckNvdW50cnkoQ291bnRyeS5DQSkpOwogICAgICAgIGFzc2VydEVxdWFscyhJbW11dGFibGVTZXQub2YoT3B0aW9uLmFwcGx5KEJ1c2luZXNzSWRlbnRpZmllclR5cGUuVVNBX1RBWF9JRCksCiAgICAgICAgICAgICAgICBPcHRpb24uPEJ1c2luZXNzSWRlbnRpZmllclR5cGU+ZW1wdHkoKSksCiAgICAgICAgICAgICAgICBCdXNpbmVzc0lkZW50aWZpZXJUeXBlLmZvckNvdW50cnkoQ291bnRyeS5VUykpOwogICAgfQ==</text>
       </register>
       <register name="7" type="4">
         <text>BusinessIdentifierType</text>
