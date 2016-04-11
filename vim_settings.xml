@@ -38,6 +38,7 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/business/BusinessManagementTest.java" timestamp="1460386398404" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1460139796182">
         <mark key="[" line="142" column="13" />
         <mark key="]" line="142" column="13" />
@@ -113,10 +114,17 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilderTest.java" timestamp="1460386110235" />
       <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/pom.xml" timestamp="1460132223809">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/validation/business/BusinessTaxIdValidatorHelperTest.java" timestamp="1460387300614">
+        <mark key="[" line="429" column="41" />
+        <mark key="]" line="429" column="41" />
+        <mark key="." line="429" column="41" />
+        <mark key="^" line="207" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/Report.java" timestamp="1453308780423">
         <mark key="[" line="11" column="49" />
@@ -306,6 +314,11 @@
         <mark key="." line="93" column="21" />
         <mark key="^" line="93" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/validation/business/BusinessTaxIdValidatorHelper.java" timestamp="1460387074172">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/common/equifax/EquifaxLenderIdentifierSelectorUnitTest.java" timestamp="1452271983704">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -421,7 +434,7 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/BusinessManagement.java" timestamp="1460385112473" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/BusinessManagement.java" timestamp="1460386086346" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/common/services/utils.spec.js" timestamp="1459794721851">
         <mark key="[" line="540" column="66" />
         <mark key="]" line="540" column="67" />
@@ -923,6 +936,7 @@
         <mark key="]" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/validation/business/BusinessMaskedTaxIdValidator.java" timestamp="1460386382730" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceSpec.scala" timestamp="1459436850687">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="0" />
@@ -1061,11 +1075,11 @@
       <jump line="122" column="38" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/Generators.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMubWVyY2hhbnRhcGkuZG9tYWluLmNvdW50cnkuQ291bnRyeUNvZGVzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.name()</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.name()</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1073,32 +1087,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMubWVyY2hhbnRhcGkuZG9tYWluLmNvdW50cnkuQ291bnRyeUNvZGVzOwo=</text>
+      <register name="1" type="4">
+        <text>.name()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuSW1tdXRhYmxlTWFwOwo=</text>
+      <register name="2" type="4">
+        <text>.name()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zNjRdIGFkZCBzdXBwb3J0IGZvciBDYW5hZGlhbiBUYXggSWQgYW5kIEdTVCBOdW1iZXIK</text>
+      <register name="3" type="4">
+        <text>.name()</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="4" type="4">
+        <text>.name()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBmY2FiNTlkM2MwNmZkMmYwNTEzMjhhZGMxMjc4YmRiNjJlMTRlZjVjCg==</text>
+      <register name="5" type="4">
+        <text>.name()</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>.name()</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Owo8PDw8PDw8IGZjYWI1OWQzYzA2ZmQyZjA1MTMyOGFkYzEyNzhiZGI2MmUxNGVm</text>
+        <text>.name()</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zNjRdIGFkZCBzdXBwb3J0IGZvciBDYW5hZGlhbiBUYXggSWQgYW5kIEdTVCBOdW1iZXIK</text>
+      <register name="8" type="4">
+        <text>.name()</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="9" type="4">
+        <text>.name()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
