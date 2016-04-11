@@ -31,10 +31,11 @@
         <mark key="^" line="133" column="13" />
         <mark key="." line="133" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/src/java/com/odc/salesforceservice/helper/LoanServiceHelper.java" timestamp="1460392384633">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/src/java/com/odc/salesforceservice/helper/LoanServiceHelper.java" timestamp="1460399358847">
+        <mark key="[" line="138" column="19" />
+        <mark key="]" line="138" column="18" />
+        <mark key="." line="138" column="18" />
+        <mark key="^" line="138" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/underwriting/intl/SpecializedFlow.java" timestamp="1459973297163">
         <mark key="[" line="174" column="54" />
@@ -252,6 +253,12 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
         <mark key="^" line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/test/unit/src/java/com/odc/salesforceservice/helper/LoanServiceHelperTest.java" timestamp="1460399475889">
+        <mark key="[" line="127" column="25" />
+        <mark key="]" line="127" column="25" />
+        <mark key="." line="127" column="25" />
+        <mark key="^" line="140" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/salesforceservice/src/java/com/odc/salesforceservice/handler/PricingDecisionHandler.java" timestamp="1457990998805">
         <mark key="[" line="38" column="9" />
@@ -1090,10 +1097,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>CAN</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>CAN</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1102,31 +1109,31 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>CAN</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FkZGVkIHZhbHVlIGZvciB0aGVtLgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL1VzaW5nIHRoZSBtYXAgZm9yIFVTIGFuZCBDYW5hZGEgdmFsdWVzLiBEb24ndCB3YW50IHRvIGFmZmVjdCB0aGUgdW5kZXJ3cml0ZXJzIHlldCBpZiB0aGVyZSBpcyBubwo=</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>USA_TAX_ID</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJ1c2luZXNzSURUeXBlID0gQnVzaW5lc3NJRFR5cGUuZnJvbURlc2NyaXB0aW9uKGFwcGxpY2F0aW9uLmdldEJ1c2luZXNzX0lEX1R5cGVfX2MoKSk7Cg==</text>
+      <register name="7" type="4">
+        <text>usinessIDType</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      <register name="8" type="4">
+        <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjb3VudHJ5LmVxdWFscyhDb3VudHJ5LkFVUykpCg==</text>
+      <register name="9" type="4">
+        <text>assertEquals</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1184,6 +1191,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
