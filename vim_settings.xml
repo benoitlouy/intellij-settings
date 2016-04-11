@@ -336,11 +336,10 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1460152063592">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="101" column="88" />
-        <mark key="^" line="49" column="74" />
-        <mark key="." line="101" column="88" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1460379944061">
+        <mark key="[" line="50" column="88" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/flow/audit/src/main/java/com/odc/datapipes/flow/audit/BaseAuditVisitor.java" timestamp="1455727804257">
         <mark key="[" line="249" column="18" />
@@ -703,10 +702,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1460145684155">
-        <mark key="[" line="44" column="97" />
-        <mark key="]" line="44" column="97" />
-        <mark key="." line="44" column="97" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1460379747296">
+        <mark key="[" line="44" column="56" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_351_add_canada_corp_search_result_type.sql" timestamp="1460139552041" />
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/validation/AustraliaValidations.java" timestamp="1458316226555">
@@ -1063,10 +1063,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgd2hlbihjb3JwU2VhcmNoRGFvLmZpbmRCeU9wcG9ydHVuaXR5SWQoYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKFRhc2subm93KGRhb1Jlc3BvbnNlKSkK</text>
+        <text encoding="base64">ICAgICAgaW1wbGljaXQgdmFsIGV4ZWNDb250ZXh0ID0gbW9jayhjbGFzc09mW0V4ZWN1dGlvbkNvbnRleHRdKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>corpSearchDao.findByOpportunityId(opportunity.getId)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
@@ -1075,31 +1075,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgd2hlbihjb3JwU2VhcmNoRGFvLmZpbmRCeU9wcG9ydHVuaXR5SWQoYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKFRhc2subm93KGRhb1Jlc3BvbnNlKSkK</text>
+        <text encoding="base64">ICAgICAgaW1wbGljaXQgdmFsIGV4ZWNDb250ZXh0ID0gbW9jayhjbGFzc09mW0V4ZWN1dGlvbkNvbnRleHRdKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZWNpZGVyID0gbmV3IENvcnBTZWFyY2hEZWNpZGVyKGNvbm5lY3RJTywgY29ycFNlYXJjaERhbywgMSwgMzAwMDApCg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>corpSearchDao.findByOpportunityId(opportunity.getId)</text>
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8QnVzaW5lc3NJRFR5cGUsIEJ1c2luZXNzSWRlbnRpZmllclR5cGU+CiAgICAgIEJVU0lORVNTX1RBWF9JRF9GSUVMRF9NQVBQSU5HID0KICAgICBJbW11dGFibGVNYXAuPEJ1c2luZXNzSURUeXBlLCBCdXNpbmVzc0lkZW50aWZpZXJUeXBlPmJ1aWxkZXIoKQogICAgICAgICAucHV0KEJ1c2luZXNzSURUeXBlLkFVU19BQk4sIEJ1c2luZXNzSWRlbnRpZmllclR5cGUuQVVTX0FCTikKICAgICAgICAgLnB1dChCdXNpbmVzc0lEVHlwZS5BVVNfQUNOLCBCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkFVU19BQ04pCiAgICAgICAgIC5wdXQoQnVzaW5lc3NJRFR5cGUuQ0FOX0hTVF9OVU1CRVIsIEJ1c2luZXNzSWRlbnRpZmllclR5cGUuQ0FOX0hTVF9OVU1CRVIpCiAgICAgICAgIC5wdXQoQnVzaW5lc3NJRFR5cGUuVVNBX1RBWF9JRCwgQnVzaW5lc3NJZGVudGlmaWVyVHlwZS5VU0FfVEFYX0lEKQogICAgICAgICAucHV0KEJ1c2luZXNzSURUeXBlLkNBTl9HU1RfTlVNQkVSLCBCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkNBTl9HU1RfTlVNQkVSKQogICAgICAgICAucHV0KEJ1c2luZXNzSURUeXBlLkNBTl9UQVhfSUQsIEJ1c2luZXNzSWRlbnRpZmllclR5cGUuQ0FOX1RBWF9JRCkKICAgICAgICAgLmJ1aWxkKCk7</text>
+        <text>a</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>l</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8QnVzaW5lc3NJRFR5cGUsIEJ1c2luZXNzSWRlbnRpZmllclR5cGU+CiAgICAgIEJVU0lORVNTX1RBWF9JRF9GSUVMRF9NQVBQSU5HID0KICAgICBJbW11dGFibGVNYXAuPEJ1c2luZXNzSURUeXBlLCBCdXNpbmVzc0lkZW50aWZpZXJUeXBlPmJ1aWxkZXIoKQogICAgICAgICAucHV0KEJ1c2luZXNzSURUeXBlLkFVU19BQk4sIEJ1c2luZXNzSWRlbnRpZmllclR5cGUuQVVTX0FCTikKICAgICAgICAgLnB1dChCdXNpbmVzc0lEVHlwZS5BVVNfQUNOLCBCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkFVU19BQ04pCiAgICAgICAgIC5wdXQoQnVzaW5lc3NJRFR5cGUuQ0FOX0hTVF9OVU1CRVIsIEJ1c2luZXNzSWRlbnRpZmllclR5cGUuQ0FOX0hTVF9OVU1CRVIpCiAgICAgICAgIC5wdXQoQnVzaW5lc3NJRFR5cGUuVVNBX1RBWF9JRCwgQnVzaW5lc3NJZGVudGlmaWVyVHlwZS5VU0FfVEFYX0lEKQogICAgICAgICAucHV0KEJ1c2luZXNzSURUeXBlLkNBTl9HU1RfTlVNQkVSLCBCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkNBTl9HU1RfTlVNQkVSKQogICAgICAgICAucHV0KEJ1c2luZXNzSURUeXBlLkNBTl9UQVhfSUQsIEJ1c2luZXNzSWRlbnRpZmllclR5cGUuQ0FOX1RBWF9JRCkKICAgICAgICAgLmJ1aWxkKCk7</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
