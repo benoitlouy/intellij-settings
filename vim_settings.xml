@@ -288,8 +288,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/FundedHandler.java" timestamp="1460754080783">
-        <mark key="[" line="516" column="70" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/FundedHandler.java" timestamp="1460987247230">
+        <mark key="[" line="536" column="0" />
+        <mark key="]" line="536" column="0" />
+        <mark key="." line="536" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/CorpSearch.scala" timestamp="1460145401062">
         <mark key="[" line="5" column="43" />
@@ -408,6 +410,12 @@
         <mark key="]" line="35" column="24" />
         <mark key="." line="35" column="24" />
         <mark key="^" line="35" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/messaging/consumer/FundedHandlerTest.java" timestamp="1460987465631">
+        <mark key="[" line="1063" column="0" />
+        <mark key="]" line="1063" column="0" />
+        <mark key="^" line="771" column="58" />
+        <mark key="." line="1063" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/ConnectIOSpec.scala" timestamp="1459891432146">
         <mark key="[" line="272" column="0" />
@@ -535,8 +543,8 @@
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>runtime</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VydE51bGwob3Bwb3J0dW5pdHkubnVtYmVyT2ZQYXltZW50c0Zyb21Nb2RlbCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>runtime</text>
@@ -547,29 +555,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>runtime</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFzc2VydE51bGwob3Bwb3J0dW5pdHkubnVtYmVyT2ZQYXltZW50c0Zyb21Nb2RlbCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>runtime</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG9wcG9ydHVuaXR5Lm51bWJlck9mUGF5bWVudHNGcm9tTW9kZWwgPSBudWxsOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>runtime</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text>runtime</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>2</text>
       </register>
       <register name="6" type="4">
-        <text>ondecv</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>TRUST_BACKED_BY_PERSON</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>TRUST_BACKED_BY_BUSINESS</text>
+        <text>ondecv</text>
       </register>
       <register name="9" type="4">
         <text>TRUST_BACKED_BY_PERSON</text>
