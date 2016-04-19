@@ -231,11 +231,11 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1461010343350">
-        <mark key="[" line="53" column="60" />
-        <mark key="]" line="53" column="60" />
-        <mark key="." line="53" column="60" />
-        <mark key="^" line="54" column="17" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1461015487131">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="20" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1460751726731">
         <mark key="[" line="226" column="4" />
@@ -291,6 +291,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="33" column="87" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/dao/CorpSearchDaoIT.scala" timestamp="1461015455769">
+        <mark key="[" line="69" column="12" />
+        <mark key="]" line="67" column="36" />
+        <mark key="." line="67" column="36" />
+        <mark key="^" line="67" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1460468255258">
         <mark key="[" line="28" column="0" />
@@ -372,10 +378,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/Generators.scala" timestamp="1460568356449">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/Generators.scala" timestamp="1461014967681">
+        <mark key="[" line="114" column="33" />
+        <mark key="]" line="114" column="33" />
+        <mark key="." line="114" column="33" />
+        <mark key="^" line="114" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/CorpSearchResource.scala" timestamp="1459799969135">
         <mark key="[" line="8" column="0" />
@@ -567,11 +574,11 @@
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KGMsIHApID0+IGMuaWQgPT09IHAuY29ycFNlYXJjaElkICYmIGMub3Bwb3J0dW5pdHlJZCA9PT0gb3Bwb3J0dW5pdHlJZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGMsIHApID0+IGMuaWQgPT09IHAuY29ycFNlYXJjaElkICYmIGMub3Bwb3J0dW5pdHlJZCA9PT0gb3Bwb3J0dW5pdHlJZA==</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -579,32 +586,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KGMsIHApID0+IGMuaWQgPT09IHAuY29ycFNlYXJjaElkICYmIGMub3Bwb3J0dW5pdHlJZCA9PT0gb3Bwb3J0dW5pdHlJZA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>4</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICB2YWwgam9pbldpdGhQZXJzb25zMiA9IENvbXBpbGVkKAogICAgKG9wcG9ydHVuaXR5SWQ6IFJlcFtTdHJpbmddKSA9PiBmb3IgewogICAgICAoYywgcCkgPC0gQ29ycFNlYXJjaGVzIGpvaW5MZWZ0IENvcnBTZWFyY2hQZXJzb25zIG9uICgoYywgcCkgPT4gYy5pZCA9PT0gcC5jb3JwU2VhcmNoSWQgJiYgYy5vcHBvcnR1bml0eUlkID09PSBvcHBvcnR1bml0eUlkKQogICAgfSB5aWVsZCAoYywgcCkKICAp</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>D</text>
       </register>
       <register name="5" type="4">
-        <text>thirdPartyReportCtrl</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>9</text>
+        <text>opportunityDao.save(</text>
       </register>
       <register name="7" type="4">
-        <text>4</text>
+        <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBJTlRMLTM0OQo=</text>
+        <text encoding="base64">ICAgIHAgc2hvdWxkQmUgZW1wdHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGMuYnVzaW5lc3NOYW1lIHNob3VsZEJlIGNvcnBTZWFyY2guYnVzaW5lc3NOYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
