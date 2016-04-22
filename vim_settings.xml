@@ -142,7 +142,7 @@
         <mark key="]" line="433" column="0" />
         <mark key="." line="433" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/OnDeckOnlineHandler.java" timestamp="1461274211852" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/OnDeckOnlineHandler.java" timestamp="1461339682335" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/DecisionFlows.scala" timestamp="1461004342707">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
@@ -174,6 +174,7 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/OnDeckOnlineUpdateConsumer.java" timestamp="1461339665698" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/test-common/build.gradle" timestamp="1461095135836">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -239,6 +240,11 @@
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandler.java" timestamp="1461339106947">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="35" />
+        <mark key="." line="31" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/provider/AlpacaUserProvider.java" timestamp="1461181745122" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1461160541899">
         <mark key="[" line="162" column="0" />
@@ -265,6 +271,11 @@
         <mark key="]" line="51" column="61" />
         <mark key="." line="51" column="61" />
         <mark key="^" line="51" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerUnitTest.java" timestamp="1461339168259">
+        <mark key="[" line="147" column="51" />
+        <mark key="]" line="147" column="51" />
+        <mark key="." line="147" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/ConnectIOSpec.scala" timestamp="1459891432146">
         <mark key="[" line="272" column="0" />
@@ -354,10 +365,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcherUnitTest.java" timestamp="1461160372664">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcherUnitTest.java" timestamp="1461339530608">
+        <mark key="[" line="193" column="88" />
+        <mark key="]" line="199" column="58" />
+        <mark key="." line="199" column="58" />
+        <mark key="^" line="199" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CorpSearchDeciderSpec.scala" timestamp="1460151766287">
         <mark key="[" line="36" column="0" />
@@ -431,7 +443,11 @@
         <mark key="]" line="33" column="43" />
         <mark key="." line="33" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1461338028602" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1461338799257">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/LoanService.java" timestamp="1460125624612">
         <mark key="[" line="405" column="0" />
         <mark key="]" line="405" column="0" />
@@ -664,11 +680,11 @@
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>OrderStatus</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -676,32 +692,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNlLgo=</text>
       </register>
       <register name="2" type="4">
-        <text>7</text>
+        <text>OrderStatus</text>
       </register>
       <register name="3" type="4">
-        <text>develop</text>
+        <text>OrderStatus</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFJFUVVFU1RFRCA9IDE7Cg==</text>
+      <register name="4" type="4">
+        <text>OrderStatus</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IEJhY2tlZCBCeSBCdXNpbmVzcw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>TrustBackedByBusiness</text>
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0UmVwbHlUbygicmVwbHlUb1Rlc3QxMjMiKTsK</text>
+      <register name="7" type="4">
+        <text>7</text>
       </register>
       <register name="8" type="4">
-        <text>fieldToExclude</text>
+        <text>develop</text>
       </register>
-      <register name="9" type="4">
-        <text>runtime</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFJFUVVFU1RFRCA9IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
