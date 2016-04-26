@@ -169,7 +169,7 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/client/build.gradle" timestamp="1461338550787">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/build.gradle" timestamp="1461696237615">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
@@ -254,10 +254,11 @@
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1461686206709">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1461696277029">
+        <mark key="[" line="230" column="66" />
+        <mark key="]" line="230" column="66" />
+        <mark key="." line="230" column="66" />
+        <mark key="^" line="230" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1460128077884">
         <mark key="[" line="419" column="77" />
@@ -732,11 +733,11 @@
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>JacksonJsonProviderConfig.</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -744,37 +745,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>:</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>//    ext {
 //        UNIFIED_APP_MODEL_VERSION = '1.26'
 //    }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLmZhc3RlcnhtbC5qYWNrc29uLmRhdGF0eXBlOmphY2tzb24tZGF0YXR5cGUtam9kYToyLjUuMycK</text>
-      </register>
-      <register name="4" type="4">
-        <text>JacksonJsonProviderConfig.</text>
       </register>
       <register name="5" type="4">
         <text>JacksonJsonProviderConfig.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZGVjaXNpb24uY29yZS5jb25maWcuSmFja3Nvbkpzb25Qcm92aWRlckNvbmZpZzsK</text>
+      <register name="6" type="4">
+        <text>JacksonJsonProviderConfig.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZGVjaXNpb24uY29yZS5jb25maWcuSmFja3Nvbkpzb25Qcm92aWRlckNvbmZpZzsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>def CONNECT_VERSION = '1.69'
-def ODC_COMMONS_VERSION = '2.23'
-def LSP_SUMMARIZER_FLOW_VERSION = '0.5'
-def MISSEDCALL_VERSION = '1.2'</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>412</text>
