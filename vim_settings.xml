@@ -65,7 +65,8 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1461338252276">
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test-common/src/main/resources/underwriting/valid-request-chase.json" timestamp="1461679701324" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1461679217056">
         <mark key="[" line="66" column="45" />
         <mark key="]" line="66" column="45" />
         <mark key="." line="66" column="45" />
@@ -261,7 +262,7 @@
         <mark key="." line="31" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/provider/AlpacaUserProvider.java" timestamp="1461181745122" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1461160541899">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1461678791873">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
@@ -334,10 +335,11 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1461605597459">
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1461681435992">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="64" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFOpportunity.java" timestamp="1461187619962" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/test/java/com/odc/vendor/connection/core/service/XMLMarshallerUnitTest.java" timestamp="1461089443985">
@@ -390,12 +392,6 @@
         <mark key="]" line="34" column="42" />
         <mark key="." line="34" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/salesforce/SalesforceLead.java" timestamp="1461619286336">
-        <mark key="[" line="627" column="0" />
-        <mark key="]" line="234" column="34" />
-        <mark key="." line="234" column="34" />
-        <mark key="^" line="234" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/build.gradle" timestamp="1461338213283">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="27" />
@@ -432,6 +428,7 @@
         <mark key="." line="206" column="26" />
         <mark key="^" line="206" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/common/resources/underwriting/valid-request-chase.json" timestamp="1461677449517" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/functional/src/java/com/odc/decision/AuthenticationFunctionalTest.java" timestamp="1461605214087">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="42" />
@@ -488,6 +485,12 @@
         <mark key="]" line="52" column="108" />
         <mark key="." line="52" column="108" />
         <mark key="^" line="52" column="108" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test-common/build.gradle" timestamp="1461681374341">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/controllers.js" timestamp="1461007517494">
         <mark key="[" line="33" column="43" />
@@ -546,7 +549,7 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461175445414">
+      <file name="/Dummy.txt" timestamp="1461681714576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test/integration/src/java/com/odc/decision/underwriting/convertor/UnifiedToBusinessIDRequestConverterIntegrationTest.java" timestamp="1461173652055">
@@ -618,7 +621,7 @@
         <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/fluent-hc/4.5.1/95db41125f63510ffc659cfeefea1d39572ee1f6/fluent-hc-4.5.1-sources.jar!/org/apache/http/client/fluent/Request.java" timestamp="1461270893172" />
-      <file name="/fragment.java" timestamp="1461175445429">
+      <file name="/fragment.java" timestamp="1461681714589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -629,10 +632,11 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="20" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/settings.gradle" timestamp="1461605321537">
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/settings.gradle" timestamp="1461680601778">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -738,11 +742,11 @@
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>disqualificationReason</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3JjRGlyICd0ZXN0L2NvbW1vbi9yZXNvdXJjZXMnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>disqualificationReason</text>
+        <text>testCompile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -750,32 +754,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>disqualificationReason</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3JjRGlyICd0ZXN0L2NvbW1vbi9yZXNvdXJjZXMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBACg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3JjRGlyICd0ZXN0L2NvbW1vbi9yZXNvdXJjZXMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0lOVEwtNDgwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3JjRGlyICd0ZXN0L2NvbW1vbi9zcmMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3JjRGlyICd0ZXN0L2NvbW1vbi9zcmMnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Ly8gICAgdGVzdENvbXBpbGUgImNvbS5naXRodWIuamF2YWZha2VyOmphdmFmYWtlcjowLjQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAucHV0KCJVbmtub3duIiwgbnVsbCkK</text>
+        <text encoding="base64">Ly8gICAgdGVzdENvbXBpbGUgJ2NvbS5vbmRlY2suYWxwYWNhOmFscGFjYS1tb2RlbDoxLjM1LjA6dGVzdHMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA0LzI1LzE2Lgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGV4Y2x1ZGUgZ3JvdXA6ICdjb20ub2RjJywgbW9kdWxlOiAnc2FsZXNmb3JjZS1jbGllbnQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Ly8gICAgdGVzdENvbXBpbGUgKCdjb20ub25kZWNrLmFscGFjYTphbHBhY2Etd3Mtc2FsZXNmb3JjZToxLjM1LjA6dGVzdHMnKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
