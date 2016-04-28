@@ -262,6 +262,11 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFApplication.java" timestamp="1461868499688">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/integrationTest/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerIntegrationTest.java" timestamp="1461341945517">
         <mark key="[" line="2" column="56" />
         <mark key="]" line="2" column="56" />
@@ -328,10 +333,10 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1461866047416">
-        <mark key="[" line="712" column="0" />
-        <mark key="]" line="712" column="0" />
-        <mark key="." line="712" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1461868852821">
+        <mark key="[" line="470" column="0" />
+        <mark key="]" line="470" column="0" />
+        <mark key="." line="470" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460060176775">
         <mark key="[" line="3" column="61" />
@@ -586,10 +591,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRHb29nbGVNYXBzU3RyZWV0dmlld1VSTChidXNpbmVzcy5nZXRHb29nbGVNYXBzU3RyZWV0Vmlld1VSTCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>SFOpportunity</text>
+        <text>input.getBusiness()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -598,35 +603,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRHb29nbGVNYXBzU3RyZWV0dmlld1VSTChidXNpbmVzcy5nZXRHb29nbGVNYXBzU3RyZWV0Vmlld1VSTCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRBZGRpdGlvbmFsVVJMKGJ1c2luZXNzLmdldEFkZGl0aW9uYWxVUkwoKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBtYXBVU093bmVycyhmaW5hbCBTRk9wcG9ydHVuaXR5IG9wcG9ydHVuaXR5LCBCaU1hcDxPcmRpbmFsLCBPd25lcj4gb3duZXJCeU9yZGluYWwpIHsKICAgICAgICBmaW5hbCBPd25lciBvd25lcjEgPSBvd25lckJ5T3JkaW5hbC5nZXQoT3JkaW5hbC5PTkUpOwogICAgICAgIGlmIChvd25lcjEgIT0gbnVsbCkgewogICAgICAgICAgICBmaW5hbCBDb25zdW1lckNyZWRpdFJlcG9ydCBjcmVkaXRSZXBvcnQgPSBvd25lcjEuZ2V0Q3JlZGl0UmVwb3J0KCk7CiAgICAgICAgICAgIGlmIChjcmVkaXRSZXBvcnQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgb3Bwb3J0dW5pdHkuc2V0Q29uc3VtZXJDcmVkaXRSZXBvcnQoQ0NSX0NPTlZFUlRFUi5yZXZlcnNlKCkuY29udmVydChjcmVkaXRSZXBvcnQpKTsKICAgICAgICAgICAgICAgIG9wcG9ydHVuaXR5LnNldE93bmVyMUNyZWRpdFNjb3JlKGNyZWRpdFJlcG9ydC5nZXRTY29yZSgpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAob3duZXIxLmdldEJ1c2luZXNzSW5zdGFudElEKCkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgb3Bwb3J0dW5pdHkuc2V0U2ZCdXNpbmVzc0luc3RhbnRJRChCSUlEX0NPTlZFUlRFUi5jb252ZXJ0KG93bmVyMS5nZXRCdXNpbmVzc0luc3RhbnRJRCgpKSk7CiAgICAgICAgICAgICAgICBvcHBvcnR1bml0eS5nZXRTZkJ1c2luZXNzSW5zdGFudElEKCkuc2V0T3Bwb3J0dW5pdHlJZChvcHBvcnR1bml0eS5nZXRJZCgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgZmluYWwgT3duZXIgb3duZXIyID0gb3duZXJCeU9yZGluYWwuZ2V0KE9yZGluYWwuVFdPKTsKICAgICAgICBpZiAob3duZXIyICE9IG51bGwpIHsKICAgICAgICAgICAgZmluYWwgQ29uc3VtZXJDcmVkaXRSZXBvcnQgY3JlZGl0UmVwb3J0MiA9IG93bmVyMi5nZXRDcmVkaXRSZXBvcnQoKTsKICAgICAgICAgICAgaWYgKGNyZWRpdFJlcG9ydDIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgb3Bwb3J0dW5pdHkuc2V0Q29uc3VtZXJDcmVkaXRSZXBvcnQyKENDUl9DT05WRVJURVIucmV2ZXJzZSgpLmNvbnZlcnQoY3JlZGl0UmVwb3J0MikpOwogICAgICAgICAgICAgICAgb3Bwb3J0dW5pdHkuc2V0T3duZXIyQ3JlZGl0U2NvcmUoY3JlZGl0UmVwb3J0Mi5nZXRTY29yZSgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRPbmxpbmVWZXJpZmljYXRpb25VUkwoYnVzaW5lc3MuZ2V0T25saW5lVmVyaWZpY2F0aW9uVVJMKCkpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>input.getBusiness()</text>
       </register>
       <register name="5" type="4">
-        <text>//        output.setLienJudgmentsAutoPulled(input.isLienJudgmentsAutoPulled());
-//        output.setBankruptciesAutoPulled(input.isBankruptciesAutoPulled());</text>
+        <text>input.getBusiness()</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRDb21wYW55V2Vic2l0ZShidXNpbmVzcy5nZXRCdXNpbmVzc1dlYnNpdGUoKSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>//        final Naics businessNaics = business.getNaics();
-//        if (businessNaics != null) {
-//            output.setNaics(sfNaicsDao.get(businessNaics));
-//        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRHb29nbGVNYXBzU3RyZWV0dmlld1VSTChidXNpbmVzcy5nZXRHb29nbGVNYXBzU3RyZWV0Vmlld1VSTCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRPbmxpbmVWZXJpZmljYXRpb25VUkwoYnVzaW5lc3MuZ2V0T25saW5lVmVyaWZpY2F0aW9uVVJMKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>412</text>
