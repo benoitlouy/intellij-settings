@@ -186,6 +186,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/SFOpportunityCountryConversion.scala" timestamp="1461869927004">
+        <mark key="[" line="59" column="2" />
+        <mark key="]" line="59" column="2" />
+        <mark key="." line="59" column="2" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.spec.js" timestamp="1459794976287">
         <mark key="[" line="144" column="61" />
         <mark key="]" line="144" column="61" />
@@ -262,7 +268,7 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFApplication.java" timestamp="1461868499688">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFApplication.java" timestamp="1461869025477">
         <mark key="[" line="197" column="0" />
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
@@ -333,10 +339,10 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1461868852821">
-        <mark key="[" line="470" column="0" />
-        <mark key="]" line="470" column="0" />
-        <mark key="." line="470" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1461869919718">
+        <mark key="[" line="496" column="0" />
+        <mark key="]" line="496" column="0" />
+        <mark key="." line="496" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460060176775">
         <mark key="[" line="3" column="61" />
@@ -590,11 +596,11 @@
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRHb29nbGVNYXBzU3RyZWV0dmlld1VSTChidXNpbmVzcy5nZXRHb29nbGVNYXBzU3RyZWV0Vmlld1VSTCgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>input.getBusiness()</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -602,32 +608,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRHb29nbGVNYXBzU3RyZWV0dmlld1VSTChidXNpbmVzcy5nZXRHb29nbGVNYXBzU3RyZWV0Vmlld1VSTCgpKTsK</text>
+      <register name="1" type="4">
+        <text>private</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRBZGRpdGlvbmFsVVJMKGJ1c2luZXNzLmdldEFkZGl0aW9uYWxVUkwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZk9wcG9ydHVuaXR5Q291bnRyeUNvbnZlcnNpb24uCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRPbmxpbmVWZXJpZmljYXRpb25VUkwoYnVzaW5lc3MuZ2V0T25saW5lVmVyaWZpY2F0aW9uVVJMKCkpOwo=</text>
+      <register name="3" type="4">
+        <text>Unit</text>
       </register>
-      <register name="4" type="4">
-        <text>input.getBusiness()</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLm1vZGVsLm5haWNzLk5haWNzCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>input.getBusiness()</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuQmlNYXAK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>ConsumerCreditReport</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRDb21wYW55V2Vic2l0ZShidXNpbmVzcy5nZXRCdXNpbmVzc1dlYnNpdGUoKSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICE9IG51bGw=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRHb29nbGVNYXBzU3RyZWV0dmlld1VSTChidXNpbmVzcy5nZXRHb29nbGVNYXBzU3RyZWV0Vmlld1VSTCgpKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">OiBDb25zdW1lckNyZWRpdFJlcG9ydCA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5zZXRPbmxpbmVWZXJpZmljYXRpb25VUkwoYnVzaW5lc3MuZ2V0T25saW5lVmVyaWZpY2F0aW9uVVJMKCkpOwo=</text>
+      <register name="9" type="4">
+        <text />
       </register>
       <register name=":" type="4">
         <text>412</text>
