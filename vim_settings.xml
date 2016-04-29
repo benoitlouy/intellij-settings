@@ -68,12 +68,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1461857400150">
         <mark key="[" line="135" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/SFOpportunityCountryConversionTest.scala" timestamp="1461876584337">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/SFOpportunityCountryConversionTest.scala" timestamp="1461879010668">
         <mark key="a" line="95" column="38" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="90" column="71" />
-        <mark key="." line="144" column="0" />
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="53" />
+        <mark key="^" line="33" column="9" />
+        <mark key="." line="33" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/validation/CanadianHST_GST_TaxId.java" timestamp="1460062491026">
         <mark key="[" line="8" column="7" />
@@ -104,6 +104,11 @@
         <mark key="[" line="155" column="0" />
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/pom.xml" timestamp="1461879291391">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/ConnectServiceClientModuleTest.java" timestamp="1460142720681">
         <mark key="[" line="36" column="0" />
@@ -213,7 +218,7 @@
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/provider/AlpacaUserProvider.java" timestamp="1461877918597" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/provider/AlpacaUserProvider.java" timestamp="1461878676359" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1461857405325">
         <mark key="]" line="34" column="66" />
         <mark key="." line="34" column="66" />
@@ -604,10 +609,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Be</text>
+        <text encoding="base64">OiBPcHBvcnR1bml0eSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -616,31 +621,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb3V0cHV0LnNldE5haWNzKHNmTmFpY3NEYW8uZ2V0KGJ1c2luZXNzTmFpY3MuZ2V0KSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQkJPHZlcnNpb24+MS4xMi4xPC92ZXJzaW9uPgoJCQk8c2NvcGU+cnVudGltZTwvc2NvcGU+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChidXNpbmVzc05haWNzLmlzRGVmaW5lZCkgewo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">OiBPcHBvcnR1bml0eSA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb3V0cHV0LnNldE5haWNzKHNmTmFpY3NEYW8uZ2V0KGJ1c2luZXNzTmFpY3MuZ2V0KSkK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChidXNpbmVzc05haWNzLmlzRGVmaW5lZCkgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHJlc3VsdC5nZXRBcHBsaWNhdGlvbi5nZXRDb21wYW55V2Vic2l0ZSBzaG91bGQgKG5vdCBiZSBudWxsIGFuZCBiZSAob3Bwb3J0dW5pdHkuZ2V0QnVzaW5lc3MuZ2V0QnVzaW5lc3NXZWJzaXRlKSkK</text>
-      </register>
-      <register name="7" type="4">
-        <text>Be</text>
-      </register>
-      <register name="8" type="4">
-        <text>equal</text>
-      </register>
-      <register name="9" type="4">
-        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>412</text>
