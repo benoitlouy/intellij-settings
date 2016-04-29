@@ -267,6 +267,7 @@
         <mark key="]" line="284" column="67" />
         <mark key="." line="284" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFOpportunity.java" timestamp="1461952088437" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/test/java/com/odc/vendor/connection/core/service/XMLMarshallerUnitTest.java" timestamp="1461089443985">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -285,15 +286,15 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFApplication.java" timestamp="1461869025477">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFApplication.java" timestamp="1461952178903">
         <mark key="[" line="197" column="0" />
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFOpportunityFieldSetter.scala" timestamp="1461938994432">
-        <mark key="]" line="58" column="9" />
-        <mark key="^" line="58" column="9" />
-        <mark key="." line="58" column="9" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFOpportunityFieldSetter.scala" timestamp="1461952197996">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/integrationTest/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerIntegrationTest.java" timestamp="1461341945517">
         <mark key="[" line="2" column="56" />
@@ -361,7 +362,7 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1461939072874">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1461952101414">
         <mark key="[" line="88" column="54" />
         <mark key="]" line="347" column="54" />
         <mark key="." line="347" column="54" />
@@ -620,7 +621,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBTYWxlc2ZvcmNlTmFpY3NEYW8gc2ZOYWljc0RhbyA9IG1vY2soU2FsZXNmb3JjZU5haWNzRGFvLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sfNaicsDao</text>
@@ -632,31 +633,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBTYWxlc2ZvcmNlTmFpY3NEYW8gc2ZOYWljc0RhbyA9IG1vY2soU2FsZXNmb3JjZU5haWNzRGFvLmNsYXNzKTsK</text>
-      </register>
-      <register name="2" type="4">
-        <text>sfNaicsDao</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>,</text>
-      </register>
-      <register name="5" type="4">
-        <text>sfNaicsDao</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCBhcHBsaWNhdGlvbiA9IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBTYWxlc2ZvcmNlTmFpY3NEYW8gc2ZOYWljc0RhbyA9IG1vY2soU2FsZXNmb3JjZU5haWNzRGFvLmNsYXNzKTsK</text>
+      </register>
+      <register name="4" type="4">
+        <text>sfNaicsDao</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>,</text>
+      </register>
       <register name="7" type="4">
+        <text>sfNaicsDao</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">CQkJPHZlcnNpb24+MS4xMi4xPC92ZXJzaW9uPgoJCQk8c2NvcGU+cnVudGltZTwvc2NvcGU+</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">OiBPcHBvcnR1bml0eSA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
