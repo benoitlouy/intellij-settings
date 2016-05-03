@@ -83,6 +83,11 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1462307734742">
+        <mark key="[" line="158" column="11" />
+        <mark key="]" line="158" column="11" />
+        <mark key="." line="158" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/validation/CanadianHST_GST_TaxId.java" timestamp="1460062491026">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="7" />
@@ -138,10 +143,10 @@
         <mark key="]" line="433" column="0" />
         <mark key="." line="433" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/DecisionFlows.scala" timestamp="1461957945125">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/DecisionFlows.scala" timestamp="1462307524169">
+        <mark key="[" line="130" column="78" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryCachingReportHandlerExternalTest.java" timestamp="1461097255931">
         <mark key="[" line="85" column="0" />
@@ -472,10 +477,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/controllers.js" timestamp="1461958139219">
-        <mark key="[" line="65" column="74" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/controllers.js" timestamp="1462307601858">
+        <mark key="[" line="69" column="48" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-eid-canada-connection/src/integrationTest/java/com/odc/vendor/connection/equifax/eid/canada/EquifaxEIDCanadaConnectionIntegrationTest.java" timestamp="1462214723324">
         <mark key="[" line="24" column="0" />
@@ -505,10 +510,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/entryCtrl.js" timestamp="1461958437277">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/entryCtrl.js" timestamp="1462307632869">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="47" column="40" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/canadaconsumercredit.html" timestamp="1460409035053">
         <mark key="[" line="14" column="76" />
@@ -702,11 +708,11 @@
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>ountrySpecificSFOpportunityFieldSetter</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -714,32 +720,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>2</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>6</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0Tm9DQ1JCYWNrd2FyZCgpIHsKICAgICAgICBmaW5hbCBPcHBvcnR1bml0eSBpbnB1dCA9IG5ldyBPcHBvcnR1bml0eSgpOwogICAgICAgIGlucHV0LnNldFN0YWdlTmFtZShyYW5kb21WYWx1ZUZyb20oU3RhZ2VOYW1lLmNsYXNzKSk7CiAgICAgICAgaW5wdXQuc2V0UmVjb3JkVHlwZShyYW5kb21WYWx1ZUZyb20oT3Bwb3J0dW5pdHlSZWNvcmRUeXBlLmNsYXNzKSk7CiAgICAgICAgZmluYWwgQnVzaW5lc3MgYnVzaW5lc3MgPSBuZXcgQnVzaW5lc3MoKTsKCiAgICAgICAgZmluYWwgSW1tdXRhYmxlTGlzdC5CdWlsZGVyPE93bmVyPiBvd25lcnMgPSBJbW11dGFibGVMaXN0LmJ1aWxkZXIoKTsKICAgICAgICBmb3IgKGZpbmFsIE9yZGluYWwgb3JkaW5hbCA6IE9yZGluYWwudmFsdWVzKCkpIHsKICAgICAgICAgICAgZmluYWwgT3duZXIgb3duZXIgPSBuZXcgT3duZXIoKTsKICAgICAgICAgICAgb3duZXIuc2V0RGF0ZU9mQmlydGgobG9jYWxEYXRlKCkpOwogICAgICAgICAgICBvd25lci5zZXRFbWFpbEFkZHJlc3MoZW1haWwoKSk7CiAgICAgICAgICAgIG93bmVyLnNldEhvbWVBZGRyZXNzKGFkZHJlc3MoKSk7CiAgICAgICAgICAgIG93bmVyLnNldEhvbWVQaG9uZShwaG9uZSgpKTsKICAgICAgICAgICAgb3duZXIuc2V0SWQoaW50ZWdlcigpKTsKICAgICAgICAgICAgb3duZXIuc2V0TmFtZShGYWtlTW9kZWxEYXRhLm5hbWUoKSk7CiAgICAgICAgICAgIG93bmVyLnNldE9yZGluYWwob3JkaW5hbCk7CiAgICAgICAgICAgIG93bmVyLnNldE93bmVyc2hpcFBlcmNlbnRhZ2UoaW50ZWdlcigpKTsKICAgICAgICAgICAgb3duZXIuc2V0U29jaWFsU2VjdXJpdHlOdW1iZXIoc3NuKCkpOwoKICAgICAgICAgICAgb3duZXJzLmFkZChvd25lcik7CiAgICAgICAgfQoKICAgICAgICBidXNpbmVzcy5zZXRPd25lcnMob3duZXJzLmJ1aWxkKCkpOwogICAgICAgIGJ1c2luZXNzLnNldFVuZGVyd3JpdGluZyh1bmRlcndyaXRpbmcoKSk7CiAgICAgICAgaW5wdXQuc2V0QnVzaW5lc3MoYnVzaW5lc3MpOwoKICAgICAgICBmaW5hbCBTRk9wcG9ydHVuaXR5Rm9yU2F2aW5nPD8+IG91dHB1dCA9IGNvbnZlcnRlci5jb252ZXJ0KGlucHV0KTsKICAgICAgICBhc3NlcnROdWxsKG91dHB1dC5nZXRDb25zdW1lckNyZWRpdFJlcG9ydCgpKTsKICAgICAgICBhc3NlcnROdWxsKG91dHB1dC5nZXRDb25zdW1lckNyZWRpdFJlcG9ydDIoKSk7CiAgICAgICAgYXNzZXJ0RmFsc2Uob3V0cHV0LmlzUHVsbGVkUGVyc29uYWxDcmVkaXRCdXJlYXUoKSk7CiAgICB9</text>
+        <text>3</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZpbmFsIFNGT3Bwb3J0dW5pdHkgcmVzdWx0ID0gY29udmVydGVyLnJldmVyc2UoKS5jb252ZXJ0KG9wcG9ydHVuaXR5KTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBSZXZlcnQgIlJldmVydCAiTWVyZ2UgcHVsbCByZXF1ZXN0ICMxOTY3IGluIEFQUC9hbHBhY2EgZnJvbSBJTlRMLTM5NiB0byBkZXZlbG9wIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9jayhDb3VudHJ5U3BlY2lmaWNTRk9wcG9ydHVuaXR5RmllbGRTZXR0ZXIuY2xhc3MpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBSZXZlcnQgIlJldmVydCAiTWVyZ2UgcHVsbCByZXF1ZXN0ICMxOTY3IGluIEFQUC9hbHBhY2EgZnJvbSBJTlRMLTM5NiB0byBkZXZlbG9wIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ291bnRyeVNwZWNpZmljU0ZPcHBvcnR1bml0eUZpZWxkU2V0dGVyIGNvdW50cnlTcGVjaWZpY1NGT3Bwb3J0dW5pdHlGaWVsZFNldHRlciA9Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBiYzAyZjZiNDFlY2MzZTRiYzMzOGZjZjRmZDQzZWM4ZTkzNDUyZDU3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGludm9jYXRpb25Pbk1vY2suZ2V0QXJndW1lbnRBdCgxLCBTRk9wcG9ydHVuaXR5LmNsYXNzKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBlNGE2Yzc1NTRiMjkyNjJkMjIzZWExYzkzZDA2NDZiZTY2MjJkYjlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
