@@ -232,10 +232,10 @@
         <mark key="." line="228" column="0" />
         <mark key="^" line="232" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSavingTest.java" timestamp="1462296259298">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSavingTest.java" timestamp="1462297614158">
+        <mark key="[" line="594" column="27" />
+        <mark key="]" line="594" column="27" />
+        <mark key="." line="594" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/FundedHandler.java" timestamp="1460987247230">
         <mark key="[" line="534" column="0" />
@@ -252,13 +252,14 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1462294773424">
-        <mark key="[" line="78" column="55" />
-        <mark key="]" line="78" column="55" />
-        <mark key="." line="78" column="55" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1462299153282">
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="36" />
+        <mark key="." line="49" column="36" />
+        <mark key="^" line="49" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/SalesforceClientModule.java" timestamp="1462294805164">
-        <mark key="[" line="79" column="59" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/SalesforceClientModule.java" timestamp="1462297822880">
+        <mark key="[" line="80" column="60" />
         <mark key="]" line="79" column="59" />
         <mark key="^" line="79" column="60" />
         <mark key="." line="79" column="59" />
@@ -294,10 +295,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1462294508238">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1462297621956">
+        <mark key="[" line="442" column="0" />
+        <mark key="]" line="442" column="0" />
+        <mark key="." line="442" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Business.java" timestamp="1461187738254">
         <mark key="[" line="22" column="12" />
@@ -563,6 +564,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/checkstyle.xml" timestamp="1462298991167" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/mapper/CorpSearchesIT.scala" timestamp="1459440351206">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="35" column="0" />
@@ -607,6 +609,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDaoTest.java" timestamp="1462299569836">
+        <mark key="[" line="134" column="45" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1462195443522">
         <mark key="[" line="0" column="0" />
@@ -723,10 +730,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYnVzaW5lc3MuZ2V0QWRkcmVzcygpICE9IG51bGwpIAo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNvbnZlcnRlckZvclNhdmluZy5jb252ZXJ0KG9wcG9ydHVuaXR5KSkudGhlblJldHVybihzZk9wcG9ydHVuaXR5Rm9yU2F2aW5nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>SFUSOpportunity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -735,31 +742,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYnVzaW5lc3MuZ2V0QWRkcmVzcygpICE9IG51bGwpIAo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNvbnZlcnRlckZvclNhdmluZy5jb252ZXJ0KG9wcG9ydHVuaXR5KSkudGhlblJldHVybihzZk9wcG9ydHVuaXR5Rm9yU2F2aW5nKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>SFUSOpportunity</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIChTRk9wcG9ydHVuaXR5Rm9yU2F2aW5nPD8+KSBpbnZvY2F0aW9uT25Nb2NrLmdldEFyZ3VtZW50cygpWzFdOwo=</text>
+      <register name="3" type="4">
+        <text>Mockito</text>
       </register>
-      <register name="4" type="4">
-        <text>n</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJjaGVja3N0eWxlIikK</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dHB1dDsK</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBvdXRwdXQuc2V0UmVjb3JkVHlwZShyZWNvcmRUeXBlKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBmaW5hbCBPcHBvcnR1bml0eSBvdXRwdXQgPSBjb252ZXJ0ZXIuY29udmVydChzYWxlc2ZvcmNlT3Bwb3J0dW5pdHkpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>onverter.reverse()</text>
       </register>
-      <register name="9" type="4">
-        <text>c</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
