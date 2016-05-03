@@ -215,11 +215,11 @@
         <mark key="]" line="688" column="52" />
         <mark key="." line="688" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSaving.java" timestamp="1462291864701">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSaving.java" timestamp="1462292767715">
+        <mark key="[" line="209" column="55" />
+        <mark key="]" line="209" column="55" />
         <mark key="^" line="268" column="62" />
-        <mark key="." line="35" column="0" />
+        <mark key="." line="209" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFBaseOpportunity.java" timestamp="1462219890370">
         <mark key="[" line="228" column="0" />
@@ -227,8 +227,11 @@
         <mark key="." line="228" column="0" />
         <mark key="^" line="232" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSavingTest.java" timestamp="1462291945849">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSavingTest.java" timestamp="1462293012700">
+        <mark key="[" line="49" column="101" />
+        <mark key="]" line="49" column="41" />
+        <mark key="." line="49" column="41" />
+        <mark key="^" line="49" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/FundedHandler.java" timestamp="1460987247230">
         <mark key="[" line="534" column="0" />
@@ -288,10 +291,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1462291942761">
-        <mark key="[" line="804" column="0" />
-        <mark key="]" line="804" column="0" />
-        <mark key="." line="804" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1462292913131">
+        <mark key="[" line="85" column="49" />
+        <mark key="]" line="85" column="49" />
+        <mark key="." line="85" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Business.java" timestamp="1461187738254">
         <mark key="[" line="22" column="12" />
@@ -355,10 +358,11 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFOpportunityFieldSetter.scala" timestamp="1462290957953">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFOpportunityFieldSetter.scala" timestamp="1462292754666">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/integrationTest/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerIntegrationTest.java" timestamp="1461341945517">
         <mark key="[" line="2" column="56" />
@@ -709,11 +713,11 @@
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBpbnQgRkFLRV9FTUFJTF9VVUlEX0xFTkdUSCA9IDI0OyAgIC8vIFVVSUQgaXMgMzYgY2hhcmFjdGVycyBpbiBzdHJpbmc7IDIxICsgMjQgPSA0NSAoPCA1MCkK</text>
+      <register name="&quot;" type="4">
+        <text>SFOpportunityForSaving</text>
       </register>
       <register name="-" type="4">
-        <text>new SFOpportunity();</text>
+        <text>SFOpportunityForSaving</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -721,32 +725,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBpbnQgRkFLRV9FTUFJTF9VVUlEX0xFTkdUSCA9IDI0OyAgIC8vIFVVSUQgaXMgMzYgY2hhcmFjdGVycyBpbiBzdHJpbmc7IDIxICsgMjQgPSA0NSAoPCA1MCkK</text>
+      <register name="1" type="4">
+        <text>SFOpportunityForSaving</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgRkFLRV9FTUFJTF9URU1QTEFURSA9ICJ1bmNsYWltZWQtJXNAb25kZWNrLmNvbSI7ICAgIC8vIDIxIGNoYXJhY3RlcnMgd2l0aG91dCBmb3JtYXQgc3BlY2lmaWVyCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzTWF0Y2hlciA9IG1vY2soQWRkcmVzc01hdGNoZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHJlbmV3YWxBZ2VudFN0b3JlLmdldChhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4oUkVORVdBTF9BR0VOVCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgc3RhdGljIFN0cmluZyBkZXRlcm1pbmVDb250YWN0RW1haWwoU0ZPcHBvcnR1bml0eSBvcHBvcnR1bml0eSkgewogICAgICAgIGZpbmFsIFN0cmluZyBlbWFpbDsKICAgICAgICBpZiAob3Bwb3J0dW5pdHkuZ2V0Q29udGFjdEVtYWlsKCkgIT0gbnVsbCkgewogICAgICAgICAgICBlbWFpbCA9IG9wcG9ydHVuaXR5LmdldENvbnRhY3RFbWFpbCgpOwogICAgICAgIH0gZWxzZSBpZiAob3Bwb3J0dW5pdHkuZ2V0QXBwbGljYXRpb24oKS5nZXRPd25lcjFFbWFpbCgpICE9IG51bGwpIHsKICAgICAgICAgICAgZW1haWwgPSBvcHBvcnR1bml0eS5nZXRBcHBsaWNhdGlvbigpLmdldE93bmVyMUVtYWlsKCk7CiAgICAgICAgfSBlbHNlIGlmIChNb3JlT2JqZWN0cy5maXJzdE5vbk51bGwob3Bwb3J0dW5pdHkuZ2V0QWNjb3VudCgpLCBuZXcgU0ZBY2NvdW50KCkpLmdldE1lcmNoYW50SWQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGVtYWlsID0gU3RyaW5nLmZvcm1hdChGQUtFX0VNQUlMX1RFTVBMQVRFLCBvcHBvcnR1bml0eS5nZXRBY2NvdW50KCkuZ2V0TWVyY2hhbnRJZCgpKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBlbWFpbCA9IFN0cmluZy5mb3JtYXQoRkFLRV9FTUFJTF9URU1QTEFURSwKICAgICAgICAgICAgICAgICAgICBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpLnN1YnN0cmluZygwLCBGQUtFX0VNQUlMX1VVSURfTEVOR1RIKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBlbWFpbDsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZW5ld2FsQWdlbnRTdG9yZSA9IG1vY2soU2FsZXNmb3JjZVJlbmV3YWxBZ2VudFN0b3JlLmNsYXNzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIENvbnZlcnRlcjxCaWdEZWNpbWFsLCBNb25leT4gVVNEX0NPTlZFUlRFUiA9IFVTRC5iaWdEZWNpbWFsQ29udmVydGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYWljc0RhbyA9IG1vY2soTmFpY3NEYW8uY2xhc3MpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUNBX0NPTkZJUk1FRCA9ICJDb25maXJtZWQiOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">LCBuYWljc0RhbywgYWRkcmVzc01hdGNoZXIsCiAgICAgICAgICAgICAgICBob21lQmFzZWRCdXNpbmVzc0FkZHJlc3NUaHJlc2hvbGQsIA==</text>
       </register>
       <register name="8" type="4">
-        <text>new SFOpportunity();</text>
+        <text encoding="base64">cmVuZXdhbEFnZW50U3RvcmUsIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
