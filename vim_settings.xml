@@ -71,6 +71,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1461857400150">
         <mark key="[" line="135" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFOpportunity.java" timestamp="1462288307697">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/production.connect.properties" timestamp="1462199026290">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="14" column="37" />
@@ -147,16 +153,24 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/soql/SoqlQueries.java" timestamp="1462286097838">
+        <mark key="[" line="99" column="55" />
+        <mark key="]" line="99" column="55" />
+        <mark key="." line="99" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/test/FakeData.java" timestamp="1460128010279">
         <mark key="[" line="712" column="12" />
         <mark key="]" line="712" column="12" />
         <mark key="." line="712" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFCanadaOpportunity.java" timestamp="1462219967684">
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="4" column="59" />
-        <mark key="^" line="4" column="63" />
-        <mark key="." line="4" column="59" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFCanadaOpportunity.java" timestamp="1462289203843">
+        <mark key="[" line="4" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFApplicationForSaving.java" timestamp="1462289117487">
+        <mark key="[" line="208" column="32" />
+        <mark key="]" line="208" column="32" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="208" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/tradinghistory/veda/business/VedaBusinessTradingHistoryCachingReportHandlerExternalTest.java" timestamp="1461097253238">
         <mark key="[" line="99" column="0" />
@@ -201,6 +215,11 @@
         <mark key="]" line="688" column="52" />
         <mark key="." line="688" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSaving.java" timestamp="1462289591751">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFBaseOpportunity.java" timestamp="1462219890370">
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="0" />
@@ -222,11 +241,17 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1462282734955">
-        <mark key="[" line="63" column="89" />
-        <mark key="]" line="98" column="59" />
-        <mark key="^" line="98" column="59" />
-        <mark key="." line="98" column="59" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1462288059317">
+        <mark key="[" line="124" column="69" />
+        <mark key="]" line="131" column="69" />
+        <mark key="." line="131" column="69" />
+        <mark key="^" line="131" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/SalesforceClientModule.java" timestamp="1462287297770">
+        <mark key="[" line="79" column="59" />
+        <mark key="]" line="79" column="60" />
+        <mark key="^" line="79" column="60" />
+        <mark key="." line="79" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/opportunity/SFBaseOpportunity.java" timestamp="1462218581950">
         <mark key="[" line="734" column="0" />
@@ -274,6 +299,12 @@
         <mark key="]" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFOpportunityForSaving.java" timestamp="1462289177482">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/main/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnection.java" timestamp="1462204216142">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="0" />
@@ -302,12 +333,6 @@
         <mark key="]" line="284" column="67" />
         <mark key="." line="284" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFOpportunity.java" timestamp="1462284645942">
-        <mark key="[" line="765" column="20" />
-        <mark key="]" line="765" column="19" />
-        <mark key="." line="765" column="19" />
-        <mark key="^" line="765" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/test/java/com/odc/vendor/connection/core/service/XMLMarshallerUnitTest.java" timestamp="1461089443985">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -326,21 +351,25 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFOpportunityFieldSetter.scala" timestamp="1462283015801">
-        <mark key="[" line="102" column="81" />
-        <mark key="]" line="102" column="86" />
-        <mark key="." line="102" column="86" />
-        <mark key="^" line="102" column="86" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFApplication.java" timestamp="1462283045328">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFOpportunityFieldSetter.scala" timestamp="1462284911742">
+        <mark key="[" line="58" column="62" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/integrationTest/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerIntegrationTest.java" timestamp="1461341945517">
         <mark key="[" line="2" column="56" />
         <mark key="]" line="2" column="56" />
         <mark key="." line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFDefaultOpportunity.java" timestamp="1462286315355">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFUSOpportunity.java" timestamp="1462288363012">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchService.scala" timestamp="1459443622948">
         <mark key="[" line="12" column="16" />
@@ -371,10 +400,10 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFUSApplication.java" timestamp="1462219943956">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="37" />
-        <mark key="." line="4" column="37" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFUSApplication.java" timestamp="1462289135666">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/BusinessIdentifier.xsd" timestamp="1461695533537">
         <mark key="[" line="19" column="64" />
@@ -412,11 +441,10 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1462283943812">
-        <mark key="[" line="381" column="61" />
-        <mark key="]" line="293" column="15" />
-        <mark key="." line="293" column="15" />
-        <mark key="^" line="293" column="15" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1462289493342">
+        <mark key="[" line="310" column="37" />
+        <mark key="]" line="310" column="37" />
+        <mark key="." line="310" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460060176775">
         <mark key="[" line="3" column="61" />
@@ -679,11 +707,11 @@
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SFApplication</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>SFApplication</text>
+        <text>SFOpportunity.forCountry(input.getCountry());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -691,32 +719,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>SFApplication</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">U0ZPcHBvcnR1bml0eTw/PiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzMvMTYuCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">U0ZPcHBvcnR1bml0eTw/PiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">U0ZPcHBvcnR1bml0eTw/Pg==</text>
+        <text>SFOpportunity.forCountry(input.getCountry());</text>
       </register>
       <register name="5" type="4">
-        <text>T</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>?</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="8" type="4">
-        <text>super</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>?</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
