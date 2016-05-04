@@ -456,6 +456,13 @@
         <mark key="^" line="162" column="40" />
         <mark key="." line="162" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462370248115">
+        <mark key="'" line="17" column="86" />
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="17" column="86" />
+        <mark key="^" line="17" column="86" />
+        <mark key="." line="17" column="86" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFCountryOpportunity.java" timestamp="1462282635600">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="22" column="30" />
@@ -606,7 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="51" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryRunnable.java" />
       <jump line="13" column="76" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/ProcessPendingRequestQueueHandler.java" />
       <jump line="15" column="30" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaProcessPendingRequestQueueHandler.java" />
       <jump line="35" column="23" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/ProcessPendingRequestQueueHandler.java" />
@@ -706,6 +712,7 @@
       <jump line="29" column="13" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CorpSearchServiceIT.scala" />
       <jump line="122" column="38" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/Generators.scala" />
       <jump line="42" column="36" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadabusinesscreditcontrollerSpec.js" />
+      <jump line="17" column="86" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -715,7 +722,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRcPg==</text>
+        <text>asInstanceOf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
@@ -752,10 +759,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRcPg==</last-search>
+      <last-search>asInstanceOf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>asInstanceOf</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -772,6 +779,7 @@
         <entry>password</entry>
         <entry>soapenc</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry>asInstanceOf</entry>
       </history-search>
       <history-cmd>
         <entry>79</entry>
