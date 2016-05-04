@@ -59,8 +59,8 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/integrationTest/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnectionIntegrationTest.java" timestamp="1462388534729">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/integrationTest/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnectionIntegrationTest.java" timestamp="1462389880756">
+        <mark key="[" line="7" column="1" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -294,11 +294,11 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/main/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnection.java" timestamp="1462388059307">
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="46" column="32" />
-        <mark key="." line="46" column="32" />
-        <mark key="^" line="46" column="32" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/main/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnection.java" timestamp="1462389839198">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+        <mark key="^" line="30" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerUnitTest.java" timestamp="1461339168259">
         <mark key="[" line="147" column="51" />
@@ -679,11 +679,11 @@
       <jump line="516" column="50" filename="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Opportunity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>BasicConnection connection,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYgYWRkcmVzcw==</text>
+        <text>BasicConnection connection,</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -691,32 +691,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="1" type="4">
+        <text>BasicConnection connection,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzQvMTYuCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzQvMTYuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEJhc2ljQ29ubmVjdGlvbiBjb25uZWN0aW9uOwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEJhc2ljQ29ubmVjdGlvbiBjb25uZWN0aW9uOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKG5vT3duZXJPdXRwdXQuZ2V0QXBwbGljYXRpb24oKS5nZXRCaXpBZGRyZXNzTG4xKCkpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICYgYWRkcmVzcw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbnB1dC5nZXRCdXNpbmVzcygpLnNldEFkZHJlc3MobnVsbCk7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gYnVzaW5lc3MgIT0gbnVsbCAmJiBidXNpbmVzcy5nZXRBZGRyZXNzKCkgIT0gbnVsbCA/IGJ1c2luZXNzLmdldEFkZHJlc3MoKS5nZXRDb3VudHJ5KCkgOiBudWxsOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
