@@ -62,17 +62,23 @@
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada/build.gradle" timestamp="1462203455384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/integrationTest/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnectionIntegrationTest.java" timestamp="1462393401658">
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/integrationTest/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnectionIntegrationTest.java" timestamp="1462455743054">
         <mark key="[" line="54" column="21" />
         <mark key="]" line="54" column="21" />
         <mark key="." line="54" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" timestamp="1462456160661">
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+        <mark key="^" line="45" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/experian-bcr-connection/src/main/java/com/ondeck/vendor/connection/experian/bcr/ExperianBCRConnection.java" timestamp="1462392136000" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1462396789833">
-        <mark key="[" line="76" column="67" />
-        <mark key="]" line="76" column="67" />
-        <mark key="." line="76" column="67" />
-        <mark key="^" line="76" column="67" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1462456349363">
+        <mark key="[" line="53" column="44" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="41" />
+        <mark key="^" line="54" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1462307734742">
         <mark key="[" line="158" column="11" />
@@ -188,6 +194,7 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/intl/EquifaxInternationalHelper.java" timestamp="1462456001902" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1459795034417">
         <mark key="[" line="231" column="79" />
         <mark key="]" line="231" column="79" />
@@ -384,6 +391,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/BusinessIdentifier.xsd" timestamp="1461695533537">
         <mark key="[" line="19" column="64" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/EquifaxInternationalBCRHelper.java" timestamp="1462456189384" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" timestamp="1462456195087">
+        <mark key="[" line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFCanadaApplication.java" timestamp="1461861220280">
         <mark key="[" line="5" column="32" />
       </file>
@@ -427,11 +438,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaCCRRequestConverter.java" timestamp="1462455426386">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-        <mark key="^" line="11" column="39" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaCCRRequestConverter.java" timestamp="1462455891784">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459888340661">
         <mark key="[" line="36" column="0" />
@@ -492,7 +502,7 @@
       <file name="/Dummy.txt" timestamp="1462392359549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1462455319821">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1462456271699">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="25" column="54" />
         <mark key="." line="25" column="54" />
@@ -557,10 +567,10 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1462392359587">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="/fragment.java" timestamp="1462455953632">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="58" />
+        <mark key="." line="0" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/settings.gradle" timestamp="1461683582406">
         <mark key="[" line="0" column="0" />
@@ -671,11 +681,11 @@
       <jump line="516" column="50" filename="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Opportunity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBATnVsbGFibGUK</text>
+      <register name="&quot;" type="4">
+        <text>input.getBusiness().getBusinessName().replaceAll(INVALID_CHAR_REGEX, REPLACEMENT_STRING</text>
       </register>
       <register name="-" type="4">
-        <text>Nullable</text>
+        <text>input.getBusiness().getBusinessName().replaceAll(INVALID_CHAR_REGEX, REPLACEMENT_STRING</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -683,32 +693,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBATnVsbGFibGUK</text>
+      <register name="1" type="4">
+        <text>input.getBusiness().getBusinessName().replaceAll(INVALID_CHAR_REGEX, REPLACEMENT_STRING</text>
       </register>
-      <register name="2" type="4">
-        <text>Nullable</text>
+      <register name="2" type="2">
+        <text encoding="base64">IGsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="3" type="4">
+        <text>&quot;WESCAM INC&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzUvMTYuCg==</text>
+      <register name="4" type="4">
+        <text>ConsumerCreditReportRequest</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIENOQ3VzdFRyYW5zbWl0VG9FZnggcmVxdWVzdCA9IG5ldyBDTgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBATnVsbGFibGUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="7" type="4">
+        <text>Nullable</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb3VudHJ5LkNBOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzUvMTYuCg==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
