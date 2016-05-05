@@ -74,11 +74,11 @@
         <mark key="^" line="45" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/experian-bcr-connection/src/main/java/com/ondeck/vendor/connection/experian/bcr/ExperianBCRConnection.java" timestamp="1462392136000" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1462456349363">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1462458539600">
         <mark key="[" line="53" column="44" />
-        <mark key="]" line="54" column="41" />
-        <mark key="." line="54" column="41" />
-        <mark key="^" line="54" column="41" />
+        <mark key="]" line="54" column="51" />
+        <mark key="." line="54" column="51" />
+        <mark key="^" line="54" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1462307734742">
         <mark key="[" line="158" column="11" />
@@ -681,8 +681,8 @@
       <jump line="516" column="50" filename="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Opportunity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>input.getBusiness().getBusinessName().replaceAll(INVALID_CHAR_REGEX, REPLACEMENT_STRING</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb21waWxlICdjb20ub25kZWNrLmJ1bGxwZW46YnVsbHBlbjowLjE0Jwo=</text>
       </register>
       <register name="-" type="4">
         <text>input.getBusiness().getBusinessName().replaceAll(INVALID_CHAR_REGEX, REPLACEMENT_STRING</text>
@@ -693,32 +693,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb21waWxlICdjb20ub25kZWNrLmJ1bGxwZW46YnVsbHBlbjowLjE0Jwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>input.getBusiness().getBusinessName().replaceAll(INVALID_CHAR_REGEX, REPLACEMENT_STRING</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">IGsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>&quot;WESCAM INC&quot;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>ConsumerCreditReportRequest</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIENOQ3VzdFRyYW5zbWl0VG9FZnggcmVxdWVzdCA9IG5ldyBDTgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBATnVsbGFibGUK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Nullable</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzUvMTYuCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
