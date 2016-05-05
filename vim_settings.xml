@@ -307,6 +307,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/salesforce/GenericAsyncNotificationService.java" timestamp="1461341766200">
         <mark key="[" line="23" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandler.java" timestamp="1462455382145">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/helper/business/TaxIdHelper.java" timestamp="1460384619500">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -316,6 +321,11 @@
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/intl/EquifaxCanadaCachingReportHandler.java" timestamp="1462454590743">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFOpportunityFieldSetter.scala" timestamp="1462295977216">
         <mark key="[" line="18" column="16" />
@@ -365,7 +375,12 @@
         <mark key="]" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/intl/EquifaxInternationalCachingReportHandler.java" timestamp="1462397108506" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/intl/EquifaxInternationalCachingReportHandler.java" timestamp="1462454529016">
+        <mark key="[" line="73" column="27" />
+        <mark key="]" line="70" column="2" />
+        <mark key="." line="70" column="2" />
+        <mark key="^" line="70" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/core/BusinessIdentifier.xsd" timestamp="1461695533537">
         <mark key="[" line="19" column="64" />
       </file>
@@ -402,12 +417,6 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Opportunity.java" timestamp="1462371089581">
-        <mark key="'" line="516" column="50" />
-        <mark key="[" line="735" column="0" />
-        <mark key="]" line="735" column="0" />
-        <mark key="." line="735" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460060176775">
         <mark key="[" line="3" column="61" />
         <mark key="]" line="3" column="61" />
@@ -417,6 +426,12 @@
         <mark key="[" line="14" column="54" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaCCRRequestConverter.java" timestamp="1462455426386">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporatesearchcontroller.js" timestamp="1459888340661">
         <mark key="[" line="36" column="0" />
@@ -477,11 +492,11 @@
       <file name="/Dummy.txt" timestamp="1462392359549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1462397713448">
-        <mark key="[" line="55" column="6" />
-        <mark key="]" line="55" column="6" />
-        <mark key="." line="55" column="6" />
-        <mark key="^" line="51" column="6" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1462455319821">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="25" column="54" />
+        <mark key="^" line="25" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFUSOpportunity.java" timestamp="1461859754001">
         <mark key="[" line="5" column="0" />
@@ -656,11 +671,11 @@
       <jump line="516" column="50" filename="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Opportunity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EfxTransmit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBATnVsbGFibGUK</text>
       </register>
       <register name="-" type="4">
-        <text>EfxTransmit</text>
+        <text>Nullable</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -668,32 +683,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>EfxTransmit</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBATnVsbGFibGUK</text>
       </register>
       <register name="2" type="4">
-        <text>equifaxCanadaBCRConnection</text>
+        <text>Nullable</text>
       </register>
-      <register name="3" type="4">
-        <text>EquifaxCanadaBCRHelper connectionHelper</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKGNvbm5lY3Rpb25IZWxwZXIsIGRhbywgcmVxdWVzdEtleXNDcmVhdG9yKTsK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzUvMTYuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQE5hbWVkKCJiY3JSZXF1ZXN0S2V5c01hcENyZWF0b3IiKQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>@Named(&quot;equifaxCanadaBCRPersistedReportDAO&quot;)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>5</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBDb3VudHJ5LkNBOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
