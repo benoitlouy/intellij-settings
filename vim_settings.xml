@@ -220,6 +220,11 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetterSpec.scala" timestamp="1462545849306">
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1459795034417">
         <mark key="[" line="231" column="79" />
         <mark key="]" line="231" column="79" />
@@ -235,11 +240,11 @@
         <mark key="]" line="688" column="52" />
         <mark key="." line="688" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSaving.java" timestamp="1462543262057">
-        <mark key="[" line="721" column="39" />
-        <mark key="]" line="721" column="50" />
-        <mark key="^" line="721" column="50" />
-        <mark key="." line="721" column="50" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSaving.java" timestamp="1462545714608">
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="^" line="236" column="66" />
+        <mark key="." line="237" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/FundedHandler.java" timestamp="1460987247230">
         <mark key="[" line="534" column="0" />
@@ -255,6 +260,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/SalesforceClientModule.java" timestamp="1462545973701">
+        <mark key="[" line="81" column="20" />
+        <mark key="]" line="81" column="20" />
+        <mark key="." line="81" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/SFOpportunityCountryConversion.scala" timestamp="1461876638153">
         <mark key="[" line="22" column="68" />
@@ -474,11 +484,11 @@
         <mark key="]" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462545087214">
-        <mark key="[" line="42" column="49" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="49" />
-        <mark key="^" line="23" column="13" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462545909731">
+        <mark key="[" line="34" column="135" />
+        <mark key="]" line="76" column="9" />
+        <mark key="." line="76" column="9" />
+        <mark key="^" line="76" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1460145990977">
         <mark key="[" line="14" column="54" />
@@ -746,10 +756,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getCreatedDate</text>
+        <text>SFModelConverterForSaving</text>
       </register>
       <register name="-" type="4">
-        <text>getCreatedDate</text>
+        <text>SFModelConverterForSaving</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -758,31 +768,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>getCreatedDate</text>
+        <text>SFModelConverterForSaving</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>Opportunity</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50byhTRk1vZGVsQ29udmVydGVyRm9yU2F2aW5nLmNsYXNzKS5pbihTaW5nbGV0b24uY2xhc3MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmFpY3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZChuZXcgVHlwZUxpdGVyYWw8Q29udmVydGVyPE9wcG9ydHVuaXR5LCBTRk9wcG9ydHVuaXR5Rm9yU2F2aW5nPD8+Pj4oKSB7IH0pCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
+      <register name="5" type="4">
+        <text>SFModelConverter</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQuc2V0T3duZXJzaGlwUGFzc2VkKGlucHV0LmlzT3duZXJzaGlwUGFzc2VkKCkpOwo=</text>
+      <register name="6" type="4">
+        <text>SFCanadaOpportunity</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQuc2V0Q29ycFNlYXJjaFBhc3NlZChpbnB1dC5pc0NvcnBTZWFyY2hQYXNzZWQoKSk7Cg==</text>
+      <register name="7" type="4">
+        <text>setFields</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQuc2V0UHBzYVBhc3NlZChpbnB1dC5pc1Bwc2FQYXNzZWQoKSk7Cg==</text>
+      <register name="8" type="4">
+        <text>}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidXNpbmVzcy5zZXRHb29nbGVNYXBzU3RyZWV0Vmlld1VSTChhcHBsaWNhdGlvbi5nZXRHb29nbGVNYXBzU3RyZWV0dmlld1VSTCgpKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
