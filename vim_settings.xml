@@ -62,9 +62,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada/build.gradle" timestamp="1462203455384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/integrationTest/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnectionIntegrationTest.java" timestamp="1462539547237">
-        <mark key="]" line="54" column="21" />
-        <mark key="." line="54" column="21" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/integrationTest/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnectionIntegrationTest.java" timestamp="1462540383178">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" timestamp="1462480632468">
         <mark key="[" line="15" column="92" />
@@ -728,7 +729,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNyZWRpdFJlcG9ydC5nZXRDTkhlYWRlcigpLmdldENyZWRpdEZpbGUoKS5nZXRIaXRDb2RlKCkuZ2V0Q29kZSgpCg==</text>
+        <text encoding="base64">ICAgIENOT3V0cHV0UGFyYW1ldGVyc1R5cGUuT3V0cHV0UGFyYW1ldGVyIG91dHB1dFBhcmFtZXRlciA9IG5ldyBDTk91dHB1dFBhcmFtZXRlcnNUeXBlLk91dHB1dFBhcmFtZXRlcigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>getCNConsumerCreditReports</text>
@@ -740,31 +741,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNyZWRpdFJlcG9ydC5nZXRDTkhlYWRlcigpLmdldENyZWRpdEZpbGUoKS5nZXRIaXRDb2RlKCkuZ2V0Q29kZSgpCg==</text>
+        <text encoding="base64">ICAgIENOT3V0cHV0UGFyYW1ldGVyc1R5cGUuT3V0cHV0UGFyYW1ldGVyIG91dHB1dFBhcmFtZXRlciA9IG5ldyBDTk91dHB1dFBhcmFtZXRlcnNUeXBlLk91dHB1dFBhcmFtZXRlcigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNuT3V0cHV0UGFyYW1ldGVycy5nZXRPdXRwdXRQYXJhbWV0ZXJzKCkuYWRkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyZWRpdFJlcG9ydC5nZXRDb21tZXJjaWFsSGl0SW5kaWNhdG9yKCkucmVwbGFjZUFsbCgiXFxzIiwgIiIpLnRvTG93ZXJDYXNlKCkuZXF1YWxzKCJoaXQiKQo=</text>
+        <text encoding="base64">ICAgIG91dHB1dFBhcmFtZXRlci5zZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIGNyZWRpdFJlcG9ydC5nZXRDTkhlYWRlcigpLmdldENyZWRpdEZpbGUoKS5nZXRIaXRDb2RlKCkuZ2V0Q29kZSgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>getCNConsumerCreditReports</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmdldEJ1cmVhdVJlcG9ydCgpLmdldEVmeFJlcG9ydHMoKS5nZXQoMCkuZ2V0Q05Db25zdW1lckNyZWRpdFJlcG9ydHMoKS5nZXRDTkNvbnN1bWVyQ3JlZGl0UmVwb3J0cygpLmdldCgwKQo=</text>
+        <text encoding="base64">ICAgIGNyZWRpdFJlcG9ydC5nZXRDb21tZXJjaWFsSGl0SW5kaWNhdG9yKCkucmVwbGFjZUFsbCgiXFxzIiwgIiIpLnRvTG93ZXJDYXNlKCkuZXF1YWxzKCJoaXQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmdldEJ1cmVhdVJlcG9ydCgpLmdldEVmeFJlcG9ydHMoKS5nZXQoMCkuZ2V0Q05Db21tZXJjaWFsQ3JlZGl0UmVwb3J0czIwKCkuZ2V0Q05Db21tZXJjaWFsQ3JlZGl0UmVwb3J0MjBzKCkuZ2V0KDApLmdldAo=</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>getCNCommercialCreditReports</text>
+        <text>getCNConsumerCreditReports</text>
       </register>
-      <register name="9" type="4">
-        <text>getCNCommercialCreditReports</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNlLmdldEJ1cmVhdVJlcG9ydCgpLmdldEVmeFJlcG9ydHMoKS5nZXQoMCkuZ2V0Q05Db25zdW1lckNyZWRpdFJlcG9ydHMoKS5nZXRDTkNvbnN1bWVyQ3JlZGl0UmVwb3J0cygpLmdldCgwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
