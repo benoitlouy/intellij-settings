@@ -282,10 +282,11 @@
         <mark key="^" line="88" column="38" />
         <mark key="." line="88" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1462559575063">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1462566933800">
+        <mark key="[" line="145" column="86" />
+        <mark key="]" line="145" column="86" />
+        <mark key="." line="145" column="86" />
+        <mark key="^" line="146" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/SalesforceClientModule.java" timestamp="1462545973701">
         <mark key="[" line="81" column="20" />
@@ -441,11 +442,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1462560636340">
-        <mark key="[" line="1110" column="59" />
-        <mark key="]" line="1110" column="57" />
-        <mark key="^" line="1110" column="57" />
-        <mark key="." line="1110" column="57" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1462566976638">
+        <mark key="[" line="1108" column="62" />
+        <mark key="]" line="1111" column="57" />
+        <mark key="^" line="1111" column="57" />
+        <mark key="." line="1111" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchService.scala" timestamp="1459443622948">
         <mark key="[" line="12" column="16" />
@@ -550,8 +551,8 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="76" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFCountryOpportunity.java" timestamp="1462560579047">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFCountryOpportunity.java" timestamp="1462566985550">
+        <mark key="[" line="14" column="0" />
         <mark key="]" line="6" column="31" />
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
@@ -700,11 +701,11 @@
         <mark key="." line="769" column="46" />
         <mark key="^" line="769" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDaoTest.java" timestamp="1462564740464">
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="118" column="94" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDaoTest.java" timestamp="1462567188453">
+        <mark key="[" line="313" column="96" />
+        <mark key="]" line="313" column="69" />
+        <mark key="^" line="313" column="69" />
+        <mark key="." line="313" column="69" />
       </file>
       <file name="/fragment.java" timestamp="1462464473851">
         <mark key="[" line="0" column="0" />
@@ -826,11 +827,11 @@
       <jump line="12" column="86" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHNmQ2xpZW50LmZpbmRCeUlkKFNGQ291bnRyeU9wcG9ydHVuaXR5LmNsYXNzLCBpZCkpLnRoZW5SZXR1cm4oY291bnRyeU9wcG9ydHVuaXR5KTsK</text>
+      <register name="&quot;" type="4">
+        <text>oppIdByClass.get(clazz)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Rm9yU2F2aW5nPD8+</text>
+        <text>oppIdByClass.get(clazz)</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -838,32 +839,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHNmQ2xpZW50LmZpbmRCeUlkKFNGQ291bnRyeU9wcG9ydHVuaXR5LmNsYXNzLCBpZCkpLnRoZW5SZXR1cm4oY291bnRyeU9wcG9ydHVuaXR5KTsK</text>
+      <register name="1" type="4">
+        <text>oppIdByClass.get(clazz)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHNmQ2xpZW50LmZpbmRCeUlkKFNGQ291bnRyeU9wcG9ydHVuaXR5LmNsYXNzLCBpZCkpLnRoZW5SZXR1cm4oY291bnRyeU9wcG9ydHVuaXR5KTsK</text>
+      <register name="2" type="4">
+        <text>sfClient.select(clazz, countryQuery))</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHNmQ2xpZW50LmZpbmRCeUlkKFNGQ291bnRyeU9wcG9ydHVuaXR5LmNsYXNzLCBpZCkpLnRoZW5SZXR1cm4oY291bnRyeU9wcG9ydHVuaXR5KTsK</text>
+      <register name="3" type="4">
+        <text>eq(query)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKCkK</text>
+      <register name="4" type="4">
+        <text>sfOpportunityForSaving</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKG93bmVyMi5nZXRDcmVkaXRSZXBvcnQoKSk7Cg==</text>
+      <register name="5" type="4">
+        <text>sfOpportunityForSaving</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKG93bmVyMS5nZXRDcmVkaXRSZXBvcnQoKSk7Cg==</text>
+      <register name="6" type="4">
+        <text>sfOpportunityForSaving</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Rm9yU2F2aW5nPD8+</text>
+        <text>sfOpportunityForSaving</text>
       </register>
       <register name="8" type="4">
-        <text>USUSUSUSUSUSUSUS</text>
+        <text>sfOpportunityForSaving</text>
       </register>
-      <register name="9" type="4">
-        <text>SFOpportunity</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNGVVNPcHBvcnR1bml0eSBzZk9wcG9ydHVuaXR5Rm9yU2F2aW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>115</text>
