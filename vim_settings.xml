@@ -88,10 +88,6 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/intl/ca/EquifaxCanadaCachingReportHandler.java" timestamp="1462482505146">
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/AlpacaError.java" timestamp="1459976590590">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="34" />
@@ -175,6 +171,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/forsaving/SFApplicationForSaving.java" timestamp="1462556278637" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/soql/SoqlQueries.java" timestamp="1462286097838">
         <mark key="[" line="99" column="55" />
         <mark key="]" line="99" column="55" />
@@ -225,6 +222,11 @@
         <mark key="]" line="52" column="59" />
         <mark key="^" line="52" column="59" />
         <mark key="." line="52" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFCountryApplication.java" timestamp="1462556308898">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1459795034417">
         <mark key="[" line="231" column="79" />
@@ -280,6 +282,12 @@
         <mark key="^" line="241" column="65" />
         <mark key="." line="241" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1462557068910">
+        <mark key="[" line="99" column="55" />
+        <mark key="]" line="99" column="55" />
+        <mark key="." line="99" column="55" />
+        <mark key="^" line="66" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/SalesforceClientModule.java" timestamp="1462545973701">
         <mark key="[" line="81" column="20" />
         <mark key="]" line="81" column="20" />
@@ -322,6 +330,11 @@
         <mark key="[" line="25" column="129" />
         <mark key="]" line="25" column="129" />
         <mark key="." line="25" column="129" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/IntegrityCheckOpportunityConverter.java" timestamp="1462556030244">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_350_add_canada_corp_search.sql" timestamp="1460139544386">
         <mark key="[" line="26" column="17" />
@@ -522,6 +535,12 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="76" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFCountryOpportunity.java" timestamp="1462556244979">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1460145990977">
         <mark key="[" line="14" column="54" />
         <mark key="]" line="16" column="0" />
@@ -660,7 +679,7 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/forsaving/SFOpportunityForSaving.java" timestamp="1462543895365">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/forsaving/SFOpportunityForSaving.java" timestamp="1462556194337">
         <mark key="[" line="767" column="38" />
         <mark key="]" line="769" column="46" />
         <mark key="." line="769" column="46" />
@@ -787,10 +806,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SFApplication</text>
+        <text>SFOpportunity</text>
       </register>
       <register name="-" type="4">
-        <text>SFApplication</text>
+        <text>SFOpportunity</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -799,51 +818,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>SFApplication</text>
-      </register>
-      <register name="2" type="4">
-        <text>SFApplicationForSaving</text>
-      </register>
-      <register name="3" type="4">
         <text>SFOpportunity</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>SFOpportunity</text>
+      </register>
+      <register name="3" type="4">
+        <text>null</text>
+      </register>
+      <register name="4" type="4">
+        <text>|| opp.getApplication().getBizCountry() == null</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgU0ZDb25zdW1lckNyZWRpdFJlcG9ydCBjcmVhdGVDb25zdW1lckNyZWRpdFJlcG9ydCgpIHsKICAgICAgICBTRkNvbnN1bWVyQ3JlZGl0UmVwb3J0IHNmQ0NSID0gbmV3IFNGQ29uc3VtZXJDcmVkaXRSZXBvcnQoKTsKICAgICAgICBzZkNDUi5zZXRDcmVkaXRTY29yZShpbnRCZXR3ZWVuMGFuZCg5MDApKTsKICAgICAgICBzZkNDUi5zZXRGaWxlU2luY2VEYXRlKExvY2FsRGF0ZS5ub3coKSk7CiAgICAgICAgc2ZDQ1Iuc2V0TnVtYmVyT2ZBY2NvdW50cyhpbnRCZXR3ZWVuMGFuZCg1MCkpOwogICAgICAgIHNmQ0NSLnNldEFnZU9mT2xkZXN0QWNjb3VudChpbnRCZXR3ZWVuMGFuZCg1MCkpOwogICAgICAgIHNmQ0NSLnNldE51bWJlck9mT3BlbkFjY291bnRzKGludEJldHdlZW4wYW5kKDUwKSk7CiAgICAgICAgc2ZDQ1Iuc2V0TnVtYmVyT2Y5MERheXNPcldvcnNlT3JNYWpvckRlcm9nYXRvcnkoaW50QmV0d2VlbjBhbmQoNTApKTsKICAgICAgICBzZkNDUi5zZXROdW1iZXJPZkFjY291bnRzV29yc2VSYXRpbmc5MERheXMoaW50QmV0d2VlbjBhbmQoNTApKTsKICAgICAgICBzZkNDUi5zZXRTaXh0eURheXNQYXN0RHVlV2l0aGluMTJNb250aHNSZXRhaWwoaW50QmV0d2VlbjBhbmQoNTApKTsKICAgICAgICBzZkNDUi5zZXRTaXh0eURheXNQYXN0RHVlV2l0aGluMTJNb250aHNSZXZvbHZpbmcoaW50QmV0d2VlbjBhbmQoNTApKTsKICAgICAgICBzZkNDUi5zZXRUb3RhbFBhc3REdWVBbW91bnRVcGRhdGVzV2l0aGluM01vbnRocyhuZXcgQmlnRGVjaW1hbChpbnRCZXR3ZWVuMGFuZCgxMDAwMCkpKTsKICAgICAgICBzZkNDUi5zZXRUb3RhbENyZWRpdExpbWl0T3BlbkJhbmtjYXJkKG5ldyBCaWdEZWNpbWFsKGludEJldHdlZW4wYW5kKDEwMDAwKSkpOwogICAgICAgIHNmQ0NSLnNldFRvdGFsQ3JlZGl0TGltaXRPcGVuUmV2b2x2aW5nKG5ldyBCaWdEZWNpbWFsKGludEJldHdlZW4wYW5kKDEwMDAwKSkpOwogICAgICAgIHNmQ0NSLnNldFBlcmNlbnRPZkJhbGFuY2VUb1Jldm9sdmluZ0NyZWRpdExpbWl0KGludEJldHdlZW4wYW5kKDEwMDAwKSk7CiAgICAgICAgc2ZDQ1Iuc2V0VG90YWxCYWxhbmNlT3BlbkJhbmtjYXJkQWNjb3VudHMobmV3IEJpZ0RlY2ltYWwoaW50QmV0d2VlbjBhbmQoMTAwMDApKSk7CiAgICAgICAgc2ZDQ1Iuc2V0VG90YWxCYWxhbmNlT3Blbkluc3RhbGxtZW50QWNjb3VudHMobmV3IEJpZ0RlY2ltYWwoaW50QmV0d2VlbjBhbmQoMTAwMDApKSk7CiAgICAgICAgc2ZDQ1Iuc2V0VG90YWxCYWxhbmNlT3Blbk1vcnRnYWdlQWNjb3VudHMobmV3IEJpZ0RlY2ltYWwoaW50QmV0d2VlbjBhbmQoMTAwMDApKSk7CiAgICAgICAgc2ZDQ1Iuc2V0VG90YWxCYWxhbmNlT3BlblJldm9sdmluZ0FjY291bnRzKG5ldyBCaWdEZWNpbWFsKGludEJldHdlZW4wYW5kKDEwMDAwKSkpOwogICAgICAgIHNmQ0NSLnNldFRvdGFsTG9hbkFtb3VudE9wZW5Nb3J0Z2FnZUFjY291bnRzKG5ldyBCaWdEZWNpbWFsKGludEJldHdlZW4wYW5kKDEwMDAwKSkpOwogICAgICAgIHNmQ0NSLnNldE51bWJlcm9mSW5xdWlyaWVzV2l0aGluM01vbnRocyhpbnRCZXR3ZWVuMGFuZCg1MCkpOwogICAgICAgIHNmQ0NSLnNldEJhbmtydXB0Y3kocmFuZG9tQm9vbGVhbigpKTsKICAgICAgICBzZkNDUi5zZXRCYW5rcnVwdHlJbkxhc3QyNE1vbnRocyhyYW5kb21Cb29sZWFuKCkpOwogICAgICAgIHNmQ0NSLnNldEZvcmNsb3N1cmUocmFuZG9tQm9vbGVhbigpKTsKICAgICAgICBzZkNDUi5zZXRGb3JjbG9zdXJlSW5MYXN0MjRNb250aHMocmFuZG9tQm9vbGVhbigpKTsKICAgICAgICBzZkNDUi5zZXRDcmVkaXRSZXBvcnROYW1lKHN0cmluZygpKTsKICAgICAgICByZXR1cm4gc2ZDQ1I7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzYvMTYuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>//        report.setNumberOfAccounts(integer());
-//        report.setAgeOfOldestAccount(integer());
-//        report.setNumberOfOpenAccounts(integer());
-//        report.setSixtyDaysPastDueWithin12MonthsRetail(integer());
-//        report.setSixtyDaysPastDueWithin12MonthsRevolving(integer());
-//        report.setNumberOf90DaysOrWorseOrMajorDerogatory(integer());
-//        report.setNumberOfAccountsWorseRating90Days(integer());
-//        report.setTotalCreditLimitOpenBankcard(bigDecimal());
-//        report.setTotalCreditLimitOpenRevolving(bigDecimal());
-//        report.setPercentOfBalanceToRevolvingCreditLimit(randomDouble());
-//        report.setTotalBalanceOpenBankcardAccounts(bigDecimal());
-//        report.setTotalBalanceOpenInstallmentAccounts(bigDecimal());
-//        report.setTotalBalanceOpenMortgageAccounts(bigDecimal());
-//        report.setTotalBalanceOpenRevolvingAccounts(bigDecimal());
-//        report.setTotalLoanAmountOpenMortgageAccounts(bigDecimal());
-//        report.setNumberofInquiriesWithin3Months(integer());
-//        report.setBankruptcy(randomBoolean());
-//        report.setBankruptyInLast24Months(randomBoolean());
-//        report.setForclosure(randomBoolean());
-//        report.setForclosureInLast24Months(randomBoolean());
-//        report.setCreditReportName(string());</text>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
