@@ -220,11 +220,11 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetterSpec.scala" timestamp="1462549470802">
-        <mark key="[" line="145" column="35" />
-        <mark key="]" line="145" column="46" />
-        <mark key="^" line="145" column="46" />
-        <mark key="." line="145" column="46" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetterSpec.scala" timestamp="1462554859433">
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="52" column="59" />
+        <mark key="^" line="52" column="59" />
+        <mark key="." line="52" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1459795034417">
         <mark key="[" line="231" column="79" />
@@ -253,11 +253,11 @@
         <mark key="^" line="236" column="66" />
         <mark key="." line="237" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSavingTest.java" timestamp="1462549800710">
-        <mark key="[" line="624" column="27" />
-        <mark key="]" line="591" column="37" />
-        <mark key="^" line="591" column="37" />
-        <mark key="." line="591" column="37" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSavingTest.java" timestamp="1462555036403">
+        <mark key="[" line="1054" column="44" />
+        <mark key="]" line="1054" column="32" />
+        <mark key="." line="1054" column="32" />
+        <mark key="^" line="1054" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/FundedHandler.java" timestamp="1460987247230">
         <mark key="[" line="534" column="0" />
@@ -411,11 +411,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1462553064855">
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="74" column="18" />
-        <mark key="." line="74" column="18" />
-        <mark key="^" line="80" column="21" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1462554835038">
+        <mark key="]" line="1033" column="31" />
+        <mark key="^" line="1033" column="31" />
+        <mark key="." line="1033" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchService.scala" timestamp="1459443622948">
         <mark key="[" line="12" column="16" />
@@ -505,6 +504,11 @@
         <mark key="[" line="3" column="61" />
         <mark key="]" line="3" column="61" />
         <mark key="." line="3" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/SalesforceRestClientIT.java" timestamp="1462555110042">
+        <mark key="[" line="270" column="55" />
+        <mark key="]" line="270" column="55" />
+        <mark key="." line="270" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462548744570">
         <mark key="[" line="34" column="135" />
@@ -778,10 +782,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SFOpportunity</text>
+        <text>SFApplication</text>
       </register>
       <register name="-" type="4">
-        <text>SFOpportunity</text>
+        <text>SFApplication</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -790,31 +794,51 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>SFOpportunity</text>
+        <text>SFApplication</text>
       </register>
       <register name="2" type="4">
-        <text>SFOpportunity</text>
+        <text>SFApplicationForSaving</text>
       </register>
       <register name="3" type="4">
         <text>SFOpportunity</text>
       </register>
-      <register name="4" type="4">
-        <text>SFOpportunity</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>new SFOpportunity()</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">U0ZPcHBvcnR1bml0eUZvclNhdmluZzxTRkFwcGxpY2F0aW9uRm9yU2F2aW5nPiA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>SFOpportunity</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBTRk9wcG9ydHVuaXR5IA==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU0ZDb25zdW1lckNyZWRpdFJlcG9ydCBjcmVhdGVDb25zdW1lckNyZWRpdFJlcG9ydCgpIHsKICAgICAgICBTRkNvbnN1bWVyQ3JlZGl0UmVwb3J0IHNmQ0NSID0gbmV3IFNGQ29uc3VtZXJDcmVkaXRSZXBvcnQoKTsKICAgICAgICBzZkNDUi5zZXRDcmVkaXRTY29yZShpbnRCZXR3ZWVuMGFuZCg5MDApKTsKICAgICAgICBzZkNDUi5zZXRGaWxlU2luY2VEYXRlKExvY2FsRGF0ZS5ub3coKSk7CiAgICAgICAgc2ZDQ1Iuc2V0TnVtYmVyT2ZBY2NvdW50cyhpbnRCZXR3ZWVuMGFuZCg1MCkpOwogICAgICAgIHNmQ0NSLnNldEFnZU9mT2xkZXN0QWNjb3VudChpbnRCZXR3ZWVuMGFuZCg1MCkpOwogICAgICAgIHNmQ0NSLnNldE51bWJlck9mT3BlbkFjY291bnRzKGludEJldHdlZW4wYW5kKDUwKSk7CiAgICAgICAgc2ZDQ1Iuc2V0TnVtYmVyT2Y5MERheXNPcldvcnNlT3JNYWpvckRlcm9nYXRvcnkoaW50QmV0d2VlbjBhbmQoNTApKTsKICAgICAgICBzZkNDUi5zZXROdW1iZXJPZkFjY291bnRzV29yc2VSYXRpbmc5MERheXMoaW50QmV0d2VlbjBhbmQoNTApKTsKICAgICAgICBzZkNDUi5zZXRTaXh0eURheXNQYXN0RHVlV2l0aGluMTJNb250aHNSZXRhaWwoaW50QmV0d2VlbjBhbmQoNTApKTsKICAgICAgICBzZkNDUi5zZXRTaXh0eURheXNQYXN0RHVlV2l0aGluMTJNb250aHNSZXZvbHZpbmcoaW50QmV0d2VlbjBhbmQoNTApKTsKICAgICAgICBzZkNDUi5zZXRUb3RhbFBhc3REdWVBbW91bnRVcGRhdGVzV2l0aGluM01vbnRocyhuZXcgQmlnRGVjaW1hbChpbnRCZXR3ZWVuMGFuZCgxMDAwMCkpKTsKICAgICAgICBzZkNDUi5zZXRUb3RhbENyZWRpdExpbWl0T3BlbkJhbmtjYXJkKG5ldyBCaWdEZWNpbWFsKGludEJldHdlZW4wYW5kKDEwMDAwKSkpOwogICAgICAgIHNmQ0NSLnNldFRvdGFsQ3JlZGl0TGltaXRPcGVuUmV2b2x2aW5nKG5ldyBCaWdEZWNpbWFsKGludEJldHdlZW4wYW5kKDEwMDAwKSkpOwogICAgICAgIHNmQ0NSLnNldFBlcmNlbnRPZkJhbGFuY2VUb1Jldm9sdmluZ0NyZWRpdExpbWl0KGludEJldHdlZW4wYW5kKDEwMDAwKSk7CiAgICAgICAgc2ZDQ1Iuc2V0VG90YWxCYWxhbmNlT3BlbkJhbmtjYXJkQWNjb3VudHMobmV3IEJpZ0RlY2ltYWwoaW50QmV0d2VlbjBhbmQoMTAwMDApKSk7CiAgICAgICAgc2ZDQ1Iuc2V0VG90YWxCYWxhbmNlT3Blbkluc3RhbGxtZW50QWNjb3VudHMobmV3IEJpZ0RlY2ltYWwoaW50QmV0d2VlbjBhbmQoMTAwMDApKSk7CiAgICAgICAgc2ZDQ1Iuc2V0VG90YWxCYWxhbmNlT3Blbk1vcnRnYWdlQWNjb3VudHMobmV3IEJpZ0RlY2ltYWwoaW50QmV0d2VlbjBhbmQoMTAwMDApKSk7CiAgICAgICAgc2ZDQ1Iuc2V0VG90YWxCYWxhbmNlT3BlblJldm9sdmluZ0FjY291bnRzKG5ldyBCaWdEZWNpbWFsKGludEJldHdlZW4wYW5kKDEwMDAwKSkpOwogICAgICAgIHNmQ0NSLnNldFRvdGFsTG9hbkFtb3VudE9wZW5Nb3J0Z2FnZUFjY291bnRzKG5ldyBCaWdEZWNpbWFsKGludEJldHdlZW4wYW5kKDEwMDAwKSkpOwogICAgICAgIHNmQ0NSLnNldE51bWJlcm9mSW5xdWlyaWVzV2l0aGluM01vbnRocyhpbnRCZXR3ZWVuMGFuZCg1MCkpOwogICAgICAgIHNmQ0NSLnNldEJhbmtydXB0Y3kocmFuZG9tQm9vbGVhbigpKTsKICAgICAgICBzZkNDUi5zZXRCYW5rcnVwdHlJbkxhc3QyNE1vbnRocyhyYW5kb21Cb29sZWFuKCkpOwogICAgICAgIHNmQ0NSLnNldEZvcmNsb3N1cmUocmFuZG9tQm9vbGVhbigpKTsKICAgICAgICBzZkNDUi5zZXRGb3JjbG9zdXJlSW5MYXN0MjRNb250aHMocmFuZG9tQm9vbGVhbigpKTsKICAgICAgICBzZkNDUi5zZXRDcmVkaXRSZXBvcnROYW1lKHN0cmluZygpKTsKICAgICAgICByZXR1cm4gc2ZDQ1I7CiAgICB9</text>
       </register>
       <register name="9" type="4">
-        <text>SFOpportunity</text>
+        <text>//        report.setNumberOfAccounts(integer());
+//        report.setAgeOfOldestAccount(integer());
+//        report.setNumberOfOpenAccounts(integer());
+//        report.setSixtyDaysPastDueWithin12MonthsRetail(integer());
+//        report.setSixtyDaysPastDueWithin12MonthsRevolving(integer());
+//        report.setNumberOf90DaysOrWorseOrMajorDerogatory(integer());
+//        report.setNumberOfAccountsWorseRating90Days(integer());
+//        report.setTotalCreditLimitOpenBankcard(bigDecimal());
+//        report.setTotalCreditLimitOpenRevolving(bigDecimal());
+//        report.setPercentOfBalanceToRevolvingCreditLimit(randomDouble());
+//        report.setTotalBalanceOpenBankcardAccounts(bigDecimal());
+//        report.setTotalBalanceOpenInstallmentAccounts(bigDecimal());
+//        report.setTotalBalanceOpenMortgageAccounts(bigDecimal());
+//        report.setTotalBalanceOpenRevolvingAccounts(bigDecimal());
+//        report.setTotalLoanAmountOpenMortgageAccounts(bigDecimal());
+//        report.setNumberofInquiriesWithin3Months(integer());
+//        report.setBankruptcy(randomBoolean());
+//        report.setBankruptyInLast24Months(randomBoolean());
+//        report.setForclosure(randomBoolean());
+//        report.setForclosureInLast24Months(randomBoolean());
+//        report.setCreditReportName(string());</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
