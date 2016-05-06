@@ -235,16 +235,11 @@
         <mark key="]" line="688" column="52" />
         <mark key="." line="688" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSaving.java" timestamp="1462375892979">
-        <mark key="[" line="246" column="59" />
-        <mark key="]" line="246" column="20" />
-        <mark key="^" line="246" column="20" />
-        <mark key="." line="246" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSavingTest.java" timestamp="1462376114296">
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="374" column="0" />
-        <mark key="." line="374" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSaving.java" timestamp="1462541733604">
+        <mark key="[" line="71" column="71" />
+        <mark key="]" line="378" column="20" />
+        <mark key="^" line="378" column="20" />
+        <mark key="." line="378" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/FundedHandler.java" timestamp="1460987247230">
         <mark key="[" line="534" column="0" />
@@ -470,6 +465,7 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1462541791845" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460060176775">
         <mark key="[" line="3" column="61" />
         <mark key="]" line="3" column="61" />
@@ -728,11 +724,11 @@
       <jump line="12" column="86" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENOT3V0cHV0UGFyYW1ldGVyc1R5cGUuT3V0cHV0UGFyYW1ldGVyIG91dHB1dFBhcmFtZXRlciA9IG5ldyBDTk91dHB1dFBhcmFtZXRlcnNUeXBlLk91dHB1dFBhcmFtZXRlcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>getCNConsumerCreditReports</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -740,32 +736,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIENOT3V0cHV0UGFyYW1ldGVyc1R5cGUuT3V0cHV0UGFyYW1ldGVyIG91dHB1dFBhcmFtZXRlciA9IG5ldyBDTk91dHB1dFBhcmFtZXRlcnNUeXBlLk91dHB1dFBhcmFtZXRlcigpOwo=</text>
+      <register name="1" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNuT3V0cHV0UGFyYW1ldGVycy5nZXRPdXRwdXRQYXJhbWV0ZXJzKCkuYWRkKCkK</text>
+        <text encoding="base64">ICAgIENOT3V0cHV0UGFyYW1ldGVyc1R5cGUuT3V0cHV0UGFyYW1ldGVyIG91dHB1dFBhcmFtZXRlciA9IG5ldyBDTk91dHB1dFBhcmFtZXRlcnNUeXBlLk91dHB1dFBhcmFtZXRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG91dHB1dFBhcmFtZXRlci5zZXQK</text>
+        <text encoding="base64">ICAgIGNuT3V0cHV0UGFyYW1ldGVycy5nZXRPdXRwdXRQYXJhbWV0ZXJzKCkuYWRkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyZWRpdFJlcG9ydC5nZXRDTkhlYWRlcigpLmdldENyZWRpdEZpbGUoKS5nZXRIaXRDb2RlKCkuZ2V0Q29kZSgpCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dFBhcmFtZXRlci5zZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWRpdFJlcG9ydC5nZXRDTkhlYWRlcigpLmdldENyZWRpdEZpbGUoKS5nZXRIaXRDb2RlKCkuZ2V0Q29kZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyZWRpdFJlcG9ydC5nZXRDb21tZXJjaWFsSGl0SW5kaWNhdG9yKCkucmVwbGFjZUFsbCgiXFxzIiwgIiIpLnRvTG93ZXJDYXNlKCkuZXF1YWxzKCJoaXQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGNyZWRpdFJlcG9ydC5nZXRDb21tZXJjaWFsSGl0SW5kaWNhdG9yKCkucmVwbGFjZUFsbCgiXFxzIiwgIiIpLnRvTG93ZXJDYXNlKCkuZXF1YWxzKCJoaXQiKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>getCNConsumerCreditReports</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmdldEJ1cmVhdVJlcG9ydCgpLmdldEVmeFJlcG9ydHMoKS5nZXQoMCkuZ2V0Q05Db25zdW1lckNyZWRpdFJlcG9ydHMoKS5nZXRDTkNvbnN1bWVyQ3JlZGl0UmVwb3J0cygpLmdldCgwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
