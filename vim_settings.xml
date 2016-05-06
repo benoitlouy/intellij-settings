@@ -220,11 +220,11 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetterSpec.scala" timestamp="1462547503257">
-        <mark key="[" line="78" column="14" />
-        <mark key="]" line="80" column="10" />
-        <mark key="." line="80" column="10" />
-        <mark key="^" line="80" column="10" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetterSpec.scala" timestamp="1462549470802">
+        <mark key="[" line="145" column="35" />
+        <mark key="]" line="145" column="46" />
+        <mark key="^" line="145" column="46" />
+        <mark key="." line="145" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1459795034417">
         <mark key="[" line="231" column="79" />
@@ -494,7 +494,7 @@
         <mark key="]" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462545909731">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462548744570">
         <mark key="[" line="34" column="135" />
         <mark key="]" line="76" column="9" />
         <mark key="." line="76" column="9" />
@@ -765,11 +765,11 @@
       <jump line="12" column="86" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>sfCanadaOpp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U0ZPcHBvcnR1bml0eUZvclNhdmluZzw+KCk7</text>
+        <text>sfCanadaOpp</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -777,32 +777,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>sfCanadaOpp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZk9wcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyBPcHBvcnR1bml0eQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBlbXB0eU9wcG9ydHVuaXR5ID0gewo=</text>
+        <text encoding="base64">ICAgIHZhbCBzZk9wcCA9IHNmQ2FuYWRhT3BwCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBzZk9wcG9ydHVuaXR5Rm9yQ291bnRyeShjb3VudHJ5OiBDb3VudHJ5KTogU0ZPcHBvcnR1bml0eUZvclNhdmluZ1tfXSA9IHsKICAgIGNvdW50cnkgbWF0Y2ggewogICAgICBjYXNlIENvdW50cnkuVVMgPT4gCgogICAgICBjYXNlIENvdW50cnkuQ0EgPT4KCiAgICAgIGNhc2UgXyA9PgogICAgICAgIHZhbCBvcHAgPSBuZXcgU0ZEZWZhdWx0T3Bwb3J0dW5pdHkKICAgICAgICBvcHAuc2V0QXBwbGljYXRpb24obmV3IFNGQXBwbGljYXRpb25Gb3JTYXZpbmcpCiAgICAgICAgb3BwCiAgICB9CiAgfQ==</text>
+        <text>sfOpp</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">U0ZPcHBvcnR1bml0eUZvclNhdmluZzw+KCk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>setFields</text>
+        <text encoding="base64">IG5vdCBiZSBudWxs</text>
       </register>
       <register name="8" type="4">
-        <text>SFModelConverterForSaving</text>
+        <text encoding="base64">IG5vdCBiZSBudWxs</text>
       </register>
       <register name="9" type="4">
-        <text>Opportunity</text>
+        <text>sfOpp.getApplication.getGoogleMapsStreetviewURL</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
