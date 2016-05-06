@@ -241,11 +241,11 @@
         <mark key="]" line="688" column="52" />
         <mark key="." line="688" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFUnifiedAppOpportunity.java" timestamp="1462550322028">
-        <mark key="[" line="17" column="68" />
-        <mark key="]" line="25" column="35" />
-        <mark key="." line="25" column="35" />
-        <mark key="^" line="25" column="35" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFUnifiedAppOpportunity.java" timestamp="1462552845972">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="401" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSaving.java" timestamp="1462545714608">
         <mark key="[" line="237" column="0" />
@@ -411,11 +411,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1462550196279">
-        <mark key="[" line="518" column="30" />
-        <mark key="]" line="518" column="33" />
-        <mark key="." line="518" column="33" />
-        <mark key="^" line="518" column="33" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1462553064855">
+        <mark key="[" line="74" column="18" />
+        <mark key="]" line="74" column="18" />
+        <mark key="." line="74" column="18" />
+        <mark key="^" line="80" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchService.scala" timestamp="1459443622948">
         <mark key="[" line="12" column="16" />
@@ -793,28 +793,28 @@
         <text>SFOpportunity</text>
       </register>
       <register name="2" type="4">
-        <text>SFApplicationForSaving</text>
+        <text>SFOpportunity</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZpbmFsIFNGQXBwbGljYXRpb24gYXBwbGljYXRpb24gPSBuZXcgU0ZBcHBsaWNhdGlvbigpOwo=</text>
+      <register name="3" type="4">
+        <text>SFOpportunity</text>
       </register>
       <register name="4" type="4">
-        <text>A</text>
+        <text>SFOpportunity</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dC5zZXRDb25zdW1lckNyZWRpdFJlcG9ydDIoc2ZDY3IyKTsK</text>
+      <register name="5" type="4">
+        <text>new SFOpportunity()</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTRkNvbnN1bWVyQ3JlZGl0UmVwb3J0IHNmQ2NyMiA9IGNyZWF0ZUNvbnN1bWVyQ3JlZGl0UmVwb3J0KCk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">U0ZPcHBvcnR1bml0eUZvclNhdmluZzxTRkFwcGxpY2F0aW9uRm9yU2F2aW5nPiA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlucHV0LnNldENvbnN1bWVyQ3JlZGl0UmVwb3J0KHNmQ2NyMSk7Cg==</text>
+      <register name="7" type="4">
+        <text>SFOpportunity</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTRkNvbnN1bWVyQ3JlZGl0UmVwb3J0IHNmQ2NyMSA9IGNyZWF0ZUNvbnN1bWVyQ3JlZGl0UmVwb3J0KCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZXh0ZW5kcyBTRk9wcG9ydHVuaXR5IA==</text>
       </register>
       <register name="9" type="4">
-        <text>sfCanadaOpp</text>
+        <text>SFOpportunity</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
