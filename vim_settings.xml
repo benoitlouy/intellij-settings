@@ -282,11 +282,10 @@
         <mark key="^" line="241" column="65" />
         <mark key="." line="241" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1462557068910">
-        <mark key="[" line="99" column="55" />
-        <mark key="]" line="99" column="55" />
-        <mark key="." line="99" column="55" />
-        <mark key="^" line="66" column="30" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1462557921420">
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="12" />
+        <mark key="." line="65" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/SalesforceClientModule.java" timestamp="1462545973701">
         <mark key="[" line="81" column="20" />
@@ -806,10 +805,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SFOpportunity</text>
+        <text>Country</text>
       </register>
       <register name="-" type="4">
-        <text>SFOpportunity</text>
+        <text>Country</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -818,31 +817,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="4">
+        <text>Country</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDogQ291bnRyeS5mcm9tKG9wcC5nZXRBcHBsaWNhdGlvbigpLmdldEJpekNvdW50cnkoKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgID8gQ291bnRyeS5VUwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9wcC5nZXRBcHBsaWNhdGlvbigpID09IG51bGwK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">U0ZDb3VudHJ5T3Bwb3J0dW5pdHkgb3BwID0g</text>
+      </register>
+      <register name="6" type="4">
+        <text>Country</text>
+      </register>
+      <register name="7" type="4">
+        <text>country</text>
+      </register>
+      <register name="8" type="4">
+        <text>Country</text>
+      </register>
+      <register name="9" type="4">
         <text>SFOpportunity</text>
-      </register>
-      <register name="2" type="4">
-        <text>SFOpportunity</text>
-      </register>
-      <register name="3" type="4">
-        <text>null</text>
-      </register>
-      <register name="4" type="4">
-        <text>|| opp.getApplication().getBizCountry() == null</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzYvMTYuCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
