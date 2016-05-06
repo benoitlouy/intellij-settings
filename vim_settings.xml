@@ -450,6 +450,9 @@
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/forsaving/SFCanadaOpportunity.java" timestamp="1462544380716">
+        <mark key="[" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceThirdPartyReportDao.java" timestamp="1460401814540">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -465,16 +468,16 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1462542423336" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1462545002735" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460060176775">
         <mark key="[" line="3" column="61" />
         <mark key="]" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462542958943">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462545087214">
+        <mark key="[" line="42" column="49" />
+        <mark key="]" line="42" column="49" />
+        <mark key="." line="42" column="49" />
         <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverterSpec.scala" timestamp="1460145990977">
@@ -530,7 +533,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/forsaving/SFUSOpportunity.java" timestamp="1462543901560">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/forsaving/SFUSOpportunity.java" timestamp="1462544300098">
         <mark key="[" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/business/equifax/intl/ca/EquifaxCanadaBCRResponse.java" timestamp="1462395544569">
@@ -588,6 +591,9 @@
         <mark key="]" line="30" column="19" />
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/forsaving/SFDefaultOpportunity.java" timestamp="1462544383587">
+        <mark key="[" line="2" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchConfig.java" timestamp="1462465530113">
         <mark key="[" line="96" column="71" />
@@ -740,10 +746,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>getCreatedDate</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>getCreatedDate</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -752,31 +758,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="4">
+        <text>getCreatedDate</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IHs=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmFpY3M7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBvdXRwdXQuc2V0T3duZXJzaGlwUGFzc2VkKGlucHV0LmlzT3duZXJzaGlwUGFzc2VkKCkpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBvdXRwdXQuc2V0Q29ycFNlYXJjaFBhc3NlZChpbnB1dC5pc0NvcnBTZWFyY2hQYXNzZWQoKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBvdXRwdXQuc2V0UHBzYVBhc3NlZChpbnB1dC5pc1Bwc2FQYXNzZWQoKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBidXNpbmVzcy5zZXRHb29nbGVNYXBzU3RyZWV0Vmlld1VSTChhcHBsaWNhdGlvbi5nZXRHb29nbGVNYXBzU3RyZWV0dmlld1VSTCgpKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidXNpbmVzcy5zZXRBZGRpdGlvbmFsVVJMKGFwcGxpY2F0aW9uLmdldEFkZGl0aW9uYWxVUkwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBidXNpbmVzcy5zZXRHb29nbGVNYXBzU3RyZWV0Vmlld1VSTChhcHBsaWNhdGlvbi5nZXRHb29nbGVNYXBzU3RyZWV0dmlld1VSTCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
