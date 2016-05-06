@@ -220,10 +220,11 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetterSpec.scala" timestamp="1462545849306">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="16" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetterSpec.scala" timestamp="1462547503257">
+        <mark key="[" line="78" column="14" />
+        <mark key="]" line="80" column="10" />
+        <mark key="." line="80" column="10" />
+        <mark key="^" line="80" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1459795034417">
         <mark key="[" line="231" column="79" />
@@ -764,8 +765,8 @@
       <jump line="12" column="86" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">U0ZPcHBvcnR1bml0eUZvclNhdmluZzw+KCk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">U0ZPcHBvcnR1bml0eUZvclNhdmluZzw+KCk7</text>
@@ -776,32 +777,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG5ldyBPcHBvcnR1bml0eQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBlbXB0eU9wcG9ydHVuaXR5ID0gewo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBzZk9wcG9ydHVuaXR5Rm9yQ291bnRyeShjb3VudHJ5OiBDb3VudHJ5KTogU0ZPcHBvcnR1bml0eUZvclNhdmluZ1tfXSA9IHsKICAgIGNvdW50cnkgbWF0Y2ggewogICAgICBjYXNlIENvdW50cnkuVVMgPT4gCgogICAgICBjYXNlIENvdW50cnkuQ0EgPT4KCiAgICAgIGNhc2UgXyA9PgogICAgICAgIHZhbCBvcHAgPSBuZXcgU0ZEZWZhdWx0T3Bwb3J0dW5pdHkKICAgICAgICBvcHAuc2V0QXBwbGljYXRpb24obmV3IFNGQXBwbGljYXRpb25Gb3JTYXZpbmcpCiAgICAgICAgb3BwCiAgICB9CiAgfQ==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">U0ZPcHBvcnR1bml0eUZvclNhdmluZzw+KCk7</text>
       </register>
-      <register name="2" type="4">
-        <text>setFields</text>
-      </register>
-      <register name="3" type="4">
-        <text>SFModelConverterForSaving</text>
-      </register>
-      <register name="4" type="4">
-        <text>Opportunity</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50byhTRk1vZGVsQ29udmVydGVyRm9yU2F2aW5nLmNsYXNzKS5pbihTaW5nbGV0b24uY2xhc3MpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZChuZXcgVHlwZUxpdGVyYWw8Q29udmVydGVyPE9wcG9ydHVuaXR5LCBTRk9wcG9ydHVuaXR5Rm9yU2F2aW5nPD8+Pj4oKSB7IH0pCg==</text>
-      </register>
       <register name="7" type="4">
-        <text>SFModelConverter</text>
+        <text>setFields</text>
       </register>
       <register name="8" type="4">
-        <text>SFCanadaOpportunity</text>
+        <text>SFModelConverterForSaving</text>
       </register>
       <register name="9" type="4">
-        <text>setFields</text>
+        <text>Opportunity</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
