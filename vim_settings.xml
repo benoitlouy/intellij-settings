@@ -148,6 +148,9 @@
         <mark key="]" line="433" column="0" />
         <mark key="." line="433" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/core/src/test/java/com/ondeck/alpaca/core/dao/OpportunityMergeIT.java" timestamp="1462568681562">
+        <mark key="[" line="57" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/intl/ca/EquifaxCanadaRequestUtils.java" timestamp="1462478789887">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -484,6 +487,12 @@
         <mark key="]" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/core/src/test/java/com/ondeck/alpaca/core/mapper/BankruptcyMapperIT.java" timestamp="1462568705640">
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="60" column="37" />
+        <mark key="^" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/intl/EquifaxInternationalCachingReportHandler.java" timestamp="1462454529016">
         <mark key="[" line="73" column="27" />
         <mark key="]" line="70" column="2" />
@@ -701,11 +710,11 @@
         <mark key="." line="769" column="46" />
         <mark key="^" line="769" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDaoTest.java" timestamp="1462567188453">
-        <mark key="[" line="313" column="96" />
-        <mark key="]" line="313" column="69" />
-        <mark key="^" line="313" column="69" />
-        <mark key="." line="313" column="69" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDaoTest.java" timestamp="1462568153417">
+        <mark key="[" line="311" column="33" />
+        <mark key="]" line="311" column="45" />
+        <mark key="." line="311" column="45" />
+        <mark key="^" line="311" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1462464473851">
         <mark key="[" line="0" column="0" />
@@ -828,10 +837,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>oppIdByClass.get(clazz)</text>
+        <text>Iterable</text>
       </register>
       <register name="-" type="4">
-        <text>oppIdByClass.get(clazz)</text>
+        <text>Iterable</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -840,31 +849,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>oppIdByClass.get(clazz)</text>
+        <text>Iterable</text>
       </register>
       <register name="2" type="4">
-        <text>sfClient.select(clazz, countryQuery))</text>
+        <text>Opportunity</text>
       </register>
-      <register name="3" type="4">
-        <text>eq(query)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTRkNhbmFkYU9wcG9ydHVuaXR5IGNhbmFkYU9wcCA9IChTRkNhbmFkYU9wcG9ydHVuaXR5KSBTYWxlc2ZvcmNlRmFrZURhdGEub3Bwb3J0dW5pdHkoQ291bnRyeS5DQSk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>sfOpportunityForSaving</text>
+        <text>opportunityList</text>
       </register>
       <register name="5" type="4">
-        <text>sfOpportunityForSaving</text>
+        <text>canadaOpp</text>
       </register>
       <register name="6" type="4">
-        <text>sfOpportunityForSaving</text>
+        <text>SFOpportunityForSaving</text>
       </register>
       <register name="7" type="4">
-        <text>sfOpportunityForSaving</text>
+        <text>canadaOpp</text>
       </register>
       <register name="8" type="4">
-        <text>sfOpportunityForSaving</text>
+        <text>usOpp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNGVVNPcHBvcnR1bml0eSBzZk9wcG9ydHVuaXR5Rm9yU2F2aW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICBTRlVTT3Bwb3J0dW5pdHkgdXNPcHAgPSAoU0ZVU09wcG9ydHVuaXR5KSBTYWxlc2ZvcmNlRmFrZURhdGEub3Bwb3J0dW5pdHkoQ291bnRyeS5VUyk7IAo=</text>
       </register>
       <register name=":" type="4">
         <text>115</text>
