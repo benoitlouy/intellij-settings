@@ -527,7 +527,7 @@
         <mark key="]" line="688" column="52" />
         <mark key="." line="688" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFUnifiedAppOpportunity.java" timestamp="1462800749202">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFUnifiedAppOpportunity.java" timestamp="1462817725162">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="22" column="37" />
         <mark key="^" line="132" column="30" />
@@ -713,11 +713,11 @@
         <mark key="]" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/SalesforceRestClientIT.java" timestamp="1462814057252">
-        <mark key="[" line="202" column="16" />
-        <mark key="]" line="202" column="17" />
-        <mark key="." line="202" column="17" />
-        <mark key="^" line="202" column="17" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/SalesforceRestClientIT.java" timestamp="1462818784137">
+        <mark key="[" line="200" column="76" />
+        <mark key="]" line="201" column="28" />
+        <mark key="^" line="201" column="28" />
+        <mark key="." line="201" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462548744570">
         <mark key="[" line="34" column="135" />
@@ -945,10 +945,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>saved</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTRlVTQXBwbGljYXRpb24gYXBwbGljYXRpb24gPSBuZXcgU0ZVU0FwcGxpY2F0aW9uKCk7CiAgICAgICAgb3Bwb3J0dW5pdHkuc2V0QXBwbGljYXRpb24oYXBwbGljYXRpb24pOw==</text>
       </register>
       <register name="-" type="4">
-        <text>saved</text>
+        <text>SFApplicationForSaving</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -957,31 +957,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>saved</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTRlVTQXBwbGljYXRpb24gYXBwbGljYXRpb24gPSBuZXcgU0ZVU0FwcGxpY2F0aW9uKCk7CiAgICAgICAgb3Bwb3J0dW5pdHkuc2V0QXBwbGljYXRpb24oYXBwbGljYXRpb24pOw==</text>
       </register>
-      <register name="2" type="4">
-        <text>sf.save(opportunity);</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTRlVTQXBwbGljYXRpb24gYXBwbGljYXRpb24gPSBuZXcgU0ZVU0FwcGxpY2F0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>salesforce</text>
+        <text>SFApplicationForSaving</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCAK</text>
+        <text encoding="base64">Ly8gICAgICAgIG9wcG9ydHVuaXR5LnNldENsb3NlRGF0ZShub3coKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>opportunity</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG9wcG9ydHVuaXR5LnNldE5hbWUoIlNGQmFua1N0YXRlbWVudE9wcG9ydHVuaXR5IFN1YmNsYXNzIFRlc3QiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIG9wcG9ydHVuaXR5LnNldFN0YWdlTmFtZShTdGFnZU5hbWUuUEFSS0lOR19MT1QudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>saved</text>
       </register>
       <register name="8" type="4">
-        <text>:</text>
+        <text>sf.save(opportunity);</text>
       </register>
       <register name="9" type="4">
-        <text>SFOpportunity</text>
+        <text>salesforce</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
