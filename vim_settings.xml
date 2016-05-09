@@ -6,11 +6,11 @@
       <file name="/a.dummy" timestamp="1462466471053">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/main/scala/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestCountryFieldSetter.scala" timestamp="1462802860553">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="21" column="9" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="9" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/main/scala/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestCountryFieldSetter.scala" timestamp="1462807083931">
+        <mark key="[" line="21" column="97" />
+        <mark key="]" line="21" column="97" />
+        <mark key="." line="21" column="97" />
+        <mark key="^" line="21" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCGetResultFilesConnectionIntegrationTest.java" timestamp="1461616134342">
         <mark key="[" line="28" column="0" />
@@ -95,11 +95,11 @@
         <mark key="]" line="81" column="20" />
         <mark key="." line="81" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/main/java/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestConverter.java" timestamp="1462803326047">
-        <mark key="[" line="541" column="71" />
-        <mark key="]" line="549" column="26" />
-        <mark key="." line="549" column="26" />
-        <mark key="^" line="549" column="26" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/main/java/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestConverter.java" timestamp="1462806931180">
+        <mark key="[" line="589" column="87" />
+        <mark key="]" line="589" column="87" />
+        <mark key="." line="589" column="87" />
+        <mark key="^" line="589" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFOpportunityForSaving.java" timestamp="1462289764484">
         <mark key="[" line="230" column="31" />
@@ -113,8 +113,11 @@
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/test/java/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestConverterTest.java" timestamp="1462804353136">
-        <mark key="[" line="55" column="73" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/test/java/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestConverterTest.java" timestamp="1462807123656">
+        <mark key="[" line="88" column="54" />
+        <mark key="]" line="372" column="0" />
+        <mark key="." line="372" column="0" />
+        <mark key="^" line="372" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/settings.gradle" timestamp="1461093913304">
         <mark key="[" line="11" column="16" />
@@ -155,10 +158,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/intl/SFDefaultOpportunity.java" timestamp="1462289778144">
         <mark key="[" line="2" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1462803798528">
-        <mark key="[" line="437" column="0" />
-        <mark key="]" line="437" column="0" />
-        <mark key="." line="437" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1462806325556">
+        <mark key="[" line="242" column="23" />
+        <mark key="]" line="242" column="23" />
+        <mark key="." line="242" column="23" />
+        <mark key="^" line="242" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/java/com/odc/decision/common/salesforce/model/Application.java" timestamp="1461700777691">
         <mark key="[" line="188" column="0" />
@@ -343,10 +347,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>application</text>
+        <text>UnderwritingRequestWithPersistence</text>
       </register>
       <register name="-" type="4">
-        <text>application</text>
+        <text>UnderwritingRequestWithPersistence</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -355,31 +359,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>application</text>
+        <text>UnderwritingRequestWithPersistence</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>UnderwritingRequestWithPersistence</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcHBvcnR1bml0eS5zZXRVbnJlc29sdmVkTEpBbW91bnQoYmlnRGVjaW1hbExlc3NUaGFuKDEwMDAwMC4wKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>UnderwritingRequestWithPersistence</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG9wcG9ydHVuaXR5LnNldENvcnBTZWFyY2hQYXNzZWQocmFuZG9tQm9vbGVhbigpKTsK</text>
+      <register name="4" type="4">
+        <text>UnderwritingRequestWithPersistence</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG9wcG9ydHVuaXR5LnNldFBwc2FQYXNzZWQocmFuZG9tQm9vbGVhbigpKTsK</text>
+      <register name="5" type="4">
+        <text>UnderwritingRequest</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG9wcG9ydHVuaXR5LnNldENvbnN1bWVyQ3JlZGl0UmVwb3J0KHJlcG9ydCk7Cg==</text>
+      <register name="6" type="4">
+        <text>UnderwritingRequest</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcHBvcnR1bml0eS5zZXRXYUNyZWRpdFNjb3JlKGludEJldHdlZW4wYW5kKGFIdW5kcmVkKCkpKTsK</text>
+      <register name="7" type="4">
+        <text>UnderwritingRequestWithPersistence</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcHBvcnR1bml0eS5nZXRTYWxlc0FnZW50KCkuc2V0VXNlclRlc3RHcm91cChzdHJpbmcoKSk7Cg==</text>
+      <register name="8" type="4">
+        <text>request;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcHBvcnR1bml0eS5zZXRMZWFkU291cmNlKHN0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
