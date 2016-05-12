@@ -188,6 +188,7 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/core/src/test/java/com/ondeck/alpaca/core/dao/OpportunityJsonDaoIT.java" timestamp="1463086534475" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/DecisionFlows.scala" timestamp="1462307524169">
         <mark key="[" line="130" column="78" />
         <mark key="]" line="132" column="0" />
@@ -339,10 +340,10 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/core/src/test/java/com/ondeck/alpaca/core/service/OpportunityServiceIT.java" timestamp="1463084066206">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/core/src/test/java/com/ondeck/alpaca/core/service/OpportunityServiceIT.java" timestamp="1463086308517">
+        <mark key="[" line="316" column="14" />
+        <mark key="]" line="316" column="14" />
+        <mark key="." line="316" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/business/equifax/us/EquifaxBCRCachingReportHandlerIntegrationTest.java" timestamp="1459457110494">
         <mark key="[" line="58" column="101" />
@@ -978,11 +979,11 @@
       <jump line="12" column="86" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -990,35 +991,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmaW5hbCBTYWxlc2ZvcmNlT3Bwb3J0dW5pdHlEYW8gc2ZPcHBvcnR1bml0eURhbzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="4">
+        <text>o</text>
+      </register>
+      <register name="3" type="4">
+        <text>N</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>import com.ondeck.alpaca.salesforce.model.SFApplication;
 import com.ondeck.alpaca.salesforce.model.SFOpportunity;
 import com.ondeck.alpaca.salesforce.model.SFUSApplication;
 import com.ondeck.alpaca.salesforce.model.SFUSOpportunity;</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>}</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>,</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>{</text>
-      </register>
-      <register name="7" type="4">
-        <text>Ignore</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC57SWdub3JlLCBUZXN0fQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
       </register>
       <register name=":" type="4">
         <text>335</text>
