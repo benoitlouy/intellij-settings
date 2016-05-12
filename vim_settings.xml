@@ -21,6 +21,9 @@
         <mark key="]" line="253" column="44" />
         <mark key="." line="253" column="44" />
       </file>
+      <file name="/a.dummy" timestamp="1463061296182">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/main/scala/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestCountryFieldSetter.scala" timestamp="1462807083931">
         <mark key="[" line="21" column="97" />
         <mark key="]" line="21" column="97" />
@@ -483,8 +486,10 @@
         <mark key="]" line="284" column="67" />
         <mark key="." line="284" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFOpportunity.java" timestamp="1463059357931">
-        <mark key="[" line="18" column="17" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFOpportunity.java" timestamp="1463061665898">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/test/java/com/odc/vendor/connection/core/service/XMLMarshallerUnitTest.java" timestamp="1461089443985">
         <mark key="[" line="91" column="0" />
@@ -788,10 +793,10 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="24" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/test/AlpacaWebResource.java" timestamp="1462814903139">
-        <mark key="[" line="100" column="11" />
-        <mark key="]" line="100" column="11" />
-        <mark key="." line="100" column="11" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/test/AlpacaWebResource.java" timestamp="1463060787839">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFDuplicateOpportunity.java" timestamp="1463059537756">
         <mark key="[" line="22" column="25" />
@@ -862,7 +867,7 @@
         <mark key="]" line="275" column="0" />
         <mark key="." line="275" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1462822063371">
+      <file name="/fragment.java" timestamp="1463061377639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
@@ -982,8 +987,8 @@
       <jump line="12" column="86" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLnNhbGVzZm9yY2UubW9kZWwuU0ZSZWNvcmRUeXBlOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -994,32 +999,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLnNhbGVzZm9yY2UubW9kZWwuU0ZSZWNvcmRUeXBlOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNmT3Bwb3J0dW5pdHlEYW8gPSBzZk9wcG9ydHVuaXR5RGFvOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2FsZXNmb3JjZU9wcG9ydHVuaXR5RGFvIHNmT3Bwb3J0dW5pdHlEYW87Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>,</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>SFApplication</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>new SFApplication();</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGlkOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>, SFOpportunit}</text>
-      </register>
-      <register name="7" type="4">
-        <text>y</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJ1bm5lci5nZXQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLnNhbGVzZm9yY2UubW9kZWwuU0ZPcHBvcnR1bml0eQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGlkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
