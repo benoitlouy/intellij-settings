@@ -24,11 +24,11 @@
       <file name="/a.dummy" timestamp="1463061296182">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/main/scala/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestCountryFieldSetter.scala" timestamp="1462807083931">
-        <mark key="[" line="21" column="97" />
-        <mark key="]" line="21" column="97" />
-        <mark key="." line="21" column="97" />
-        <mark key="^" line="21" column="97" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/main/scala/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestCountryFieldSetter.scala" timestamp="1463062716126">
+        <mark key="[" line="3" column="63" />
+        <mark key="]" line="3" column="62" />
+        <mark key="." line="3" column="62" />
+        <mark key="^" line="3" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1460482964405">
         <mark key="[" line="49" column="0" />
@@ -254,10 +254,10 @@
         <mark key="." line="31" column="57" />
         <mark key="^" line="31" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/EndToEndIT.scala" timestamp="1462991231470">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="47" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/EndToEndIT.scala" timestamp="1463062879945">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRConfig.java" timestamp="1462480979608">
         <mark key="[" line="54" column="16" />
@@ -271,11 +271,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetterSpec.scala" timestamp="1463059820917">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="43" />
-        <mark key="^" line="52" column="59" />
-        <mark key="." line="7" column="43" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetterSpec.scala" timestamp="1463062599627">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="51" column="59" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1459795034417">
         <mark key="[" line="231" column="79" />
@@ -666,11 +666,11 @@
         <mark key="." line="166" column="63" />
         <mark key="^" line="166" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1462548744570">
-        <mark key="[" line="34" column="135" />
-        <mark key="]" line="76" column="9" />
-        <mark key="." line="76" column="9" />
-        <mark key="^" line="76" column="9" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1463062403935">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="75" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFCountryOpportunity.java" timestamp="1462566985550">
         <mark key="[" line="14" column="0" />
@@ -988,10 +988,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLnNhbGVzZm9yY2UubW9kZWwuU0ZSZWNvcmRUeXBlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5wcm92aWRlci5TbmFwc2hvdE9iamVjdE1hcHBlclByb3ZpZGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, UnderwritingRequestWithPersistence}</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1000,31 +1000,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuY3hmOmN4Zi1ydC1mcm9udGVuZC1qYXhyczozLjEuMScKICAgIHJ1bnRpbWUgJ29yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtYWxsOjUuMy4yJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLnNhbGVzZm9yY2UubW9kZWwuU0ZSZWNvcmRUeXBlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5wcm92aWRlci5TbmFwc2hvdE9iamVjdE1hcHBlclByb3ZpZGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNmT3Bwb3J0dW5pdHlEYW8gPSBzZk9wcG9ydHVuaXR5RGFvOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5jb25maWcuSnNvblNuYXBzaG90TW9kdWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuc2FsZXNmb3JjZS5jbGllbnQuU2FsZXNmb3JjZUV4Y2VwdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2FsZXNmb3JjZU9wcG9ydHVuaXR5RGFvIHNmT3Bwb3J0dW5pdHlEYW87Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNGQXBwbGljYXRpb24K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, UnderwritingRequestWithPersistence}</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>{</text>
       </register>
-      <register name="7" type="4">
-        <text>SFApplication</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLnNhbGVzZm9yY2UubW9kZWwuZm9yc2F2aW5nLlNGVVNPcHBvcnR1bml0eQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>new SFApplication();</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLnNhbGVzZm9yY2UubW9kZWwuZm9yc2F2aW5nLl8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGlkOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLnNhbGVzZm9yY2UubW9kZWwuZm9yc2F2aW5nLl8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
