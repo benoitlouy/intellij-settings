@@ -39,6 +39,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/AbstractCachingReportHandler.java" timestamp="1463174164032">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="28" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/integrationTest/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnectionIntegrationTest.java" timestamp="1463172624147">
         <mark key="[" line="94" column="78" />
         <mark key="]" line="97" column="79" />
@@ -880,7 +885,7 @@
         <mark key="^" line="1704" column="15" />
         <mark key="." line="1708" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1463166422109">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1463174102290">
         <mark key="[" line="44" column="5" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -1064,8 +1069,8 @@
       <jump line="12" column="86" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1099</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcG9zdFByb2Nlc3MocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>1099</text>
@@ -1076,32 +1081,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmaW5hbCBTYWxlc2ZvcmNlT3Bwb3J0dW5pdHlEYW8gc2ZPcHBvcnR1bml0eURhbzsK</text>
       </register>
-      <register name="1" type="4">
-        <text>1099</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcG9zdFByb2Nlc3MocmVzcG9uc2UpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>1099/</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcG9zdFByb2Nlc3MocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>d2win01</text>
+        <text>1099</text>
       </register>
       <register name="4" type="4">
-        <text>act</text>
+        <text>1099/</text>
       </register>
       <register name="5" type="4">
-        <text>url</text>
+        <text>d2win01</text>
       </register>
       <register name="6" type="4">
-        <text>localhost</text>
+        <text>act</text>
       </register>
       <register name="7" type="4">
-        <text>3</text>
+        <text>url</text>
       </register>
       <register name="8" type="4">
-        <text>3</text>
+        <text>localhost</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text>3</text>
       </register>
       <register name=":" type="4">
         <text>335</text>
