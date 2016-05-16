@@ -200,10 +200,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1463079789167">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.6.3/jackson-annotations-2.6.3.jar!/com/fasterxml/jackson/annotation/JsonTypeInfo.class" timestamp="1463428369361" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1463427777128">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/webapp.min.js" timestamp="1463414924104">
         <mark key="[" line="1" column="0" />
@@ -259,6 +260,7 @@
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFOpportunity.java" timestamp="1463428373676" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/test/java/com/odc/vendor/connection/core/service/XMLMarshallerUnitTest.java" timestamp="1461089443985">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -815,6 +817,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/OpportunityMergeService.scala" timestamp="1463428266831" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SFUSTestOpportunity.java" timestamp="1462822729201">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="32" />
@@ -1016,7 +1019,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSZXZlcnQgIlJldmVydCAiTWVyZ2UgcHVsbCByZXF1ZXN0ICMxOTY3IGluIEFQUC9hbHBhY2EgZnJvbSBJTlRMLTM5NiB0byBkZXZlbG9wIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Bwb3J0dW5pdHkuc2V0SWQoc2FsZXNmb3JjZU9wcG9ydHVuaXR5LmdldElkKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>9</text>
@@ -1028,31 +1031,31 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmaW5hbCBTYWxlc2ZvcmNlT3Bwb3J0dW5pdHlEYW8gc2ZPcHBvcnR1bml0eURhbzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSZXZlcnQgIlJldmVydCAiTWVyZ2UgcHVsbCByZXF1ZXN0ICMxOTY3IGluIEFQUC9hbHBhY2EgZnJvbSBJTlRMLTM5NiB0byBkZXZlbG9wIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Bwb3J0dW5pdHkuc2V0SWQoc2FsZXNmb3JjZU9wcG9ydHVuaXR5LmdldElkKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBSZXZlcnQgIlJldmVydCAiTWVyZ2UgcHVsbCByZXF1ZXN0ICMxOTY3IGluIEFQUC9hbHBhY2EgZnJvbSBJTlRMLTM5NiB0byBkZXZlbG9wIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCAxNmFjNjE4OWE2YzgwNThiZTM1YzM1OWM5ZjM3ZGU2NjdjMWViMTY5Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSZXZlcnQgIlJldmVydCAiTWVyZ2UgcHVsbCByZXF1ZXN0ICMxOTY3IGluIEFQUC9hbHBhY2EgZnJvbSBJTlRMLTM5NiB0byBkZXZlbG9wIiIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2hlY2tsaXN0LmVuYWJsZWQ6IHRydWUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBEZXRlcm1pbmVzIHdoZXRoZXIgb3Igbm90IHRvIHVzZSBjaGVja2xpc3QgYmFja2VuZCBkZWNpZGVycyBBTkQgY2hlY2tsaXN0IFVJIHZpZXcK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCAxNmFjNjE4OWE2YzgwNThiZTM1YzM1OWM5ZjM3ZGU2NjdjMWViMTY5Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBSZXZlcnQgIlJldmVydCAiTWVyZ2UgcHVsbCByZXF1ZXN0ICMxOTY3IGluIEFQUC9hbHBhY2EgZnJvbSBJTlRMLTM5NiB0byBkZXZlbG9wIiIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2hlY2tsaXN0LmVuYWJsZWQ6IHRydWUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBEZXRlcm1pbmVzIHdoZXRoZXIgb3Igbm90IHRvIHVzZSBjaGVja2xpc3QgYmFja2VuZCBkZWNpZGVycyBBTkQgY2hlY2tsaXN0IFVJIHZpZXcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PDw8PDw8PCAxNmFjNjE4OWE2YzgwNThiZTM1YzM1OWM5ZjM3ZGU2NjdjMWViMTY5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
