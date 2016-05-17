@@ -178,9 +178,8 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.6.3/jackson-annotations-2.6.3.jar!/com/fasterxml/jackson/annotation/JsonTypeInfo.class" timestamp="1463428369361" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1463500578796">
-        <mark key="[" line="125" column="8" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/webapp.min.js" timestamp="1463414924104">
         <mark key="[" line="1" column="0" />
@@ -217,11 +216,6 @@
         <mark key="[" line="242" column="0" />
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/resources/test.properties" timestamp="1463503131195">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/test/java/com/odc/vendor/connection/core/service/XMLMarshallerUnitTest.java" timestamp="1461089443985">
         <mark key="[" line="91" column="0" />
@@ -383,7 +377,6 @@
         <mark key="^" line="44" column="107" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDaoTest.java" timestamp="1463499644472">
-        <mark key="[" line="90" column="48" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
@@ -500,6 +493,11 @@
         <mark key="[" line="688" column="52" />
         <mark key="]" line="688" column="52" />
         <mark key="." line="688" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/SemiAutomatedWebIT.scala" timestamp="1463508030509">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/model/SFOpportunityTestTrait.scala" timestamp="1462811466666">
         <mark key="[" line="22" column="4" />
@@ -844,11 +842,11 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFNGT3Bwb3J0dW5pdHkg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+        <text encoding="base64">IFNGT3Bwb3J0dW5pdHkg</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -856,32 +854,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmaW5hbCBTYWxlc2ZvcmNlT3Bwb3J0dW5pdHlEYW8gc2ZPcHBvcnR1bml0eURhbzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IFNGT3Bwb3J0dW5pdHkg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>:</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+        <text>=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBzdGFydFRpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKTsKICAgICAgICBvcHBvcnR1bml0aWVzID0gZGFvLmdldE9wcG9ydHVuaXRpZXMoaWRzKTsKICAgICAgICBlbmRUaW1lID0gU3lzdGVtLm5hbm9UaW1lKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBU1lOQyA+Pj4+Pj4+Pj4+Pj4gIiArICgoZW5kVGltZSAtIHN0YXJ0VGltZSkpIC8gMTAwMDAwMCk7CgogICAgICAgIHN0YXJ0VGltZSA9IFN5c3RlbS5uYW5vVGltZSgpOwogICAgICAgIG9wcG9ydHVuaXRpZXMgPSBkYW8uZ2V0T3Bwb3J0dW5pdGllczIoaWRzKTsKICAgICAgICBlbmRUaW1lID0gU3lzdGVtLm5hbm9UaW1lKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTWU5DIFNQRUMgPj4+Pj4+Pj4+Pj4+ICIgKyAoKGVuZFRpbWUgLSBzdGFydFRpbWUpKSAvIDEwMDAwMDApOwoKICAgICAgICBzdGFydFRpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKTsKICAgICAgICBvcHBvcnR1bml0aWVzID0gZGFvLmdldE9wcG9ydHVuaXRpZXNPbGQoaWRzKTsKICAgICAgICBlbmRUaW1lID0gU3lzdGVtLm5hbm9UaW1lKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTWU5DID4+Pj4+Pj4+Pj4+PiAiICsgKChlbmRUaW1lIC0gc3RhcnRUaW1lKSkgLyAxMDAwMDAwKTs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>SFOpportunity</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">b3Bwb3J0dW5pdGllcyA9IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNZTkMgPj4+Pj4+Pj4+Pj4+ICIgKyAoKGVuZFRpbWUgLSBzdGFydFRpbWUpKSAvIDEwMDAwMDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">b3Bwb3J0dW5pdGllcyA9IA==</text>
+        <text encoding="base64">bG9uZyA=</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
