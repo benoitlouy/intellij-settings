@@ -275,10 +275,10 @@
         <mark key="]" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1463493339181">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1463494179693">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/jsp/index.jsp" timestamp="1463414887094">
         <mark key="[" line="12" column="0" />
@@ -846,7 +846,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShvcHBTZXJ2aWNlKS5jcmVhdGVQcm9jZXNzaW5nRXZhbHVhdGlvbihhbnlTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShkZWNpc2lvblNlcnZpY2UpLnNpbmdsZURlY2lkZXJSdW4oYW55KGNsYXNzT2ZbT3Bwb3J0dW5pdHldKSwgYW55KGNsYXNzT2ZbRXZhbHVhdGlvbl0pLCBhbnkoY2xhc3NPZltJbnRlZ2VyXSksIGVxVG8oUmVzdWx0VHlwZS5DT1JQT1JBVEVfU0VBUkNIKSkK</text>
       </register>
       <register name="-" type="4">
         <text>new OpportunityEvaluation(new Opportunity, evaluation)</text>
@@ -858,31 +858,31 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmaW5hbCBTYWxlc2ZvcmNlT3Bwb3J0dW5pdHlEYW8gc2ZPcHBvcnR1bml0eURhbzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShvcHBTZXJ2aWNlKS5jcmVhdGVQcm9jZXNzaW5nRXZhbHVhdGlvbihhbnlTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShkZWNpc2lvblNlcnZpY2UpLnNpbmdsZURlY2lkZXJSdW4oYW55KGNsYXNzT2ZbT3Bwb3J0dW5pdHldKSwgYW55KGNsYXNzT2ZbRXZhbHVhdGlvbl0pLCBhbnkoY2xhc3NPZltJbnRlZ2VyXSksIGVxVG8oUmVzdWx0VHlwZS5DT1JQT1JBVEVfU0VBUkNIKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcyBzaG91bGQgYmVSaWdodChvcHBvcnR1bml0eSkK</text>
+        <text encoding="base64">ICAgIHZlcmlmeShvcHBTZXJ2aWNlKS5jcmVhdGVQcm9jZXNzaW5nRXZhbHVhdGlvbihhbnlTdHJpbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcVRvKFJlc3VsdFR5cGUuQ09SUE9SQVRFX1NFQVJDSCkpKS50aGVuUmV0dXJuKG9wcG9ydHVuaXR5KQo=</text>
+        <text encoding="base64">ICAgIHJlcyBzaG91bGQgYmVSaWdodChvcHBvcnR1bml0eSkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcVRvKFJlc3VsdFR5cGUuQ09SUE9SQVRFX1NFQVJDSCkpKS50aGVuUmV0dXJuKG9wcG9ydHVuaXR5KQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgd2hlbihkZWNpc2lvblNlcnZpY2Uuc2luZ2xlRGVjaWRlclJ1bihhbnkoY2xhc3NPZltPcHBvcnR1bml0eV0pLCBhbnkoY2xhc3NPZltFdmFsdWF0aW9uXSksIGFueShjbGFzc09mW0ludGVnZXJdKSwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>new OpportunityEvaluation(new Opportunity, evaluation)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Evaluation</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>//(_.map(opportunityService.saveWithEvaluation))</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0oR2xvYmFsSW9Cb3VuZFRocmVhZFBvb2wuaW9FeGVjdXRvclNlcnZpY2UpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgb3BwU2VydmljZS5jcmVhdGVQcm9jZXNzaW5nRXZhbHVhdGlvbihvcHBJZCkK</text>
+        <text encoding="base64">Ly8gICAgICAgIH0oR2xvYmFsSW9Cb3VuZFRocmVhZFBvb2wuaW9FeGVjdXRvclNlcnZpY2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
