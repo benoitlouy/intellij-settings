@@ -86,6 +86,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1463677966995">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceConsumerCreditReportDao.java" timestamp="1462990673035">
         <mark key="[" line="190" column="24" />
         <mark key="]" line="154" column="0" />
@@ -121,7 +127,6 @@
         <mark key="]" line="27" column="34" />
         <mark key="." line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/ConnectScoringFlow.java" timestamp="1463667131897" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/integrationTest/resources/testContext.xml" timestamp="1461090491763">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -137,7 +142,6 @@
         <mark key="]" line="14" column="67" />
         <mark key="." line="14" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1463675022408" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/ResultType.java" timestamp="1461004354596">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -273,6 +277,7 @@
         <mark key="]" line="688" column="52" />
         <mark key="." line="688" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/consumer/equifax/us/EquifaxCCRCachingReportHandlerExternalTest.java" timestamp="1463676864492" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterForSavingTest.java" timestamp="1463080057909">
         <mark key="[" line="155" column="63" />
         <mark key="]" line="905" column="0" />
@@ -327,6 +332,12 @@
         <mark key="[" line="31" column="35" />
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1463677806760">
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="53" column="31" />
+        <mark key="^" line="53" column="31" />
+        <mark key="." line="53" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/core/src/test/java/com/ondeck/alpaca/core/mapper/LienJudgmentMapperIT.java" timestamp="1463077951589">
         <mark key="[" line="55" column="0" />
@@ -527,7 +538,7 @@
         <mark key="]" line="236" column="0" />
         <mark key="." line="236" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandlerExternalTest.java" timestamp="1463676149407" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandlerExternalTest.java" timestamp="1463676565174" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460060176775">
         <mark key="[" line="3" column="61" />
         <mark key="]" line="3" column="61" />
@@ -641,7 +652,6 @@
       <file name="/Dummy.txt" timestamp="1463675395270">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1463674268682" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFUSOpportunity.java" timestamp="1461859754001">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="2" column="0" />
@@ -702,7 +712,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ondeck.common/unified-app-model/1.29.2/545b4709405bc1b385e22718cfde9c95cad4b1a7/unified-app-model-1.29.2.jar!/com/ondeck/common/model/UnifiedAppBusinessType.class" timestamp="1463671175907" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/product/USAEligibilityManagementTest.java" timestamp="1463163158219">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="2" column="0" />
@@ -822,11 +831,11 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pLm9yCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="-" type="4">
-        <text>new BigInteger(input.getOwner().getSocialSecurityNumber())</text>
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -834,32 +843,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT5jbGFzc3BhdGg6c2VydmVyLW92ZXJyaWRlLmNvbm5lY3Rqb2JzLnByb3BlcnRpZXM8L3ZhbHVlPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pLm9yCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICsgY29uZmlndXJhdGlvbnMucnVudGltZQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIH0pLm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIEJpZ0ludGVnZXIgYXBwbHkoU3RyaW5nIHYxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbjxCaWdJbnRlZ2VyPiBzaW4xID0gT3B0aW9uLmFwcGx5KGlucHV0LmdldE93bmVyKCkuZ2V0U29jaWFsU2VjdXJpdHlOdW1iZXIoKSkubWFwKG5ldyBBYnN0cmFjdEZ1bmN0aW9uMTxTdHJpbmcsIEJpZ0ludGVnZXI+KCkgewo=</text>
+        <text encoding="base64">ICAgICAgcHVibGljIEJpZ0ludGVnZXIgYXBwbHkoU3RyaW5nIHYxKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZ1bmN0aW9ucy4K</text>
+        <text encoding="base64">ICAgIE9wdGlvbjxCaWdJbnRlZ2VyPiBzaW4xID0gT3B0aW9uLmFwcGx5KGlucHV0LmdldE93bmVyKCkuZ2V0U29jaWFsU2VjdXJpdHlOdW1iZXIoKSkubWFwKG5ldyBBYnN0cmFjdEZ1bmN0aW9uMTxTdHJpbmcsIEJpZ0ludGVnZXI+KCkgewo=</text>
       </register>
-      <register name="9" type="4">
-        <text>new BigInteger(input.getOwner().getSocialSecurityNumber())</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIE9wdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>1182</text>
