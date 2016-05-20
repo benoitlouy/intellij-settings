@@ -110,6 +110,7 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCParams.java" timestamp="1463765876180" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/ConnectServiceClientModuleTest.java" timestamp="1460142720681">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -175,6 +176,7 @@
         <mark key="]" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.axis/axis/1.4/94a9ce681a42d0352b3ad22659f67835e560d107/axis-1.4.jar!/simplelog.properties" timestamp="1463766023351" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.tpl.html" timestamp="1459795034417">
         <mark key="[" line="231" column="79" />
         <mark key="]" line="231" column="79" />
@@ -445,7 +447,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463692826732">
+      <file name="/Dummy.txt" timestamp="1463765828330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.test.properties" timestamp="1463752112211" />
@@ -503,7 +505,7 @@
         <mark key="." line="317" column="30" />
         <mark key="^" line="317" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1463692826750">
+      <file name="/fragment.java" timestamp="1463765828356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
@@ -641,12 +643,28 @@
         <mark key="]" line="688" column="52" />
         <mark key="." line="688" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessAutoPreSearchOrderConnectionIntegrationTest.java" timestamp="1463758160013" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessAutoPreSearchOrderConnectionIntegrationTest.java" timestamp="1463765427582">
+        <mark key="[" line="45" column="61" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/resources/simplelog.properties" timestamp="1463766056820">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+        <mark key="^" line="2" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/consumer/equifax/us/EquifaxCCRCachingReportHandlerExternalTest.java" timestamp="1463676864492" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/soql/SoqlQueriesTest.java" timestamp="1463759701521">
         <mark key="[" line="133" column="48" />
         <mark key="]" line="133" column="48" />
         <mark key="." line="133" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/resources/log4j.properties" timestamp="1463766247340">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/model/SFOpportunityTestTrait.scala" timestamp="1462811466666">
         <mark key="[" line="22" column="4" />
@@ -1029,11 +1047,11 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1041,32 +1059,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="1" type="4">
+        <text>INFO</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzIwLzE2Lgo=</text>
+      <register name="2" type="4">
+        <text>info</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="3" type="4">
+        <text>request</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC00OTddIGZpeCBidWlsZAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzdGVtUHJvcGVydHkgInJ1bnRpbWUuZW52IiwgInFkIgo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzIwLzE2Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN5c3RlbVByb3BlcnRpZXNbInJ1bnRpbWUuZW52Il0pCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC00OTddIGZpeCBidWlsZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBhN2Q0YjE1MzEzNGVjYzExNmQyYWUxMmNiYTgwNWViMTg3NDcwODkwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzdGVtUHJvcGVydHkgInJ1bnRpbWUuZW52IiwgInFkIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC00OTddIGZpeCBidWlsZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXN5c3RlbVByb3BlcnRpZXNbInJ1bnRpbWUuZW52Il0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>1182</text>
