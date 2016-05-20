@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/settings.gradle" timestamp="1463598404601">
         <mark key="[" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandlerIT.java" timestamp="1463693244026">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandlerIT.java" timestamp="1463756865742">
         <mark key="[" line="78" column="54" />
         <mark key="]" line="104" column="49" />
         <mark key="^" line="104" column="49" />
@@ -361,11 +361,10 @@
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1463755313751">
-        <mark key="[" line="110" column="9" />
-        <mark key="]" line="114" column="8" />
-        <mark key="." line="114" column="8" />
-        <mark key="^" line="114" column="8" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1463756474838">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/settings.gradle" timestamp="1463682315535">
         <mark key="[" line="22" column="0" />
@@ -520,6 +519,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverterUnitTest.java" timestamp="1463757200772">
+        <mark key="[" line="21" column="78" />
+        <mark key="]" line="21" column="78" />
+        <mark key="^" line="21" column="78" />
+        <mark key="." line="21" column="78" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/test/java/com/ondeck/passport/validation/CanadaHSTGSTValidationTest.java" timestamp="1460136086578">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="34" column="42" />
@@ -530,7 +535,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandlerIT.java" timestamp="1463687674970">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandlerIT.java" timestamp="1463756671589">
         <mark key="[" line="78" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/validation/business/BusinessTaxIdValidatorHelper.java" timestamp="1460387074172">
@@ -559,6 +564,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/csc/CSCConnectionConfig.java" timestamp="1463691164766">
+        <mark key="[" line="125" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1463693262597" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchDAO.scala" timestamp="1459443768407">
         <mark key="[" line="12" column="17" />
@@ -579,6 +587,9 @@
         <mark key="[" line="207" column="0" />
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/integrationTest/resources/qd.connect.test.properties" timestamp="1463680611422">
+        <mark key="[" line="0" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceThirdPartyReportDao.java" timestamp="1460401814540">
         <mark key="[" line="20" column="0" />
@@ -967,7 +978,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">UGVuZGluZ1JlcXVlc3Q8UmVxdWVzdD4=</text>
@@ -979,31 +990,31 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzdGVtUHJvcGVydHkgInJ1bnRpbWUuZW52IiwgInFkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzZk9wcG9ydHVuaXR5Owo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXN5c3RlbVByb3BlcnRpZXMuZ2V0KCJydW50aW1lLmVudiIpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFNGT3Bwb3J0dW5pdHk8Pz4gYW5zd2VyKEludm9jYXRpb25Pbk1vY2sgaW52b2NhdGlvbk9uTW9jaykgdGhyb3dzIFRocm93YWJsZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHNmT3Bwb3J0dW5pdHlEYW8uZ2V0U0ZPcHBvcnR1bml0eShpbnB1dC5nZXRJZCgpKSkudGhlbkFuc3dlcihuZXcgQW5zd2VyPFNGT3Bwb3J0dW5pdHk8Pz4+KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzZk9wcG9ydHVuaXR5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFNGT3Bwb3J0dW5pdHk8Pz4gYW5zd2VyKEludm9jYXRpb25Pbk1vY2sgaW52b2NhdGlvbk9uTW9jaykgdGhyb3dzIFRocm93YWJsZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">UGVuZGluZ1JlcXVlc3Q8UmVxdWVzdD4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKHNmT3Bwb3J0dW5pdHlEYW8uZ2V0U0ZPcHBvcnR1bml0eShpbnB1dC5nZXRJZCgpKSkudGhlbkFuc3dlcihuZXcgQW5zd2VyPFNGT3Bwb3J0dW5pdHk8Pz4+KCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>1182</text>
