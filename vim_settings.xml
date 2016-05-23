@@ -28,6 +28,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_373_add_new_canada_business_id_type.sql" timestamp="1464018136872">
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="58" />
+        <mark key="." line="1" column="58" />
+        <mark key="^" line="1" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/review/releaseModal.tpl.html" timestamp="1459794870025">
         <mark key="[" line="158" column="105" />
         <mark key="]" line="158" column="105" />
@@ -64,6 +70,9 @@
         <mark key="]" line="58" column="41" />
         <mark key="." line="58" column="41" />
         <mark key="^" line="58" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1464017900491">
+        <mark key="[" line="162" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/business/experian/alerts/ExperianEnrollmentIdentityFetcherExternalTest.java" timestamp="1463405729988">
         <mark key="[" line="37" column="0" />
@@ -224,12 +233,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1463778544490">
-        <mark key="[" line="132" column="46" />
-        <mark key="]" line="132" column="18" />
-        <mark key="." line="132" column="18" />
-        <mark key="^" line="132" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/resources/qd.connect.test.properties" timestamp="1463752115320">
         <mark key="[" line="0" column="67" />
       </file>
@@ -285,7 +288,6 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFOpportunity.java" timestamp="1463768589263" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/test/java/com/odc/vendor/connection/core/service/XMLMarshallerUnitTest.java" timestamp="1461089443985">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -328,7 +330,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceFakeData.java" timestamp="1463779052248" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchService.scala" timestamp="1459443622948">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="16" />
@@ -834,6 +835,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_361_add_canada_business_credit_decider.sql" timestamp="1464017964033" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1463163776292">
         <mark key="[" line="207" column="0" />
         <mark key="]" line="207" column="0" />
@@ -853,11 +855,6 @@
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/converter/SFModelConverter.java" timestamp="1463667644110">
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandlerExternalTest.java" timestamp="1463676565174" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/ConnectToVedaInDepthTradingHistoryRequestConverter.java" timestamp="1460060176775">
@@ -1111,11 +1108,11 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0eXBlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>'CANADA_BUSINESS_CREDIT';</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'CANADA_BUSINESS_CREDIT';</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1123,32 +1120,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0eXBlKTsK</text>
+      <register name="1" type="4">
+        <text>'CANADA_BUSINESS_CREDIT';</text>
       </register>
       <register name="2" type="4">
+        <text>result_type</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0eXBlKTsK</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>type</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBSZWZsZWN0aW9uRXhjZXB0aW9uKCkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>NullPointerException</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>Unsupported</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>public</text>
-      </register>
-      <register name="8" type="4">
-        <text>private</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIENvbGxlY3Rpb248U3RyaW5nPiBleHBlY3RlZE5hbWVzZSA9IEltbXV0YWJsZUxpc3Qub2YoIklkIiwgIkFwcGxpY2F0aW9uX19yLlRheF9JRF9fYyIsIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1182</text>
