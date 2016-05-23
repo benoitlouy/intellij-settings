@@ -586,11 +586,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/test/java/com/odc/salesforce/client/rest/utils/FieldsTest.java" timestamp="1463775921490">
-        <mark key="[" line="49" column="39" />
-        <mark key="]" line="48" column="41" />
-        <mark key="^" line="48" column="41" />
-        <mark key="." line="48" column="41" />
+      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/test/java/com/odc/salesforce/client/rest/utils/FieldsTest.java" timestamp="1464016217810">
+        <mark key="[" line="71" column="18" />
+        <mark key="]" line="71" column="18" />
+        <mark key="." line="71" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/CorpSearchDao.scala" timestamp="1463491796433">
         <mark key="[" line="3" column="0" />
@@ -866,10 +865,10 @@
         <mark key="]" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/main/java/com/odc/salesforce/client/rest/utils/Fields.java" timestamp="1463776154915">
-        <mark key="[" line="198" column="2" />
-        <mark key="]" line="198" column="2" />
-        <mark key="." line="198" column="2" />
+      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/main/java/com/odc/salesforce/client/rest/utils/Fields.java" timestamp="1464016522724">
+        <mark key="[" line="217" column="84" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1463079837231">
         <mark key="[" line="128" column="0" />
@@ -992,10 +991,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaConnectionLegacyExternalTest.java" timestamp="1463687530294" />
-      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/test/java/com/odc/salesforce/client/domain/ParameterizedOpportunity.java" timestamp="1464012772998">
-        <mark key="[" line="12" column="69" />
-        <mark key="]" line="12" column="69" />
-        <mark key="." line="12" column="69" />
+      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/test/java/com/odc/salesforce/client/domain/ParameterizedOpportunity.java" timestamp="1464015168080">
+        <mark key="[" line="25" column="61" />
+        <mark key="]" line="25" column="61" />
+        <mark key="." line="25" column="61" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/product/USAEligibilityManagementTest.java" timestamp="1463163158219">
         <mark key="[" line="8" column="1" />
@@ -1111,11 +1111,11 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Application__c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0eXBlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Application__c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1123,32 +1123,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Application__c</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0eXBlKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>Application__r</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+      <register name="3" type="4">
+        <text>type</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNpc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBSZWZsZWN0aW9uRXhjZXB0aW9uKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZW4oY2hlY2tvdXRDb25kaXRpb25zTWFuYWdlbWVudC5jbGVhckNvbmRpdGlvbihNRVJDSEFOVF9VU0VSLCBjaGVja291dENvbmRpdGlvblJlcXVlc3QuY2hlY2tvdXRDb25kaXRpb24sIGNoZWNrb3V0Q29uZGl0aW9uUmVxdWVzdC51c2VybmFtZSkpLnRoZW5SZXR1cm4oCg==</text>
+      <register name="5" type="4">
+        <text>NullPointerException</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="6" type="4">
+        <text>Unsupported</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="7" type="4">
+        <text>public</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+      <register name="8" type="4">
+        <text>private</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIENvbGxlY3Rpb248U3RyaW5nPiBleHBlY3RlZE5hbWVzZSA9IEltbXV0YWJsZUxpc3Qub2YoIklkIiwgIkFwcGxpY2F0aW9uX19yLlRheF9JRF9fYyIsIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1182</text>
