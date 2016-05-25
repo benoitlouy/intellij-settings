@@ -717,10 +717,10 @@
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/exercism/scala/bob/src/main/scala/Bob.scala" timestamp="1464199166512">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/exercism/scala/bob/src/main/scala/Bob.scala" timestamp="1464208441870">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc.vendor.model/eservicecorp-model/1.14/2d956285eef6c020a302ec56e30610a3c0d4d4c9/eservicecorp-model-1.14.jar!/com/odc/vendor/model/eservicecorp/ESCConstants.class" timestamp="1464205502318" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/model/SFMinApp.java" timestamp="1463768474445">
@@ -752,6 +752,11 @@
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
+      </file>
+      <file name="$USER_HOME$/exercism/scala/bob/src/test/scala/bob_test.scala" timestamp="1464207980375">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1463079837231">
         <mark key="[" line="128" column="0" />
@@ -989,10 +994,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>s.replaceAll(&quot;\\\\s&quot;, &quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s.replaceAll(&quot;\\\\s&quot;, &quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1001,31 +1006,31 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>s.replaceAll(&quot;\\\\s&quot;, &quot;&quot;)</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>true</text>
       </register>
-      <register name="3" type="4">
-        <text>canada</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIkZpbmUuIEJlIHRoYXQgd2F5ISIK</text>
       </register>
-      <register name="4" type="4">
-        <text>3-INTL-497-SNAPSHOT</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVsc2UgaWYgKHMucmVwbGFjZUFsbCgiXFxcXHMiLCAiIikuaXNFbXB0eSkK</text>
       </register>
       <register name="5" type="4">
-        <text>7-INTL-497-SNAPSHOT</text>
+        <text>false</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC00OTZdIHVzZSBjb3VudHJ5IHNwZWNpZmljIFNGT3Bwb3J0dW5pdHkgbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBhIDo6IHRhaWwgaWYgYSA+PSAnQScgJiYgYSA8PSAnWicgPT4gc2hvdXQodGFpbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCAwOTA5OWY1MGI4ZDhiMWNhMzAxNzBjNGQzNjVlY2JjMTk1MmNhN2U1Cg==</text>
+      <register name="8" type="4">
+        <text>Whatever</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHMuCg==</text>
+        <text encoding="base64">ICAgIHBlbmRpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
