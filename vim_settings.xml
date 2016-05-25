@@ -117,6 +117,12 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/dunbradstreet-australia-connection/build.gradle" timestamp="1464191509856">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="86" />
+        <mark key="^" line="2" column="86" />
+        <mark key="." line="2" column="86" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/ConnectServiceClientModuleTest.java" timestamp="1460142720681">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -223,6 +229,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/main/java/com/odc/vendor/connection/eservicecorp/ESCConnection.java" timestamp="1464194465211" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/Decider.scala" timestamp="1459807139920">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -243,20 +250,15 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/settings.gradle" timestamp="1463682315535">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/settings.gradle" timestamp="1464191345164">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1463667837771">
         <mark key="[" line="443" column="0" />
         <mark key="]" line="443" column="0" />
         <mark key="." line="443" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceResource.java" timestamp="1464038253598">
-        <mark key="[" line="465" column="0" />
-        <mark key="]" line="465" column="0" />
-        <mark key="." line="465" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRRequestConverterUnitTest.java" timestamp="1463693748743">
         <mark key="[" line="19" column="71" />
@@ -294,6 +296,7 @@
         <mark key="]" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/build.gradle" timestamp="1464191470487" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1463668277018">
         <mark key="[" line="16" column="36" />
         <mark key="]" line="16" column="38" />
@@ -597,10 +600,10 @@
         <mark key="." line="58" column="68" />
         <mark key="^" line="58" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/CorpSearchDao.scala" timestamp="1463491796433">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/CorpSearchDao.scala" timestamp="1464194200646">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/AlpacaError.java" timestamp="1459976590590">
         <mark key="[" line="27" column="34" />
@@ -830,6 +833,9 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/dao/CorpSearchDaoIT.scala" timestamp="1464193801092">
+        <mark key="[" line="49" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchDAO.scala" timestamp="1459443768407">
         <mark key="[" line="12" column="17" />
@@ -1123,11 +1129,11 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>Task[List[(CorpSearch, Seq[CorpSearchPerson])]]</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1135,32 +1141,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>l</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENvcnBTZWFyY2hlcy5qb2luV2l0aFBlcnNvbnNBbGwucmVzdWx0LmZsYXRNYXAoXy5ncm91cEJ5KF8uXzEpLm1hcFZhbHVlcyhfLm1hcChfLl8yKSkpLnRvTGlzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgYWxsKGltcGxpY2l0IGV4ZWN1dGlvbkNvbnRleHQ6IEV4ZWN1dGlvbkNvbnRleHQgPSBHbG9iYWxDcHVCb3VuZFRocmVhZFBvb2wuY3B1RXhlY3V0aW9uQ29udGV4dCkgPSBEQi5kYi5ydW5Bc1Rhc2soCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZW5kQnVzaW5lc3NWZXJpZmllZFVwZGF0ZUVtYWlsKFNhbGVzQWdlbnQgc2FsZXNBZ2VudCwgU3RyaW5nIG9wcG9ydHVuaXR5VXJsLCBTdHJpbmcgYnVzaW5lc3NMZWdhbE5hbWUpCiAgewogICAgTWFwPE1lc3NhZ2UuUmVjaXBpZW50VHlwZSwgU3RyaW5nPiByZWNpcGllbnRNYXAgPQogICAgICAgICAgICBnZXRTYWxlc0FnZW50Tm90aWZpY2F0aW9uUmVjaXBpZW50TWFwKHNhbGVzQWdlbnQpOwogICAgTWFwPFN0cmluZywgT2JqZWN0PiBtb2RlbCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIG1vZGVsLnB1dCgib3Bwb3J0dW5pdHlVcmwiLCBvcHBvcnR1bml0eVVybCk7CgogICAgdHJ5CiAgICB7CiAgICAgIFN0cmluZyBidXNpbmVzc1ZlcmlmaWVkRW1haWxUZW1wbGF0ZSA9CiAgICAgICAgICAgICAgVmVsb2NpdHlFbmdpbmVVdGlscy5tZXJnZVRlbXBsYXRlSW50b1N0cmluZyh2ZWxvY2l0eUNvbmZpZ3VyZXIuZ2V0VmVsb2NpdHlFbmdpbmUoKSwKICAgICAgICAgICAgICAgICAgICAgICIvdmVsb2NpdHkvZW1haWwvYnVzaW5lc3NWZXJpZmllZC52bSIsICJVVEYtOCIsIG1vZGVsKTsKICAgICAgbWFpbFNlcnZpY2Uuc2VuZEVtYWlsKHJlY2lwaWVudE1hcCwgIllvdXIgQ2FuYWRpYW4gbG9hbiBmb3IgIiArIGJ1c2luZXNzTGVnYWxOYW1lCiAgICAgICAgICAgICAgKyAiIGlzIHJlYWR5IGZvciBvbmxpbmUgY2hlY2tvdXQiLCBidXNpbmVzc1ZlcmlmaWVkRW1haWxUZW1wbGF0ZSwgbnVsbCk7CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkKICAgIHsKICAgICAgTE9HR0VSLmVycm9yKFN0cmluZy5mb3JtYXQoIlVuYWJsZSB0byBzZW5kIGJ1c2luZXNzIHZlcmlmaWNhdGlvbiBlbWFpbCB0byAlcyBmb3Igb3Bwb3J0dW5pdHkgJXMiLCBzYWxlc0FnZW50LmdldEVtYWlsKCksIG9wcG9ydHVuaXR5VXJsKSwgZSk7CiAgICB9CiAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9IHlpZWxkIHJvd3MuZ3JvdXBCeShfLl8xKS5tYXBWYWx1ZXMoXy5tYXAoXy5fMikpLnRvTGlzdCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Zm9yIHsKICAgIHJvd3MgPC0gQw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Task[List[(CorpSearch, Seq[CorpSearchPerson])]]</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHNob3VsZFNlbmRCdXNpbmVzc1ZlcmlmaWVkRW1haWwoKQogIHsKICAgIE1hcDxNZXNzYWdlLlJlY2lwaWVudFR5cGUsIFN0cmluZz4gcmVjaXBpZW50TWFwID0gbmV3IEhhc2hNYXA8TWVzc2FnZS5SZWNpcGllbnRUeXBlLCBTdHJpbmc+KCk7CiAgICByZWNpcGllbnRNYXAucHV0KFJlY2lwaWVudFR5cGUuVE8sICJhYmNAZW1haWwuY29tIik7CiAgICByZWNpcGllbnRNYXAucHV0KFJlY2lwaWVudFR5cGUuQkNDLCBudWxsKTsKICAgIFN0cmluZyBodG1sQm9keSA9ICJZb3VyIG1lcmNoYW50IGhhcyBiZWVuIHZlcmlmaWVkLiBQbGVhc2UgaW5mb3JtIHRoZW0gdGhhdCB0aGV5IG1heSBwcm9jZWVkIHdpdGggY2hlY2tvdXQuXG4iICsgCiAgICAgICAgIjxici8+PGJyLz5cbiIgKyAKICAgICAgICAiWW91IGNhbiBhY2Nlc3MgdGhpcyBvcHBvcnR1bml0eSBoZXJlOlxuIiArIAogICAgICAgICI8YnIvPlxuIiArIAogICAgICAgICI8YSBocmVmPVwiaHR0cHM6Ly93d3cub25kZWNrLmNvbVwiPmh0dHBzOi8vd3d3Lm9uZGVjay5jb208L2E+XG4iICsgCiAgICAgICAgIjxici8+PGJyLz4iOwogICAgU2FsZXNBZ2VudCBzYWxlc0FnZW50ID0gbmV3IFNhbGVzQWdlbnQoKTsKICAgIHNhbGVzQWdlbnQuc2V0RW1haWwoImFiY0BlbWFpbC5jb20iKTsKICAgIGF1dG9tYXRlZEVtYWlsU2VydmljZS5zZW5kQnVzaW5lc3NWZXJpZmllZFVwZGF0ZUVtYWlsKHNhbGVzQWdlbnQsICJodHRwczovL3d3dy5vbmRlY2suY29tIiwgImNvb2wgYnVzaW5lc3MiKTsKICAgIHZlcmlmeShtYWlsU2VydmljZSkuc2VuZEVtYWlsKHJlY2lwaWVudE1hcCwgIllvdXIgQ2FuYWRpYW4gbG9hbiBmb3IgY29vbCBidXNpbmVzcyBpcyByZWFkeSBmb3Igb25saW5lIGNoZWNrb3V0IiwgaHRtbEJvZHksIG51bGwpOwogIH0=</text>
+        <text>mapValues(_.flatten)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>Query[(CorpSearches, CorpSearchPersons), (CorpSearch, CorpSearchPerson), Seq]</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>: DBIOAction[List[(CorpSearch, Seq[Nothing])], NoStream, Read]</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
