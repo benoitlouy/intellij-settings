@@ -69,6 +69,7 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/client/JaxrsConnectServiceClient.java" timestamp="1464283207695" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/integrationTest/resources/testContext.xml" timestamp="1461090491763">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -338,6 +339,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1464283750702">
+        <mark key="[" line="286" column="48" />
+        <mark key="]" line="286" column="47" />
+        <mark key="." line="286" column="47" />
+        <mark key="^" line="286" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryTaskUnitTest.java" timestamp="1463693009985">
         <mark key="[" line="37" column="67" />
@@ -623,6 +630,7 @@
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/ConnectIO.scala" timestamp="1464283795591" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1463763157151">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -763,6 +771,7 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1464283530392" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/util/AddressUtilUnitTest.java" timestamp="1464274202187">
         <mark key="[" line="63" column="18" />
         <mark key="]" line="63" column="18" />
@@ -1000,10 +1009,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3Muc2V0U3VpdGUoKTsK</text>
+        <text encoding="base64">ICAgIGNvcnBTZWFyY2hDb252ZXJ0ZXIocmVzcG9uc2UsIG9wcG9ydHVuaXR5LmdldElkKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>3rd</text>
+        <text>ESC_CORP_SEARCH_ENDPOINT = &quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1012,31 +1021,31 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3Muc2V0U3VpdGUoKTsK</text>
+        <text encoding="base64">ICAgIGNvcnBTZWFyY2hDb252ZXJ0ZXIocmVzcG9uc2UsIG9wcG9ydHVuaXR5LmdldElkKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>3rd</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCByZXNwb25zZTogQ29ubmVjdFJlc3BvbnNlW1JlcG9ydFtFU0NDb3JwU2VhcmNoUmVzcG9uc2VdXSA9IGNzQ2xpZW50LmdldENhbmFkYUNvcnBTZWFyY2gob3Bwb3J0dW5pdHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJhc2VBZGRyZXNzIHJlc3VsdDIgPSBBZGRyZXNzVXRpbC5wYXJzZVN0cmVldEFkZHJlc3MxKGFkZHJlc3MoIjQ1NiAzcmQgQXZlbnVlIikpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlW0Nvbm5lY3RJT10gdmFsIGNvcnBTZWFyY2hSZXF1ZXN0Q29udmVydGVyID0gbmV3IENvcnBTZWFyY2hSZXF1ZXN0Q29udmVydGVyKCkK</text>
       </register>
       <register name="4" type="4">
-        <text>Avenue of america</text>
+        <text>ESC_CORP_SEARCH_ENDPOINT = &quot;&quot;</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFkZHJlc3Muc2V0U3VpdGUoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text>3rd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgIEJhc2VBZGRyZXNzIHJlc3VsdDIgPSBBZGRyZXNzVXRpbC5wYXJzZVN0cmVldEFkZHJlc3MxKGFkZHJlc3MoIjQ1NiAzcmQgQXZlbnVlIikpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>Avenue of america</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
