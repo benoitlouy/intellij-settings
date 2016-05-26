@@ -166,11 +166,11 @@
         <mark key="]" line="1211" column="0" />
         <mark key="." line="1211" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/client/build.gradle" timestamp="1464202604558">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/build.gradle" timestamp="1464290817820">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="49" />
+        <mark key="." line="17" column="49" />
+        <mark key="^" line="17" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/EndToEndIT.scala" timestamp="1463147966014">
         <mark key="[" line="6" column="0" />
@@ -515,11 +515,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1464202593441">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="36" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1464290867451">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
+        <mark key="^" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceConsumerCreditReportDao.java" timestamp="1462990673035">
         <mark key="[" line="190" column="24" />
@@ -733,10 +733,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" timestamp="1464209269977">
-        <mark key="'" line="35" column="77" />
-        <mark key="[" line="35" column="25" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchDAO.scala" timestamp="1459443768407">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="31" column="0" />
@@ -799,12 +795,6 @@
         <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1464283530392" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/util/AddressUtilUnitTest.java" timestamp="1464274202187">
-        <mark key="[" line="63" column="18" />
-        <mark key="]" line="63" column="18" />
-        <mark key="^" line="61" column="74" />
-        <mark key="." line="63" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaCCRRequestConverter.java" timestamp="1462455891784">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="56" column="0" />
@@ -1040,11 +1030,11 @@
       <jump line="35" column="77" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1052,32 +1042,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>7</text>
       </register>
       <register name="4" type="4">
-        <text>ConnectIO</text>
+        <text>3</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLnNlcnZpY2UuQ29ubmVjdElPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShyZXN1bHQuXzIuaXNFbXB0eSgpKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHJlc3VsdC5fMSk7Cg==</text>
+      <register name="7" type="4">
+        <text>,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldFBheWxvYWQoKS5nZXRBcGlSZXNwb25zZSgpLCBub3ROdWxsVmFsdWUoKSk7Cg==</text>
+      <register name="8" type="4">
+        <text>ConnectIO</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldFBheWxvYWQoKSwgbm90TnVsbFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLnNlcnZpY2UuQ29ubmVjdElPCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
