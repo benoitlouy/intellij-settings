@@ -748,10 +748,11 @@
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/exercism/scala/bob/src/main/scala/Bob.scala" timestamp="1464208441870">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
+      <file name="$USER_HOME$/exercism/scala/bob/src/main/scala/Bob.scala" timestamp="1464356949606">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc.vendor.model/eservicecorp-model/1.14/2d956285eef6c020a302ec56e30610a3c0d4d4c9/eservicecorp-model-1.14.jar!/com/odc/vendor/model/eservicecorp/ESCConstants.class" timestamp="1464205502318" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/model/SFMinApp.java" timestamp="1463768474445">
@@ -784,7 +785,7 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/exercism/scala/bob/src/test/scala/bob_test.scala" timestamp="1464207980375">
+      <file name="$USER_HOME$/exercism/scala/bob/src/test/scala/bob_test.scala" timestamp="1464356161855">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
@@ -1031,10 +1032,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1043,31 +1044,31 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>&quot;</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
-      </register>
-      <register name="3" type="4">
-        <text>7</text>
-      </register>
-      <register name="4" type="4">
-        <text>3</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gIEB0YWlscmVjCi8vICBwcml2YXRlIGRlZiBzaG91dChzOiBMaXN0W0NoYXJdLCByZXM6IE9wdGlvbltCb29sZWFuXSk6IE9wdGlvbltCb29sZWFuXSA9IHsKLy8gICAgcyBtYXRjaCB7Ci8vICAgICAgY2FzZSBhIDo6IF8gaWYgYSA+PSAnYScgJiYgYSA8PSAneicgPT4gU29tZShmYWxzZSkKLy8gICAgICBjYXNlIGEgOjogdGFpbCBpZiBhID49ICdBJyAmJiBhIDw9ICdaJyA9PiBzaG91dCh0YWlsLCBTb21lKHRydWUpKQovLyAgICAgIGNhc2UgXyA6OiB0YWlsID0+IHNob3V0KHRhaWwsIHJlcykKLy8gICAgICBjYXNlIE5pbCA9PiByZXMKLy8gICAgfQovLyAgfQovLwovLyAgZGVmIGhleShzOiBTdHJpbmcpOiBTdHJpbmcgPSB7Ci8vICAgIHZhbCBjbGVhbmVkID0gcy5yZXBsYWNlQWxsKCJbXmEtekEtWjAtOT9dIiwgIiIpCi8vICAgIGlmIChjbGVhbmVkLmlzRW1wdHkpCi8vICAgICAgIkZpbmUuIEJlIHRoYXQgd2F5ISIKLy8gICAgZWxzZSBpZiAoY2xlYW5lZC5yZXBsYWNlQWxsKCJbMC05XSIsICIiKS5pc0VtcHR5KQovLyAgICAgICJXaGF0ZXZlci4iCi8vICAgIGVsc2UgaWYgKHNob3V0KGNsZWFuZWQudG9MaXN0LCBOb25lKS5nZXRPckVsc2UoZmFsc2UpKQovLyAgICAgICJXaG9hLCBjaGlsbCBvdXQhIgovLyAgICBlbHNlIGlmIChjbGVhbmVkLmNoYXJBdChjbGVhbmVkLmxlbmd0aCAtIDEpID09ICc/JykKLy8gICAgICAiU3VyZS4iCi8vICAgIGVsc2UKLy8gICAgICAiV2hhdGV2ZXIuIgovLyAgfQ==</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isYelling</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>ConnectIO</text>
+        <text>,</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLnNlcnZpY2UuQ29ubmVjdElPCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBfIDo6IHRhaWwgPT4gc2hvdXQocmVzLCB0YWlsLCApCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
