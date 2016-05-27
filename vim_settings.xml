@@ -376,6 +376,11 @@
         <mark key="]" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/exercism/scala/hamming/src/test/scala/hamming_test.scala" timestamp="1464357479488">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/OpportunityService.scala" timestamp="1464271201805" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1464288184998">
         <mark key="[" line="32" column="42" />
@@ -692,6 +697,12 @@
         <mark key="[" line="38" column="42" />
         <mark key="]" line="38" column="42" />
         <mark key="." line="38" column="42" />
+      </file>
+      <file name="$USER_HOME$/exercism/scala/hamming/src/main/scala/Hamming.scala" timestamp="1464357521051">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+        <mark key="^" line="4" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1464284973694">
         <mark key="[" line="10" column="40" />
@@ -1032,10 +1043,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1044,31 +1055,31 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>a</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>a</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gIEB0YWlscmVjCi8vICBwcml2YXRlIGRlZiBzaG91dChzOiBMaXN0W0NoYXJdLCByZXM6IE9wdGlvbltCb29sZWFuXSk6IE9wdGlvbltCb29sZWFuXSA9IHsKLy8gICAgcyBtYXRjaCB7Ci8vICAgICAgY2FzZSBhIDo6IF8gaWYgYSA+PSAnYScgJiYgYSA8PSAneicgPT4gU29tZShmYWxzZSkKLy8gICAgICBjYXNlIGEgOjogdGFpbCBpZiBhID49ICdBJyAmJiBhIDw9ICdaJyA9PiBzaG91dCh0YWlsLCBTb21lKHRydWUpKQovLyAgICAgIGNhc2UgXyA6OiB0YWlsID0+IHNob3V0KHRhaWwsIHJlcykKLy8gICAgICBjYXNlIE5pbCA9PiByZXMKLy8gICAgfQovLyAgfQovLwovLyAgZGVmIGhleShzOiBTdHJpbmcpOiBTdHJpbmcgPSB7Ci8vICAgIHZhbCBjbGVhbmVkID0gcy5yZXBsYWNlQWxsKCJbXmEtekEtWjAtOT9dIiwgIiIpCi8vICAgIGlmIChjbGVhbmVkLmlzRW1wdHkpCi8vICAgICAgIkZpbmUuIEJlIHRoYXQgd2F5ISIKLy8gICAgZWxzZSBpZiAoY2xlYW5lZC5yZXBsYWNlQWxsKCJbMC05XSIsICIiKS5pc0VtcHR5KQovLyAgICAgICJXaGF0ZXZlci4iCi8vICAgIGVsc2UgaWYgKHNob3V0KGNsZWFuZWQudG9MaXN0LCBOb25lKS5nZXRPckVsc2UoZmFsc2UpKQovLyAgICAgICJXaG9hLCBjaGlsbCBvdXQhIgovLyAgICBlbHNlIGlmIChjbGVhbmVkLmNoYXJBdChjbGVhbmVkLmxlbmd0aCAtIDEpID09ICc/JykKLy8gICAgICAiU3VyZS4iCi8vICAgIGVsc2UKLy8gICAgICAiV2hhdGV2ZXIuIgovLyAgfQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text>isYelling</text>
-      </register>
-      <register name="7" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBlbmRpbmcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBlbmRpbmcK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBlbmRpbmcK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBlbmRpbmcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBlbmRpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBfIDo6IHRhaWwgPT4gc2hvdXQocmVzLCB0YWlsLCApCg==</text>
+        <text encoding="base64">ICAgIHBlbmRpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
