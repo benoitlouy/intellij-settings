@@ -232,6 +232,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandlerUnitTest.java" timestamp="1464717494371">
+        <mark key="[" line="100" column="26" />
+        <mark key="]" line="100" column="13" />
+        <mark key="." line="100" column="13" />
+        <mark key="^" line="100" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/converter/SFModelConverterTest.java" timestamp="1463667837771">
         <mark key="[" line="443" column="0" />
         <mark key="]" line="443" column="0" />
@@ -276,6 +282,15 @@
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandler.java" timestamp="1464716970070">
+        <mark key="[" line="50" column="123" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca-api/pom.xml" timestamp="1464371839560">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="15" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/helper/business/TaxIdHelper.java" timestamp="1460384619500">
         <mark key="[" line="5" column="0" />
@@ -432,6 +447,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandlerUnitTest.java" timestamp="1464717051379" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/canadaconsumercredit.html" timestamp="1460409035053">
         <mark key="[" line="14" column="76" />
         <mark key="]" line="14" column="66" />
@@ -556,6 +572,12 @@
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="34" />
         <mark key="." line="27" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca-api/api/src/test/java/com/ondeck/alpaca/api/scc/resource/SalesChannelConflictResourceV2IT.java" timestamp="1464372139389">
+        <mark key="[" line="378" column="10" />
+        <mark key="]" line="378" column="11" />
+        <mark key="^" line="378" column="11" />
+        <mark key="." line="378" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRRequestConverter.java" timestamp="1463674774197">
         <mark key="[" line="60" column="0" />
@@ -1044,10 +1066,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1056,7 +1078,7 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICovCg==</text>
@@ -1067,20 +1089,20 @@
       <register name="4" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>{</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>dao</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA1LzMxLzE2Lgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
