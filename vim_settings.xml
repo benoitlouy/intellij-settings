@@ -248,10 +248,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceResource.java" timestamp="1464814097398">
-        <mark key="[" line="139" column="5" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceResource.java" timestamp="1464815830737">
+        <mark key="[" line="483" column="38" />
+        <mark key="]" line="483" column="31" />
+        <mark key="." line="483" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryProcessPendingRequestsHandler.java" timestamp="1463692467698">
         <mark key="[" line="20" column="38" />
@@ -898,7 +898,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1464814558742">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1464816140769">
         <mark key="[" line="857" column="0" />
         <mark key="]" line="857" column="0" />
         <mark key="." line="857" column="0" />
@@ -1062,11 +1062,11 @@
       <jump line="35" column="77" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>account</text>
       </register>
       <register name="-" type="4">
-        <text>SFUSTestOpportunity</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1074,8 +1074,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>account</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1084,22 +1084,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>SFUSTestOpportunity</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
         <text>SFUSTestOpportunity</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>SFUSTestOpportunity</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
