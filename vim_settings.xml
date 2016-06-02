@@ -98,7 +98,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/ResultType.java" timestamp="1461004354596">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/ResultType.java" timestamp="1464878629842">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
@@ -720,6 +720,7 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/SalesChannelConflictSoftDecider.scala" timestamp="1464878835727" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.js" timestamp="1459794957212">
         <mark key="[" line="284" column="67" />
         <mark key="]" line="284" column="67" />
@@ -910,11 +911,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1464874274532">
-        <mark key="[" line="857" column="0" />
-        <mark key="]" line="857" column="0" />
-        <mark key="." line="857" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1464879838400" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFUSOpportunity.java" timestamp="1461859754001">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1074,11 +1071,11 @@
       <jump line="35" column="77" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBvcHBvcnR1bml0eSA9IFNhbGVzZm9yY2VSZXNvdXJjZS5uZXdWYWxpZE9wcG9ydHVuaXR5KCJJZGVudGl0eSBUZXN0IE9yaWdpbmFsIikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">T3Bwb3J0dW5pdHkg</text>
       </register>
       <register name="-" type="4">
-        <text>LocalDate.parse(&quot;2002-01-05&quot;)</text>
+        <text encoding="base64">T3Bwb3J0dW5pdHkg</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1086,32 +1083,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBvcHBvcnR1bml0eSA9IFNhbGVzZm9yY2VSZXNvdXJjZS5uZXdWYWxpZE9wcG9ydHVuaXR5KCJJZGVudGl0eSBUZXN0IE9yaWdpbmFsIikK</text>
+      <register name="1" type="4">
+        <text encoding="base64">T3Bwb3J0dW5pdHkg</text>
       </register>
       <register name="2" type="4">
-        <text>LocalDate.parse(&quot;2002-01-05&quot;)</text>
+        <text>Opportunity opportunity = newValidCanadianOpportunity(&quot;Opportunity without Duplicates&quot;);</text>
       </register>
-      <register name="3" type="4">
-        <text>account</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBvcHBvcnR1bml0eSA9IFNhbGVzZm9yY2VSZXNvdXJjZS5uZXdWYWxpZE9wcG9ydHVuaXR5KCJJZGVudGl0eSBUZXN0IE9yaWdpbmFsIikK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>LocalDate.parse(&quot;2002-01-05&quot;)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>account</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>SFUSTestOpportunity</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
