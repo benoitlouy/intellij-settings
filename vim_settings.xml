@@ -58,10 +58,11 @@
         <mark key="]" line="76" column="28" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/production.connect.properties" timestamp="1464883200691">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/production.connect.properties" timestamp="1464883417132">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1464284760905">
         <mark key="[" line="164" column="0" />
@@ -1077,11 +1078,11 @@
       <jump line="35" column="77" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>uat</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>uat</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1089,14 +1090,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>uat</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXF1aWZheC5pbnRlcm5hdGlvbmFsLnNlcnZpY2UudXJsPWh0dHBzOi8vY29tbWVyY2lhbC1pbnRsLmVxdWlmYXguY29tL2NvbWludC9zZXJ2aWNlcy9JbnRlcm5hdGlvbmFsU2VydmljZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZXF1aWZheC5pbnRlcm5hdGlvbmFsLnNlcnZpY2UudXJsPWh0dHBzOi8vY29tbWVyY2lhbC1pbnRsLmVxdWlmYXguY29tL2NvbWludC9zZXJ2aWNlcy9JbnRlcm5hdGlvbmFsU2VydmljZQo=</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
@@ -1107,14 +1108,14 @@
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFJlc3VsdFR5cGUuU0FMRVNfQ0hBTk5FTF9DT05GTElDVF9TT0ZUICM6Ogo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlc3VsdFR5cGUuU0FMRVNfQ0hBTk5FTF9DT05GTElDVCAjOjoK</text>
+        <text encoding="base64">ICAgIFJlc3VsdFR5cGUuU0FMRVNfQ0hBTk5FTF9DT05GTElDVF9TT0ZUICM6Ogo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">T3Bwb3J0dW5pdHkg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFJlc3VsdFR5cGUuU0FMRVNfQ0hBTk5FTF9DT05GTElDVCAjOjoK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
