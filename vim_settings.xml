@@ -884,10 +884,12 @@
         <mark key="." line="94" column="39" />
         <mark key="^" line="94" column="38" />
       </file>
-      <file name="$USER_HOME$/Downloads/streams/src/main/scala/streams/Solver.scala" timestamp="1464838689250">
-        <mark key="[" line="41" column="76" />
-        <mark key="]" line="41" column="76" />
-        <mark key="." line="41" column="76" />
+      <file name="$USER_HOME$/Downloads/streams/src/main/scala/streams/Solver.scala" timestamp="1464908096241">
+        <mark key="'" line="101" column="34" />
+        <mark key="[" line="72" column="16" />
+        <mark key="]" line="72" column="16" />
+        <mark key="." line="72" column="16" />
+        <mark key="^" line="72" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceConsumerCreditReportDaoTest.java" timestamp="1462990939827">
         <mark key="[" line="355" column="60" />
@@ -1264,8 +1266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="31" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaProcessPendingRequestQueueHandler.java" />
-      <jump line="34" column="34" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryReportWorkerUnitTest.java" />
       <jump line="54" column="34" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaInDepthTradingHistoryFetcherTaskFactory.java" />
       <jump line="44" column="84" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryCachingReportHandlerIntegrationTest.java" />
       <jump line="38" column="65" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaInDepthTradingHistoryFetcherTaskFactory.java" />
@@ -1364,13 +1364,15 @@
       <jump line="12" column="86" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRConfig.java" />
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
       <jump line="35" column="77" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" />
+      <jump line="89" column="76" filename="$USER_HOME$/Downloads/streams/src/main/scala/streams/Solver.scala" />
+      <jump line="101" column="34" filename="$USER_HOME$/Downloads/streams/src/main/scala/streams/Solver.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>???</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1379,31 +1381,31 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>???</text>
+        <text>e</text>
       </register>
-      <register name="2" type="4">
-        <text>{</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGEuaGVhZE9wdGlvbi5nZXRPckVsc2UoTmlsKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+      <register name="4" type="4">
+        <text>=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICBjYXNlIG1vdmUgOjogdGFpbCA9PiBiLmxlZ2FsTmVpZ2hib3JzLmZpbHRlcihfLl8yID09IG1vdmUpLmhlYWQgIzo6IG5laWdoYm9yc1dpdGhIaXN0b3J5KCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICBjYXNlIE5pbCA9PiAoc3RhcnRCbG9jayAtPiBOaWwpICM6OiBTdHJlYW0uZW1wdHkK</text>
+      <register name="6" type="4">
+        <text>]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgaGlzdG9yeSBtYXRjaCB7Cg==</text>
+      <register name="7" type="4">
+        <text>]</text>
       </register>
       <register name="8" type="4">
-        <text>head</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>?</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
