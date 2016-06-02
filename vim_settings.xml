@@ -248,10 +248,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceResource.java" timestamp="1464815830737">
-        <mark key="[" line="483" column="38" />
-        <mark key="]" line="483" column="31" />
-        <mark key="." line="483" column="31" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SalesforceResource.java" timestamp="1464816971338">
+        <mark key="[" line="155" column="45" />
+        <mark key="]" line="155" column="45" />
+        <mark key="." line="155" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryProcessPendingRequestsHandler.java" timestamp="1463692467698">
         <mark key="[" line="20" column="38" />
@@ -448,6 +448,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1464817360989">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/email/AutomatedEmailServiceTest.java" timestamp="1464121915599">
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
@@ -483,11 +486,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1464715683471">
+      <file name="/fragment.java" timestamp="1464817344144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/SalesChannelConflictDecider.scala" timestamp="1464817310636" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadaconsumercreditcontrollerSpec.js" timestamp="1460410326159">
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
@@ -1063,10 +1067,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>account</text>
+        <text>LocalDate.parse(&quot;2002-01-05&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>LocalDate.parse(&quot;2002-01-05&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1075,10 +1079,10 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>account</text>
+        <text>LocalDate.parse(&quot;2002-01-05&quot;)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>account</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1087,19 +1091,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>SFUSTestOpportunity</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
         <text>SFUSTestOpportunity</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>SFUSTestOpportunity</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
