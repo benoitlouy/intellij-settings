@@ -170,6 +170,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/build.gradle" timestamp="1464973119377">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/EndToEndIT.scala" timestamp="1463147966014">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -556,10 +562,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1464971998593">
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="0" />
-        <mark key="." line="275" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1464973180393">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceConsumerCreditReportDao.java" timestamp="1462990673035">
         <mark key="[" line="190" column="24" />
@@ -701,10 +708,11 @@
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1464899754899">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1464973043038">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/product/CanadaEligibilityManagementTest.java" timestamp="1463163243323">
         <mark key="[" line="8" column="1" />
@@ -1086,11 +1094,11 @@
       <jump line="35" column="77" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>[&quot;runtime.env&quot;]</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1098,32 +1106,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+      <register name="1" type="4">
+        <text>2</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgc3lzdGVtUHJvcGVydHkgInJ1bnRpbWUuZW52IiwgInFkIgo=</text>
+      <register name="2" type="4">
+        <text>T</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gIGlmICghU3lzdGVtLnByb3BlcnRpZWRzWyJydW50aW1lLmVudiJdKSB7Cg==</text>
+      <register name="3" type="4">
+        <text>T</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="4" type="4">
+        <text>O</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgicnVudGltZS5lbnYiLCAicWQiKQo=</text>
+      <register name="5" type="4">
+        <text>H</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoIXN5c3RlbVByb3BlcnRpZXNbInJ1bnRpbWUuZW52Il0pIHsK</text>
+      <register name="6" type="4">
+        <text>S</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgc3lzdGVtUHJvcGVydGllcyA9IFN5c3RlbS5nZXRQcm9wZXJ0aWVzKCkK</text>
+      <register name="7" type="4">
+        <text>P</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>A</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">bG9nZ2VyLnF1aWV0KFN5c3RlbS5nZXRQcm9wZXJ0aWVzKCkudG9TdHJpbmcoKSkK</text>
+      <register name="9" type="4">
+        <text>N</text>
       </register>
       <register name=":" type="4">
         <text>254</text>
