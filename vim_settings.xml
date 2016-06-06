@@ -58,6 +58,11 @@
         <mark key="]" line="76" column="28" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/integrationTest/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnectionIntegrationTest.java" timestamp="1465236718738">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/production.connect.properties" timestamp="1464883417132">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="29" />
@@ -1095,10 +1100,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>&quot;https://uat.equifax.ca/sts/processinquiry.asp&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>&quot;https://uat.equifax.ca/sts/processinquiry.asp&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1107,31 +1112,31 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>&quot;https://uat.equifax.ca/sts/processinquiry.asp&quot;;</text>
       </register>
       <register name="2" type="4">
-        <text>T</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
         <text>T</text>
       </register>
       <register name="4" type="4">
-        <text>O</text>
+        <text>T</text>
       </register>
       <register name="5" type="4">
-        <text>H</text>
+        <text>O</text>
       </register>
       <register name="6" type="4">
-        <text>S</text>
+        <text>H</text>
       </register>
       <register name="7" type="4">
-        <text>P</text>
+        <text>S</text>
       </register>
       <register name="8" type="4">
-        <text>A</text>
+        <text>P</text>
       </register>
       <register name="9" type="4">
-        <text>N</text>
+        <text>A</text>
       </register>
       <register name=":" type="4">
         <text>254</text>
