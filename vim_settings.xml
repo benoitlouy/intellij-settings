@@ -151,6 +151,12 @@
         <mark key="]" line="95" column="4" />
         <mark key="." line="95" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/equifax-canada-model/conf/jaxb-simple-binding.xjb" timestamp="1465312559331">
+        <mark key="[" line="17" column="90" />
+        <mark key="]" line="22" column="91" />
+        <mark key="^" line="22" column="91" />
+        <mark key="." line="22" column="91" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceAccountDaoTest.java" timestamp="1462990556487">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
@@ -176,7 +182,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/client/build.gradle" timestamp="1464973119377">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/build.gradle" timestamp="1465313446175">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="33" />
         <mark key="^" line="15" column="33" />
@@ -539,11 +545,7 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/experian-bcr-model/build.gradle" timestamp="1464897722440">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/experian-bcr-model/build.gradle" timestamp="1464897722440" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/common/services/utils.js" timestamp="1459794681433">
         <mark key="[" line="779" column="50" />
         <mark key="]" line="779" column="50" />
@@ -713,11 +715,11 @@
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1464973043038">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="26" />
-        <mark key="." line="34" column="26" />
-        <mark key="^" line="34" column="26" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1465313475164">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/product/CanadaEligibilityManagementTest.java" timestamp="1463163243323">
         <mark key="[" line="8" column="1" />
@@ -786,6 +788,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/thirdparty/equifax/ca/conf/jaxb-equifax-canada-commercial-binding.xjb" timestamp="1465312927574" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/CorpSearchDeciderSpec.scala" timestamp="1464287849620">
         <mark key="[" line="25" column="42" />
         <mark key="]" line="4" column="0" />
@@ -1101,10 +1104,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;https://uat.equifax.ca/sts/processinquiry.asp&quot;;</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;https://uat.equifax.ca/sts/processinquiry.asp&quot;;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1113,31 +1116,31 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;https://uat.equifax.ca/sts/processinquiry.asp&quot;;</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>T</text>
+        <text>&quot;https://uat.equifax.ca/sts/processinquiry.asp&quot;;</text>
       </register>
       <register name="4" type="4">
-        <text>T</text>
+        <text>2</text>
       </register>
       <register name="5" type="4">
-        <text>O</text>
+        <text>T</text>
       </register>
       <register name="6" type="4">
-        <text>H</text>
+        <text>T</text>
       </register>
       <register name="7" type="4">
-        <text>S</text>
+        <text>O</text>
       </register>
       <register name="8" type="4">
-        <text>P</text>
+        <text>H</text>
       </register>
       <register name="9" type="4">
-        <text>A</text>
+        <text>S</text>
       </register>
       <register name=":" type="4">
         <text>254</text>
