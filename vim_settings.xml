@@ -288,6 +288,11 @@
         <mark key="]" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/settings.gradle" timestamp="1465314038176">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/ConnectIOSpec.scala" timestamp="1459891432146">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
@@ -475,9 +480,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464896894276">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ondeck.common/unified-app-model/1.29.2/545b4709405bc1b385e22718cfde9c95cad4b1a7/unified-app-model-1.29.2.jar!/com/ondeck/common/model/underwriting/VerifiedBusinessData.class" timestamp="1464966609895" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/email/AutomatedEmailServiceTest.java" timestamp="1464121915599">
         <mark key="[" line="221" column="0" />
@@ -617,9 +619,6 @@
         <mark key="]" line="433" column="0" />
         <mark key="." line="433" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-identity/src/main/scala/com/ondeck/alpaca/identity/IdentityService.scala" timestamp="1464875990651">
-        <mark key="[" line="25" column="126" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/intl/ca/EquifaxCanadaRequestUtils.java" timestamp="1464274507540">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -715,11 +714,11 @@
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1465313475164">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="34" column="28" />
-        <mark key="." line="34" column="28" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1465314129584">
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
         <mark key="^" line="34" column="28" />
+        <mark key="." line="251" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/product/CanadaEligibilityManagementTest.java" timestamp="1463163243323">
         <mark key="[" line="8" column="1" />
@@ -941,9 +940,6 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1464879838400" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1464887228909">
-        <mark key="[" line="23" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFUSOpportunity.java" timestamp="1461859754001">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1103,8 +1099,8 @@
       <jump line="35" column="77" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -1115,32 +1111,58 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>1</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;https://uat.equifax.ca/sts/processinquiry.asp&quot;;</text>
+        <text>project(':thirdparty:equifax:ca') {
+    task generateJava(type: XJCTask) {
+        classpath = configurations.xjc.asPath
+        inputDir = file(&quot;src/schemas&quot;)
+        outputDir = file(generatedDir)
+        jaxbBinding = file(&quot;conf/jaxb-equifax-canada-commercial-binding.xjb&quot;)
+        packagesAndIncludes = [
+                [pkg: &quot;com.odc.equifax.canada.model.xml&quot;, includes: &quot;CNEfxTransmitToCust.xsd&quot;]
+        ]
+    }
+
+    compileJava.dependsOn(generateJava)
+}
+
+project(':thirdparty:equifax:international') {
+    task generateJava(type: XJCTask) {
+        classpath = configurations.xjc.asPath
+        inputDir = file(&quot;src/schemas&quot;)
+        outputDir = file(generatedDir)
+        jaxbBinding = file(&quot;conf/jaxb-simple-binding.xjb&quot;)
+        packagesAndIncludes = [
+                [pkg: &quot;com.odc.equifax.international.model.xml&quot;, includes: &quot;*.xsd&quot;]
+        ]
+    }
+
+    compileJava.dependsOn(generateJava)
+}</text>
       </register>
-      <register name="4" type="4">
-        <text>2</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAnOnRoaXJkcGFydHk6ZXF1aWZheDppbnRlcm5hdGlvbmFsJywK</text>
       </register>
-      <register name="5" type="4">
-        <text>T</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAnOnRoaXJkcGFydHk6ZXF1aWZheDpjYScsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>T</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW5jbHVkZSAndGhpcmRwYXJ0eTplcXVpZmF4OmludGVybmF0aW9uYWwnCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>O</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW5jbHVkZSAndGhpcmRwYXJ0eTplcXVpZmF4OmNhJwo=</text>
       </register>
       <register name="8" type="4">
-        <text>H</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>S</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>254</text>
