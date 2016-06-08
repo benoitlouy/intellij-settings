@@ -71,6 +71,12 @@
     <option name="JIRA_PASSWORD_CRYPT" value="" />
     <option name="KEEP_JIRA_PASSWORD" value="false" />
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="0.12.7" last-modified="1436492101000" />
     <node-interpreter path="/usr/local/Cellar/node/0.12.7/bin/node" version="0.12.7" last-modified="1436492101000" />
