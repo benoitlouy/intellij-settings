@@ -8,6 +8,11 @@
         <mark key="]" line="253" column="44" />
         <mark key="." line="253" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/tradinghistory/veda/business/ConnectToVedaBusinessTradingHistoryRequestUnitTest.java" timestamp="1465398899091">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/UnderwritingHandlerIntegrationTest.java" timestamp="1463519237196">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
@@ -476,6 +481,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1465399587268">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/email/AutomatedEmailServiceTest.java" timestamp="1464121915599">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
@@ -529,7 +537,7 @@
         <mark key="." line="317" column="30" />
         <mark key="^" line="317" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1463778533618">
+      <file name="/fragment.java" timestamp="1465399587305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
@@ -757,10 +765,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/ConnectToVedaBusinessTradingHistoryRequest.java" timestamp="1465397765035">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/ConnectToVedaBusinessTradingHistoryRequest.java" timestamp="1465398732159">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="84" column="76" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/main/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnection.java" timestamp="1463761548169">
         <mark key="[" line="33" column="3" />
@@ -1132,7 +1141,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhZGRyZXNzLmdldFppcGNvZGUoKSwgcHJvcHJpZXRvckFkZHJlc3MuZ2V0UG9zdGNvZGUoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -1144,31 +1153,31 @@
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhZGRyZXNzLmdldFppcGNvZGUoKSwgcHJvcHJpZXRvckFkZHJlc3MuZ2V0UG9zdGNvZGUoKSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>l</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhZGRyZXNzLmdldENpdHkoKSwgcHJvcHJpZXRvckFkZHJlc3MuZ2V0U3VidXJiKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhZGRyZXNzLmdldFN0YXRlKCksIHByb3ByaWV0b3JBZGRyZXNzLmdldFN0YXRlKCkuZ2V0VmFsdWUoKS52YWx1ZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhZGRyZXNzLmdldFN0cmVldEFkZHJlc3MxKCksIHByb3ByaWV0b3JBZGRyZXNzLmdldFVuZm9ybWF0dGVkQWRkcmVzcygpKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZW5kQnVzaW5lc3NWZXJpZmllZFVwZGF0ZUVtYWlsKFNhbGVzQWdlbnQgc2FsZXNBZ2VudCwgU3RyaW5nIG9wcG9ydHVuaXR5VXJsLCBTdHJpbmcgYnVzaW5lc3NMZWdhbE5hbWUpCiAgewogICAgTWFwPE1lc3NhZ2UuUmVjaXBpZW50VHlwZSwgU3RyaW5nPiByZWNpcGllbnRNYXAgPQogICAgICAgICAgICBnZXRTYWxlc0FnZW50Tm90aWZpY2F0aW9uUmVjaXBpZW50TWFwKHNhbGVzQWdlbnQpOwogICAgTWFwPFN0cmluZywgT2JqZWN0PiBtb2RlbCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIG1vZGVsLnB1dCgib3Bwb3J0dW5pdHlVcmwiLCBvcHBvcnR1bml0eVVybCk7CgogICAgdHJ5CiAgICB7CiAgICAgIFN0cmluZyBidXNpbmVzc1ZlcmlmaWVkRW1haWxUZW1wbGF0ZSA9CiAgICAgICAgICAgICAgVmVsb2NpdHlFbmdpbmVVdGlscy5tZXJnZVRlbXBsYXRlSW50b1N0cmluZyh2ZWxvY2l0eUNvbmZpZ3VyZXIuZ2V0VmVsb2NpdHlFbmdpbmUoKSwKICAgICAgICAgICAgICAgICAgICAgICIvdmVsb2NpdHkvZW1haWwvYnVzaW5lc3NWZXJpZmllZC52bSIsICJVVEYtOCIsIG1vZGVsKTsKICAgICAgbWFpbFNlcnZpY2Uuc2VuZEVtYWlsKHJlY2lwaWVudE1hcCwgIllvdXIgQ2FuYWRpYW4gbG9hbiBmb3IgIiArIGJ1c2luZXNzTGVnYWxOYW1lCiAgICAgICAgICAgICAgKyAiIGlzIHJlYWR5IGZvciBvbmxpbmUgY2hlY2tvdXQiLCBidXNpbmVzc1ZlcmlmaWVkRW1haWxUZW1wbGF0ZSwgbnVsbCk7CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkKICAgIHsKICAgICAgTE9HR0VSLmVycm9yKFN0cmluZy5mb3JtYXQoIlVuYWJsZSB0byBzZW5kIGJ1c2luZXNzIHZlcmlmaWNhdGlvbiBlbWFpbCB0byAlcyBmb3Igb3Bwb3J0dW5pdHkgJXMiLCBzYWxlc0FnZW50LmdldEVtYWlsKCksIG9wcG9ydHVuaXR5VXJsKSwgZSk7CiAgICB9CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhZGRyZXNzLmdldFppcGNvZGUoKSwgcHJvcHJpZXRvckFkZHJlc3MuZ2V0UG9zdGNvZGUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhZGRyZXNzLmdldENpdHkoKSwgcHJvcHJpZXRvckFkZHJlc3MuZ2V0U3VidXJiKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhZGRyZXNzLmdldFN0YXRlKCksIHByb3ByaWV0b3JBZGRyZXNzLmdldFN0YXRlKCkuZ2V0VmFsdWUoKS52YWx1ZSgpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHNob3VsZFNlbmRCdXNpbmVzc1ZlcmlmaWVkRW1haWwoKQogIHsKICAgIE1hcDxNZXNzYWdlLlJlY2lwaWVudFR5cGUsIFN0cmluZz4gcmVjaXBpZW50TWFwID0gbmV3IEhhc2hNYXA8TWVzc2FnZS5SZWNpcGllbnRUeXBlLCBTdHJpbmc+KCk7CiAgICByZWNpcGllbnRNYXAucHV0KFJlY2lwaWVudFR5cGUuVE8sICJhYmNAZW1haWwuY29tIik7CiAgICByZWNpcGllbnRNYXAucHV0KFJlY2lwaWVudFR5cGUuQkNDLCBudWxsKTsKICAgIFN0cmluZyBodG1sQm9keSA9ICJZb3VyIG1lcmNoYW50IGhhcyBiZWVuIHZlcmlmaWVkLiBQbGVhc2UgaW5mb3JtIHRoZW0gdGhhdCB0aGV5IG1heSBwcm9jZWVkIHdpdGggY2hlY2tvdXQuXG4iICsgCiAgICAgICAgIjxici8+PGJyLz5cbiIgKyAKICAgICAgICAiWW91IGNhbiBhY2Nlc3MgdGhpcyBvcHBvcnR1bml0eSBoZXJlOlxuIiArIAogICAgICAgICI8YnIvPlxuIiArIAogICAgICAgICI8YSBocmVmPVwiaHR0cHM6Ly93d3cub25kZWNrLmNvbVwiPmh0dHBzOi8vd3d3Lm9uZGVjay5jb208L2E+XG4iICsgCiAgICAgICAgIjxici8+PGJyLz4iOwogICAgU2FsZXNBZ2VudCBzYWxlc0FnZW50ID0gbmV3IFNhbGVzQWdlbnQoKTsKICAgIHNhbGVzQWdlbnQuc2V0RW1haWwoImFiY0BlbWFpbC5jb20iKTsKICAgIGF1dG9tYXRlZEVtYWlsU2VydmljZS5zZW5kQnVzaW5lc3NWZXJpZmllZFVwZGF0ZUVtYWlsKHNhbGVzQWdlbnQsICJodHRwczovL3d3dy5vbmRlY2suY29tIiwgImNvb2wgYnVzaW5lc3MiKTsKICAgIHZlcmlmeShtYWlsU2VydmljZSkuc2VuZEVtYWlsKHJlY2lwaWVudE1hcCwgIllvdXIgQ2FuYWRpYW4gbG9hbiBmb3IgY29vbCBidXNpbmVzcyBpcyByZWFkeSBmb3Igb25saW5lIGNoZWNrb3V0IiwgaHRtbEJvZHksIG51bGwpOwogIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhZGRyZXNzLmdldFN0cmVldEFkZHJlc3MxKCksIHByb3ByaWV0b3JBZGRyZXNzLmdldFVuZm9ybWF0dGVkQWRkcmVzcygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkcmVzcy5zZXRQb3N0Y29kZShpbnB1dEFkZHJlc3MuZ2V0WmlwY29kZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
