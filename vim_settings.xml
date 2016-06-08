@@ -279,6 +279,7 @@
         <mark key="]" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-indepthtradinghistory-connection/src/main/java/com/odc/vendor/connection/veda/indepthtradinghistory/VedaInDepthTradingHistoryConnection.java" timestamp="1465407260178" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/ConnectIOSpec.scala" timestamp="1459891432146">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
@@ -363,6 +364,7 @@
         <mark key="]" line="34" column="42" />
         <mark key="." line="34" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/BasicConnection.java" timestamp="1465407464512" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/validation/business/BusinessTaxIdValidatorHelper.java" timestamp="1460387074172">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -378,6 +380,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-business-trading-history-connection/src/main/java/com/odc/vendor/connection/veda/business/trading/history/VedaBusinessTradingHistoryConnection.java" timestamp="1465407236171" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/core/async/AsyncDecisionServiceIntegrationTest.java" timestamp="1463519291454">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -530,6 +533,9 @@
         <mark key="[" line="29" column="73" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-organisation-identification-connection/src/main/java/com/odc/vendor/connection/veda/organisation/identification/VedaOrganisationIdentificationConnection.java" timestamp="1465407474863">
+        <mark key="[" line="56" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDaoTest.java" timestamp="1463758619778">
         <mark key="[" line="317" column="30" />
@@ -860,6 +866,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/security/PoodleSafeSocketUtils.java" timestamp="1465406467083">
+        <mark key="[" line="23" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1463163776292">
         <mark key="[" line="207" column="0" />
         <mark key="]" line="207" column="0" />
@@ -1015,6 +1024,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/PooledServiceConnection.java" timestamp="1465406993270">
+        <mark key="[" line="19" column="99" />
+        <mark key="]" line="19" column="99" />
+        <mark key="." line="19" column="99" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchConfig.java" timestamp="1462465530113">
         <mark key="[" line="96" column="71" />
         <mark key="]" line="98" column="0" />
@@ -1150,11 +1164,11 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zODFdIGZpeCBpbnRlZ3JhdGlvbiB0ZXN0cwo=</text>
+      <register name="&quot;" type="4">
+        <text>TLSv1</text>
       </register>
       <register name="-" type="4">
-        <text>Option[util.List[CNScoreType]]</text>
+        <text>TLSv1</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
