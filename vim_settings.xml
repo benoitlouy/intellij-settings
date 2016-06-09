@@ -266,8 +266,8 @@
         <mark key="]" line="534" column="0" />
         <mark key="." line="534" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/dunbradstreet-australia-model/build.gradle" timestamp="1463600132400">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/dunbradstreet-australia-model/build.gradle" timestamp="1465480165955">
+        <mark key="[" line="13" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -333,6 +333,12 @@
         <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-indepthtradinghistory-connection/src/main/java/com/odc/vendor/connection/veda/indepthtradinghistory/VedaInDepthTradingHistoryConnection.java" timestamp="1465407260178" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/dunbradstreet-australia-model/src/main/resources/IF Core Enumerations.xsd" timestamp="1465480814427">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/ConnectIOSpec.scala" timestamp="1459891432146">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
@@ -631,6 +637,7 @@
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/experian-bcr-model/build.gradle" timestamp="1465480152855" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/common/services/utils.js" timestamp="1459794681433">
         <mark key="[" line="779" column="50" />
         <mark key="]" line="779" column="50" />
@@ -1266,11 +1273,11 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWN0aXZlbXEuam14LnVybD1zZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly9xZDJ3aW4wMjoxMDk5L2pteHJtaQo=</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;org.apache.activemq:BrokerName=localhost,Type=Broker&quot;</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
