@@ -97,10 +97,10 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc.vendor.connection/veda-organisation-identification-connection/1.19-INTL-533-SNAPSHOT/4630f7936c336c596a434da9cbc73dc5d1a56f60/veda-organisation-identification-connection-1.19-INTL-533-SNAPSHOT.jar!/com/odc/vendor/connection/veda/organisation/identification/VedaOrganisationIdentificationConnection.class" timestamp="1465588135047" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1465587415262">
-        <mark key="[" line="203" column="46" />
-        <mark key="]" line="203" column="46" />
-        <mark key="." line="203" column="46" />
-        <mark key="^" line="203" column="52" />
+        <mark key="[" line="205" column="46" />
+        <mark key="]" line="205" column="46" />
+        <mark key="." line="205" column="46" />
+        <mark key="^" line="205" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/ResultType.java" timestamp="1461004354596">
         <mark key="[" line="49" column="0" />
@@ -576,6 +576,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1465593781837">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/business/equifax/intl/can/EquifaxCanadaMHRRequestBuilder.java" timestamp="1465413607996">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -591,7 +596,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-business-trading-history-connection/src/integrationTest/java/com/odc/vendor/connection/veda/business/trading/history/VedaBusinessTradingHistoryConnectionIntegrationTest.java" timestamp="1465592188847" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-business-trading-history-connection/src/integrationTest/java/com/odc/vendor/connection/veda/business/trading/history/VedaBusinessTradingHistoryConnectionIntegrationTest.java" timestamp="1465593021431" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDaoAsyncHelper.scala" timestamp="1463502859229">
         <mark key="[" line="48" column="5" />
         <mark key="]" line="14" column="0" />
@@ -816,7 +821,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" timestamp="1465496254600">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/util/AddressUtil.java" timestamp="1465593700777">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -894,7 +899,7 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/util/AddressUtilUnitTest.java" timestamp="1465496277296">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/util/AddressUtilUnitTest.java" timestamp="1465593707800">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -1144,8 +1149,8 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2000000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zMzJdIGRpc2FibGUgVExTdjEuMSBmb3IgdmVkYSBjb25uZWN0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
         <text>2000000</text>
@@ -1157,31 +1162,31 @@
         <text encoding="base64">ICAgIGlkZW50aWZpZXIuc2V0VmFsdWUoIjMyMDAzOTc3NDQ2Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKGRvY3VtZW50LmdldENoaWxkTm9kZXMoKS5pdGVtKDApLmdldENoaWxkTm9kZXMoKS5pdGVtKDApLmdldFRleHRDb250ZW50KCkpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC0zMzJdIGRpc2FibGUgVExTdjEuMSBmb3IgdmVkYSBjb25uZWN0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKGRvY3VtZW50LmdldENoaWxkTm9kZXMoKS5pdGVtKDApLmdldEF0dHJpYnV0ZXMoKS5pdGVtKDApLmdldE5vZGVOYW1lKCkpOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKGRvY3VtZW50KTsK</text>
+        <text encoding="base64">ICBkZWYgdmVuZG9yQ29ubmVjdGlvblZlcnNpb24gPSAnMS4xOC4xJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBhOGI0ZDk4MTFhODQ1OGUzMzM5OTg1MTA3MWMyMWM1NDg1OWY1YjE3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkb2N1bWVudC5nZXROb2RlTmFtZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihub2RlLmdldE5vZGVOYW1lKCkgKyAiICIgKyBub2RlLmdldE5vZGVUeXBlKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBwcml2YXRlIEJhc2VBZGRyZXNzIGFkZHJlc3MoU3RyaW5nIGxpbmUxKQogIHsKICAgIEJhc2VBZGRyZXNzIGFkZHJlc3MgPSBuZXcgQmFzZUFkZHJlc3MoKTsKICAgIGFkZHJlc3Muc2V0U3RyZWV0QWRkcmVzczEobGluZTEpOwogICAgcmV0dXJuIGFkZHJlc3M7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHBhcnNlQWRkcmVzc0xpbmUxKCkKICB7CiAgICBCYXNlQWRkcmVzcyByZXN1bHQgPSBBZGRyZXNzVXRpbC5wYXJzZVN0cmVldEFkZHJlc3MxKGFkZHJlc3MoIjEyMyBXIDM5dGggU3RyZWV0IEZsb29yIDQyIikpOwogICAgYXNzZXJ0RXF1YWxzKCIxMjMiLCByZXN1bHQuZ2V0U3RyZWV0TnVtYmVyKCkpOwogICAgYXNzZXJ0RXF1YWxzKCJXIDM5dGgiLCByZXN1bHQuZ2V0U3RyZWV0TmFtZSgpKTsKICAgIGFzc2VydEVxdWFscygiU3RyZWV0IiwgcmVzdWx0LmdldFN0cmVldFR5cGUoKSk7CgogICAgQmFzZUFkZHJlc3MgcmVzdWx0MiA9IEFkZHJlc3NVdGlsLnBhcnNlU3RyZWV0QWRkcmVzczEoYWRkcmVzcygiNDU2IFNvbWUgQXZlbnVlIikpOwogICAgYXNzZXJ0RXF1YWxzKCI0NTYiLCByZXN1bHQyLmdldFN0cmVldE51bWJlcigpKTsKICAgIGFzc2VydEVxdWFscygiU29tZSIsIHJlc3VsdDIuZ2V0U3RyZWV0TmFtZSgpKTsKICAgIGFzc2VydEVxdWFscygiQXZlbnVlIiwgcmVzdWx0Mi5nZXRTdHJlZXRUeXBlKCkpOwogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCBlbXB0eUFkZHJlc3NMaW5lMSgpCiAgewogICAgQmFzZUFkZHJlc3MgYWRkcmVzcyA9IGFkZHJlc3MoIiIpOwogICAgQmFzZUFkZHJlc3MgcmVzdWx0ID0gQWRkcmVzc1V0aWwucGFyc2VTdHJlZXRBZGRyZXNzMShhZGRyZXNzKTsKCiAgICBhc3NlcnRTYW1lKGFkZHJlc3MsIHJlc3VsdCk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIGNhbm5vdFBhcnNlQWRkcmVzc0xpbmUxKCkKICB7CiAgICBCYXNlQWRkcmVzcyBhZGRyZXNzID0gYWRkcmVzcygiQ0UxIEFWRSBTUEFSS1MiKTsKICAgIEJhc2VBZGRyZXNzIHJlc3VsdCA9IEFkZHJlc3NVdGlsLnBhcnNlU3RyZWV0QWRkcmVzczEoYWRkcmVzcyk7CgogICAgYXNzZXJ0RXF1YWxzKGFkZHJlc3MuZ2V0U3RyZWV0QWRkcmVzczEoKSwgcmVzdWx0LmdldFN0cmVldE5hbWUoKSk7CiAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICByZXR1cm4gbm9kZS5nZXROb2RlVmFsdWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>6709</text>
