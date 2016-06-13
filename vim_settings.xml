@@ -102,6 +102,11 @@
         <mark key="." line="205" column="46" />
         <mark key="^" line="205" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/common/model/IdentifierUtilsUnitTest.java" timestamp="1465850465183">
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="4" />
+        <mark key="." line="93" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/ResultType.java" timestamp="1461004354596">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -434,7 +439,7 @@
         <mark key="." line="128" column="128" />
         <mark key="^" line="128" column="128" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaRequestConverter.java" timestamp="1465848346693">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaRequestConverter.java" timestamp="1465848853528">
         <mark key="[" line="67" column="37" />
         <mark key="]" line="67" column="43" />
         <mark key="." line="67" column="43" />
@@ -711,6 +716,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaRequestConverterUnitTest.java" timestamp="1465851007695">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="66" column="36" />
+        <mark key="." line="66" column="36" />
+        <mark key="^" line="66" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/dunbradstreet-australia-model/src/generated/java/com/odc/vendor/model/dunbradstreet/australia/payload/Inteflow.java" timestamp="1465833658855" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/model/IdentifierUtils.java" timestamp="1465847745630">
@@ -1221,10 +1232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1233,31 +1244,31 @@
         <text encoding="base64">ICAgIGlkZW50aWZpZXIuc2V0VmFsdWUoIjMyMDAzOTc3NDQ2Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFNhbWUoaWRlbnRpZmllciwgcmVzdWx0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgSW1tdXRhYmxlTGlzdC5vZihCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkFVU19BQ04sIEJ1c2luZXNzSWRlbnRpZmllclR5cGUuQVVTX0FCTik7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFsSW1tdXRhYmxlTGlzdC5vZihpZGVudGlmaWVyKSwgSW1tdXRhYmxlTGlzdC5jb3B5T2YocmVzdWx0KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBMaXN0PEJ1c2luZXNzSWRlbnRpZmllclR5cGU+IElERU5USUZJRVJTID0K</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCByZXN1bHQuc2l6ZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmQ29tcGFueS5zZXRUeENvbXBhbnlBYm4oIjI1MTEwMjg5MDI0Iik7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFNhbWUoaWRlbnRpZmllciwgcmVzdWx0Lml0ZXJhdG9yKCkubmV4dCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8QnVzaW5lc3NJZGVudGlmaWVyPiBhY24gPSBJZGVudGlmaWVyVXRpbHMuKEJ1c2luZXNzSWRlbnRpZmllclR5cGUuQVVTX0FDTiwgaW5wdXQuZ2V0QnVzaW5lc3MoKS5nZXRCdXNpbmVzc0lkZW50aWZpZXJzKCkpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhJbW11dGFibGVMaXN0Lm9mKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEl0ZXJhYmxlcy5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVzaW5lc3NJZGVudGlmaWVyKEJ1c2luZXNzSWRlbnRpZmllclR5cGUuVVNBX1RBWF9JRCkpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbW11dGFibGVMaXN0Lm9mKGJ1c2luZXNzSWRlbnRpZmllcihCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkFVU19BQ04pLCBpZGVudGlmaWVyLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSURfTUVSQ0hBTlRfU1VCTUlUID0gIk9OREUiCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhJbW11dGFibGVMaXN0Lm9mKGlkZW50aWZpZXIpLCBJZGVudGlmaWVyVXRpbHMuZmluZChCdXNpbmVzc0lkZW50aWZpZXJUeXBlLkFVU19BQk4sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHQuZ2V0UmVzcG9uc2UoKS5nZXRBcHBsaWNhdGlvbigpLmdldEFwcGxpY2FudCgpLmdldENvbXBhbnkoKS5nZXRObUNvbXBhbnlMZWdhbCgpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
