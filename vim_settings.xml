@@ -309,6 +309,9 @@
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/business/dunbradstreet/intl/aus/DunBradstreetAustraliaResponse.java" timestamp="1465846199825">
+        <mark key="[" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/canadabusinesscredit.html" timestamp="1464024299478">
         <mark key="[" line="0" column="55" />
         <mark key="]" line="0" column="55" />
@@ -564,6 +567,11 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/veda-organisation-identification-connection/src/main/java/com/odc/vendor/connection/veda/organisation/identification/VedaOrganisationIdentificationConnection.java" timestamp="1465590999409" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaReportFetcher.java" timestamp="1465846326937">
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="41" column="6" />
+        <mark key="." line="41" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1465572030327" />
       <file name="/fragment.java" timestamp="1465843564539">
         <mark key="[" line="0" column="0" />
@@ -754,11 +762,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaConfig.java" timestamp="1465505501130">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaConfig.java" timestamp="1465846308876">
+        <mark key="[" line="36" column="49" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaCachingReportHandler.java" timestamp="1465846552004" />
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.spec.js" timestamp="1459794976287">
         <mark key="[" line="144" column="61" />
         <mark key="]" line="144" column="61" />
@@ -1205,11 +1214,11 @@
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHQuZ2V0UmVzcG9uc2UoKS5nZXRBcHBsaWNhdGlvbigpLmdldEFwcGxpY2FudCgpLmdldENvbXBhbnkoKS5nZXRObUNvbXBhbnlMZWdhbCgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>InputStreamReader</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
