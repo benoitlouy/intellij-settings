@@ -99,11 +99,11 @@
         <mark key="]" line="14" column="67" />
         <mark key="." line="14" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1465587415262">
-        <mark key="[" line="205" column="46" />
-        <mark key="]" line="205" column="46" />
-        <mark key="." line="205" column="46" />
-        <mark key="^" line="205" column="52" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1465916281076">
+        <mark key="[" line="171" column="45" />
+        <mark key="]" line="206" column="46" />
+        <mark key="." line="206" column="46" />
+        <mark key="^" line="206" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/common/model/IdentifierUtilsUnitTest.java" timestamp="1465850465183">
         <mark key="[" line="93" column="4" />
@@ -603,6 +603,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaCachingReportHandlerIT.java" timestamp="1465916451504">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="28" column="53" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1465852104878">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -765,10 +770,10 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaConfig.java" timestamp="1465846308876">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="49" />
-        <mark key="." line="36" column="49" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaConfig.java" timestamp="1465916943535">
+        <mark key="[" line="76" column="39" />
+        <mark key="]" line="76" column="39" />
+        <mark key="." line="76" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.spec.js" timestamp="1459794976287">
         <mark key="[" line="144" column="61" />
@@ -1188,10 +1193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result.getResponse().getApplication().getApplicant().getCompany().getNmCompanyLegal()</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>result.getResponse().getApplication().getApplicant().getCompany().getNmCompanyLegal()</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1200,31 +1205,31 @@
         <text encoding="base64">ICAgIGlkZW50aWZpZXIuc2V0VmFsdWUoIjMyMDAzOTc3NDQ2Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhLmVxdWlmYXgueG1sc2NoZW1hcy5lZnh0b2N1c3QuRWZ4VHJhbnNtaXQ7Cg==</text>
+        <text encoding="base64">ICAgIGJ1c2luZXNzLmdldEJ1c2luZXNzSWRlbnRpZmllcnMoKS5hZGQoaWRlbnRpZmllcikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNhLmVxdWlmYXgueG1sc2NoZW1hcy5lZnh0b2N1c3QuRWZ4VHJhbnNtaXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmdldEJ1c2luZXNzKCkuZ2V0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhLmVxdWlmYXgueG1sc2NoZW1hcy5lZnh0b2N1c3QuRWZ4VHJhbnNtaXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS5nZXRCdQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLmdldEJ1c2luZXNzKCkuZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01MzRdIGJvaWxlciBwbGF0ZSBjb2RlIHRvIGludGVncmF0ZSBEJkIgQXVzdHJhbGlhIGluIENvbm5lY3QK</text>
+        <text encoding="base64">ICAgICAgZGF0YS5nZXRCdQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01MzRdIGJvaWxlciBwbGF0ZSBjb2RlIHRvIGludGVncmF0ZSBEJkIgQXVzdHJhbGlhIGluIENvbm5lY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21waWxlKCJjb20ub2RjLnZlbmRvci5jb25uZWN0aW9uOmVxdWlmYXgtY2FuYWRhLWNvbm5lY3Rpb246JHZlbmRvckNvbm5lY3Rpb25WZXJzaW9uIikgewo=</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJwo=</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
