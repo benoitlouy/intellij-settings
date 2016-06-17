@@ -212,6 +212,11 @@
         <mark key="]" line="1362" column="0" />
         <mark key="." line="1362" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466194842559">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagementTest.java" timestamp="1464121846804">
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="0" />
@@ -735,6 +740,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/build.gradle" timestamp="1466100037275">
+        <mark key="[" line="213" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/business/equifax/intl/can/EquifaxCanadaMHRRequestBuilder.java" timestamp="1465853154483">
         <mark key="[" line="7" column="75" />
         <mark key="]" line="5" column="0" />
@@ -1101,6 +1109,9 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1466194737155">
+        <mark key="[" line="33" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/util/AddressUtilUnitTest.java" timestamp="1466100876177">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -1363,10 +1374,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1375,35 +1386,35 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RFTF9OQU1FID0gIkR1bmJyYWRzdHJlZXRhdXN0cmFsaWFzY29yZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNoYXJzLnppcCh0aW1lcykuZGlzdGluY3QK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>//    response.getInteflow().getResponse().getApplication().getResult().getAlertList();
 //    response.getInteflow().getResponse().getApplication().getApplicants().get(0).getResult().getAlertList();
 //
 //    response.getInteflow().getService().getApplication().getResult().getAlertList();
 //    response.getInteflow().getService().getApplication().getApplicants().get(0).getResult().getAlertList();</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydHMgPSBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
