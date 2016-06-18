@@ -90,6 +90,11 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/Desktop/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466267050770">
+        <mark key="[" line="225" column="44" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/integrationTest/resources/testContext.xml" timestamp="1461090491763">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -262,6 +267,9 @@
         <mark key="[" line="178" column="0" />
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1466265740552">
+        <mark key="[" line="55" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/SFOpportunityCountryConversion.scala" timestamp="1461876638153">
         <mark key="[" line="22" column="68" />
@@ -1367,11 +1375,11 @@
       <jump line="101" column="34" filename="$USER_HOME$/Downloads/streams/src/main/scala/streams/Solver.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNhc2UgTGVhZigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">bWF0Y2gg</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1379,32 +1387,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpicm9rZXJOYW1lPSIgKyBicm9rZXJOYW1lICsgIixUeXBlPUJyb2tlciIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>test</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNhc2UgTGVhZigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">bWF0Y2gg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">dHJlZSA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0ZXN0KCJ0ZXN0MiIpIHsK</text>
+        <text encoding="base64">ICBkZWYgZW5jb2RlKHRyZWU6IENvZGVUcmVlKSh0ZXh0OiBMaXN0W0NoYXJdKTogTGlzdFtCaXRdID0gCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICBwcmludGxuKG0udG9TZXQpCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgTmlsID0+IAo=</text>
       </register>
       <register name="8" type="4">
-        <text>.toSet</text>
+        <text>text match {</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihuLm1rU3RyaW5nKCJcbiIpKQo=</text>
+      <register name="9" type="4">
+        <text>???</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
