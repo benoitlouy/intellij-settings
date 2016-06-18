@@ -287,6 +287,9 @@
         <mark key="]" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala" timestamp="1466274237824">
+        <mark key="[" line="22" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFCountryApplication.java" timestamp="1462561205680">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="22" column="0" />
@@ -577,11 +580,11 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/Downloads/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1466270893818">
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="20" />
-        <mark key="." line="52" column="20" />
-        <mark key="^" line="52" column="20" />
+      <file name="$USER_HOME$/Downloads/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1466275297406">
+        <mark key="[" line="73" column="13" />
+        <mark key="]" line="74" column="6" />
+        <mark key="." line="74" column="6" />
+        <mark key="^" line="74" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/validation/business/BusinessTaxIdValidatorHelper.java" timestamp="1460387074172">
         <mark key="[" line="115" column="0" />
@@ -854,7 +857,7 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1466018508598">
+      <file name="/fragment.java" timestamp="1466273866601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -1259,6 +1262,12 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
         <mark key="^" line="372" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/quickcheck/src/test/scala/quickcheck/test/Heap.scala" timestamp="1466275108916">
+        <mark key="[" line="67" column="91" />
+        <mark key="]" line="67" column="90" />
+        <mark key="^" line="67" column="90" />
+        <mark key="." line="67" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/status.js" timestamp="1459794957212">
         <mark key="[" line="284" column="67" />
@@ -1771,10 +1780,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>nserting sequenc</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>nserting sequenc</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1783,31 +1792,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RFTF9OQU1FID0gIkR1bmJyYWRzdHJlZXRhdXN0cmFsaWFzY29yZSI7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>m</text>
+        <text>nserting sequenc</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>_</text>
       </register>
-      <register name="3" type="4">
-        <text>hint1</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0geWllbGQgZTEgPT0gZTIK</text>
       </register>
-      <register name="4" type="4">
-        <text>value</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZTIgPC0gZmluZE1pbihtMikK</text>
       </register>
-      <register name="5" type="4">
-        <text>value</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZTEgPC0gZmluZE1pbihtMSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>???</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyZXFzLmZvbGRSaQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVsZXRlTWluKG0xKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgZTogKChJbnQsIExpc3RbTGVhZl0pLCAoQ2hhciwgSW50KSkgPT4gKGUuXzEuXzEgKyAxLCBMZWFmKGUuXzIuXzEsIGUuXzEuXzEpIDo6IGUuXzEuXzIpCg==</text>
+        <text encoding="base64">ICAgIG0gPT0gZmluZE1pbihoMSkgfHwgbSA9PSBmaW5kTWluKGgyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
