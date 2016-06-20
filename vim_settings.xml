@@ -19,10 +19,11 @@
       <file name="/a.dummy" timestamp="1464373622964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1466449010932">
-        <mark key="[" line="267" column="3" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1466456023825">
+        <mark key="[" line="274" column="84" />
+        <mark key="]" line="274" column="59" />
+        <mark key="." line="274" column="59" />
+        <mark key="^" line="274" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/resources/qd.decisionservice.properties" timestamp="1466438132803">
         <mark key="[" line="50" column="0" />
@@ -992,11 +993,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1466455022439">
-        <mark key="[" line="72" column="73" />
-        <mark key="]" line="72" column="73" />
-        <mark key="^" line="71" column="49" />
-        <mark key="." line="72" column="73" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1466456559826">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="78" column="64" />
+        <mark key="]" line="78" column="64" />
+        <mark key="." line="78" column="64" />
+        <mark key="^" line="78" column="9" />
       </file>
       <file name="$USER_HOME$/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1464836738681">
         <mark key="[" line="75" column="9" />
@@ -1668,8 +1670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="31" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaProcessPendingRequestQueueHandler.java" />
-      <jump line="34" column="34" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryReportWorkerUnitTest.java" />
       <jump line="54" column="34" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaInDepthTradingHistoryFetcherTaskFactory.java" />
       <jump line="44" column="84" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryCachingReportHandlerIntegrationTest.java" />
       <jump line="38" column="65" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaInDepthTradingHistoryFetcherTaskFactory.java" />
@@ -1768,13 +1768,15 @@
       <jump line="12" column="86" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRConfig.java" />
       <jump line="64" column="2" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRRequestConverter.java" />
       <jump line="87" column="96" filename="$USER_HOME$/Downloads/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="87" column="54" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
+      <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SOLE_PROPRIETORSHIP_REGISTRY_TYPE</text>
+        <text>ole proprietorship</text>
       </register>
       <register name="-" type="4">
-        <text>SOLE_PROPRIETORSHIP_REGISTRY_TYPE</text>
+        <text>ole proprietorship</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1783,31 +1785,40 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RFTF9OQU1FID0gIkR1bmJyYWRzdHJlZXRhdXN0cmFsaWFzY29yZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RhdGUuQ0FfTUIgLT4gRGVwZW5kc09uUmVnaXN0cnlUeXBlLAo=</text>
+        <text encoding="base64">Ly8gICAgICBZZXNXaXRoTWVzc2FnZShDT1JQX1NFQVJDSF9TT0xFX1BST1BSSUVUT1JTSElQX1BPTElDWSwgIk5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3RhdGUuQ0FfQkMgLT4gRGVwZW5kc09uUmVnaXN0cnlUeXBlLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0YXRlLkNBX09OIC0+IERlcGVuZHNPblJlZ2lzdHJ5VHlwZSwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0YXRlLkNBX09OIC0+IERlcGVuZHNPblJlZ2lzdHJ5VHlwZSwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text>//      if (Set(State.CA_YT, State.CA_NU).contains(state))
+//        NoWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Cannot determine if business is a sole proprietorship&quot;)
+//      else if (state == State.CA_NL)
+//        YesWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Not a sole proprietorship&quot;)
+//      else if (Set(State.CA_ON, State.CA_BC, State.CA_MB, State.CA_PE).contains(state)) {
+//        if (corpSearch.flatMap(_.registryType).map(_.toLowerCase).contains(SOLE_PROPRIETORSHIP_REGISTRY_TYPE))
+//          YesWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Sole proprietorship&quot;)
+//        else
+//          YesWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Not a sole proprietorship&quot;)
+      } else if ()</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ci8vICAgICAgaWYgKFNldChTdGF0ZS5DQV9ZVCwgU3RhdGUuQ0FfTlUpLmNvbnRhaW5zKHN0YXRlKSkKLy8gICAgICAgIE5vV2l0aE1lc3NhZ2UoQ09SUF9TRUFSQ0hfU09MRV9QUk9QUklFVE9SU0hJUF9QT0xJQ1ksICJDYW5ub3QgZGV0ZXJtaW5lIGlmIGJ1c2luZXNzIGlzIGEgc29sZSBwcm9wcmlldG9yc2hpcCIpCi8vICAgICAgZWxzZSBpZiAoc3RhdGUgPT0gU3RhdGUuQ0FfTkwpCi8vICAgICAgICBZZXNXaXRoTWVzc2FnZShDT1JQX1NFQVJDSF9TT0xFX1BST1BSSUVUT1JTSElQX1BPTElDWSwgIk5vdCBhIHNvbGUgcHJvcHJpZXRvcnNoaXAiKQovLyAgICAgIGVsc2UgaWYgKFNldChTdGF0ZS5DQV9PTiwgU3RhdGUuQ0FfQkMsIFN0YXRlLkNBX01CLCBTdGF0ZS5DQV9QRSkuY29udGFpbnMoc3RhdGUpKSB7Ci8vICAgICAgICBpZiAoY29ycFNlYXJjaC5mbGF0TWFwKF8ucmVnaXN0cnlUeXBlKS5tYXAoXy50b0xvd2VyQ2FzZSkuY29udGFpbnMoU09MRV9QUk9QUklFVE9SU0hJUF9SRUdJU1RSWV9UWVBFKSkKLy8gICAgICAgICAgWWVzV2l0aE1lc3NhZ2UoQ09SUF9TRUFSQ0hfU09MRV9QUk9QUklFVE9SU0hJUF9QT0xJQ1ksICJTb2xlIHByb3ByaWV0b3JzaGlwIikKLy8gICAgICAgIGVsc2UKLy8gICAgICAgICAgWWVzV2l0aE1lc3NhZ2UoQ09SUF9TRUFSQ0hfU09MRV9QUk9QUklFVE9SU0hJUF9QT0xJQ1ksICJOb3QgYSBzb2xlIHByb3ByaWV0b3JzaGlwIikKICAgICAgfSBlbHNlIGlmICgp</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgU3RhdGUuQ0FfTkwgLT4gTm9Tb2xlUHJvcHJpZXRvcnNoaXAsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFllc1dpdGhNZXNzYWdlKENPUlBfU0VBUkNIX1NPTEVfUFJPUFJJRVRPUlNISVBfUE9MSUNZLCAiTm90IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgU3RhdGUuQ0FfUEUgLT4gRGVwZW5kc09uUmVnaXN0cnlUeXBlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0dXMgPSBvcHBvcnR1bml0eS5nZXRCdXNpbmVzcy5nZXRBZGRyZXNzLmdldFN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgU3RhdGUuQ0FfTUIgLT4gRGVwZW5kc09uUmVnaXN0cnlUeXBlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gY29ycFNlYXJjaERhby5maW5kQnlPcHBvcnR1bml0eUlkKG9wcG9ydHVuaXR5LmdldElkKQo=</text>
+        <text encoding="base64">ICAgICAgU3RhdGUuQ0FfQkMgLT4gRGVwZW5kc09uUmVnaXN0cnlUeXBlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0YXRlLkNBX09OIC0+IERlcGVuZHNPblJlZ2lzdHJ5VHlwZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
