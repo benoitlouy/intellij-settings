@@ -19,10 +19,11 @@
       <file name="/a.dummy" timestamp="1464373622964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1466514829803">
-        <mark key="[" line="298" column="104" />
-        <mark key="]" line="298" column="104" />
-        <mark key="." line="298" column="104" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1466517000347">
+        <mark key="[" line="326" column="84" />
+        <mark key="]" line="326" column="84" />
+        <mark key="^" line="325" column="26" />
+        <mark key="." line="326" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/resources/qd.decisionservice.properties" timestamp="1466438132803">
         <mark key="[" line="50" column="0" />
@@ -1775,10 +1776,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CorpSearchPolicies.SOLE_PROPRIETORSHIP_REGISTRY_TYPE</text>
+        <text>NOT_SOLE_PROP</text>
       </register>
       <register name="-" type="4">
-        <text>CorpSearchPolicies.SOLE_PROPRIETORSHIP_REGISTRY_TYPE</text>
+        <text>NOT_SOLE_PROP</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1787,18 +1788,30 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RFTF9OQU1FID0gIkR1bmJyYWRzdHJlZXRhdXN0cmFsaWFzY29yZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHIuZ2V0UG9saWN5RGV0YWlsTWVzc2FnZSBzaG91bGRCZSBDb3JwU2VhcmNoUG9saWNpZXMuTk9UX1NPTEVfUFJPUAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgWWVzV2l0aFJlc3VsdEFuZFBvbGljeU1lc3NhZ2UK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICBZZXNXaXRoTWVzc2FnZShDT1JQX1NFQVJDSF9TT0xFX1BST1BSSUVUT1JTSElQX1BPTElDWSwgIk5vdCBpbXBsZW1lbnRlZCIpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpdCBzaG91bGQgImRlY2lkZSB0aGF0ICIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgcHIuZ2V0UG9saWN5RGV0YWlsTWVzc2FnZSBzaG91bGRCZSBDb3JwU2VhcmNoUG9saWNpZXMuTk9UX1NPTEVfUFJPUAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgWWVzV2l0aFJlc3VsdEFuZFBvbGljeU1lc3NhZ2UK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICBZZXNXaXRoTWVzc2FnZShDT1JQX1NFQVJDSF9TT0xFX1BST1BSSUVUT1JTSElQX1BPTElDWSwgIk5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>//      if (Set(State.CA_YT, State.CA_NU).contains(state))
 //        NoWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Cannot determine if business is a sole proprietorship&quot;)
 //      else if (state == State.CA_NL)
@@ -1809,18 +1822,6 @@
 //        else
 //          YesWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Not a sole proprietorship&quot;)
       } else if ()</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ci8vICAgICAgaWYgKFNldChTdGF0ZS5DQV9ZVCwgU3RhdGUuQ0FfTlUpLmNvbnRhaW5zKHN0YXRlKSkKLy8gICAgICAgIE5vV2l0aE1lc3NhZ2UoQ09SUF9TRUFSQ0hfU09MRV9QUk9QUklFVE9SU0hJUF9QT0xJQ1ksICJDYW5ub3QgZGV0ZXJtaW5lIGlmIGJ1c2luZXNzIGlzIGEgc29sZSBwcm9wcmlldG9yc2hpcCIpCi8vICAgICAgZWxzZSBpZiAoc3RhdGUgPT0gU3RhdGUuQ0FfTkwpCi8vICAgICAgICBZZXNXaXRoTWVzc2FnZShDT1JQX1NFQVJDSF9TT0xFX1BST1BSSUVUT1JTSElQX1BPTElDWSwgIk5vdCBhIHNvbGUgcHJvcHJpZXRvcnNoaXAiKQovLyAgICAgIGVsc2UgaWYgKFNldChTdGF0ZS5DQV9PTiwgU3RhdGUuQ0FfQkMsIFN0YXRlLkNBX01CLCBTdGF0ZS5DQV9QRSkuY29udGFpbnMoc3RhdGUpKSB7Ci8vICAgICAgICBpZiAoY29ycFNlYXJjaC5mbGF0TWFwKF8ucmVnaXN0cnlUeXBlKS5tYXAoXy50b0xvd2VyQ2FzZSkuY29udGFpbnMoU09MRV9QUk9QUklFVE9SU0hJUF9SRUdJU1RSWV9UWVBFKSkKLy8gICAgICAgICAgWWVzV2l0aE1lc3NhZ2UoQ09SUF9TRUFSQ0hfU09MRV9QUk9QUklFVE9SU0hJUF9QT0xJQ1ksICJTb2xlIHByb3ByaWV0b3JzaGlwIikKLy8gICAgICAgIGVsc2UKLy8gICAgICAgICAgWWVzV2l0aE1lc3NhZ2UoQ09SUF9TRUFSQ0hfU09MRV9QUk9QUklFVE9SU0hJUF9QT0xJQ1ksICJOb3QgYSBzb2xlIHByb3ByaWV0b3JzaGlwIikKICAgICAgfSBlbHNlIGlmICgp</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3RhdGUuQ0FfTkwgLT4gTm9Tb2xlUHJvcHJpZXRvcnNoaXAsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3RhdGUuQ0FfUEUgLT4gRGVwZW5kc09uUmVnaXN0cnlUeXBlCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3RhdGUuQ0FfTUIgLT4gRGVwZW5kc09uUmVnaXN0cnlUeXBlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
