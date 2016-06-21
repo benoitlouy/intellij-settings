@@ -628,6 +628,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/integrationTest/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandlerIntegrationTest.java" timestamp="1463166958739">
         <mark key="[" line="39" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/presearch/eservicecorp/ESCPreSearchResponse.java" timestamp="1466542615903">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/canadaconsumercreditcontrollerSpec.js" timestamp="1460410326159">
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
@@ -819,6 +824,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/presearch/eservicecorp/package-info.java" timestamp="1466542683222">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/resources/log4j.properties" timestamp="1463766247340">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -828,6 +838,11 @@
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchCachingReportHandler.java" timestamp="1466542536038">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/business/equifax/intl/can/EquifaxCanadaScoringBusinessFlow.java" timestamp="1465853147118">
         <mark key="[" line="20" column="100" />
@@ -922,6 +937,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1466528995469">
         <mark key="[" line="25" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/model/businessid/eservicecorp/package-info.java" timestamp="1466542675164" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchService.scala" timestamp="1466110509841">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -1052,6 +1068,11 @@
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ESCCorpSearchResponseConverter.scala" timestamp="1466444978800">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1466194737155">
         <mark key="[" line="33" column="3" />
@@ -1333,7 +1354,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0gIyAwMTAxMjU0NzQ5</text>
+        <text>/**
+ * Created by blouy on 6/21/16.
+ */</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC0gIyAwMTAxMjU0NzQ5</text>
@@ -1344,33 +1367,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RFTF9OQU1FID0gIkR1bmJyYWRzdHJlZXRhdXN0cmFsaWFzY29yZSI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="1" type="4">
+        <text>/**
+ * Created by blouy on 6/21/16.
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHN0YXRlOiBTdGF0ZSA9IG9wcG9ydHVuaXR5LmdldEJ1c2luZXNzLmdldEFkZHJlc3MuZ2V0U3RhdGUK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>y.getBusiness.getAddress.getState
-      ProvinceSolePropPolicies(o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA2LzIxLzE2Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkc2NvcGUuc29sZVByb3BQb2xpY3lSZXN1bHQpOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA2LzIxLzE2Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGVQb2xpY2llcyhzdGF0ZSkoY29ycFNlYXJjaCkocGVyc29ucykK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
