@@ -19,11 +19,11 @@
       <file name="/a.dummy" timestamp="1464373622964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1466517000347">
-        <mark key="[" line="324" column="84" />
-        <mark key="]" line="324" column="84" />
-        <mark key="^" line="323" column="26" />
-        <mark key="." line="324" column="84" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1466520650613">
+        <mark key="[" line="318" column="172" />
+        <mark key="]" line="306" column="134" />
+        <mark key="^" line="306" column="134" />
+        <mark key="." line="306" column="134" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/resources/qd.decisionservice.properties" timestamp="1466438132803">
         <mark key="[" line="50" column="0" />
@@ -996,12 +996,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1466514627580">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1466520540698">
         <mark key="'" line="87" column="4" />
-        <mark key="[" line="107" column="89" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="106" column="11" />
+        <mark key="[" line="88" column="10" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="88" column="57" />
       </file>
       <file name="$USER_HOME$/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1464836738681">
         <mark key="[" line="75" column="9" />
@@ -1775,8 +1775,8 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NOT_SOLE_PROP</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>NOT_SOLE_PROP</text>
@@ -1788,40 +1788,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RFTF9OQU1FID0gIkR1bmJyYWRzdHJlZXRhdXN0cmFsaWFzY29yZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGVyc29ucy5jb3VudChfLnJvbGUgPT0gUkVHSVNUUkFOVF9ST0xFKSA9PSAxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgImRlY2lkZSB0aGF0ICIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHIuZ2V0UG9saWN5RGV0YWlsTWVzc2FnZSBzaG91bGRCZSBDb3JwU2VhcmNoUG9saWNpZXMuTk9UX1NPTEVfUFJPUAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgWWVzV2l0aFJlc3VsdEFuZFBvbGljeU1lc3NhZ2UK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICBZZXNXaXRoTWVzc2FnZShDT1JQX1NFQVJDSF9TT0xFX1BST1BSSUVUT1JTSElQX1BPTElDWSwgIk5vdCBpbXBsZW1lbnRlZCIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>//      if (Set(State.CA_YT, State.CA_NU).contains(state))
-//        NoWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Cannot determine if business is a sole proprietorship&quot;)
-//      else if (state == State.CA_NL)
-//        YesWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Not a sole proprietorship&quot;)
-//      else if (Set(State.CA_ON, State.CA_BC, State.CA_MB, State.CA_PE).contains(state)) {
-//        if (corpSearch.flatMap(_.registryType).map(_.toLowerCase).contains(SOLE_PROPRIETORSHIP_REGISTRY_TYPE))
-//          YesWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Sole proprietorship&quot;)
-//        else
-//          YesWithMessage(CORP_SEARCH_SOLE_PROPRIETORSHIP_POLICY, &quot;Not a sole proprietorship&quot;)
-      } else if ()</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpdCBzaG91bGQgImRlY2lkZSB0aGF0ICIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgcHIuZ2V0UG9saWN5RGV0YWlsTWVzc2FnZSBzaG91bGRCZSBDb3JwU2VhcmNoUG9saWNpZXMuTk9UX1NPTEVfUFJPUAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgWWVzV2l0aFJlc3VsdEFuZFBvbGljeU1lc3NhZ2UK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICBZZXNXaXRoTWVzc2FnZShDT1JQX1NFQVJDSF9TT0xFX1BST1BSSUVUT1JTSElQX1BPTElDWSwgIk5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
