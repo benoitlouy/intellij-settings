@@ -996,12 +996,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1466520540698">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1466521357382">
         <mark key="'" line="87" column="4" />
-        <mark key="[" line="88" column="10" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="88" column="57" />
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1464836738681">
         <mark key="[" line="75" column="9" />
@@ -1577,6 +1577,9 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="/Scala Console" timestamp="1466521321982">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFUSOpportunity.java" timestamp="1461859754001">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1775,11 +1778,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;BUSINESS NAME - PARTNERSHIPS AND BUSINESS NAMES REGISTRATION ACT&quot;.toLowerCase</text>
       </register>
       <register name="-" type="4">
-        <text>NOT_SOLE_PROP</text>
+        <text>&quot;BUSINESS NAME - PARTNERSHIPS AND BUSINESS NAMES REGISTRATION ACT&quot;.toLowerCase</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
