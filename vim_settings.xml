@@ -35,7 +35,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/fetch/AsyncReportFetcher.java" timestamp="1466695958134" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/fetch/AsyncReportFetcher.java" timestamp="1466697077293">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/model/SalesforceObjectTest.java" timestamp="1463059166892">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -76,6 +80,7 @@
         <mark key="]" line="76" column="28" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/ESCCorpSearchPollReportHandlerUnitTest.java" timestamp="1466697371205" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/equifax-canada-connection/src/integrationTest/java/com/ondeck/vendor/connection/equifax/canada/EquifaxCanadaConnectionIntegrationTest.java" timestamp="1464720230061">
         <mark key="[" line="106" column="65" />
         <mark key="]" line="97" column="79" />
@@ -1113,7 +1118,7 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryTask.java" timestamp="1465500445872">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryTask.java" timestamp="1466696793472">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -1253,10 +1258,10 @@
         <mark key="]" line="144" column="61" />
         <mark key="." line="144" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandler.java" timestamp="1466690586698">
-        <mark key="[" line="77" column="41" />
-        <mark key="]" line="77" column="41" />
-        <mark key="." line="77" column="41" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandler.java" timestamp="1466697140488">
+        <mark key="[" line="76" column="42" />
+        <mark key="]" line="76" column="41" />
+        <mark key="." line="76" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/java/com/ondeck/alpaca/logic/dao/LooseStatewideDuplicateOpportunityDaoTest.java" timestamp="1463081828776">
         <mark key="[" line="94" column="39" />
@@ -1315,10 +1320,11 @@
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerUnitTest.java" timestamp="1461339168259">
-        <mark key="[" line="147" column="51" />
-        <mark key="]" line="147" column="51" />
-        <mark key="." line="147" column="51" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerUnitTest.java" timestamp="1466697533685">
+        <mark key="[" line="171" column="4" />
+        <mark key="]" line="171" column="4" />
+        <mark key="^" line="91" column="19" />
+        <mark key="." line="171" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-decision/src/test/java/com/ondeck/alpaca/ws/underwriting/UnderwritingRequestConverterTest.java" timestamp="1463754924543">
         <mark key="[" line="101" column="0" />
@@ -1870,11 +1876,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFZlZGFJbkRlcHRoVHJhZGluZ0hpc3RvcnlGZXRjaGVyVGFza0ZhY3RvcnkK</text>
+      <register name="&quot;" type="4">
+        <text>ESCResponse</text>
       </register>
       <register name="-" type="4">
-        <text>nitialResponse.getApiResponse().getGetResultResponse().getOrderNumber(</text>
+        <text>ESCResponse</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1883,31 +1889,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RFTF9OQU1FID0gIkR1bmJyYWRzdHJlZXRhdXN0cmFsaWFzY29yZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFZlZGFJbkRlcHRoVHJhZGluZ0hpc3RvcnlGZXRjaGVyVGFza0ZhY3RvcnkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">bnVsbDsKICAgICAgICBpZiAoaW5pdGlhbFJlc3BvbnNlLmdldEFwaVJlc3BvbnNlKCkgIT0gbnVsbCkKICAgICAgICB7CiAgICAgICAgICBpZiAoaW5pdGlhbFJlc3BvbnNlLmdldEFwaVJlc3BvbnNlKCkuZ2V0R2V0UmVzdWx0UmVzcG9uc2UoKSAhPSBudWxsKQogICAgICAgICAgewogICAgICAgICAgICBvcmRlck51bWJlciA9IGluaXRpYWxSZXNwb25zZS5nZXRBcGlSZXNwb25zZSgpLmdldEdldFJlc3VsdFJlc3BvbnNlKCkuZ2V0T3JkZXJOdW1iZXIoKTsKICAgICAgICAgIH0KICAgICAgICAgIGlmIChvcmRlck51bWJlciA9PSBudWxsICYmIGluaXRpYWxSZXNwb25zZS5nZXRBcGlSZXNwb25zZSgpLmdldFByZVNlYXJjaFJlc3BvbnNlKCkgIT0gbnVsbCkKICAgICAgICAgIHsKICAgICAgICAgICAgb3JkZXJOdW1iZXIgPSBpbml0aWFsUmVzcG9uc2UuZ2V0QXBpUmVzcG9uc2UoKS5nZXRQcmVTZWFyY2hSZXNwb25zZSgpLmdldE9yZGVyTnVtYmVyKCk7CiAgICAgICAgICB9</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihlc2NSZXNwb25zZShzdGF0dXMpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdoZW4oZ2V0UmVzdWx0Q29ubmVjdGlvbi5zdWJtaXQoYW55U3RyaW5nKCksIGFueShDb25uZWN0aW9uUGFyYW1zLmNsYXNzKSkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgRVNDUmVzcG9uc2UobnVsbCwgbnVsbCwgb3JkZXJTdGF0dXMsIG51bGwpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFZlbmRvckNvbm5lY3Rpb248U3RyaW5nLCBFU0NSZXNwb25zZT4gZ2V0UmVzdWx0Q29ubmVjdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICBATW9jawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVQYXlsb2FkQmFzZWRPblN0YXR1cyhSZXNwb25zZVN0YXR1cy5FUlJPUiwgcGVuZGluZ1JlcG9ydElkLCAiZG9jdW1lbnQgaGFzIGludmFsaWQgZm9ybWF0IiwgcmVzdWx0KTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
