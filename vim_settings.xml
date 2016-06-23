@@ -863,10 +863,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryFetcherTaskFactory.java" timestamp="1465500497434">
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="29" column="48" />
-        <mark key="." line="29" column="48" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryFetcherTaskFactory.java" timestamp="1466691727763">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
         <mark key="^" line="28" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Config.scala" timestamp="1463415727940">
@@ -1867,8 +1867,8 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nitialResponse.getApiResponse().getGetResultResponse().getOrderNumber(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFZlZGFJbkRlcHRoVHJhZGluZ0hpc3RvcnlGZXRjaGVyVGFza0ZhY3RvcnkK</text>
       </register>
       <register name="-" type="4">
         <text>nitialResponse.getApiResponse().getGetResultResponse().getOrderNumber(</text>
@@ -1880,31 +1880,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RFTF9OQU1FID0gIkR1bmJyYWRzdHJlZXRhdXN0cmFsaWFzY29yZSI7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFZlZGFJbkRlcHRoVHJhZGluZ0hpc3RvcnlGZXRjaGVyVGFza0ZhY3RvcnkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">bnVsbDsKICAgICAgICBpZiAoaW5pdGlhbFJlc3BvbnNlLmdldEFwaVJlc3BvbnNlKCkgIT0gbnVsbCkKICAgICAgICB7CiAgICAgICAgICBpZiAoaW5pdGlhbFJlc3BvbnNlLmdldEFwaVJlc3BvbnNlKCkuZ2V0R2V0UmVzdWx0UmVzcG9uc2UoKSAhPSBudWxsKQogICAgICAgICAgewogICAgICAgICAgICBvcmRlck51bWJlciA9IGluaXRpYWxSZXNwb25zZS5nZXRBcGlSZXNwb25zZSgpLmdldEdldFJlc3VsdFJlc3BvbnNlKCkuZ2V0T3JkZXJOdW1iZXIoKTsKICAgICAgICAgIH0KICAgICAgICAgIGlmIChvcmRlck51bWJlciA9PSBudWxsICYmIGluaXRpYWxSZXNwb25zZS5nZXRBcGlSZXNwb25zZSgpLmdldFByZVNlYXJjaFJlc3BvbnNlKCkgIT0gbnVsbCkKICAgICAgICAgIHsKICAgICAgICAgICAgb3JkZXJOdW1iZXIgPSBpbml0aWFsUmVzcG9uc2UuZ2V0QXBpUmVzcG9uc2UoKS5nZXRQcmVTZWFyY2hSZXNwb25zZSgpLmdldE9yZGVyTnVtYmVyKCk7CiAgICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVQYXlsb2FkQmFzZWRPblN0YXR1cyhSZXNwb25zZVN0YXR1cy5FUlJPUiwgcGVuZGluZ1JlcG9ydElkLCAiZG9jdW1lbnQgaGFzIGludmFsaWQgZm9ybWF0IiwgcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVQYXlsb2FkQmFzZWRPblN0YXR1cyhSZXNwb25zZVN0YXR1cy5FUlJPUiwgcGVuZGluZ1JlcG9ydElkLCAiZG9jdW1lbnQgaGFzIGludmFsaWQgZm9ybWF0IiwgcmVzdWx0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
