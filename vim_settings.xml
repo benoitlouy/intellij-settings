@@ -355,6 +355,11 @@
         <mark key="]" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/AbstractSpecializedFlowUnitTest.java" timestamp="1466796626709">
+        <mark key="[" line="172" column="3" />
+        <mark key="]" line="211" column="5" />
+        <mark key="." line="211" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/ConnectIOSpec.scala" timestamp="1459891432146">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
@@ -892,6 +897,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1466796501383">
+        <mark key="[" line="206" column="67" />
+        <mark key="]" line="116" column="73" />
+        <mark key="." line="116" column="73" />
+        <mark key="^" line="116" column="73" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1465404203257">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -902,10 +913,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/intl/can/CanadaFlow.java" timestamp="1466795341365">
-        <mark key="[" line="209" column="34" />
-        <mark key="]" line="209" column="34" />
-        <mark key="." line="209" column="34" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/intl/can/CanadaFlow.java" timestamp="1466796843053">
+        <mark key="[" line="211" column="34" />
+        <mark key="]" line="211" column="74" />
+        <mark key="." line="211" column="74" />
+        <mark key="^" line="211" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/SalesforceClientModule.java" timestamp="1463079383973">
         <mark key="[" line="33" column="0" />
@@ -950,7 +962,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/intl/SpecializedFlow.java" timestamp="1466794610898">
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/intl/SpecializedFlow.java" timestamp="1466796325652">
         <mark key="[" line="226" column="35" />
         <mark key="]" line="226" column="35" />
         <mark key="." line="226" column="35" />
@@ -1398,10 +1410,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFR5cGVUb2tlbi5vZihCdXNpbmVzc0lEU2VhcmNoUmVxdWVzdC5jbGFzcyks</text>
+        <text encoding="base64">IEZ1bmN0aW9uPFVuaWZpZWRVbmRlcndyaXRpbmdSZXF1ZXN0LCBSPiBjb252ZXJ0ZXIs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFR5cGVUb2tlbi5vZihCdXNpbmVzc0lEU2VhcmNoUmVxdWVzdC5jbGFzcyks</text>
+        <text encoding="base64">IEZ1bmN0aW9uPFVuaWZpZWRVbmRlcndyaXRpbmdSZXF1ZXN0LCBSPiBjb252ZXJ0ZXIs</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
