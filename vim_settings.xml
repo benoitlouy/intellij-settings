@@ -34,10 +34,11 @@
         <mark key="]" line="116" column="119" />
         <mark key="." line="116" column="119" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/resources/qd.decisionservice.properties" timestamp="1466438132803">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/resources/qd.decisionservice.properties" timestamp="1467054913919">
+        <mark key="[" line="49" column="67" />
+        <mark key="]" line="50" column="76" />
+        <mark key="." line="50" column="76" />
+        <mark key="^" line="50" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchConfig.java" timestamp="1466543758185">
         <mark key="[" line="1" column="0" />
@@ -278,6 +279,7 @@
         <mark key="]" line="41" column="56" />
         <mark key="." line="41" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/associate/modelexecution/AssociateModelExecutionHandlerIntegrationTest.java" timestamp="1467054116135" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/marshal/NamespaceFilter.java" timestamp="1466018539217">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -326,6 +328,7 @@
         <mark key="]" line="7" column="58" />
         <mark key="." line="7" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/resources/qd.connect.test.properties" timestamp="1467054899180" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/SFOpportunityCountryConversion.scala" timestamp="1461876638153">
         <mark key="[" line="22" column="68" />
         <mark key="]" line="28" column="0" />
@@ -499,11 +502,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/resources/dev01.decisionservice.properties" timestamp="1466801341330">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="65" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/resources/dev01.decisionservice.properties" timestamp="1467054842704">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="50" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/core/async/AsyncDecisionServiceIntegrationTest.java" timestamp="1465492365034">
         <mark key="[" line="41" column="0" />
@@ -629,7 +632,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1466801771922">
+      <file name="/Dummy.txt" timestamp="1467055391830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/SFDuplicateOpportunity.java" timestamp="1463059537756">
@@ -689,7 +692,7 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1466801771954">
+      <file name="/fragment.java" timestamp="1467055391843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -1439,8 +1442,8 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWN0aXZlbXEuam14LnVybD1zZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly9xMmFtcTAxOjIwMTEvam14cm1pCg==</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -1452,31 +1455,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFNhbGVzZm9yY2VSZXN0Q2xpZW50Lm5ldwo=</text>
+        <text encoding="base64">YWN0aXZlbXEuam14LnVybD1zZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly9xMmFtcTAxOjIwMTEvam14cm1pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KAo=</text>
+        <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2xvY2FsaG9zdDoxNjIxNi9Db25uZWN0L2Nvbm5lY3RzZXJ2aWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFNhbGVzZm9yY2VSZXN0Q2xpZW50Lm5ldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWN0aXZlbXEuam14LnVybD1zZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly9kMndpbjAxOjEwOTkvam14cm1pCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0aXZlbXEuam14LnVybD1zZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly9kMndpbjAxOjEwOTkvam14cm1pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBASW5qZWN0CiAgcHVibGljIEFjdGl2ZU1RSk1YVXRpbHMoQFZhbHVlKCIke2FjdGl2ZW1xLmpteC51cmx9IikgU3RyaW5nIHVybCkgdGhyb3dzIElPRXhjZXB0aW9uLCBNYWxmb3JtZWRPYmplY3ROYW1lRXhjZXB0aW9uCiAgewogICAgSk1YU2VydmljZVVSTCBqbXhVUkwgPSBuZXcgSk1YU2VydmljZVVSTCh1cmwpOwogICAgY29ubmVjdG9yID0gSk1YQ29ubmVjdG9yRmFjdG9yeS5jb25uZWN0KGpteFVSTCk7CiAgICBNQmVhblNlcnZlckNvbm5lY3Rpb24gY29ubmVjdGlvbiA9IGNvbm5lY3Rvci5nZXRNQmVhblNlcnZlckNvbm5lY3Rpb24oKTsKICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpCcm9rZXJOYW1lPWxvY2FsaG9zdCxUeXBlPUJyb2tlciIpOwogICAgYnJva2VyVmlld01CZWFuID0gTUJlYW5TZXJ2ZXJJbnZvY2F0aW9uSGFuZGxlci5uZXdQcm94eUluc3RhbmNlKGNvbm5lY3Rpb24sIGFjdGl2ZU1RLCBCcm9rZXJWaWV3TUJlYW4uY2xhc3MsIHRydWUpOwogIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBASW5qZWN0CiAgcHVibGljIEFjdGl2ZU1RSk1YVXRpbHMoQFZhbHVlKCIke2FjdGl2ZW1xLmpteC51cmx9IikgU3RyaW5nIHVybCkgdGhyb3dzIElPRXhjZXB0aW9uLCBNYWxmb3JtZWRPYmplY3ROYW1lRXhjZXB0aW9uCiAgewogICAgSk1YU2VydmljZVVSTCBqbXhVUkwgPSBuZXcgSk1YU2VydmljZVVSTCh1cmwpOwogICAgY29ubmVjdG9yID0gSk1YQ29ubmVjdG9yRmFjdG9yeS5jb25uZWN0KGpteFVSTCk7CiAgICBNQmVhblNlcnZlckNvbm5lY3Rpb24gY29ubmVjdGlvbiA9IGNvbm5lY3Rvci5nZXRNQmVhblNlcnZlckNvbm5lY3Rpb24oKTsKICAgIE9iamVjdE5hbWUgYWN0aXZlTVEgPSBuZXcgT2JqZWN0TmFtZSgib3JnLmFwYWNoZS5hY3RpdmVtcTpCcm9rZXJOYW1lPWxvY2FsaG9zdCxUeXBlPUJyb2tlciIpOwogICAgYnJva2VyVmlld01CZWFuID0gTUJlYW5TZXJ2ZXJJbnZvY2F0aW9uSGFuZGxlci5uZXdQcm94eUluc3RhbmNlKGNvbm5lY3Rpb24sIGFjdGl2ZU1RLCBCcm9rZXJWaWV3TUJlYW4uY2xhc3MsIHRydWUpOwogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
