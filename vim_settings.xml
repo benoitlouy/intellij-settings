@@ -817,6 +817,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" timestamp="1467126774308">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/model/opportunity/SFCanadaOpportunity.java" timestamp="1462218261163">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="0" />
@@ -1224,6 +1229,11 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/corporatesearch.html" timestamp="1467126671291">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/resources/business/experian/request1.xml" timestamp="1460468480383">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1442,11 +1452,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Business is a sole proprietorship</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT'</text>
+        <text>Business is a sole proprietorship</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1457,29 +1467,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2xvY2FsaG9zdDoxNjIxNi9Db25uZWN0L2Nvbm5lY3RzZXJ2aWNlCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ciBuZy1zaG93PSJjb3JwU2VhcmNoUmVwb3J0LmVudGl0eVR5cGUiPgogICAgICAgICAgICAgICAgICAgIDx0aCBzY29wZT0icm93Ij5UeXBlPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGQ+e3tjb3JwU2VhcmNoUmVwb3J0LmVudGl0eVR5cGV9fTwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgPHRyIG5nLXNob3c9ImNvcnBTZWFyY2hSZXBvcnQucmVnaXN0cnlUeXBlIj4KICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9InJvdyI+UmVnaXN0cnkgVHlwZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRkPnt7Y29ycFNlYXJjaFJlcG9ydC5yZWdpc3RyeVR5cGV9fTwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWN0aXZlbXEuam14LnVybD1zZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly9xMmFtcTAxOjIwMTEvam14cm1pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2xvY2FsaG9zdDoxNjIxNi9Db25uZWN0L2Nvbm5lY3RzZXJ2aWNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFNhbGVzZm9yY2VSZXN0Q2xpZW50Lm5ldwo=</text>
+        <text encoding="base64">YWN0aXZlbXEuam14LnVybD1zZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly9xMmFtcTAxOjIwMTEvam14cm1pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KAo=</text>
+        <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2xvY2FsaG9zdDoxNjIxNi9Db25uZWN0L2Nvbm5lY3RzZXJ2aWNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFNhbGVzZm9yY2VSZXN0Q2xpZW50Lm5ldwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWN0aXZlbXEuam14LnVybD1zZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly9kMndpbjAxOjEwOTkvam14cm1pCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
