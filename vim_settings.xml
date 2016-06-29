@@ -139,11 +139,11 @@
         <mark key="]" line="14" column="67" />
         <mark key="." line="14" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1466702883052">
-        <mark key="[" line="171" column="45" />
-        <mark key="]" line="206" column="46" />
-        <mark key="." line="206" column="46" />
-        <mark key="^" line="206" column="52" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1467234809321">
+        <mark key="[" line="221" column="16" />
+        <mark key="]" line="221" column="20" />
+        <mark key="." line="221" column="20" />
+        <mark key="^" line="221" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/dunbradstreet-australia-connection/src/main/java/com/odc/vendor/connection/dunbradstreet/australia/DunBradstreetAustraliaConnection.java" timestamp="1464197639362">
         <mark key="[" line="19" column="0" />
@@ -1007,7 +1007,7 @@
         <mark key="]" line="144" column="61" />
         <mark key="." line="144" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/enumtype/Service.java" timestamp="1466542864168">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/main/java/com/odc/connect/enumtype/Service.java" timestamp="1467234748278">
         <mark key="[" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/java/com/ondeck/alpaca/ws/connect/converter/BusinessInstantIDRequestConverter.java" timestamp="1467220334706" />
@@ -1491,10 +1491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost:16216/Connect/</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>localhost:16216/Connect/</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1594,6 +1594,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
