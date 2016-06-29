@@ -239,11 +239,11 @@
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1467212702446">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="50" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1467215792293">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="56" />
+        <mark key="^" line="29" column="56" />
+        <mark key="." line="29" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/EndToEndIT.scala" timestamp="1463147966014">
         <mark key="[" line="6" column="0" />
@@ -536,10 +536,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1466105123083">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1467216288681">
+        <mark key="[" line="280" column="73" />
+        <mark key="]" line="280" column="73" />
+        <mark key="." line="280" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryTaskUnitTest.java" timestamp="1465500450479">
         <mark key="[" line="37" column="42" />
@@ -1060,6 +1060,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_xxx_add_canada_corp_search.sql" timestamp="1467215737896" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/model/UnderwritingModelRequest.java" timestamp="1466614181143">
         <mark key="[" line="349" column="0" />
         <mark key="]" line="349" column="0" />
@@ -1445,11 +1446,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSZXZlcnQgIlJldmVydCAiTWVyZ2UgcHVsbCByZXF1ZXN0ICMxOTY3IGluIEFQUC9hbHBhY2EgZnJvbSBJTlRMLTM5NiB0byBkZXZlbG9wIiIK</text>
+      <register name="&quot;" type="4">
+        <text>ESCCorpSearchResponse</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>ESCCorpSearchResponse</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1485,7 +1486,7 @@
         <text encoding="base64">ICAgICAgICA8ZGVwLm9uZGVjay5jb25uZWN0LWNsaWVudD4xLjY5PC9kZXAub25kZWNrLmNvbm5lY3QtY2xpZW50Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>73</text>
+        <text>32</text>
       </register>
     </registers>
     <search>
@@ -1513,8 +1514,6 @@
         <entry>getCountry</entry>
       </history-search>
       <history-cmd>
-        <entry>67</entry>
-        <entry>498</entry>
         <entry>203</entry>
         <entry>71</entry>
         <entry>195</entry>
@@ -1533,6 +1532,8 @@
         <entry>255</entry>
         <entry>w</entry>
         <entry>73</entry>
+        <entry>116</entry>
+        <entry>32</entry>
       </history-cmd>
       <history-expr />
       <history-input />
