@@ -594,10 +594,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/can/CanadaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1467044368242">
         <mark key="[" line="114" column="96" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/resources/test.properties" timestamp="1467227253834">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/resources/test.properties" timestamp="1467232443941">
         <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+        <mark key="^" line="0" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test-common/build.gradle" timestamp="1461687938674">
         <mark key="[" line="11" column="0" />
@@ -1490,10 +1491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>localhost:16216/Connect/</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>localhost:16216/Connect/</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
