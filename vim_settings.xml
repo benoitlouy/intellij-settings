@@ -561,6 +561,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/scala/com/ondeck/alpaca/web/service/ReRunCanadaCorpSearchServiceSpec.scala" timestamp="1467322322434">
+        <mark key="[" line="55" column="94" />
+        <mark key="]" line="55" column="94" />
+        <mark key="." line="55" column="94" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/equifax/EquifaxConnection.java" timestamp="1465501061023">
         <mark key="[" line="89" column="20" />
         <mark key="]" line="89" column="20" />
@@ -1507,10 +1512,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(corpSearch, corpSearchPersons)</text>
+        <text>updatedCorpSearch</text>
       </register>
       <register name="-" type="4">
-        <text>(corpSearch, corpSearchPersons)</text>
+        <text>updatedCorpSearch</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
