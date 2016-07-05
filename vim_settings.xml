@@ -547,8 +547,11 @@
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_xxx_add_entity_registry_type_to_corp_search.sql" timestamp="1466528939900">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_xxx_add_entity_registry_type_to_corp_search.sql" timestamp="1467735427261">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/integrationTest/java/com/odc/connect/utils/ActiveMQJMXUtils.java" timestamp="1463680586525">
         <mark key="[" line="28" column="0" />
@@ -1249,6 +1252,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/pom.xml" timestamp="1467735985534">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/VedaBusinessTradingHistoryTask.java" timestamp="1465500478352">
         <mark key="[" line="27" column="52" />
         <mark key="]" line="27" column="52" />
@@ -1521,11 +1530,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
