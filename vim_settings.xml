@@ -205,6 +205,11 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/model/exception/AlpacaExceptionTest.java" timestamp="1467738809255">
+        <mark key="[" line="63" column="70" />
+        <mark key="]" line="63" column="70" />
+        <mark key="." line="63" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceAccountDaoTest.java" timestamp="1462990556487">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
@@ -562,6 +567,11 @@
         <mark key="[" line="37" column="42" />
         <mark key="]" line="37" column="42" />
         <mark key="." line="37" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/exception/AlpacaException.java" timestamp="1467738748708">
+        <mark key="[" line="60" column="42" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/test-common/src/main/java/com/odc/decision/util/SCCTestUtil.java" timestamp="1461686788013">
         <mark key="[" line="13" column="28" />
@@ -1531,10 +1541,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>randomValueFrom(AlpacaError.class)</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>randomValueFrom(AlpacaError.class)</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1543,31 +1553,31 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBkYW9JbnNlcnRSZXNwb25zZSA9IChjb3JwU2VhcmNoLCBjb3JwU2VhcmNoUGVyc29ucykK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyb3JBcmdzKQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PDw8PDw8PCBhZmNlODEzNGE3ZWE1ZDQ0NWU2ZDllZjVhNTBkNzU4ODUwOTUxMzY1Cj09PT09PT0KCiAgaXQgc2hvdWxkICJyZXVzZSBjb3JwIHNlYXJjaCBmcm9tIGRhbyIgaW4gbmV3IGZpeHR1cmUgewogICAgb3ZlcnJpZGUgZGVmIGNvbm5lY3RSZXNwb25zZSA9IE5vbmUKICAgIG92ZXJyaWRlIGRlZiBkYW9SZXNwb25zZSA9IFNvbWUoY29ycFNlYXJjaCwgY29ycFNlYXJjaFBlcnNvbnMpCgogICAgdmFsIChvcHAsIHJlc3VsdCkgPSBkZWNpZGVyKGlucHV0KQoKICAgIHJlc3VsdC5nZXRPdXRjb21lIHNob3VsZEJlIE91dGNvbWUuQVBQUk9WRUQKICAgIHJlc3VsdC5nZXRQb2xpY2llcy5zaXplKCkgc2hvdWxkQmUgNQogICAgb3BwIHNob3VsZEJlIHRoZVNhbWVJbnN0YW5jZUFzIChpbnB1dCkKCiAgICB2ZXJpZnkoY29ycFNlYXJjaERhbywgbmV2ZXIoKSkuY2xlYXJBbmRTYXZlKGFueShjbGFzc09mWyhDb3JwU2VhcmNoLCBMaXN0W0NvcnBTZWFyY2hQZXJzb25dKV0pKQogICAgdmVyaWZ5KGNvbm5lY3RJTywgbmV2ZXIoKSkuZ2V0Q2FuYWRhQ29ycFNlYXJjaChhbnkoY2xhc3NPZltPcHBvcnR1bml0eV0pKQogIH0KCj4+Pj4+Pj4gW0lOVEwtNTU2XSBhZGQgc29sZSBwcm9wIHBvbGljeSB0byBDb3JwU2VhcmNoRGVjaWRlcg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01NTZdIGFkZCBzb2xlIHByb3AgcG9saWN5IHRvIENvcnBTZWFyY2hEZWNpZGVyCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY2FzZSBvID0+IFRhc2subm93KG8pCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAuZmxhdE1hcChfLmZvbGQoVGFzay5ub3coT3B0aW9uLmVtcHR5WyhDb3JwU2VhcmNoLCBTZXFbQ29ycFNlYXJjaFBlcnNvbl0pXSkpKG8gPT4gY29ycFNlYXJjaERhby5jbGVhckFuZFNhdmUobykubWFwKFNvbWUoXykpKSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY2FzZSBOb25lID0+IGNvbm5lY3RJTy5nZXRDYW5hZGFDb3JwU2VhcmNoKG9wcG9ydHVuaXR5KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZXRDb3JwU2VhcmNoID0gY29ycFNlYXJjaERhby5maW5kQnlPcHBvcnR1bml0eUlkKG9wcG9ydHVuaXR5LmdldElkKS5mbGF0TWFwIHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIHZhbCBnZXRDb3JwU2VhcmNoID0gY29ycFNlYXJjaERhby5maW5kQnlPcHBvcnR1bml0eUlkKG9wcG9ydHVuaXR5LmdldElkKS5mbGF0TWFwIHsK</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
