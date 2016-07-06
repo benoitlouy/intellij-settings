@@ -286,6 +286,11 @@
         <mark key="]" line="2" column="56" />
         <mark key="." line="2" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/resources/test.properties" timestamp="1467818357052">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/scoring/business/EquifaxCanadaScoringBusinessFlowIntegrationTest.java" timestamp="1465853238382">
         <mark key="[" line="22" column="123" />
         <mark key="]" line="29" column="0" />
@@ -436,6 +441,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/resources/credentials.properties" timestamp="1467818434441">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/test/java/com/odc/vendor/connection/core/service/XMLMarshallerUnitTest.java" timestamp="1461089443985">
         <mark key="[" line="91" column="0" />
@@ -711,6 +721,7 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/canadaConsumerCreditCtrl.js" timestamp="1467817307556" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/test/SFTestOpportunity.java" timestamp="1462811389656">
         <mark key="[" line="3" column="41" />
         <mark key="]" line="3" column="41" />
@@ -1225,6 +1236,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/client/src/schemas/fetchReport/CorpSearchRequest.xsd" timestamp="1466625053402">
         <mark key="[" line="3" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/resources/resources.js" timestamp="1467819002754">
+        <mark key="[" line="325" column="61" />
+        <mark key="]" line="325" column="61" />
+        <mark key="^" line="325" column="61" />
+        <mark key="." line="325" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/externalTest/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandlerExternalTest.java" timestamp="1463405688369">
         <mark key="[" line="41" column="69" />
       </file>
@@ -1366,6 +1383,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1467817968021" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1463409859018">
         <mark key="[" line="51" column="25" />
         <mark key="]" line="38" column="0" />
@@ -1554,10 +1572,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>B6E2E9&quot;</text>
+        <text>ondeck123</text>
       </register>
       <register name="-" type="4">
-        <text>B6E2E9&quot;</text>
+        <text>ondeck123</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1566,31 +1584,31 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBkYW9JbnNlcnRSZXNwb25zZSA9IChjb3JwU2VhcmNoLCBjb3JwU2VhcmNoUGVyc29ucykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJlbWFpbEFkZHJlc3MiOiAiYWJjLmRlbW8xMDBAb25kZWNrLmNvbSIK</text>
+        <text encoding="base64">Rzk0JTUld1xKazcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01NTRdIHByb3ZpbmNlIHNvbGUgcHJvcCBwb2xpY2llcwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICJlbWFpbEFkZHJlc3MiOiAiYWJjLmRlbW8xMDBAb25kZWNrLmNvbSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCA2N2UyMGFiOGFiMmVlZTJkNTM3ZjQ0MjQ0MTczYzhmNzAxNTE5YWJkCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01NTRdIHByb3ZpbmNlIHNvbGUgcHJvcCBwb2xpY2llcwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgRElSRUNUT1JfUk9MRSAgPSAiRGlyZWN0b3IiCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCA2N2UyMGFiOGFiMmVlZTJkNTM3ZjQ0MjQ0MTczYzhmNzAxNTE5YWJkCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01NTRdIHByb3ZpbmNlIHNvbGUgcHJvcCBwb2xpY2llcwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB2YWwgRElSRUNUT1JfUk9MRSAgPSAiRGlyZWN0b3IiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCA2N2UyMGFiOGFiMmVlZTJkNTM3ZjQ0MjQ0MTczYzhmNzAxNTE5YWJkCg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
