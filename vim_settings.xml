@@ -41,10 +41,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1467814077053">
-        <mark key="[" line="414" column="0" />
-        <mark key="]" line="414" column="0" />
-        <mark key="." line="414" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPoliciesSpec.scala" timestamp="1467815815468">
+        <mark key="[" line="296" column="4" />
+        <mark key="]" line="296" column="7" />
+        <mark key="." line="296" column="7" />
+        <mark key="^" line="296" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/fetch/AsyncReportFetcher.java" timestamp="1466697077293">
         <mark key="[" line="12" column="0" />
@@ -501,6 +502,12 @@
         <mark key="[" line="217" column="29" />
         <mark key="]" line="217" column="29" />
         <mark key="." line="217" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/samples/business/valid-request-ca.json" timestamp="1467815559431">
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/validation/business/BusinessTaxIdValidatorHelper.java" timestamp="1460387074172">
         <mark key="[" line="115" column="0" />
@@ -1546,11 +1553,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01NTRdIHByb3ZpbmNlIHNvbGUgcHJvcCBwb2xpY2llcwo=</text>
+      <register name="&quot;" type="4">
+        <text>B6E2E9&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ew BasicDBObject</text>
+        <text>B6E2E9&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1559,28 +1566,28 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBkYW9JbnNlcnRSZXNwb25zZSA9IChjb3JwU2VhcmNoLCBjb3JwU2VhcmNoUGVyc29ucykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01NTRdIHByb3ZpbmNlIHNvbGUgcHJvcCBwb2xpY2llcwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICJlbWFpbEFkZHJlc3MiOiAiYWJjLmRlbW8xMDBAb25kZWNrLmNvbSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCA2N2UyMGFiOGFiMmVlZTJkNTM3ZjQ0MjQ0MTczYzhmNzAxNTE5YWJkCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01NTRdIHByb3ZpbmNlIHNvbGUgcHJvcCBwb2xpY2llcwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgRElSRUNUT1JfUk9MRSAgPSAiRGlyZWN0b3IiCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCA2N2UyMGFiOGFiMmVlZTJkNTM3ZjQ0MjQ0MTczYzhmNzAxNTE5YWJkCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01NTRdIHByb3ZpbmNlIHNvbGUgcHJvcCBwb2xpY2llcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB2YWwgRElSRUNUT1JfUk9MRSAgPSAiRGlyZWN0b3IiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCA2N2UyMGFiOGFiMmVlZTJkNTM3ZjQ0MjQ0MTczYzhmNzAxNTE5YWJkCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
