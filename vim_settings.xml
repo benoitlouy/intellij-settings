@@ -89,11 +89,10 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/package.scala" timestamp="1468039113183">
-        <mark key="[" line="40" column="68" />
-        <mark key="]" line="44" column="49" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="44" column="49" />
+      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/package.scala" timestamp="1468086698898">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/validation/CanadianHST_GST_TaxId.java" timestamp="1460062491026">
         <mark key="[" line="8" column="7" />
@@ -560,7 +559,7 @@
         <mark key="]" line="89" column="20" />
         <mark key="." line="89" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/scalashop/src/test/scala/scalashop/BlurSuite.scala" timestamp="1468039085195" />
+      <file name="$USER_HOME$/Downloads/scalashop/src/test/scala/scalashop/BlurSuite.scala" timestamp="1468087025354" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/jsp/index.jsp" timestamp="1463414887094">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -868,11 +867,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala" timestamp="1468038919503">
-        <mark key="[" line="60" column="45" />
-        <mark key="]" line="60" column="45" />
-        <mark key="^" line="58" column="34" />
-        <mark key="." line="60" column="45" />
+      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala" timestamp="1468086915721">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="60" column="8" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/util/ActiveMQJMXUtils.java" timestamp="1466801313395">
         <mark key="[" line="31" column="0" />
@@ -997,6 +996,11 @@
         <mark key="[" line="226" column="35" />
         <mark key="]" line="226" column="35" />
         <mark key="." line="226" column="35" />
+      </file>
+      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala" timestamp="1468086922664">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Business.java" timestamp="1461187738254">
         <mark key="[" line="22" column="12" />
@@ -1450,10 +1454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clamp(vx + step, 0, src.width)</text>
+        <text encoding="base64">ICAvLyBUT0RPIGltcGxlbWVudCB1c2luZyB0aGUgYHRhc2tgIGNvbnN0cnVjdCBhbmQgdGhlIGBibHVyYCBtZXRob2QKCiAgPz8/</text>
       </register>
       <register name="-" type="4">
-        <text>clamp(vx + step, 0, src.width)</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1461,32 +1465,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGVwID0gc3JjLndpZHRoIC8gbnVtVGFza3MK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAvLyBUT0RPIGltcGxlbWVudCB1c2luZyB0aGUgYHRhc2tgIGNvbnN0cnVjdCBhbmQgdGhlIGBibHVyYCBtZXRob2QKCiAgPz8/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyIke3NyYy53aWR0aH0gJHtzcmMuaGVpZ2h0fSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHVzaW5nIHRoZSBgdGFza2AgY29uc3RydWN0IGFuZCB0aGUgYGJsdXJgIG1ldGhvZAo=</text>
+        <text encoding="base64">ICA/Pz8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHRoaXMgbWV0aG9kIHVzaW5nIHRoZSBgYm94Qmx1cktlcm5lbGAgbWV0aG9kCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIGltcGxlbWVudCB0aGlzIG1lYHRob2QgdXNpbmcgdGhlIGBib3hCbHVyS2VybmVsYCBtZXRob2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICBwcmludGxuKHMiJHZ4ICR7dnggKyBzdGVwfSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyIkeCAkeSAkcmFkaXVzIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHVzaW5nIHdoaWxlIGxvb3BzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgIHByaW50bG4ocyJ2eCAkdnggdnkgJHZ5IikKICAgICAgCiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
