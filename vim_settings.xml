@@ -89,6 +89,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/package.scala" timestamp="1468039113183">
+        <mark key="[" line="40" column="68" />
+        <mark key="]" line="44" column="49" />
+        <mark key="." line="44" column="49" />
+        <mark key="^" line="44" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/validation/CanadianHST_GST_TaxId.java" timestamp="1460062491026">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="7" />
@@ -554,6 +560,7 @@
         <mark key="]" line="89" column="20" />
         <mark key="." line="89" column="20" />
       </file>
+      <file name="$USER_HOME$/Downloads/scalashop/src/test/scala/scalashop/BlurSuite.scala" timestamp="1468039085195" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/jsp/index.jsp" timestamp="1463414887094">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -860,6 +867,12 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala" timestamp="1468038919503">
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="45" />
+        <mark key="^" line="58" column="34" />
+        <mark key="." line="60" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/util/ActiveMQJMXUtils.java" timestamp="1466801313395">
         <mark key="[" line="31" column="0" />
@@ -1436,11 +1449,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>clamp(vx + step, 0, src.width)</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>clamp(vx + step, 0, src.width)</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1449,31 +1462,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCgpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGVwID0gc3JjLndpZHRoIC8gbnVtVGFza3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5tb2RlbC54bWwuQnVzaW5lc3NJRFNlYXJjaFJlcXVlc3QuUmVxdWVzdEhlYWRlcgo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0UmVxdWVzdEhlYWRlcihoZWFkZXIpCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHVzaW5nIHRoZSBgdGFza2AgY29uc3RydWN0IGFuZCB0aGUgYGJsdXJgIG1ldGhvZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhlYWRlci5zZXRDb250YWN0RW1haWwob3Bwb3J0dW5pdHkuZ2V0Q29udGFjdEVtYWlsKQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWFkZXIgPSBuZXcgUmVxdWVzdEhlYWRlcgo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHRoaXMgbWV0aG9kIHVzaW5nIHRoZSBgYm94Qmx1cktlcm5lbGAgbWV0aG9kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0QnVzaW5lc3NJbmZvcm1hdGlvbihidXNpbmVzc0luZm8pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1c2luZXNzSW5mby5zZXRDb21wYW55QWRkcmVzcyhhZGRyZXNzQ29udmVydGVyLmFwcGx5KG9wcG9ydHVuaXR5LmdldEJ1c2luZXNzLmdldEFkZHJlc3MpKQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ1c2luZXNzSW5mby5zZXRDb21wYW55TmFtZShvcHBvcnR1bml0eS5nZXRCdXNpbmVzcy5nZXRMZWdhbE5hbWUpCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHVzaW5nIHdoaWxlIGxvb3BzCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0UmVxdWVzdEhlYWRlcihoZWFkZXIpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIHByaW50bG4ocyJ2eCAkdnggdnkgJHZ5IikKICAgICAgCiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
