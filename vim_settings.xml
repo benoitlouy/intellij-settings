@@ -350,6 +350,7 @@
         <mark key="]" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/ScalaShop.scala" timestamp="1468088752369" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/ConnectIOSpec.scala" timestamp="1459891432146">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
@@ -867,11 +868,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala" timestamp="1468086915721">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="60" column="8" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala" timestamp="1468088928226">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/util/ActiveMQJMXUtils.java" timestamp="1466801313395">
         <mark key="[" line="31" column="0" />
@@ -997,10 +997,10 @@
         <mark key="]" line="226" column="35" />
         <mark key="." line="226" column="35" />
       </file>
-      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala" timestamp="1468086922664">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Downloads/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala" timestamp="1468088739301">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/Business.java" timestamp="1461187738254">
         <mark key="[" line="22" column="12" />
@@ -1453,11 +1453,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAvLyBUT0RPIGltcGxlbWVudCB1c2luZyB0aGUgYHRhc2tgIGNvbnN0cnVjdCBhbmQgdGhlIGBibHVyYCBtZXRob2QKCiAgPz8/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocyJibHVyICRmcm9tIHRvICRlbmQiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text>width</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1465,32 +1465,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAvLyBUT0RPIGltcGxlbWVudCB1c2luZyB0aGUgYHRhc2tgIGNvbnN0cnVjdCBhbmQgdGhlIGBibHVyYCBtZXRob2QKCiAgPz8/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocyJibHVyICRmcm9tIHRvICRlbmQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyIke3NyYy53aWR0aH0gJHtzcmMuaGVpZ2h0fSIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJibHVyICRmcm9tIHRvICRlbmQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA/Pz8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGltcGxlbWVudCB0aGlzIG1lYHRob2QgdXNpbmcgdGhlIGBib3hCbHVyS2VybmVsYCBtZXRob2QK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHZhbCB0YXNrcyA9IGZvciAodnN0ZXAgPC0gMCB1bnRpbCBudW1UYXNrcykgeWllbGQgewogICAgICB0YXNrKGJsdXIoc3JjLCBkc3QsIHZzdGVwICogc3JjLmhlaWdodCwgY2xhbXAoKHZzdGVwICsgMSkgKiBzcmMuaGVpZ2h0LCAwLCBzcmMuaGVpZ2h0KSwgcmFkaXVzKSkKICAgIH0KICAgIHRhc2tzLmZvcmVhY2goXy5qb2luKCkp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICBwcmludGxuKHMiJHZ4ICR7dnggKyBzdGVwfSIpCg==</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyIkeCAkeSAkcmFkaXVzIikK</text>
+        <text encoding="base64">Ly8gICAgICBkc3QodngsIHZ5KSA9IGJveEJsdXJLZXJuZWwoc3JjLCB2eCwgdnksIHJhZGl1cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgZm9yICh2eSA8LSBmcm9tIHVudGlsIGVuZDsgdnggPC0gMCB1bnRpbCBzcmMud2lkdGgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgdnggPj0gMCAmJiB2eCA8IHNyYy53aWR0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
