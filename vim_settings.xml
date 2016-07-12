@@ -1211,6 +1211,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/core/async/AsyncDecisionManagerIntegrationTest.java" timestamp="1468355354609">
+        <mark key="[" line="95" column="11" />
+        <mark key="]" line="95" column="11" />
+        <mark key="^" line="92" column="33" />
+        <mark key="." line="95" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/java/com/ondeck/alpaca/salesforce/dao/SalesforceConsumerCreditReportDaoIT.java" timestamp="1463080137136">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -1313,7 +1319,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/core/async/AsyncDecisionManager.java" timestamp="1468351456541">
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/core/async/AsyncDecisionManager.java" timestamp="1468354914919">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
@@ -1452,11 +1458,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5LmFwcGVuZChDT01QTEVURV9LRVksICkK</text>
+      <register name="&quot;" type="4">
+        <text>connectAsyncIdentifier</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>connectAsyncIdentifier</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1465,31 +1471,31 @@
         <text encoding="base64">ICAgIEVTQ1Jlc3BvbnNlIHJlc3BvbnNlID0gY29ubmVjdGlvbi5zdWJtaXQoIjEwMzQ1MDgiLCBuZXcgQ29ubmVjdGlvblBhcmFtcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5LmFwcGVuZChDT01QTEVURV9LRVksICkK</text>
+        <text encoding="base64">ICAgIFNldDxDb25uZWN0QXN5bmNJZGVudGlmaWVyPiBpZGVudGlmaWVycyA9IFNldHMubmV3SGFzaFNldChjb25uZWN0QXN5bmNJZGVudGlmaWVyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgaW5wdXQuc2V0UmVwbHlUbyhudWxsKTsK</text>
+        <text encoding="base64">ICAgIGNvbm5lY3RBc3luY0lkZW50aWZpZXIuc2V0TG9jYXRvcihsb2NhdG9yKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01MzRdIGZpeCBjbGllbnQgbGlicmFyeSBmb3IgRCZCCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQ29ubmVjdFJlcG9ydExvY2F0b3IoImlkIiwgbnVsbCwgVmVuZG9yLlBQU0EsIFNlcnZpY2UuVUNDRmlsaW5nLCBDb3VudHJ5LkNBKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIER1bkJyYWRzdHJlZXRBdXN0cmFsaWFSZXNwb25zZS5jbGFzc30pCg==</text>
+        <text encoding="base64">ICAgIENvbm5lY3RSZXBvcnRMb2NhdG9yIGxvY2F0b3IgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIER1bkJyYWRzdHJlZXRCQ1JSZXNwb25zZS5jbGFzcywgRVNDQ29ycFNlYXJjaFJlc3BvbnNlLmNsYXNzLCBMZXhpc05leGlzQnVzaW5lc3NJRFJlc3BvbnNlLmNsYXNzLAo=</text>
+        <text encoding="base64">ICAgIHF1ZXJ5LmFwcGVuZChDT01QTEVURV9LRVksICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Ly8gICAgaW5wdXQuc2V0UmVwbHlUbyhudWxsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCAwYWRkYzNlYTZhZmMxOTQxOGQ4YzQ0NDc4MWI3MmUwMzcwZjgyZWY3Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01MzRdIGZpeCBjbGllbnQgbGlicmFyeSBmb3IgRCZCCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbSU5UTC01NDNdIHNldCB2ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgIER1bkJyYWRzdHJlZXRBdXN0cmFsaWFSZXNwb25zZS5jbGFzc30pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIER1bkJyYWRzdHJlZXRCQ1JSZXNwb25zZS5jbGFzcywgRVNDQ29ycFNlYXJjaFJlc3BvbnNlLmNsYXNzLCBMZXhpc05leGlzQnVzaW5lc3NJRFJlc3BvbnNlLmNsYXNzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
