@@ -133,10 +133,10 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcherUnitTest.java" timestamp="1467834491741">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcherUnitTest.java" timestamp="1468427037185">
+        <mark key="[" line="275" column="6" />
+        <mark key="]" line="275" column="6" />
+        <mark key="." line="275" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/ConnectServiceClientModuleTest.java" timestamp="1460142720681">
         <mark key="[" line="36" column="0" />
@@ -608,6 +608,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchReportFetcher.java" timestamp="1468426617889">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="35" column="2" />
+        <mark key="^" line="35" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/scala/com/ondeck/alpaca/salesforce/test/SFTestOpportunity.scala" timestamp="1464036881590">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="0" />
@@ -908,6 +914,12 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchReportFetcherUnitTest.java" timestamp="1468426999814">
+        <mark key="[" line="281" column="3" />
+        <mark key="]" line="266" column="0" />
+        <mark key="^" line="266" column="0" />
+        <mark key="." line="266" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/resources/log4j.properties" timestamp="1463766247340">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -1085,11 +1097,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1468352368119">
-        <mark key="[" line="111" column="91" />
-        <mark key="]" line="111" column="91" />
-        <mark key="." line="111" column="91" />
-        <mark key="^" line="106" column="48" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1468426481089">
+        <mark key="[" line="33" column="1" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="35" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CorpSearchDAO.scala" timestamp="1459443768407">
         <mark key="[" line="12" column="17" />
@@ -1465,10 +1476,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>ESCCorpSearchResponse</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>ESCCorpSearchResponse</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -1477,31 +1488,31 @@
         <text encoding="base64">ICAgIEVTQ1Jlc3BvbnNlIHJlc3BvbnNlID0gY29ubmVjdGlvbi5zdWJtaXQoIjEwMzQ1MDgiLCBuZXcgQ29ubmVjdGlvblBhcmFtcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUoYXN5bmNEZWNpc2lvblRlc3RDbGllbnQuZ2V0UmVnaXN0ZXJlZENhbGxiYWNrc0ZvckRlY2lzaW9uSWQoZGVjaXNpb25SZXNwb25zZTEuZ2V0SWQoKSkuaXNFbXB0eSgpKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0VHJ1ZShhc3luY0RlY2lzaW9uVGVzdENsaWVudC5nZXRSZWdpc3RlcmVkQ2FsbGJhY2tzRm9yRGVjaXNpb25JZChkZWNpc2lvblJlc3BvbnNlMi5nZXRJZCgpKS5pc0VtcHR5KCkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0VHJ1ZShhc3luY0RlY2lzaW9uVGVzdENsaWVudC5nZXRSZWdpc3RlcmVkQ2FsbGJhY2tzRm9yRGVjaXNpb25JZChkZWNpc2lvblJlc3BvbnNlMS5nZXRJZCgpKS5pc0VtcHR5KCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhhc3luY0RlY2lzaW9uUmVjb3JkMS5nZXRJZGVudGlmaWVycygpLnNpemUoKSwgbmV3RGVjaXNpb25JZHMuc2l6ZSgpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKGFzeW5jRGVjaXNpb25SZWNvcmQxLmdldElkZW50aWZpZXJzKCkuc2l6ZSgpICsgYXN5bmNEZWNpc2lvblJlY29yZDIuZ2V0SWRlbnRpZmllcnMoKS5zaXplKCksCiAgICAgICAgICBuZXdEZWNpc2lvbklkcy5zaXplKCkpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICB8fCBOT19ISVRfU1RBVFVTRVMuY29udGFpbnMoYXV0b1ByZVNlYXJjaFJlc3BvbnNlLmdldE9yZGVyU3RhdHVzKCkp</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRTdGF0dXNNZXNzYWdlKFN0cmluZy5mb3JtYXQoImF1dG9QcmVTZWFyY2hPcmRlciByZXR1cm5lZCAlcyBtYXRjaGVzIiwgcHJlU2VhcmNoRGF0YS5nZXREYXRhKCkubGVuZ3RoKSk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTZXQ8SW50ZWdlcj4gTk9fSElUX1NUQVRVU0VTID0gSW1tdXRhYmxlU2V0Lm9mKAogICAgICBFU0NDb25zdGFudHMuUHJvY2Vzc0F1dG9QcmVTZWFyY2hPcmRlclN0YXR1cy5OT19NQVRDSCwKICAgICAgRVNDQ29uc3RhbnRzLlByb2Nlc3NBdXRvUHJlU2VhcmNoT3JkZXJTdGF0dXMuU0lNSUxBUl9NQVRDSCk7CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU2V0PEludGVnZXI+IEVSUk9SX1NUQVRVU0VTID0gSW1tdXRhYmxlU2V0Lm9mKAogICAgICBFU0NDb25zdGFudHMuUHJvY2Vzc0F1dG9QcmVTZWFyY2hPcmRlclN0YXR1cy5GQUlMRUQsCiAgICAgIEVTQ0NvbnN0YW50cy5Qcm9jZXNzQXV0b1ByZVNlYXJjaE9yZGVyU3RhdHVzLkZBSUxFRF9OT19NQVRDSCwKICAgICAgRVNDQ29uc3RhbnRzLlByb2Nlc3NBdXRvUHJlU2VhcmNoT3JkZXJTdGF0dXMuRkFJTEVEX1FVQUxJRklFRF9NQVRDSCwKICAgICAgRVNDQ29uc3RhbnRzLlByb2Nlc3NBdXRvUHJlU2VhcmNoT3JkZXJTdGF0dXMuRkFJTEVEX1NJTUlMQVJfTUFUQ0gpOw==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgRVNDQ29uc3RhbnRzLlByb2Nlc3NBdXRvUHJlU2VhcmNoT3JkZXJTdGF0dXMuRkFJTEVEX05PX01BVENILAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUocmVmcmVzaGVkQXN5bmNEZWNpc2lvblJlY29yZC5nZXRJZGVudGlmaWVycygpLmlzRW1wdHkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgRVNDQ29uc3RhbnRzLlByb2Nlc3NBdXRvUHJlU2VhcmNoT3JkZXJTdGF0dXMuRkFJTEVEX1NJTUlMQVJfTUFUQ0gpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNldDxDb25uZWN0QXN5bmNJZGVudGlmaWVyPiBpZGVudGlmaWVycyA9IFNldHMubmV3SGFzaFNldChjb25uZWN0QXN5bmNJZGVudGlmaWVyKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRydWUoYXN5bmNEZWNpc2lvblRlc3RDbGllbnQuZ2V0UmVnaXN0ZXJlZENhbGxiYWNrc0ZvckRlY2lzaW9uSWQoZGVjaXNpb25SZXNwb25zZTEuZ2V0SWQoKSkuaXNFbXB0eSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3RBc3luY0lkZW50aWZpZXIuc2V0TG9jYXRvcihsb2NhdG9yKTsK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0VHJ1ZShhc3luY0RlY2lzaW9uVGVzdENsaWVudC5nZXRSZWdpc3RlcmVkQ2FsbGJhY2tzRm9yRGVjaXNpb25JZChkZWNpc2lvblJlc3BvbnNlMi5nZXRJZCgpKS5pc0VtcHR5KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
