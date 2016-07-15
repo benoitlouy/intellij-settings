@@ -186,6 +186,12 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingRequestBuilderTest.java" timestamp="1468609926910">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="162" column="34" />
+        <mark key="." line="159" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/ProcessPendingRequestsHandler.java" timestamp="1468595150325">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -316,11 +322,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.thenReturn(future);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgYnVzaW5lc3Muc2V0RXN0aW1hdGVkQW5udWFsUmV2ZW51ZShuZXcgQmlnRGVjaW1hbCgiMTAwMDAiKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.thenReturn(future);</text>
+        <text>.withDesiredLoanAmount(desiredLoanAmount).</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
@@ -329,31 +335,31 @@
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9CQVNFX1VSTCA9ICJodHRwOi8vcWRmdWxsY29ubmVjdC8iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBkYW8ucmVtb3ZlRnJvbVF1ZXVlKHBlbmRpbmdSZXF1ZXN0LmdldElkKCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgYnVzaW5lc3Muc2V0RXN0aW1hdGVkQW5udWFsUmV2ZW51ZShuZXcgQmlnRGVjaW1hbCgiMTAwMDAiKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgYnVzaW5lc3Muc2V0QXZlcmFnZUJhbmtCYWxhbmNlKG5ldyBCaWdEZWNpbWFsKCIxMDAwMCIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygidGhyZWFkIHByb2Nlc3NpbmcgcmVxdWVzdCAiICsgZnV0dXJlLmdldEtleSgpICsgIiB3YXMgaW50ZXJydXB0ZWQiKTsK</text>
+        <text encoding="base64">Ly8gICAgb3duZXIuc2V0UGVyY2VudGFnZU93bmVkKDc3LjIyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgaW50IGRlc2lyZWRMb2FuQW1vdW50ID0gMTAwMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8RnV0dXJlPD8+PiBmdXR1cmVzID0gbmV3IEFycmF5TGlzdDw+KHBlbmRpbmdSZXF1ZXN0cy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIG93bmVyLnNldFBlcmNlbnRhZ2VPd25lZCg3Ny4yMik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICBkYW8ucmVtb3ZlRnJvbVF1ZXVlKHBlbmRpbmdSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEhhbmRsZXJFeGNlcHRpb24oZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygidGhyZWFkIHByb2Nlc3NpbmcgcmVxdWVzdCAiICsgZnV0dXJlLmdldEtleSgpICsgIiB3YXMgaW50ZXJydXB0ZWQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhdGNoKENvbm5lY3RFeGNlcHRpb24gZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
