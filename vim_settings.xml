@@ -119,6 +119,12 @@
       <file name="/Dummy.txt" timestamp="1469133984850">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/dao/CorpSearchDaoIT.scala" timestamp="1469223749691">
+        <mark key="[" line="87" column="9" />
+        <mark key="]" line="87" column="9" />
+        <mark key="." line="87" column="9" />
+        <mark key="^" line="84" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1468426481089">
         <mark key="[" line="33" column="1" />
       </file>
@@ -175,7 +181,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1469201496647">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1469223451556">
         <mark key="[" line="296" column="52" />
         <mark key="]" line="296" column="52" />
         <mark key="." line="296" column="52" />
@@ -342,11 +348,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGF0dXMuZXF1KQo=</text>
+      <register name="&quot;" type="4">
+        <text>corpSearch</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>corpSearch</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
