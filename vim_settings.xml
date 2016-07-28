@@ -20,6 +20,11 @@
         <mark key="]" line="159" column="48" />
         <mark key="." line="159" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/loanservicing/jobs/loan_sales/src/main/java/com/odc/loanservicing/job/LoanSalesJob.java" timestamp="1469728002822">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/fetch/AsyncReportFetcher.java" timestamp="1468527509436">
         <mark key="[" line="45" column="85" />
         <mark key="]" line="45" column="19" />
@@ -105,6 +110,7 @@
         <mark key="^" line="142" column="28" />
         <mark key="." line="142" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/core/enums/BankEnum.java" timestamp="1469728020951" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1467926524129">
         <mark key="[" line="29" column="38" />
         <mark key="]" line="29" column="47" />
@@ -359,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$vendorModelVersion</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>$vendorModelVersion</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>getCountry</text>
