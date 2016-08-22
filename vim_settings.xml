@@ -22,11 +22,11 @@
         <mark key="[" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/applicationContext-jms.xml" timestamp="1471872645384" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcherUnitTest.java" timestamp="1471880481041">
-        <mark key="[" line="285" column="96" />
-        <mark key="]" line="285" column="95" />
-        <mark key="^" line="285" column="95" />
-        <mark key="." line="285" column="95" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcherUnitTest.java" timestamp="1471896204774">
+        <mark key="[" line="291" column="95" />
+        <mark key="]" line="292" column="88" />
+        <mark key="^" line="292" column="88" />
+        <mark key="." line="292" column="88" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/dist/README.md" timestamp="1469817844344">
         <mark key="[" line="8" column="28" />
@@ -110,10 +110,11 @@
         <mark key="]" line="38" column="10" />
         <mark key="." line="38" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1471883129130">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1471896241668">
+        <mark key="[" line="44" column="170" />
+        <mark key="]" line="44" column="149" />
+        <mark key="." line="44" column="149" />
+        <mark key="^" line="44" column="149" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1470076086464">
         <mark key="[" line="321" column="5" />
@@ -277,11 +278,11 @@
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>company</text>
       </register>
       <register name="-" type="4">
-        <text>requestKeysCreator.createRequestKeysMap(request)</text>
+        <text>company</text>
       </register>
       <register name="/" type="4">
         <text>lastEx</text>
