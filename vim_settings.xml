@@ -22,6 +22,13 @@
         <mark key="[" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/applicationContext-jms.xml" timestamp="1471872645384" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1471900752362">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="202" column="44" />
+        <mark key="]" line="198" column="42" />
+        <mark key="." line="198" column="42" />
+        <mark key="^" line="198" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcherUnitTest.java" timestamp="1471896204774">
         <mark key="[" line="291" column="95" />
         <mark key="]" line="292" column="88" />
@@ -178,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="34" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaInDepthTradingHistoryFetcherTaskFactory.java" />
-      <jump line="44" column="84" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryCachingReportHandlerIntegrationTest.java" />
       <jump line="38" column="65" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaInDepthTradingHistoryFetcherTaskFactory.java" />
       <jump line="99" column="17" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryRunnable.java" />
       <jump line="97" column="53" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryRunnable.java" />
@@ -278,6 +283,8 @@
       <jump line="87" column="96" filename="$USER_HOME$/Downloads/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="87" column="54" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
       <jump line="83" column="4" filename="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CorpSearchPolicies.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" />
+      <jump line="111" column="0" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -287,7 +294,7 @@
         <text>company</text>
       </register>
       <register name="/" type="4">
-        <text>lastEx</text>
+        <text>propert</text>
       </register>
       <register name="0" type="4">
         <text>auditUtil.checkConnectReport(reports, enableESCPPSA ? 0 : 1, Country.CA, Service.UCCFiling, Vendor.PPSA);
@@ -325,9 +332,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lastEx</last-search>
+      <last-search>propert</last-search>
       <last-offset />
-      <last-pattern>lastEx</last-pattern>
+      <last-pattern>propert</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -348,6 +355,8 @@
         <entry>asInstanceOf</entry>
         <entry>getCountry</entry>
         <entry>lastEx</entry>
+        <entry>proper</entry>
+        <entry>propert</entry>
       </history-search>
       <history-cmd>
         <entry>412</entry>
