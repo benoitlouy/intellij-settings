@@ -29,6 +29,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/loansales/core/src/main/java/com/ondeck/loansales/velocityemail/inject/VelocityEmailModule.java" timestamp="1472486052309">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/PreSearchRequestKeysMapNormalizer.java" timestamp="1471881389149">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="14" column="0" />
@@ -72,10 +77,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/main/java/com/ondeck/loansales/jobs/inject/NotifierModule.java" timestamp="1471030506151">
-        <mark key="[" line="41" column="51" />
-        <mark key="]" line="41" column="51" />
-        <mark key="." line="41" column="51" />
+      <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/main/java/com/ondeck/loansales/jobs/inject/NotifierModule.java" timestamp="1472486367478">
+        <mark key="[" line="31" column="42" />
+        <mark key="]" line="31" column="49" />
+        <mark key="^" line="31" column="49" />
+        <mark key="." line="31" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/jobs/loan_sales/src/dist/README.md" timestamp="1469799931144">
         <mark key="[" line="12" column="19" />
@@ -201,6 +207,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/loansales/core/src/main/java/com/ondeck/loansales/velocityemail/inject/AbstractVelocityEmailModule.java" timestamp="1472486060300">
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="2" />
+        <mark key="." line="36" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/core/src/main/java/com/ondeck/loansales/mail/EmailService.java" timestamp="1471362694614">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -214,6 +225,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/core/src/main/java/com/ondeck/loansales/service/sale/SaleCreator.java" timestamp="1470933233585">
         <mark key="[" line="75" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_reminder/src/main/java/com/ondeck/loansales/jobs/inject/ReminderModule.java" timestamp="1472486143665">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/intl/aus/DunBradstreetAustraliaConfig.java" timestamp="1472240796567">
         <mark key="[" line="39" column="0" />
@@ -392,10 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVhY29uLndhaQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgTXVsdGlDb3VudHJ5RW1haWxNZXNzYWdlUHJvdmlkZXIocHJvdmlkZXJzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>http://test.inteflow.com.au/Inteport/DecisionGateway.asmx</text>
+        <text>VelocityEmailModule</text>
       </register>
       <register name="/" type="4">
         <text>propert</text>
@@ -404,28 +420,28 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVhY29uLndhaQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgTXVsdGlDb3VudHJ5RW1haWxNZXNzYWdlUHJvdmlkZXIocHJvdmlkZXJzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA4LzI2LzE2Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBFbWFpbE1lc3NhZ2VQcm92aWRlcihmcm9tLCByZWNpcGllbnQsIHN1YmplY3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHB1YmxpYyBFbWFpbE1lc3NhZ2VQcm92aWRlciBhcHBseShTdHJpbmcgcmVjaXBpZW50KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAQmVhbgo=</text>
+        <text encoding="base64">ICAgICAgICBNYXBzLnRyYW5zZm9ybVZhbHVlcyhyZWNpcGllbnRzLCBuZXcgRnVuY3Rpb248U3RyaW5nLCBFbWFpbE1lc3NhZ2VQcm92aWRlcj4oKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QnVzaW5lc3MK</text>
+        <text encoding="base64">ICAgIE1hcDxDb3VudHJ5Q29kZSwgRW1haWxNZXNzYWdlUHJvdmlkZXI+IHByb3ZpZGVycyA9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
