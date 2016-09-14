@@ -19,6 +19,7 @@
         <mark key="^" line="172" column="36" />
         <mark key="." line="67" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/DecisionCreatedHandler.java" timestamp="1473877938389" />
       <file name="$USER_HOME$/Projects/OnDeck/financeconsole/client/src/app/term/project.js" timestamp="1472758338551">
         <mark key="[" line="17" column="74" />
         <mark key="]" line="18" column="50" />
@@ -64,6 +65,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/jobs/loan_sales/src/dist/README.md" timestamp="1469799931144">
         <mark key="[" line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/helper/salesforce/OpportunityHelper.java" timestamp="1473877149838" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1471896241668">
         <mark key="[" line="44" column="170" />
         <mark key="]" line="44" column="149" />
@@ -187,10 +189,10 @@
         <mark key="]" line="268" column="0" />
         <mark key="." line="268" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/CheckoutConditionsClearedHandler.java" timestamp="1473876568952">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/CheckoutConditionsClearedHandler.java" timestamp="1473877641385">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/requestKeys/PreSearchRequestXPaths.txt" timestamp="1472239511543">
         <mark key="[" line="1" column="0" />
@@ -339,7 +341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGlmIChvcHBvcnR1bml0eSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -351,31 +353,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGlmIChvcHBvcnR1bml0eSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA5LzE0LzE2Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOiBpbml0aWFsaXplT3Bwb3J0dW5pdHkoYWNjb3VudC5pZCwgZGVjaXNpb24uZ2V0T2ZmbGluZURlY2lzaW9uT3Bwb3J0dW5pdHkoKSwgY29udGVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPyBnZXRPcHBvcnR1bml0eUZvck9yaWdpbmFsRGVjaXNpb24oY29udGVudCwgZGVjaXNpb24pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHBvcnR1bml0eSA9IGRlY2lzaW9uLmdldE9yaWdpbmFsRGVjaXNpb25JZCgpICE9IG51bGwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHJldHVybiBGbHVlbnRJdGVyYWJsZS5mcm9tKGxvYW5UcmFuc2FjdGlvbk1vZGVsTGlzdCkudHJhbnNmb3JtKG5ldyBGdW5jdGlvbjxMb2FuVHJhbnNhY3Rpb25Nb2RlbCwgRnVuZGluZ1NvdXJjZU1vZGVsPigpCiAgICB7CiAgICAgIEBOdWxsYWJsZQogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEZ1bmRpbmdTb3VyY2VNb2RlbCBhcHBseShATnVsbGFibGUgTG9hblRyYW5zYWN0aW9uTW9kZWwgaW5wdXQpCiAgICAgIHsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICByZXR1cm4gZnVuZGluZ1NvdXJjZURBTy5nZXRGdW5kaW5nU291cmNlKGlucHV0LmdldEZ1bmRpbmdTb3VyY2VJZCgpKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKExvYW5TZXJ2aWNpbmdFeGNlcHRpb24gZSkKICAgICAgICB7CiAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0pLnRvU2V0KCk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIE9wcG9ydHVuaXR5IG9wcG9ydHVuaXR5ID0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA5LzE0LzE2Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
