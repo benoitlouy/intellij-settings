@@ -75,7 +75,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/jobs/loan_sales/src/dist/README.md" timestamp="1469799931144">
         <mark key="[" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/helper/salesforce/OpportunityHelper.java" timestamp="1473877149838" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/helper/salesforce/OpportunityHelper.java" timestamp="1473883791958">
+        <mark key="[" line="297" column="70" />
+        <mark key="]" line="297" column="0" />
+        <mark key="." line="297" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1471896241668">
         <mark key="[" line="44" column="170" />
         <mark key="]" line="44" column="149" />
@@ -161,7 +165,7 @@
         <mark key="^" line="275" column="81" />
         <mark key="." line="275" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagementTest.java" timestamp="1473881219172" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagementTest.java" timestamp="1473881288077" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/can/CanadaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1473369147118">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -205,10 +209,16 @@
         <mark key="]" line="268" column="0" />
         <mark key="." line="268" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/CheckoutConditionsClearedHandler.java" timestamp="1473880489671">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/CheckoutConditionsClearedHandler.java" timestamp="1473882555610">
         <mark key="[" line="42" column="16" />
         <mark key="]" line="42" column="16" />
         <mark key="." line="42" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/messaging/consumer/CheckoutConditionsClearedHandlerTest.java" timestamp="1473884864086">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="29" />
+        <mark key="^" line="106" column="29" />
+        <mark key="." line="106" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/requestKeys/PreSearchRequestXPaths.txt" timestamp="1472239511543">
         <mark key="[" line="1" column="0" />
@@ -357,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SalesforceRecoverableException</text>
+        <text encoding="base64">ICAgIHZlcmlmeShkZWNpc2lvbk1hbmFnZW1lbnQpLmdldERlY2lzaW9uV2l0aEF0dGVtcHRzKGFueUxvbmcoKSwgYW55TG9uZygpKTsKICAgIHZlcmlmeShvcHBvcnR1bml0eVNlcnZpY2UpLmdldE9wcG9ydHVuaXR5QnlPcHBvcnR1bml0eUlkKGFueVN0cmluZygpKTsKICAgIHZlcmlmeShvcHBvcnR1bml0eVNlcnZpY2UpLnVwZGF0ZShhbnkoT3Bwb3J0dW5pdHkuY2xhc3MpKTsKICAgIHZlcmlmeShvcHBvcnR1bml0eVNlcnZpY2UpLnVwZGF0ZVN0YXR1cyhhbnkoT3Bwb3J0dW5pdHkuY2xhc3MpLCBhbnkoRGVjaXNpb24uY2xhc3MpKTsKICAgIHZlcmlmeShvcHBvcnR1bml0eVNlcnZpY2UpLmFzc2lnbkFnZW50KGFueShPcHBvcnR1bml0eS5jbGFzcykpOwogICAgdmVyaWZ5Tm9Nb3JlSW50ZXJhY3Rpb25zKGRlY2lzaW9uTWFuYWdlbWVudCwgb3Bwb3J0dW5pdHlTZXJ2aWNlKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>SalesforceRecoverableException</text>
+        <text>&quot;d&quot;</text>
       </register>
       <register name="/" type="4">
         <text>propert</text>
@@ -368,8 +378,8 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHZlcmlmeShkZWNpc2lvbk1hbmFnZW1lbnQpLmdldERlY2lzaW9uV2l0aEF0dGVtcHRzKGFueUxvbmcoKSwgYW55TG9uZygpKTsKICAgIHZlcmlmeShvcHBvcnR1bml0eVNlcnZpY2UpLmdldE9wcG9ydHVuaXR5QnlPcHBvcnR1bml0eUlkKGFueVN0cmluZygpKTsKICAgIHZlcmlmeShvcHBvcnR1bml0eVNlcnZpY2UpLnVwZGF0ZShhbnkoT3Bwb3J0dW5pdHkuY2xhc3MpKTsKICAgIHZlcmlmeShvcHBvcnR1bml0eVNlcnZpY2UpLnVwZGF0ZVN0YXR1cyhhbnkoT3Bwb3J0dW5pdHkuY2xhc3MpLCBhbnkoRGVjaXNpb24uY2xhc3MpKTsKICAgIHZlcmlmeShvcHBvcnR1bml0eVNlcnZpY2UpLmFzc2lnbkFnZW50KGFueShPcHBvcnR1bml0eS5jbGFzcykpOwogICAgdmVyaWZ5Tm9Nb3JlSW50ZXJhY3Rpb25zKGRlY2lzaW9uTWFuYWdlbWVudCwgb3Bwb3J0dW5pdHlTZXJ2aWNlKTs=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -378,22 +388,22 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wcG9ydHVuaXR5LnNldElkKG9wcG9ydHVuaXR5SWQpOwo=</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZWRPcHBvcnR1bml0eS5zZXRTdGFnZU5hbWUob3Bwb3J0dW5pdHkuZ2V0U3RhZ2VOYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIGRlY2lzaW9uLnNldE9mZmxpbmVEZWNpc2lvbk9wcG9ydHVuaXR5KG9wcElkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZWRPcHBvcnR1bml0eS5zZXRJZChvcHBvcnR1bml0eUlkKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA5LzE0LzE2Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
