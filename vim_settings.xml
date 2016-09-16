@@ -168,12 +168,7 @@
         <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagementTest.java" timestamp="1473881288077" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/spring/applicationContext-properties.xml" timestamp="1474037104129" />
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/can/CanadaUnderwritingModelRequestBuilderFlowIntegrationTest.java" timestamp="1473369147118">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/spring/applicationContext-properties.xml" timestamp="1474039541502" />
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/utils/Defines/Defines.java" timestamp="1471268246352">
         <mark key="[" line="882" column="98" />
       </file>
@@ -183,7 +178,7 @@
         <mark key="^" line="70" column="51" />
         <mark key="." line="70" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PoodleSafeAxisSecureSocketFactory.java" timestamp="1474038412080">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/PoodleSafeAxisSecureSocketFactory.java" timestamp="1474039379931">
         <mark key="[" line="93" column="71" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -208,21 +203,11 @@
         <mark key="^" line="31" column="88" />
         <mark key="." line="31" column="88" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/security/SecurityServiceTest.java" timestamp="1473264125384">
-        <mark key="[" line="103" column="16" />
-        <mark key="]" line="103" column="16" />
-        <mark key="." line="103" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/core/src/test/java/com/ondeck/loansales/service/sale/SaleMailerTest.java" timestamp="1471023635420">
         <mark key="[" line="61" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/test/java/com/ondeck/loansales/jobs/NotifierTest.java" timestamp="1470934664606">
         <mark key="[" line="80" column="55" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1473369107274">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/CheckoutConditionsClearedHandler.java" timestamp="1473882555610">
         <mark key="[" line="42" column="16" />
@@ -240,10 +225,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/SpringPropertiesUtils.java" timestamp="1474037043698">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/SpringPropertiesUtils.java" timestamp="1474039506952">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1474034692285">
         <mark key="[" line="0" column="0" />
@@ -388,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBEZWZhdWx0IGFzIGluIFByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>| CertificateException</text>
+        <text>.toString()</text>
       </register>
       <register name="/" type="4">
         <text>propert</text>
@@ -400,31 +385,31 @@
         <text encoding="base64">Y29ubmVjdC51cmw9aHR0cDovL2RldjAxY29ubmVjdC9jb25uZWN0c2VydmljZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBEZWZhdWx0IGFzIGluIFByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgSW1tdXRhYmxlTWFwLkJ1aWxkZXI8U3RyaW5nLCBDZXJ0aWZpY2F0ZT4gY2VydGlmaWNhdGVzID0gSW1tdXRhYmxlTWFwLmJ1aWxkZXIoKTsKLy8gICAgICAgICAgU3RyaW5nIHJ1bnRpbWVFbnYgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoInJ1bnRpbWUuZW52Iik7Ci8vICAgICAgICAgIGlmICghT2JqZWN0cy5lcXVhbChQUk9EX1JVTlRJTUVfRU5WLCBydW50aW1lRW52KSkKLy8gICAgICAgICAgewovLyAgICAgICAgICAgIGNlcnRpZmljYXRlcy5wdXQoIkVTZXJ2aWNlQ29ycF9VQVQiLCBFU0NVQVRDZXJ0aWZpY2F0ZS5nZXQoKSk7Ci8vICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjZXJ0aWZpY2F0ZXMuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA5LzE2LzE2Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gICAgICAgICAgSW1tdXRhYmxlTWFwLkJ1aWxkZXI8U3RyaW5nLCBDZXJ0aWZpY2F0ZT4gY2VydGlmaWNhdGVzID0gSW1tdXRhYmxlTWFwLmJ1aWxkZXIoKTsKLy8gICAgICAgICAgU3RyaW5nIHJ1bnRpbWVFbnYgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoInJ1bnRpbWUuZW52Iik7Ci8vICAgICAgICAgIGlmICghT2JqZWN0cy5lcXVhbChQUk9EX1JVTlRJTUVfRU5WLCBydW50aW1lRW52KSkKLy8gICAgICAgICAgewovLyAgICAgICAgICAgIGNlcnRpZmljYXRlcy5wdXQoIkVTZXJ2aWNlQ29ycF9VQVQiLCBFU0NVQVRDZXJ0aWZpY2F0ZS5nZXQoKSk7Ci8vICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRjaCAoQ2VydGlmaWNhdGVFeGNlcHRpb24gZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjZXJ0aWZpY2F0ZXMuYnVpbGQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
