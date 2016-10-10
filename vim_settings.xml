@@ -82,7 +82,7 @@
         <mark key="]" line="914" column="148" />
         <mark key="." line="914" column="148" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ppsa/ESCPPSAResponseConverter.scala" timestamp="1476127674372">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ppsa/ESCPPSAResponseConverter.scala" timestamp="1476129268620">
         <mark key="[" line="27" column="26" />
         <mark key="]" line="27" column="26" />
         <mark key="^" line="28" column="40" />
@@ -158,8 +158,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/dist/README.md" timestamp="1469817844344">
         <mark key="[" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1476113522444">
-        <mark key="[" line="321" column="5" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1476129579450">
+        <mark key="[" line="305" column="14" />
+        <mark key="]" line="305" column="14" />
+        <mark key="^" line="328" column="127" />
+        <mark key="." line="305" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchCachingReportHandlerIT.java" timestamp="1474038489327">
         <mark key="[" line="64" column="54" />
@@ -207,7 +210,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/pom.xml" timestamp="1476114022245">
         <mark key="[" line="236" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ppsa/ESCPPSAResponseConverterSpec.scala" timestamp="1476128981107">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ppsa/ESCPPSAResponseConverterSpec.scala" timestamp="1476129083639">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -429,11 +432,11 @@
       <jump line="910" column="8" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/test/FakeConnectData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>: ConnectResponse[Report[ESCPreSearchResponse]])</text>
       </register>
       <register name="-" type="4">
-        <text>ESCCorpSearchResponse</text>
+        <text>: ConnectResponse[Report[ESCPreSearchResponse]])</text>
       </register>
       <register name="/" type="4">
         <text>propert</text>
@@ -442,31 +445,34 @@
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJwcm9wZXJ0eUNvbmZpZ3VyZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuY29uZmlnLlByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5tb2RlbC5idXNpbmVzc2lkLmVzZXJ2aWNlY29ycC5FU0NDb3JwU2VhcmNoUmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgLnBvc3QoRW50aXR5Lmpzb24ocHJlU2VhcmNoUmVxdWVzdCksIG5ldyBHZW5lcmljVHlwZVtDb25uZWN0UmVzcG9uc2VbUmVwb3J0W0VTQ1ByZVNlYXJjaFJlc3BvbnNlXV1dIHt9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgKGVudHJ5LCBkZWJ0b3JzLCBzZWN1cmVkUGFydGllcykgPSByZXN1bHQK</text>
+        <text encoding="base64">ICAgIGNvbnRlbnRUeXBlKHJlc291cmNlLnBhdGgoQ0FOQURBX1BSRVNFQVJDSF9FTkRQT0lOVCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBQUFNBRW50cnkgcHBzYUVudHJ5MiA9IAo=</text>
+        <text encoding="base64">ICAgIHZhbCBwcmVTZWFyY2hSZXF1ZXN0ID0gcHJlU2VhcmNoUmVxdWVzdENvbnZlcnRlcihvcHBvcnR1bml0eSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBQUFNBRW50cnkgcHBzYUVudHJ5MSA9IHBwc2FFbnRyeSgpOwo=</text>
+      <register name="6" type="4">
+        <text>val preSearchRequest = preSearchRequestConverter(opportunity)
+    contentType(resource.path(CANADA_PRESEARCH_ENDPOINT))
+      .post(Entity.json(preSearchRequest), new GenericType[ConnectResponse[Report[ESCPreSearchResponse]]] {})
+  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBwc2Eub3JkZXJOdW1iZXIgc2hvdWxkQmUgTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBwc2Eub3JkZXJOdW1iZXIgc2hvdWxkQmUgTm9uZQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLm1vZGVsLnVjYy5OYW1lQWRkcmVzc1BhaXJpbmcK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuY29ubmVjdC5tb2RlbC5idXNpbmVzc2lkLmVzZXJ2aWNlY29ycC5FU0NDb3JwU2VhcmNoUmVzcG9uc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
