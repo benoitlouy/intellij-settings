@@ -86,10 +86,11 @@
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/PPSADao.scala" timestamp="1476201735510">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="48" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/PPSADao.scala" timestamp="1476212273931">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/PPSAs.scala" timestamp="1476200809597">
         <mark key="[" line="6" column="21" />
@@ -219,6 +220,9 @@
         <mark key="]" line="46" column="38" />
         <mark key="^" line="46" column="38" />
         <mark key="." line="46" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/test.sc" timestamp="1476212338826">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/core/src/main/resources/loansales-email.properties" timestamp="1471025500127">
         <mark key="[" line="31" column="44" />
@@ -501,10 +505,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>input._2.map()</text>
+        <text>ppsaEntry</text>
       </register>
       <register name="-" type="4">
-        <text>input._2.map()</text>
+        <text>ppsaEntry</text>
       </register>
       <register name="/" type="4">
         <text>propert</text>
