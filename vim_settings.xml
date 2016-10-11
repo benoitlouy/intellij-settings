@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/core/manager/LOCLoanSalesManager.java" timestamp="1472489978865">
         <mark key="[" line="232" column="120" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/CorpSearches.scala" timestamp="1476192368654" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1473276561125">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="30" />
@@ -79,6 +80,12 @@
         <mark key="]" line="54" column="41" />
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/PPSAs.scala" timestamp="1476192352657">
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="17" column="64" />
+        <mark key="." line="17" column="64" />
+        <mark key="^" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/main/java/com/ondeck/loansales/jobs/inject/NotifierModule.java" timestamp="1472486367478">
         <mark key="[" line="31" column="42" />
@@ -438,7 +445,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>, businessName.?, businessStatus.?, incorporationDate.?,
+    address.?, entityType.?, registryType.?</text>
       </register>
       <register name="-" type="4">
         <text>this</text>
@@ -449,32 +457,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJwcm9wZXJ0eUNvbmZpZ3VyZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuY29uZmlnLlByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0ZSA9IEZha2VEYXRhLnN0YXRlKENvdW50cnkuQ0EpCg==</text>
+      <register name="1" type="4">
+        <text>, businessName.?, businessStatus.?, incorporationDate.?,
+    address.?, entityType.?, registryType.?</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLm1vZGVsLmVudW1zLlN0YXRlCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTAvMTAvMTYuCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTAvMTEvMTYuCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBzdGF0ZSA9IEZha2VEYXRhLnN0YXRlKENvdW50cnkuQ0EpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA/Pz8K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLm1vZGVsLmVudW1zLlN0YXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcHNhUmVxdWVzdC5zZXRTdGF0ZShvcHBvcnR1bml0eS5nZXRCdXNpbmVzcy5nZXRBZGRyZXNzLmdldFN0YXRlLmdldFN0YXRlQ29kZSkK</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcHNhUmVxdWVzdC5zZXRCdXNpbmVzc05hbWUoYnVzaW5lc3NOYW1lKQo=</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTAvMTAvMTYuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5nZXRSZXBseVRvIHNob3VsZEJlICJqbXM6cXVldWU6Y2FsbGJhY2siCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
