@@ -86,10 +86,15 @@
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/PPSAs.scala" timestamp="1476199062681">
-        <mark key="[" line="135" column="35" />
-        <mark key="]" line="135" column="35" />
-        <mark key="." line="135" column="35" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/PPSADao.scala" timestamp="1476200545309">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/PPSAs.scala" timestamp="1476200809597">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
         <mark key="^" line="84" column="92" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/main/java/com/ondeck/loansales/jobs/inject/NotifierModule.java" timestamp="1472486367478">
@@ -139,6 +144,9 @@
         <mark key="]" line="29" column="39" />
         <mark key="." line="29" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/CorpSearchDao.scala" timestamp="1476200593363">
+        <mark key="[" line="3" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/core/dao/JobExecutionDAO.java" timestamp="1472489954558">
         <mark key="[" line="189" column="54" />
         <mark key="]" line="189" column="54" />
@@ -178,10 +186,13 @@
         <mark key="." line="72" column="34" />
         <mark key="^" line="72" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/ResultType.java" timestamp="1476199952190">
+        <mark key="[" line="56" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/dist/README.md" timestamp="1469817844344">
         <mark key="[" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1476136021119">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/client/ConnectIO.scala" timestamp="1476200479676">
         <mark key="[" line="341" column="73" />
         <mark key="]" line="341" column="71" />
         <mark key="." line="341" column="71" />
@@ -202,6 +213,7 @@
         <mark key="]" line="50" column="2" />
         <mark key="." line="50" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaPPSADecider.scala" timestamp="1476200083480" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/OnDeckOnlineHandler.java" timestamp="1473881164350">
         <mark key="[" line="27" column="58" />
         <mark key="]" line="46" column="38" />
@@ -373,10 +385,14 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/PPSADecider.scala" timestamp="1476199872793">
+        <mark key="[" line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/ucc/SecuredParty.java" timestamp="1476124183924" />
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/core/models/JobExecutionModel.java" timestamp="1470752248493">
         <mark key="[" line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1476200080551" />
       <file name="/fragment.java" timestamp="1474034692311">
         <mark key="[" line="0" column="0" />
       </file>
@@ -485,10 +501,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>secured_part</text>
+        <text>ProvenShape</text>
       </register>
       <register name="-" type="4">
-        <text>secured_part</text>
+        <text>ProvenShape</text>
       </register>
       <register name="/" type="4">
         <text>propert</text>
@@ -497,18 +513,27 @@
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJwcm9wZXJ0eUNvbmZpZ3VyZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuY29uZmlnLlByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHNoYXBlZFZhbHVlID0gKGlkLj8sIHBwc2FFbnRyeUlkLj8sIG5hbWUsIGxpbmUxLCBjaXR5LCBwcm92aW5jZSwgcG9zdGFsQ29kZSkuc2hhcGVkCg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTAvMTEvMTYuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIHNoYXBlZFZhbHVlID0gKGlkLj8sIHBwc2FFbnRyeUlkLj8sIG5hbWUsIGxpbmUxLCBjaXR5LCBwcm92aW5jZSwgcG9zdGFsQ29kZSkuc2hhcGVkCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>sealed trait PPSAParty {
   def id: Option[Int]
   def ppsaEntryId: Option[Int]
@@ -516,18 +541,8 @@
   def address: Address
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNoYXBlZFZhbHVlLgo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>, businessName.?, businessStatus.?, incorporationDate.?,
-    address.?, entityType.?, registryType.?</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAqLwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTAvMTEvMTYuCg==</text>
+        <text encoding="base64">ICAgIHNoYXBlZFZhbHVlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
