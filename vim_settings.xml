@@ -55,8 +55,8 @@
         <mark key="[" line="33" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSAReportFetcher.java" timestamp="1476135956755" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/dao/PPSADaoIT.scala" timestamp="1476218895653">
-        <mark key="^" line="19" column="73" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/dao/PPSADaoIT.scala" timestamp="1476286538434">
+        <mark key="^" line="20" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/main/resources/email-template.properties" timestamp="1471028611098">
         <mark key="[" line="1" column="49" />
@@ -84,16 +84,15 @@
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/PPSADao.scala" timestamp="1476220908693">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="21" column="5" />
-        <mark key="." line="21" column="5" />
-        <mark key="^" line="21" column="5" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/PPSADao.scala" timestamp="1476286613142">
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/PPSAs.scala" timestamp="1476221031374">
-        <mark key="[" line="40" column="78" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/mapper/PPSAs.scala" timestamp="1476286562570">
+        <mark key="[" line="46" column="30" />
+        <mark key="]" line="46" column="30" />
+        <mark key="." line="46" column="30" />
         <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_manifest" timestamp="1476217464174">
@@ -278,11 +277,11 @@
         <mark key="." line="87" column="59" />
         <mark key="^" line="87" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_507_add_ppsa.sql" timestamp="1476217325164">
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="46" column="18" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_507_add_ppsa.sql" timestamp="1476286174918">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="16" />
         <mark key="^" line="29" column="23" />
-        <mark key="." line="46" column="18" />
+        <mark key="." line="26" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/pom.xml" timestamp="1476116144802">
         <mark key="[" line="126" column="32" />
@@ -313,6 +312,9 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/test/java/com/ondeck/loansales/jobs/NotifierTest.java" timestamp="1470934664606">
         <mark key="[" line="80" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/Generators.scala" timestamp="1476286300006">
+        <mark key="[" line="258" column="112" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/messaging/consumer/CheckoutConditionsClearedHandlerTest.java" timestamp="1476112513132">
         <mark key="[" line="78" column="14" />
@@ -481,11 +483,11 @@
       <jump line="910" column="8" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/test/FakeConnectData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YWwgam9pbldpdGhFbnRyeSA9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFRhc2tbU2VxWyhQUFNBLCBPcHRpb25bUFBTQUVudHJ5XSwgUFBTQVNlY3VyZWRQYXJ0eSwgUFBTQURlYnRvcildXQ==</text>
       </register>
       <register name="-" type="4">
-        <text>Compiled(</text>
+        <text encoding="base64">IFRhc2tbU2VxWyhQUFNBLCBPcHRpb25bUFBTQUVudHJ5XSwgUFBTQVNlY3VyZWRQYXJ0eSwgUFBTQURlYnRvcildXQ==</text>
       </register>
       <register name="/" type="4">
         <text>propert</text>
@@ -494,31 +496,31 @@
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJwcm9wZXJ0eUNvbmZpZ3VyZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuY29uZmlnLlByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgam9pbldpdGhFbnRyeSA9Cg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgcHBzYUVudHJpZXMgPC0gUFBTQXMuZmlsdGVyKF8ub3Bwb3J0dW5pdHlJZCA9PT0gb3Bwb3J0dW5pdHlJZCkud2l0aEVudHJpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgd2l0aEVudHJpZXMgPSBxLmpvaW4oKQo=</text>
+        <text encoding="base64">ICAgICAgcHBzYSA8LSBQUFNBcy5maWx0ZXIoXy5vcHBvcnR1bml0eUlkID09PSBvcHBvcnR1bml0eUlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wbGljaXQgY2xhc3MgUFBTQUV4dGVuc2lvbnNbQ1tfXV0ocTogUXVlcnlbUFBTQXMsIFBQU0EsIENdKSB7Cg==</text>
+        <text encoding="base64">ICB2YWwgam9pbldpdGhFbnRyeSA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFBQU0FFbnRyCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igewo=</text>
+        <text encoding="base64">ICBkZWYgd2l0aEVudHJpZXMgPSBxLmpvaW4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">aW1wbGljaXQgY2xhc3MgUFBTQUV4dGVuc2lvbnNbQ1tfXV0ocTogUXVlcnlbUFBTQXMsIFBQU0EsIENdKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
