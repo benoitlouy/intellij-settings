@@ -59,10 +59,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/jobs/loan_sales/src/dist/README.md" timestamp="1469799931144">
         <mark key="[" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ppsa/ESCPPSAResponseConverter.scala" timestamp="1476293257525">
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="23" column="38" />
-        <mark key="." line="23" column="38" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ppsa/ESCPPSAResponseConverter.scala" timestamp="1476300468411">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/PPSA.scala" timestamp="1476293179809">
         <mark key="[" line="7" column="16" />
@@ -77,6 +77,9 @@
         <mark key="]" line="189" column="54" />
         <mark key="^" line="217" column="34" />
         <mark key="." line="189" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/AlpacaError.java" timestamp="1476300412858">
+        <mark key="[" line="33" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1474040733631">
         <mark key="[" line="172" column="32" />
@@ -105,7 +108,9 @@
         <mark key="]" line="50" column="2" />
         <mark key="." line="50" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaPPSADecider.scala" timestamp="1476200083480" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaPPSADecider.scala" timestamp="1476300416227">
+        <mark key="[" line="33" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/OnDeckOnlineHandler.java" timestamp="1473881164350">
         <mark key="[" line="27" column="58" />
         <mark key="]" line="46" column="38" />
@@ -428,7 +433,7 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_391_add_canada_corp_search.sql" timestamp="1476215423276" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/ucc/SecuredParty.java" timestamp="1476124183924" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1476200080551" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1476300252457" />
       <file name="/fragment.java" timestamp="1474034692311">
         <mark key="[" line="0" column="0" />
       </file>
@@ -536,8 +541,8 @@
       <jump line="910" column="8" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/test/FakeConnectData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(implicit executionContext: ExecutionContext = ThreadPools.trampoline)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(implicit executionContext: ExecutionContext = ThreadPools.trampoline)</text>
@@ -548,16 +553,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJwcm9wZXJ0eUNvbmZpZ3VyZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuY29uZmlnLlByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIj4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ewogICAgICBkYXRhID0+IFBQU0EoZGF0YS5pZCwgZGF0YS5vcHBvcnR1bml0eUlkLCBkYXRhLmNvbm5lY3RJZCwgSmFja3Nvbi5tYXBwZXIucmVhZFZhbHVlKGRhdGEuZGF0YS52YWx1ZSwgY2xhc3NPZltQUFNBQ29udGVudF0pKQogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5JbmplY3QK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ubmV0Lmh0dHBzZXJ2ZXIuQXV0aGVudGljYXRvci5GYWlsdXJlCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgICBkYXRhID0+IFBQU0EoZGF0YS5pZCwgZGF0YS5vcHBvcnR1bml0eUlkLCBkYXRhLmNvbm5lY3RJZCwgSmFja3Nvbi5tYXBwZXIucmVhZFZhbHVlKGRhdGEuZGF0YS52YWx1ZSwgY2xhc3NPZltQUFNBQ29udGVudF0pKQogICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>//    private final ObjectMapper mapper;
 //
 //    public ObjectMapperResolver() {
@@ -569,21 +589,6 @@
 //                .registerModule(new JsonSnapshotModule())
 //                .registerModule(new DefaultScalaModule());
 //    }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIj4+Pj4+IFNUUklORyAkcyIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHMgPSBKYWNrc29uLm1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcoaW5wdXQuY29udGVudCkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIj4+Pj4+IERBVEEgJHtpbnB1dC5jb250ZW50fSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
