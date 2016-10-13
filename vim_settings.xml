@@ -117,11 +117,11 @@
         <mark key="[" line="51" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/corpsearch/ESCCorpSearchResponseConverter.scala" timestamp="1476122189951" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaPPSADecider.scala" timestamp="1476383704524">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="9" column="48" />
-        <mark key="." line="9" column="48" />
-        <mark key="^" line="9" column="48" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CanadaPPSADecider.scala" timestamp="1476384277388">
+        <mark key="[" line="26" column="75" />
+        <mark key="]" line="26" column="75" />
+        <mark key="." line="26" column="75" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/messaging/consumer/OnDeckOnlineHandler.java" timestamp="1473881164350">
         <mark key="[" line="27" column="58" />
@@ -326,7 +326,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/salesforce/State.java" timestamp="1473876172260">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/LienJudgmentDecider.scala" timestamp="1476383731521" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/LienJudgmentDecider.scala" timestamp="1476383735185" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/integration/EquifaxCanadaOwnerVerificationTest.java" timestamp="1474294318560">
         <mark key="[" line="275" column="0" />
         <mark key="]" line="275" column="0" />
@@ -412,7 +412,7 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_391_add_canada_corp_search.sql" timestamp="1476215423276" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/ucc/SecuredParty.java" timestamp="1476124183924" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CanadaPPSAPolicies.scala" timestamp="1476383256427">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CanadaPPSAPolicies.scala" timestamp="1476383874813">
         <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/CorpSearchDecider.scala" timestamp="1476300252457" />
@@ -523,11 +523,11 @@
       <jump line="910" column="8" filename="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/test/FakeConnectData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLmRlY2lkZXIucG9saWN5LkNhbmFkYVBQU0FQb2xpY2llcy5fCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>propert</text>
@@ -536,31 +536,31 @@
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJwcm9wZXJ0eUNvbmZpZ3VyZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuY29uZmlnLlByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLmRlY2lkZXIucG9saWN5LkNhbmFkYVBQU0FQb2xpY2llcy5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwue0ZhaWx1cmUsIFN1Y2Nlc3N9Cg==</text>
+        <text encoding="base64">Ly8gIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLm1vZGVsLmV4Y2VwdGlvbi5BbHBhY2FFeGNlcHRpb24K</text>
+        <text encoding="base64">Ly8gICAgPz8/Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLk9wcEFuZFJlc3VsdEYK</text>
+        <text encoding="base64">Ly8gIGRlZiBkZWNpZGUob3Bwb3J0dW5pdHk6IE9wcG9ydHVuaXR5LCBwcHNhOiBPcHRpb25bUFBTQV0pOiBPcHBBbmRSZXN1bHRGID0gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLlBvbGljeU91dHB1dAo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IG1hdGNoIHsKICAgICAgY2FzZSBTdWNjZXNzKHBwc2EpID0+IGRlY2lkZShvcHBvcnR1bml0eSwgcHBzYSkKICAgICAgY2FzZSBGYWlsdXJlKGVycm9yKSA9PgogICAgICAgIHRocm93IG5ldyBBbHBhY2FFeGNlcHRpb24ob3Bwb3J0dW5pdHkuZ2V0SWQsIG51bGwsIGVycm9yLCBBbHBhY2FFcnJvci5FU0NfUFBTQV9VTkFWQUlMQUJMRSkKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgKG9wcG9ydHVuaXR5RihvcHBvcnR1bml0eSksIHJlc3VsdEYocmVzdWx0KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhbmFkYVBQU0FTZXJ2aWNlLmdldFBQU0Eob3Bwb3J0dW5pdHkpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBBbHBhY2FFeGNlcHRpb24ob3Bwb3J0dW5pdHkuZ2V0SWQsIG51bGwsIGVycm9yLCBBbHBhY2FFcnJvci5FU0NfUFBTQV9VTkFWQUlMQUJMRSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBjYXNlIEZhaWx1cmUoZXJyb3IpID0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
