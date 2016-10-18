@@ -162,11 +162,10 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CanadaPPSAServiceSpec.scala" timestamp="1476796958962">
-        <mark key="[" line="149" column="137" />
-        <mark key="]" line="149" column="137" />
-        <mark key="^" line="149" column="136" />
-        <mark key="." line="149" column="136" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CanadaPPSAServiceSpec.scala" timestamp="1476798319865">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/utils/Defines/Defines.java" timestamp="1471268246352">
         <mark key="[" line="882" column="98" />
@@ -218,11 +217,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/services/viewservice.js" timestamp="1476724579457">
         <mark key="[" line="29" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CanadaPPSAPolicies.scala" timestamp="1476739049374">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="20" column="67" />
-        <mark key="." line="12" column="21" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CanadaPPSAPolicies.scala" timestamp="1476798167167">
+        <mark key="[" line="20" column="91" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/service/ConnectAsyncService.scala" timestamp="1476457492941">
         <mark key="[" line="21" column="95" />
@@ -339,11 +337,11 @@
       <jump line="10" column="2" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Jackson.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdC5jb250ZW50LmVudHJpZXMoMSkudmFsaWRhdGlvblN0YXR1cyBzaG91bGRCZSBWYWxpZGF0aW9uU3RhdHVzLllFUwo=</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>status to NO if no entry</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -352,31 +350,31 @@
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJwcm9wZXJ0eUNvbmZpZ3VyZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuY29uZmlnLlByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5jb250ZW50LmVudHJpZXMoMSkudmFsaWRhdGlvblN0YXR1cyBzaG91bGRCZSBWYWxpZGF0aW9uU3RhdHVzLllFUwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNvcHkoZW50cmllcyA9IExpc3QocmVzdWx0LmNvbnRlbnQuZW50cmllcy5oZWFkLmNvcHkodmFsaWRhdGlvblN0YXR1cyA9IFZhbGlkYXRpb25TdGF0dXMuWUVTKSkpKQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5jb250ZW50LmVudHJpZXMuaGVhZC52YWxpZGF0aW9uU3RhdHVzIHNob3VsZEJlIFZhbGlkYXRpb25TdGF0dXMuTk8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBvdGhlclBQU0EgPSByZXN1bHQuY29weShjb250ZW50ID0gcmVzdWx0LmNvbnRlbnQK</text>
+        <text encoding="base64">ICAgIGlmIChlbnRyaWVzLmV4aXN0cyhfLnNlY3VyZWRQYXJ0aWVzLmV4aXN0cyhfLm1hdGNoZWRUb01DQSkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBlbnRyaWVzID0gcHBzYS5tYXAoXy5jb250ZW50LmVudHJpZXMuZmlsdGVyTm90KF8udmFsaWRhdGlvblN0YXR1cyA9PSBWYWxpZGF0aW9uU3RhdHVzLk5PKSkuZ2V0T3JFbHNlKE5pbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5jb250ZW50LmVudHJpZXMuaGVhZC52YWxpZGF0aW9uU3RhdHVzIHNob3VsZEJlIFZhbGlkYXRpb25TdGF0dXMuTk8K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5tYXRjaGVyLk1DQU1hdGNoZXIuXwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBBd2FpdC5yZXN1bHQoQ2FuYWRhUFBTQVV0aWxzLm1hdGNoTUNBcyhwcHNhLCBhbGxHcm91cC5fMSkucnVuQXN5bmMsIER1cmF0aW9uLkluZikK</text>
+        <text encoding="base64">Ly8gICAgdmFsIGFsbEdyb3VwID0gKG1hcCwgbmFtZVRvTWFzdGVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIG5hbWVUb01hc3RlciA9IE1hcCgiMiBEb2xsYXIgQ2FwaXRhbCIgLT4gIjIgRG9sbGFyIENhcGl0YWwgSW5jIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBwc2EuY29udGVudC5lbnRyaWVzLmhlYWQudmFsaWRhdGlvblN0YXR1cyBzaG91bGRCZSBWYWxpZGF0aW9uU3RhdHVzLlVOS05PV04K</text>
+        <text encoding="base64">Ly8gICAgdmFsIG1hcCA9IE1hcCgiRDQ2MCIgLT4gKCIyIERvbGxhciBDYXBpdGFsIiA6OiBOaWwpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
