@@ -448,11 +448,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/controllers.js" timestamp="1476725778666">
         <mark key="[" line="34" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/auditlog/PPSAAuditLogger.scala" timestamp="1476817675762">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/auditlog/PPSAAuditLogger.scala" timestamp="1476818066661">
         <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/pom.xml" timestamp="1476116144802">
         <mark key="[" line="126" column="32" />
@@ -633,11 +632,11 @@
       <jump line="10" column="2" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Jackson.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHBzYSA9PiAoKHBwc2Eub3Bwb3J0dW5pdHlJZCwgcHBzYS5jb25uZWN0SWQpLCBwcHNhKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICBNYXAobmV3T2JqZWN0cy5hc1NjYWxhLm1hcChmKS50b1NlcTogXyopZGQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHBzYSA9PiAoKHBwc2Eub3Bwb3J0dW5pdHlJZCwgcHBzYS5jb25uZWN0SWQpLCBwcHNhKQ==</text>
+        <text encoding="base64">dmFsIG9sZFBQU0FzID0g</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -646,31 +645,31 @@
         <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgcHVibGljLm1ldGhvZHMuaGF2ZS50eXBlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHBzYURhby51cGRhdGUob3Bwb3J0dW5pdHlJZCwgcHBzYSkK</text>
+        <text encoding="base64">ICAgICBNYXAobmV3T2JqZWN0cy5hc1NjYWxhLm1hcChmKS50b1NlcTogXyopZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcHNhRGFvLnVwZGF0ZShvcHBvcnR1bml0eUlkLCBwcHNhKQo=</text>
+        <text encoding="base64">Ly8gICAgcHBzYURhby51cGRhdGUob3Bwb3J0dW5pdHlJZCwgcHBzYSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBwcHNhRGFvLnVwZGF0ZShvcHBvcnR1bml0eUlkLCBwcHNhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTAvMTgvMTYuCg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTAvMTgvMTYuCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLmRlY2lkZXIuRGVjaWRlcgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIGZvciB7CiAgICAgIHBwc2EgPC0gUFBTQXMgaWYgcHBzYS5vcHAKICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgZG9BbmRSZVJ1bjogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
