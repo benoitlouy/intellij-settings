@@ -30,7 +30,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/inteflow-connection/src/main/java/com/odc/vendor/connection/inteflow/InteflowConnection.java" timestamp="1474035547712">
         <mark key="[" line="17" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CanadaPPSAService.scala" timestamp="1476817000965">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CanadaPPSAService.scala" timestamp="1476822474541">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -60,6 +60,9 @@
         <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/UCCFilingResource.java" timestamp="1476814191788" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/AuditedItem.java" timestamp="1476818873428">
+        <mark key="[" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/main/java/com/ondeck/loansales/jobs/inject/NotifierModule.java" timestamp="1472486367478">
         <mark key="[" line="31" column="42" />
         <mark key="]" line="31" column="49" />
@@ -151,6 +154,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="68" column="56" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar!/org/scalatest/Assertions.class" timestamp="1476819840914" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/resources/test.properties" timestamp="1476478127630">
         <mark key="[" line="100" column="58" />
         <mark key="]" line="100" column="63" />
@@ -162,6 +166,12 @@
         <mark key="]" line="65" column="12" />
         <mark key="." line="65" column="12" />
         <mark key="^" line="87" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/auditlog/PPSAAuditLoggerSpec.scala" timestamp="1476822074260">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="85" column="39" />
+        <mark key="." line="85" column="39" />
+        <mark key="^" line="67" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/closingdocumentpolicies.scala" timestamp="1476134959547">
         <mark key="[" line="84" column="29" />
@@ -341,6 +351,9 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_xxx_add_ppsa.sql" timestamp="1476819206884">
+        <mark key="[" line="0" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1471896241668">
         <mark key="[" line="44" column="170" />
         <mark key="]" line="44" column="149" />
@@ -420,10 +433,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CanadaPPSAServiceSpec.scala" timestamp="1476798850288">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/service/CanadaPPSAServiceSpec.scala" timestamp="1476822216832">
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="31" />
+        <mark key="^" line="139" column="32" />
+        <mark key="." line="140" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/ppsa/ESCPPSARequestConverter.scala" timestamp="1476135781837">
         <mark key="[" line="7" column="0" />
@@ -448,10 +462,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/controllers.js" timestamp="1476725778666">
         <mark key="[" line="34" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/auditlog/PPSAAuditLogger.scala" timestamp="1476818066661">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/auditlog/PPSAAuditLogger.scala" timestamp="1476821418529">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="35" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/pom.xml" timestamp="1476116144802">
         <mark key="[" line="126" column="32" />
@@ -632,11 +647,11 @@
       <jump line="10" column="2" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Jackson.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICBNYXAobmV3T2JqZWN0cy5hc1NjYWxhLm1hcChmKS50b1NlcTogXyopZGQK</text>
+      <register name="&quot;" type="4">
+        <text>???</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIG9sZFBQU0FzID0g</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -645,31 +660,31 @@
         <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgcHVibGljLm1ldGhvZHMuaGF2ZS50eXBlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICBNYXAobmV3T2JqZWN0cy5hc1NjYWxhLm1hcChmKS50b1NlcTogXyopZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcHBzYURhby51cGRhdGUob3Bwb3J0dW5pdHlJZCwgcHBzYSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcHNhRGFvLnVwZGF0ZShvcHBvcnR1bml0eUlkLCBwcHNhKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5HZW5lcmF0b3JzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuQXNzZXJ0aW9ucy5fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTAvMTgvMTYuCg==</text>
+        <text encoding="base64">ICAgIGF1ZGl0TG9nZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmxvZ2ljLmRlY2lkZXIuRGVjaWRlcgo=</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTAvMTgvMTYuCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGZvciB7CiAgICAgIHBwc2EgPC0gUFBTQXMgaWYgcHBzYS5vcHAKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
