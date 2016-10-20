@@ -203,8 +203,11 @@
         <mark key="." line="914" column="148" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/ucc/UCCFiling.java" timestamp="1476735233620" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_xxx_add_ppsa.sql" timestamp="1476819206884">
-        <mark key="[" line="0" column="47" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_xxx_add_ppsa.sql" timestamp="1476973471453">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/testutil/AuditTestClient.java" timestamp="1472151488407">
         <mark key="[" line="66" column="3" />
@@ -435,11 +438,11 @@
       <jump line="10" column="2" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Jackson.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>materialize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q09NTUlUOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>materialize</text>
+        <text>duplicate_opportunity_id</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -448,34 +451,34 @@
         <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgcHVibGljLm1ldGhvZHMuaGF2ZS50eXBlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09NTUlUOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb09sZFBQU0EgPT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRocmVhZC5zbGVlcCgxMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgb09sZFBQU0EgPT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRocmVhZC5zbGVlcCgxMDAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IHsKICAgICAgICAgICAgICAgIHR5cGU6IHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiAiUFBTQSIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBvdXRjb21lOiAiSU5ERVRFUk1JTkFURSIsCiAgICAgICAgICAgICAgICBkZXRhaWwKICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZWYK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IHsKICAgICAgICAgICAgICAgIHR5cGU6IHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiAiUFBTQSIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBvdXRjb21lOiAiSU5ERVRFUk1JTkFURSIsCiAgICAgICAgICAgICAgICBkZXRhaWwKICAgICAgICAgICAgfQ==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJHNjb3BlLnBwc2EuY29udGVudC5lbnRyaWVzWzFdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJHNjb3BlLnBwc2EuY29udGVudC5lbnRyaWVzWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJHNjb3BlLnBwc2EuY29udGVudC5lbnRyaWVzWzFdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>147</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -524,9 +527,9 @@
         <entry>300</entry>
         <entry>215</entry>
         <entry>55</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>147</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
