@@ -34,7 +34,7 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/UCCFilingResource.java" timestamp="1476814191788" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/UCCFilingResource.java" timestamp="1476994560677" />
       <file name="$MAVEN_REPOSITORY$/com/github/tminglei/slick-pg_2.11/0.14.3/slick-pg_2.11-0.14.3.jar!/com/github/tminglei/slickpg/PgJsonSupport.class" timestamp="1476990277822" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/PPSACollateralType.java" timestamp="1476993676080">
         <mark key="[" line="3" column="29" />
@@ -101,8 +101,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/resource/PPSAResource.scala" timestamp="1476971081600">
-        <mark key="[" line="37" column="51" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/resource/PPSAResource.scala" timestamp="1476994522595">
+        <mark key="[" line="47" column="21" />
         <mark key="]" line="37" column="51" />
         <mark key="." line="37" column="51" />
       </file>
@@ -245,6 +245,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/SecretaryOfStateFilingResource.java" timestamp="1476994746434">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcher.java" timestamp="1476719395848" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/pages/result/corporatesearch.html" timestamp="1476976113631" />
@@ -401,8 +405,8 @@
       <jump line="10" column="2" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Jackson.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoTU9ESUZZX0FMUEFDQV9TVFJJTkcpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -411,7 +415,7 @@
         <text>connect-api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgcHVibGljLm1ldGhvZHMuaGF2ZS50eXBlCg==</text>
+        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoTU9ESUZZX0FMUEFDQV9TVFJJTkcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9Cg==</text>
