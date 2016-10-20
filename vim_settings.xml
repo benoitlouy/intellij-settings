@@ -23,8 +23,10 @@
         <mark key="." line="78" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSAPollReportHandler.java" timestamp="1476719551170" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/corporatesearchcontrollerSpec.js" timestamp="1476907471317">
-        <mark key="[" line="64" column="19" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/json/OpportunityJsonConverterSpec.scala" timestamp="1476988024437">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/PolicyName.java" timestamp="1476382929862">
         <mark key="[" line="237" column="52" />
@@ -159,6 +161,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/test/FakeData.java" timestamp="1476125403081">
         <mark key="[" line="208" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/DB.scala" timestamp="1476988107721">
+        <mark key="[" line="50" column="29" />
+        <mark key="]" line="50" column="29" />
+        <mark key="." line="50" column="29" />
+        <mark key="^" line="50" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/build.gradle" timestamp="1472502039621">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="17" column="32" />
@@ -276,6 +284,11 @@
         <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/resource/CorpSearchResource.scala" timestamp="1476808728732" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/json/OpportunityJsonConverter.java" timestamp="1476987695770">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/canadaPPSACtrl.js" timestamp="1476911270252">
         <mark key="[" line="69" column="49" />
         <mark key="]" line="79" column="69" />
@@ -298,6 +311,12 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/core/models/JobExecutionModel.java" timestamp="1470752248493">
         <mark key="[" line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/dao/OpportunitySnapshotDaoSpec.scala" timestamp="1476987563048">
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="28" column="65" />
+        <mark key="." line="28" column="65" />
+        <mark key="^" line="28" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1473276561125">
         <mark key="[" line="14" column="30" />
@@ -344,6 +363,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/associate/creditdecision/associator/OpportunityCreditDecisionOrphaner.java" timestamp="1470948966029">
         <mark key="[" line="33" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/provider/SnapshotObjectMapperProvider.java" timestamp="1476987972694">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSAReportFetcher.java" timestamp="1476467167189">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -381,10 +405,10 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_xxx_add_ppsa.sql" timestamp="1476973471453">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_xxx_add_ppsa.sql" timestamp="1476988121252">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
         <mark key="^" line="5" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1471896241668">
@@ -566,20 +590,21 @@
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/core/dao/FundingSourceDAO.java" timestamp="1469804297950">
         <mark key="[" line="171" column="76" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Jackson.scala" timestamp="1476988065490">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/corpsearch/PreSearchRequestConverter.scala" timestamp="1476132121657">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSAConfig.java" timestamp="1476719641491">
-        <mark key="[" line="101" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/controllers/corporateSearchCtrl.js" timestamp="1476800097577" />
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchConfig.java" timestamp="1476719374451">
-        <mark key="[" line="45" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/webapp/static/js/services/viewservice.js" timestamp="1476724579457">
-        <mark key="[" line="29" column="72" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/dao/OpportunitySnapshotDao.scala" timestamp="1476987184922">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/policy/CanadaPPSAPolicies.scala" timestamp="1476798167167">
         <mark key="[" line="20" column="91" />
@@ -707,11 +732,11 @@
       <jump line="10" column="2" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Jackson.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlucHV0LmFkZENsb3NpbmdEb2N1bWVudChGYWtlRGF0YS5kb2N1bWVudEZvclNhdmluZygiUFBTQSIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>B</text>
       </register>
       <register name="-" type="4">
-        <text>FakeData.documentForSaving(&quot;PPSA&quot;)</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -720,31 +745,31 @@
         <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgcHVibGljLm1ldGhvZHMuaGF2ZS50eXBlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlucHV0LmFkZENsb3NpbmdEb2N1bWVudChGYWtlRGF0YS5kb2N1bWVudEZvclNhdmluZygiUFBTQSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwcGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlucHV0LmFkZENsb3NpbmdEb2N1bWVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXBwZXIucmVnaXN0ZXJNb2R1bGUobmV3IEpvZGFNb2R1bGUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLmNvbW1vbi5tYXBwZXIuQ2xvc2luZ0RvY3VtZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXBwZXIucmVnaXN0ZXJNb2R1bGUobmV3IEpzb25TbmFwc2hvdE1vZHVsZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLm1vZGVsLmRvY3VtZW50LkNsb3NpbmdEb2N1bWVudFR5cGUK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLndlYi5zZXJ2aWNlLkNsb3NpbmdEb2N1bWVudHNTZXJ2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBpdCBzaG91bGQgInRocm93IGEgUnVudGltZUV4Y2VwdGlvbiB3aGVuIHdyaXRpbmciIGluIHsKICAgIHZhbCBvYmplY3RNYXBwZXIgPSBtb2NrW09iamVjdE1hcHBlcl0KICAgIHdoZW4ob2JqZWN0TWFwcGVyIHdyaXRlVmFsdWVBc1N0cmluZyAoYW55KGNsYXNzT2ZbT3Bwb3J0dW5pdHldKSkpIHRoZW5UaHJvdyBuZXcgSnNvblBhcnNlRXhjZXB0aW9uKCJlcnJvciIsIEpzb25Mb2NhdGlvbi5OQSkKICAgIHZhbCBqc29uQ29udmVydGVyID0gbmV3IE9wcG9ydHVuaXR5SnNvbkNvbnZlcnRlcigpCiAgICBhW1J1bnRpbWVFeGNlcHRpb25dIHNob3VsZCBiZSB0aHJvd25CeSAoanNvbkNvbnZlcnRlciBjb252ZXJ0IG9wcG9ydHVuaXR5KQogIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zaW5nRG9jdW1lbnRzRGFvLmNsZWFyKEltbXV0YWJsZVNldC5vZihkb2N1bWVudCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
