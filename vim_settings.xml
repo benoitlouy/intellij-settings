@@ -174,11 +174,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/test/FakeData.java" timestamp="1476125403081">
         <mark key="[" line="208" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/DB.scala" timestamp="1477075588757">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/build.gradle" timestamp="1472502039621">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="17" column="32" />
@@ -264,6 +259,9 @@
         <mark key="." line="78" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/node/bower.json" timestamp="1477064621315" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1477084394441">
+        <mark key="[" line="126" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1476903228911">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
@@ -403,6 +401,11 @@
         <mark key="[" line="18" column="43" />
         <mark key="]" line="18" column="43" />
         <mark key="." line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverterSpec.scala" timestamp="1477084806794">
+        <mark key="[" line="324" column="37" />
+        <mark key="]" line="324" column="37" />
+        <mark key="." line="324" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/src/main/java/com/odc/connect/model/business/dunbradstreet/intl/aus/DunBradstreetAustraliaResponse.java" timestamp="1473273742661">
         <mark key="[" line="54" column="27" />
@@ -780,10 +783,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Queries</text>
+        <text>cnScore</text>
       </register>
       <register name="-" type="4">
-        <text>Queries</text>
+        <text>cnScore</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
