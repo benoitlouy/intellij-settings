@@ -337,6 +337,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/ClosingDocumentsDecider.scala" timestamp="1476978216772">
         <mark key="[" line="17" column="82" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-impl/1.57/1ae6659ddab6d06db23b0b38849f3398d13926c1/datapipes-impl-1.57-sources.jar!/com/odc/datapipes/connect/ConnectDataPipe.java" timestamp="1477423293811" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/test/WebFakeData.java" timestamp="1476824999261" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/corporatesearchcontrollerSpec.js" timestamp="1476907471317">
         <mark key="[" line="64" column="19" />
@@ -388,6 +389,7 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/consumer/ConsumerScoringFlow.java" timestamp="1477423611861" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/lexisnexis/v183/LexisNexisBusinessIDCachingReportHandlerV183IT.java" timestamp="1477402636473">
         <mark key="[" line="74" column="73" />
       </file>
@@ -434,10 +436,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchCachingReportHandlerIT.java" timestamp="1477403359745">
         <mark key="[" line="81" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1477419224595">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1477424127410">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="125" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/CorpSearch.scala" timestamp="1476457060078">
         <mark key="[" line="14" column="51" />
@@ -530,6 +533,7 @@
         <mark key="[" line="31" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumerid/equifax/intl/ca/EquifaxCanadaConsumerIdConfig.java" timestamp="1476890157073" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/consumer/model/EquifaxConsumerScoreRequest.java" timestamp="1477424334897" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/scala/com/ondeck/alpaca/salesforce/converter/CountrySpecificSFFieldSetter.scala" timestamp="1476902402330">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
@@ -695,10 +699,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>TypeToken.of(ConsumerCreditReportRequest.class)</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -707,31 +711,31 @@
         <text encoding="base64">ICBkZWYgKiA9IChpZC4/LCBvcHBvcnR1bml0eUlkLCBjb25uZWN0SWQsIGRhdGEpIDw+IChQUFNBRGF0YS50dXBsZWQsIFBQU0FEYXRhLnVuYXBwbHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLmVxdWFscyhvKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhATnVsbGFibGUgT2JqZWN0IG8pIHsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRGF0YVBpcGVTdGVwPENvbnN1bWVyQ3JlZGl0UmVwb3J0UmVxdWVzdCwgQ29ubmVjdFJlc3BvbnNlPFJlcG9ydDxFcXVpZmF4Q0NSUmVzcG9uc2U+Pj4oY2NyRGF0YVBpcGUsIG51bGwsIG5ldyBUeXBlVG9rZW48Q29ubmVjdFJlc3BvbnNlPFJlcG9ydDxFcXVpZmF4Q0NSUmVzcG9uc2U+Pj4oKSB7fSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIEludGVybWVkaWFyeUZsb3dTdGVwSW1wbDxDb25zdW1lckNyZWRpdFJlcG9ydFJlcXVlc3QsIENvbm5lY3RSZXNwb25zZTxSZXBvcnQ8RXF1aWZheENDUlJlc3BvbnNlPj4+IGQgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb3duZXIuc2V0QWRkcmVzcyhhZGRyZXNzKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWVzdC5zZXRPd25lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb3duZXIuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLmVxdWFscyhvKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhATnVsbGFibGUgT2JqZWN0IG8pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
