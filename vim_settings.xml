@@ -145,6 +145,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/ppsa/poll/PPSAUCCFilingPollReportHandlerIT.java" timestamp="1477401707660">
         <mark key="[" line="112" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/test/unit/java/com/odc/datapipes/connect/ConnectFetchReportDataPipeTest.java" timestamp="1477592736414">
+        <mark key="[" line="73" column="15" />
+        <mark key="]" line="73" column="14" />
+        <mark key="." line="73" column="14" />
+        <mark key="^" line="73" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/inteflow-model/src/test/java/com/odc/vendor/model/inteflow/UnmarshallResponseTest.java" timestamp="1469634634174">
         <mark key="[" line="24" column="109" />
       </file>
@@ -354,6 +360,11 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectFetchRequest.java" timestamp="1477591872942">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/service/CanadaPPSAService.scala" timestamp="1476993362041">
         <mark key="[" line="54" column="49" />
         <mark key="]" line="54" column="53" />
@@ -380,6 +391,9 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/id/FetchReportByIdHandlerIT.java" timestamp="1477403500262">
         <mark key="[" line="85" column="77" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/build.gradle" timestamp="1477591317724">
+        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/tradinghistory/veda/business/VedaBusinessTradingHistoryCachingReportHandlerIT.java" timestamp="1477402357525">
         <mark key="[" line="119" column="72" />
@@ -426,6 +440,11 @@
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectFetchReportDataPipe.java" timestamp="1477592037905">
+        <mark key="[" line="46" column="90" />
+        <mark key="]" line="46" column="90" />
+        <mark key="." line="46" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/eservicecorp-connection/src/integrationTest/java/com/odc/vendor/connection/eservicecorp/ESCProcessAutoPreSearchOrderConnectionIntegrationTest.java" timestamp="1477409774025">
         <mark key="[" line="45" column="26" />
@@ -712,11 +731,11 @@
       <jump line="10" column="2" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Jackson.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cachingPolicy</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBGbG93U3RlcDxDb2xsZWN0aW9uPFRlcm1Mb2FuRGF0YT4+IHRlcm1Mb2FuRGF0YQ==</text>
+        <text>cachingPolicy</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -725,13 +744,13 @@
         <text encoding="base64">ICBkZWYgKiA9IChpZC4/LCBvcHBvcnR1bml0eUlkLCBjb25uZWN0SWQsIGRhdGEpIDw+IChQUFNBRGF0YS50dXBsZWQsIFBQU0FEYXRhLnVuYXBwbHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihvcGVyYXRpb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -740,16 +759,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCB0ZXJtTG9hbkRhdGEsIFR5cGVUb2tlbi5vZihUZXJtTG9hbkRhdGEuY2xhc3MpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSAtPiBkYXRhLnN0cmVhbSgpLnNvcnRlZCgoYSwgYikgLT4gYi5nZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRnVuY3Rpb25TdGVwPD4oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZsb3dTdGVwPFRlcm1Mb2FuRGF0YT4gbW9zdFJlY2VudFRlcm1Mb2FuID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLCB0ZXJtTG9hbkRhdGEsIFR5cGVUb2tlbi5vZihUZXJtTG9hbkRhdGEuY2xhc3MpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
