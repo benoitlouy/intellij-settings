@@ -133,7 +133,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/common/processor/LeadPersistenceProcessor.java" timestamp="1477925851381">
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/common/processor/LeadPersistenceProcessor.java" timestamp="1477936175950">
         <mark key="[" line="36" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/main/java/com/ondeck/alpaca/salesforce/dao/SalesforceOpportunityDao.java" timestamp="1476903228911">
@@ -237,7 +237,7 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessor.java" timestamp="1477934880996">
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessor.java" timestamp="1477936249944">
         <mark key="[" line="91" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/build.gradle" timestamp="1477593591513">
@@ -272,6 +272,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/ExperianAMSHandlerUnitTest.java" timestamp="1477402189100">
         <mark key="[" line="140" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/build.gradle" timestamp="1477935542390">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/ExperianAMSHandlerIT.java" timestamp="1477403007397">
         <mark key="[" line="39" column="36" />
@@ -361,10 +366,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryCachingReportHandler.java" timestamp="1477343922894">
         <mark key="[" line="105" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/mx-model/src/main/java/com/odc/vendor/model/mx/sso/widget/Widget.java" timestamp="1477931915505">
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/chase-echo-connection/build.gradle" timestamp="1477935110133" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-model/mx-model/src/main/java/com/odc/vendor/model/mx/sso/widget/Widget.java" timestamp="1477935799906">
         <mark key="[" line="6" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/bankruptcy/lexisnexis/LexisNexisBankruptcyCachingReportHandlerIT.java" timestamp="1477403419351">
         <mark key="[" line="75" column="69" />
@@ -688,6 +695,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/loansales/core/src/test/java/com/ondeck/loansales/service/sale/SaleMailerTest.java" timestamp="1471023635420">
         <mark key="[" line="61" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/odas/api/common/processor/PersistOpportunityProcessor.java" timestamp="1477936204991" />
       <file name="$USER_HOME$/Projects/OnDeck/datapipe-flows/lsp-summarizer-flow/src/test/java/com/ondeck/datapipe/flows/decision/lsp/summarizer/lsp/LSPSummarizeFlowUnitTest.java" timestamp="1477502399431">
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="0" />
@@ -854,11 +862,11 @@
       <jump line="10" column="2" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/config/Jackson.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Converter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcubW9uZ29kYjptb25nby1qYXZhLWRyaXZlcjoyLjExLjMnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Converter</text>
+        <text>chase-echo-model</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -867,28 +875,28 @@
         <text encoding="base64">ICBkZWYgKiA9IChpZC4/LCBvcHBvcnR1bml0eUlkLCBjb25uZWN0SWQsIGRhdGEpIDw+IChQUFNBRGF0YS50dXBsZWQsIFBQU0FEYXRhLnVuYXBwbHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcubW9uZ29kYjptb25nby1qYXZhLWRyaXZlcjoyLjExLjMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMC8zMS8xNi4K</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICJvcmcuc3ByaW5nZnJhbWV3b3JrOnNwcmluZy10ZXN0OjMuMS4xLlJFTEVBU0UiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGVjb2RlLmxpYnBob25lbnVtYmVyOmxpYnBob25lbnVtYmVyOjcuMC4zJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBASnNvblByb3BlcnR5KCIiKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvY2FsRGEK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMC8zMS8xNi4K</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBASnNvblByb3BlcnR5KCIiKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvY2FsRGEK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICovCg==</text>
