@@ -474,11 +474,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/node/unit/controllers/corporatesearchcontrollerSpec.js" timestamp="1476907471317">
         <mark key="[" line="64" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.js" timestamp="1478030335020">
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.js" timestamp="1478033590956">
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="15" />
+        <mark key="." line="42" column="15" />
+        <mark key="^" line="42" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandlerIT.java" timestamp="1477401402786">
         <mark key="[" line="80" column="112" />
@@ -694,8 +694,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerIT.java" timestamp="1477403099961">
         <mark key="[" line="81" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.spec.js" timestamp="1478030233296">
-        <mark key="[" line="5" column="61" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.spec.js" timestamp="1478033338587">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/aus/AustraliaFlowUnitTest.java" timestamp="1477943927905">
         <mark key="[" line="128" column="23" />
@@ -873,12 +875,12 @@
         <mark key="]" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.tpl.html" timestamp="1478029076572">
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.tpl.html" timestamp="1478033469721">
         <mark key="'" line="33" column="27" />
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="40" column="119" />
-        <mark key="." line="40" column="119" />
-        <mark key="^" line="40" column="106" />
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -984,11 +986,11 @@
       <jump line="33" column="27" filename="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.tpl.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -997,31 +999,31 @@
         <text encoding="base64">ICBkZWYgKiA9IChpZC4/LCBvcHBvcnR1bml0eUlkLCBjb25uZWN0SWQsIGRhdGEpIDw+IChQUFNBRGF0YS50dXBsZWQsIFBQU0FEYXRhLnVuYXBwbHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZtLmZheCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xLzE2Lgo=</text>
+        <text encoding="base64">ICAgICAgJGh0dHBCYWNrZW5kLmV4cGVjdEdFVCgnLi4vYXV0aC91c2VyJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyZWRpdERlY2lzaW9uLnNldFByb2R1Y3QoKTtzZgo=</text>
+        <text encoding="base64">ICB2bS5kaXNwbGF5RmF4ID0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlY2lzaW9uLnNldEVsaWdpYmlsaXR5KCJQZW5kaW5nIik7Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEV4ZWN1dGVWaXNpdG9yPFVuZGVyd3JpdGluZ0Zsb3dSZXN1bHQ+IGV4ZWN1dG9yID0KICAgICAgICBFeGVjdXRlVmlzaXRvckZhY3RvcnkucGFyYWxsZWxXaXRoQ2FjaGVkVGhyZWFkUG9vbCgpOwogICAgYWRkSW5wdXQoZXhlY3V0b3IsIGNyZWRpdERlY2lzaW9uVHlwZSwgY291bnRyeSk7CiAgICBleGVjdXRvci5hZGRJbnB1dChUeXBlVG9rZW4ub2YoVW5kZXJ3cml0aW5nTW9kZWxSZXF1ZXN0LmNsYXNzKSwgbmV3IFVuZGVyd3JpdGluZ01vZGVsUmVxdWVzdChudWxsKSk7CiAgICBleGVjdXRvci5hZGRJbnB1dChVbmRlcndyaXRpbmdGbG93LlJVTl9TQ0NfUEFSQU1fTkFNRSwgcnVuU0NDKTsKICAgIHJldHVybiBleGVjdXRvcjs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xLzE2Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjY0RlY2lzaW9uLnNldE5hbWUoInNjY0RlY2lzaW9uIik7Cg==</text>
+        <text encoding="base64">ICAgIGNyZWRpdERlY2lzaW9uLnNldFByb2R1Y3QoKTtzZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlY2lzaW9uLnNldEVsaWdpYmlsaXR5KCJQZW5kaW5nIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
