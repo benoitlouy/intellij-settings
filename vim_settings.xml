@@ -23,7 +23,6 @@
       <file name="/a.dummy" timestamp="1478011740470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/resources/qd.decisionservice.properties" timestamp="1477944414288" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/alerts/publish/ExperianAlertPublishHandler.java" timestamp="1477343824672">
         <mark key="[" line="31" column="100" />
       </file>
@@ -212,6 +211,13 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/ppsa/fetch/PPSAUCCFilingCachingReportHandlerIT.java" timestamp="1477402961295">
         <mark key="[" line="73" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/intl/aus/AustraliaUnderwritingConfig.java" timestamp="1478022462250" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/StubDecisionProvider.java" timestamp="1478021995249">
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+      </file>
       <file name="$USER_HOME$/Downloads/Capstone/Java8/Cars_Step1/src/cc/cars/Buyer.java" timestamp="1477063362540">
         <mark key="[" line="102" column="41" />
         <mark key="]" line="102" column="41" />
@@ -237,6 +243,9 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/Handler.java" timestamp="1477336981111">
         <mark key="[" line="16" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/UnderwritingFlow.java" timestamp="1478021310933">
+        <mark key="[" line="113" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/policy/CLMModelRequestCreatorUnitTest.java" timestamp="1477429427068">
         <mark key="[" line="34" column="64" />
@@ -413,7 +422,6 @@
         <mark key="^" line="200" column="57" />
         <mark key="." line="200" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/chase-echo-connection/build.gradle" timestamp="1477935110133" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/mx-model/src/main/java/com/odc/vendor/model/mx/sso/widget/Widget.java" timestamp="1477935799906">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="15" column="34" />
@@ -695,7 +703,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandlerIT.java" timestamp="1477402444428">
         <mark key="[" line="86" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/yodlee-connection/src/main/java/com/ondeck/vendor/connection/yodlee/user/YodleeUserSessionConnection.java" timestamp="1477936914341" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_xxx_add_ppsa.sql" timestamp="1476988121252">
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="11" />
@@ -778,7 +785,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/loansales/core/src/test/java/com/ondeck/loansales/service/sale/SaleMailerTest.java" timestamp="1471023635420">
         <mark key="[" line="61" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/odas/api/common/processor/PersistOpportunityProcessor.java" timestamp="1477936204991" />
       <file name="$USER_HOME$/Projects/OnDeck/datapipe-flows/lsp-summarizer-flow/src/test/java/com/ondeck/datapipe/flows/decision/lsp/summarizer/lsp/LSPSummarizeFlowUnitTest.java" timestamp="1477502399431">
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="0" />
@@ -949,10 +955,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>toUriString</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -961,10 +967,10 @@
         <text encoding="base64">ICBkZWYgKiA9IChpZC4/LCBvcHBvcnR1bml0eUlkLCBjb25uZWN0SWQsIGRhdGEpIDw+IChQUFNBRGF0YS50dXBsZWQsIFBQU0FEYXRhLnVuYXBwbHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBATnVsbGFibGUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICovCg==</text>
@@ -979,13 +985,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dW5kZXJ3cml0aW5nLmNhbmFkYS5lbmFibGVQYXluZXRTY29yZVNpbGVudD10cnVlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xLzE2Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
