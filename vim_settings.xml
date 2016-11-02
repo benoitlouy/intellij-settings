@@ -171,10 +171,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/MXIT.java" timestamp="1478117342099">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/MXIT.java" timestamp="1478118412569">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/Handler.java" timestamp="1477336981111">
         <mark key="[" line="16" column="39" />
@@ -271,11 +271,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/AbstractConnectReportHandler.java" timestamp="1477336708437">
         <mark key="[" line="26" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/sso/GetWidgetConnection.java" timestamp="1478117308411">
-        <mark key="[" line="29" column="53" />
-        <mark key="]" line="29" column="57" />
-        <mark key="^" line="29" column="57" />
-        <mark key="." line="29" column="57" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/sso/GetWidgetConnection.java" timestamp="1478118137819">
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="49" column="66" />
+        <mark key="^" line="31" column="57" />
+        <mark key="." line="49" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/handler/AbstractConnectReportHandlerTest.java" timestamp="1477402842959">
         <mark key="[" line="51" column="47" />
@@ -409,11 +409,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/sso/GetWidgetConnectionTest.java" timestamp="1478117246913">
-        <mark key="[" line="74" column="57" />
-        <mark key="]" line="74" column="56" />
-        <mark key="." line="74" column="56" />
-        <mark key="^" line="74" column="56" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/sso/GetWidgetConnectionTest.java" timestamp="1478118330395">
+        <mark key="[" line="61" column="98" />
+        <mark key="]" line="61" column="98" />
+        <mark key="." line="61" column="98" />
+        <mark key="^" line="77" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectFetchReportDataPipe.java" timestamp="1477592037905">
         <mark key="[" line="46" column="90" />
@@ -742,10 +742,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>createResponse.getBody().getUser().getGuid()</text>
+        <text>eq(Widget.class)</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -754,16 +754,16 @@
         <text encoding="base64">ICBkZWYgKiA9IChpZC4/LCBvcHBvcnR1bml0eUlkLCBjb25uZWN0SWQsIGRhdGEpIDw+IChQUFNBRGF0YS50dXBsZWQsIFBQU0FEYXRhLnVuYXBwbHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8yLzE2Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VySWQpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3QyKCkKICB7CiAgICBSZXNwb25zZUVudGl0eTxVcmxXcmFwcGVyPFdpZGdldD4+IHdpZGdldFJlc3BvbnNlID0gbmV3IEdldFdpZGdldENvbm5lY3Rpb24oU1NPX1VSTCwgQ0xJRU5UX0lELCBNRF9BUElfS0VZLCByZXN0VGVtcGxhdGUpCiAgICAgICAgLnN1Ym1pdChuZXcgR2V0V2lkZ2V0UmVxdWVzdCgiVVNSLTQ5Njg0YjNiLWZhNDItMjVlZS0wNWQ0LTZhZDhjMjA5NDk3ZSIsICJtYW5hZ2VfaW5zdGl0dXRpb25zX3dpZGdldCIpLCBuZXcgQ29ubmVjdGlvblBhcmFtcygpKTsKCiAgICBhc3NlcnRFcXVhbHMoSHR0cFN0YXR1cy5PSywgd2lkZ2V0UmVzcG9uc2UuZ2V0U3RhdHVzQ29kZSgpKTsKICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICovCg==</text>
@@ -775,10 +775,10 @@
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VySWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8yLzE2Lgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
