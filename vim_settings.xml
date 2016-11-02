@@ -8,6 +8,7 @@
         <mark key="]" line="51" column="53" />
         <mark key="." line="51" column="53" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc.enrollment/enrollment-client/1.14/1e9280b5f2c53f376070ff0805168bfc293e15c4/enrollment-client-1.14.jar!/com/odc/enrollment/client/EnrollmentClient.class" timestamp="1478109273136" />
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/core/manager/LOCLoanSalesManager.java" timestamp="1472489978865">
         <mark key="[" line="232" column="120" />
       </file>
@@ -19,7 +20,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/lienjudgment/lexisnexis/LexisNexisLienJudgmentCachingReportHandlerIT.java" timestamp="1477402254524">
         <mark key="[" line="82" column="71" />
       </file>
-      <file name="/a.dummy" timestamp="1478109139754">
+      <file name="/a.dummy" timestamp="1478121654384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/UnderwritingHandlerIntegrationTest.java" timestamp="1478093120759">
@@ -67,6 +68,11 @@
         <mark key="]" line="129" column="74" />
         <mark key="." line="129" column="74" />
         <mark key="^" line="129" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/conf/GroverConfig.java" timestamp="1478121470130">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/test/FakeData.java" timestamp="1476125403081">
         <mark key="[" line="208" column="4" />
@@ -144,8 +150,18 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/conf/BASSConfig.java" timestamp="1478121764438">
+        <mark key="]" line="35" column="43" />
+        <mark key="^" line="35" column="43" />
+        <mark key="." line="35" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/experian/ExperianCCRCachingReportHandlerTest.java" timestamp="1477402595879">
         <mark key="[" line="74" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/grover/GroverFetcher.java" timestamp="1478121443601">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/ppsa/fetch/PPSAUCCFilingCachingReportHandlerIT.java" timestamp="1477402961295">
         <mark key="[" line="73" column="62" />
@@ -186,12 +202,6 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/policy/CLMModelRequestCreatorUnitTest.java" timestamp="1477429427068">
         <mark key="[" line="34" column="64" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/mdx/CreateUserConnectionTest.java" timestamp="1478117075595">
-        <mark key="'" line="73" column="64" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/testutil/AuditTestClient.java" timestamp="1472151488407">
         <mark key="[" line="66" column="3" />
@@ -320,8 +330,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/lexisnexis/LexisNexisUCCFilingHandlerUnitTest.java" timestamp="1477402112007">
         <mark key="[" line="84" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/roles/service-deploy/templates/server-override.clm.properties.j2" timestamp="1478109938923">
-        <mark key="[" line="52" column="53" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/roles/service-deploy/templates/server-override.clm.properties.j2" timestamp="1478121519168">
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="64" column="19" />
+        <mark key="^" line="64" column="19" />
+        <mark key="." line="64" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/mx-model/src/main/java/com/odc/vendor/model/mx/sso/widget/UrlWrapper.java" timestamp="1478117448967">
         <mark key="[" line="2" column="23" />
@@ -434,16 +447,19 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchCachingReportHandlerIT.java" timestamp="1477403359745">
         <mark key="[" line="81" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1477505532949">
-        <mark key="[" line="87" column="87" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1478120140617">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/CorpSearch.scala" timestamp="1476457060078">
         <mark key="[" line="14" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1477084394441">
         <mark key="[" line="126" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/all.yml" timestamp="1478120956476">
+        <mark key="[" line="12" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMModelRequestCreator.java" timestamp="1477429338039">
         <mark key="[" line="20" column="55" />
@@ -485,6 +501,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/bass/BASSFetcher.java" timestamp="1478121932901">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerIT.java" timestamp="1477403099961">
         <mark key="[" line="81" column="58" />
       </file>
@@ -510,6 +531,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandlerIT.java" timestamp="1477402444428">
         <mark key="[" line="86" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/priordecision/PriorDecisionFetcher.java" timestamp="1478121408911" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/handler/ProcessPendingRequestsHandlerUnitTest.java" timestamp="1477345023317">
         <mark key="[" line="88" column="66" />
       </file>
@@ -579,9 +601,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/publish/ExperianAlertPublishHandlerIT.java" timestamp="1477403789000">
         <mark key="[" line="72" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/develop.yml" timestamp="1478111342494">
-        <mark key="[" line="8" column="43" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/testutil/MongoTestUtil.java" timestamp="1477401548675">
         <mark key="[" line="94" column="119" />
         <mark key="]" line="94" column="119" />
@@ -613,6 +632,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc.authnz.tools/spring-client-auth/1.4/31c29ab375ce72b12c2661664d04e8468f6b986d/spring-client-auth-1.4.jar!/com/odc/authnz/tools/spring/client/auth/AuthenticatedRestTemplate.class" timestamp="1478121355109" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchConfig.java" timestamp="1476719374451">
         <mark key="[" line="45" column="50" />
       </file>
@@ -637,6 +657,7 @@
         <mark key="]" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/conf/PriorDecisionConfig.java" timestamp="1478120840193" />
     </filemarks>
     <jumps>
       <jump line="69" column="31" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaInDepthTradingHistoryConfig.java" />
@@ -742,10 +763,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>long</text>
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -754,31 +775,31 @@
         <text encoding="base64">ICBkZWYgKiA9IChpZC4/LCBvcHBvcnR1bml0eUlkLCBjb25uZWN0SWQsIGRhdGEpIDw+IChQUFNBRGF0YS50dXBsZWQsIFBQU0FEYXRhLnVuYXBwbHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih3aWRnZXRSZXNwb25zZS5nZXRCb2R5KCkuZ2V0VXJsKCkuZ2V0VXJsKCkpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuYmFzZVVybCA9IGJhc2VVcmw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3QyKCkKICB7CiAgICBSZXNwb25zZUVudGl0eTxVcmxXcmFwcGVyPFdpZGdldD4+IHdpZGdldFJlc3BvbnNlID0gbmV3IEdldFdpZGdldENvbm5lY3Rpb24oU1NPX1VSTCwgQ0xJRU5UX0lELCBNRF9BUElfS0VZLCByZXN0VGVtcGxhdGUpCiAgICAgICAgLnN1Ym1pdChuZXcgR2V0V2lkZ2V0UmVxdWVzdCgiVVNSLTQ5Njg0YjNiLWZhNDItMjVlZS0wNWQ0LTZhZDhjMjA5NDk3ZSIsICJtYW5hZ2VfaW5zdGl0dXRpb25zX3dpZGdldCIpLCBuZXcgQ29ubmVjdGlvblBhcmFtcygpKTsKCiAgICBhc3NlcnRFcXVhbHMoSHR0cFN0YXR1cy5PSywgd2lkZ2V0UmVzcG9uc2UuZ2V0U3RhdHVzQ29kZSgpKTsKICB9</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8yLzE2Lgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoU2V0Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5RdWFsaWZpZXI7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICApCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VySWQpOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
