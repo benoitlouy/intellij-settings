@@ -137,6 +137,11 @@
         <mark key="." line="63" column="54" />
         <mark key="^" line="63" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/MXTestParams.java" timestamp="1478096566205">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/src/test/java/com/odc/connect/enumtype/CachingPolicyTest.java" timestamp="1477408333254">
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="41" />
@@ -278,12 +283,11 @@
         <mark key="." line="11" column="96" />
         <mark key="^" line="11" column="110" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/mdx/CreateUserConnectionTest.java" timestamp="1478095001440">
-        <mark key="'" line="80" column="64" />
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="79" column="16" />
-        <mark key="." line="79" column="16" />
-        <mark key="^" line="79" column="16" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/mdx/CreateUserConnectionTest.java" timestamp="1478096369152">
+        <mark key="'" line="73" column="64" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/resources/dev01.decisionservice.properties" timestamp="1478037593200">
         <mark key="[" line="7" column="39" />
@@ -536,10 +540,11 @@
         <mark key="." line="108" column="68" />
         <mark key="^" line="108" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/mdx/CreateUserConnectionIT.java" timestamp="1478094585639">
-        <mark key="[" line="56" column="69" />
-        <mark key="]" line="56" column="69" />
-        <mark key="." line="56" column="69" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/mdx/CreateUserConnectionIT.java" timestamp="1478096773060">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="27" />
+        <mark key="^" line="27" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/assets/i18n/Australia.json" timestamp="1477689167670">
         <mark key="[" line="47" column="39" />
@@ -589,10 +594,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/experian/ExperianCCRCachingReportHandlerIT.java" timestamp="1477401766516">
         <mark key="[" line="75" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/mdx/DeleteUserConnection.java" timestamp="1478094943360">
-        <mark key="[" line="38" column="44" />
-        <mark key="]" line="38" column="44" />
-        <mark key="." line="38" column="44" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/mdx/DeleteUserConnection.java" timestamp="1478096739679">
+        <mark key="[" line="37" column="86" />
+        <mark key="]" line="37" column="86" />
+        <mark key="." line="37" column="86" />
+        <mark key="^" line="37" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/publish/ExperianAlertPublishHandlerUnitTest.java" timestamp="1477402392800">
         <mark key="[" line="53" column="108" />
@@ -1025,10 +1031,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Pending</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Pending</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -1045,23 +1051,23 @@
       <register name="3" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8yLzE2Lgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIENyZWF0ZVVzZXJSZXF1ZXN0IHJlcXVlc3QgPSBtb2NrKENyZWF0ZVVzZXJSZXF1ZXN0LmNsYXNzKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNsYXNzIExvZ2dpbmdSZXF1ZXN0SW50ZXJjZXB0b3IgaW1wbGVtZW50cyBDbGllbnRIdHRwUmVxdWVzdEludGVyY2VwdG9yIHsKCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoTG9nZ2luZ1JlcXVlc3RJbnRlcmNlcHRvci5jbGFzcyk7CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgQ2xpZW50SHR0cFJlc3BvbnNlIGludGVyY2VwdChIdHRwUmVxdWVzdCByZXF1ZXN0LCBieXRlW10gYm9keSwgQ2xpZW50SHR0cFJlcXVlc3RFeGVjdXRpb24gZXhlY3V0aW9uKSB0aHJvd3MgSU9FeGNlcHRpb24gewoKICAgICAgQ2xpZW50SHR0cFJlc3BvbnNlIHJlc3BvbnNlID0gZXhlY3V0aW9uLmV4ZWN1dGUocmVxdWVzdCwgYm9keSk7CgogICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVxdWVzdC5nZXRIZWFkZXJzKCkpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IFN0cmluZyhib2R5KSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNwb25zZS5nZXRIZWFkZXJzKCkpOwovLyAgICAgIGxvZyhyZXF1ZXN0LGJvZHkscmVzcG9uc2UpOwoKICAgICAgcmV0dXJuIHJlc3BvbnNlOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBsb2coSHR0cFJlcXVlc3QgcmVxdWVzdCwgYnl0ZVtdIGJvZHksIENsaWVudEh0dHBSZXNwb25zZSByZXNwb25zZSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgLy9kbyBsb2dnaW5nCiAgICB9CiAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFJlc3RUZW1wbGF0ZSByZXN0VGVtcGxhdGUgPSBuZXcgUmVzdFRlbXBsYXRlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICBAQWZ0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhdGNoIChKc29uUHJvY2Vzc2luZ0V4Y2VwdGlvbiBlKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
