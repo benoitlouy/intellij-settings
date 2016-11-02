@@ -20,7 +20,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/lienjudgment/lexisnexis/LexisNexisLienJudgmentCachingReportHandlerIT.java" timestamp="1477402254524">
         <mark key="[" line="82" column="71" />
       </file>
-      <file name="/a.dummy" timestamp="1478096925479">
+      <file name="/a.dummy" timestamp="1478101196133">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/UnderwritingHandlerIntegrationTest.java" timestamp="1478093120759">
@@ -118,8 +118,8 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/mdx/DeleteUserConnectionTest.java" timestamp="1478096978520">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/us/EquifaxCCRCachingReportHandlerIT.java" timestamp="1477403563637">
         <mark key="[" line="80" column="69" />
@@ -272,6 +272,11 @@
         <mark key="]" line="28" column="10" />
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/MXIT.java" timestamp="1478101623051">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/Handler.java" timestamp="1477336981111">
         <mark key="[" line="16" column="39" />
@@ -490,7 +495,7 @@
         <mark key="^" line="202" column="0" />
         <mark key="." line="172" column="119" />
       </file>
-      <file name="/fragment.java" timestamp="1477945428662">
+      <file name="/fragment.java" timestamp="1478101203892">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/lexisnexis/LexisNexisUCCFilingHandlerUnitTest.java" timestamp="1477402112007">
@@ -626,11 +631,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/sso/GetWidgetConnectionTest.java" timestamp="1478094118379">
-        <mark key="[" line="74" column="63" />
-        <mark key="]" line="74" column="67" />
-        <mark key="." line="74" column="67" />
-        <mark key="^" line="74" column="67" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/sso/GetWidgetConnectionTest.java" timestamp="1478101658854">
+        <mark key="[" line="74" column="57" />
+        <mark key="]" line="74" column="56" />
+        <mark key="." line="74" column="56" />
+        <mark key="^" line="74" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectFetchReportDataPipe.java" timestamp="1477592037905">
         <mark key="[" line="46" column="90" />
@@ -1029,10 +1034,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>DeleteUserConnection</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -1041,31 +1046,31 @@
         <text encoding="base64">ICBkZWYgKiA9IChpZC4/LCBvcHBvcnR1bml0eUlkLCBjb25uZWN0SWQsIGRhdGEpIDw+IChQUFNBRGF0YS50dXBsZWQsIFBQU0FEYXRhLnVuYXBwbHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8yLzE2Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIFJlc3BvbnNlRW50aXR5PFZvaWQ+IGRlbGV0ZVJlc3BvbnNlID0gbmV3IERlbGV0ZVVzZXJDb25uZWN0aW9uKE1EWF9VUkwsIENMSUVOVF9JRCwgTURfQVBJX0tFWSwgcmVzdFRlbXBsYXRlKQogICAgICAgIC5zdWJtaXQodXNlcklkLCBuZXcgQ29ubmVjdGlvblBhcmFtcygpKTsKICAgIGFzc2VydEVxdWFscyhIdHRwU3RhdHVzLk5PX0NPTlRFTlQsIGRlbGV0ZVJlc3BvbnNlLmdldFN0YXR1c0NvZGUoKSk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFJlc3RUZW1wbGF0ZSByZXN0VGVtcGxhdGUgPSBuZXcgUmVzdFRlbXBsYXRlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8yLzE2Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBjbGVhbnVwKCkK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAQWZ0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
