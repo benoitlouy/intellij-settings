@@ -62,11 +62,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/dist/README.md" timestamp="1469817844344">
         <mark key="[" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/service/enrollment/ExperianEnrollmentService.java" timestamp="1478116209586">
-        <mark key="[" line="47" column="60" />
-        <mark key="]" line="47" column="49" />
-        <mark key="." line="47" column="49" />
-        <mark key="^" line="47" column="49" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/service/enrollment/ExperianEnrollmentService.java" timestamp="1478119634456">
+        <mark key="[" line="129" column="71" />
+        <mark key="]" line="129" column="74" />
+        <mark key="." line="129" column="74" />
+        <mark key="^" line="129" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/test/java/com/ondeck/alpaca/test/FakeData.java" timestamp="1476125403081">
         <mark key="[" line="208" column="4" />
@@ -520,7 +520,7 @@
         <mark key="[" line="46" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/service/enrollment/ExperianEnrollmentServiceUnitTest.java" timestamp="1478116589062">
-        <mark key="[" line="141" column="3" />
+        <mark key="[" line="142" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/handler/AbstractAsOfReportHandlerTest.java" timestamp="1477403114169">
         <mark key="[" line="93" column="67" />
@@ -741,11 +741,11 @@
       <jump line="33" column="27" filename="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.tpl.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih3aWRnZXRSZXNwb25zZS5nZXRCb2R5KCkuZ2V0VXJsKCkuZ2V0VXJsKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>long</text>
       </register>
       <register name="-" type="4">
-        <text>eq(Widget.class)</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
