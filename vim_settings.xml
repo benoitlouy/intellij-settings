@@ -78,10 +78,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/policy/bass/BASSFetcherUnitTest.java" timestamp="1478185247958">
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/policy/bass/BASSFetcherUnitTest.java" timestamp="1478186094314">
         <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="]" line="51" column="87" />
+        <mark key="." line="51" column="87" />
+        <mark key="^" line="51" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/dist/README.md" timestamp="1469817844344">
         <mark key="[" line="8" column="28" />
@@ -184,10 +185,11 @@
         <mark key="." line="33" column="41" />
         <mark key="^" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/core/http/ResponseEntities.java" timestamp="1477417565869">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/core/http/ResponseEntities.java" timestamp="1478187210463">
+        <mark key="[" line="9" column="102" />
+        <mark key="]" line="9" column="102" />
+        <mark key="." line="9" column="102" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/scoring/business/AbstractReconnectScoringFlowUnitTest.java" timestamp="1477943577219">
         <mark key="[" line="101" column="48" />
@@ -717,10 +719,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchCachingReportHandlerIT.java" timestamp="1477403359745">
         <mark key="[" line="81" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1478120140617">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1478187183095">
+        <mark key="[" line="109" column="27" />
+        <mark key="]" line="109" column="27" />
+        <mark key="." line="109" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/CorpSearch.scala" timestamp="1476457060078">
         <mark key="[" line="14" column="51" />
@@ -1115,11 +1117,11 @@
       <jump line="33" column="78" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/bass/BASSFetcher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>grover</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -1128,31 +1130,31 @@
         <text encoding="base64">ICBkZWYgKiA9IChpZC4/LCBvcHBvcnR1bml0eUlkLCBjb25uZWN0SWQsIGRhdGEpIDw+IChQUFNBRGF0YS50dXBsZWQsIFBQU0FEYXRhLnVuYXBwbHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8zLzE2Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYmFzZVVybCA9IGJhc2VVcmw7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChzdWNjZXNzQ29uZGl0aW9uLnRlc3QocmVzcG9uc2VFbnRpdHkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlZGljYXRlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8yLzE2Lgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8zLzE2Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoU2V0Owo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
