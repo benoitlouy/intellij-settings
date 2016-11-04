@@ -130,6 +130,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/ConnectService.java" timestamp="1478282752349">
+        <mark key="[" line="656" column="70" />
+        <mark key="]" line="656" column="70" />
+        <mark key="." line="656" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/core/http/ResponseEntities.java" timestamp="1478188344730">
         <mark key="[" line="19" column="58" />
         <mark key="]" line="19" column="58" />
@@ -364,6 +369,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/us/legacy/EquifaxConsumerCreditReportContextTest.java" timestamp="1477401817200">
         <mark key="[" line="247" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/jaxb/PersistedReportDAOConfig.java" timestamp="1478283414836">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1478277064721">
         <mark key="[" line="0" column="0" />
@@ -651,6 +661,11 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="26" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/EndpointKeyConfig.java" timestamp="1478282774230">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/v2/converter/DecisionRequestToLeadConverter.java" timestamp="1477926155759">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="44" column="0" />
@@ -843,10 +858,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -855,31 +870,31 @@
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgQ29udmVydGVyPERCT2JqZWN0LCBUaW1lZEF1ZGl0PiBhdWRpdENvbnZlcnRlciA9IGRiT2JqZWN0IC0+IG1hcHBlci5jb252ZXJ0VmFsdWUoZGJPYmplY3QsIFRpbWVkQXVkaXQuY2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1ZGl0LnNldElkKGlkKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBAQmVhbgogIHB1YmxpYyBQZXJzaXN0ZWRSZXBvcnREQU88UFBTQVVDQ0ZpbGluZ1Jlc3BvbnNlPiBwcHNhUGVyc2lzdGVkUmVwb3J0REFPKCkKICB7CiAgICByZXR1cm4gbmV3IFBlcnNpc3RlZFJlcG9ydERBTzw+KHRoaXMubW9uZ28sIHRoaXMuZGF0YWJhc2UsIFNlcnZpY2UuVUNDRmlsaW5nLCBWZW5kb3IuUFBTQSwgQ291bnRyeS5DQSwKICAgICAgICBkYW9PYmplY3RNYXBwZXIoUFBTQVVDQ0ZpbGluZ1Jlc3BvbnNlLmNsYXNzKSk7CiAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHRyYWlsLCBzdGFydFRpbWUsIGVuZFRpbWUsIGVycm9yLCBkZWNpc2lvblR5cGUsIHJlcXVlc3QsIHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5wdXQodGhpcy5lbmRwb2ludENvbmZpZy5wcHNhVUNDRmlsaW5nQ2FuYWRhS2V5KCksIHBwc2FQZXJzaXN0ZWRSZXBvcnREQU8oKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBSZWFkaW5nQ29udmVydGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASnNvblByb3BlcnR5KElEX0tFWSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPj4+Pj4+Pj4+Pj4gIiArIGlkKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBAQmVhbgogIHB1YmxpYyBFbmRwb2ludEtleSBwcHNhVUNDRmlsaW5nQ2FuYWRhS2V5KCkKICB7CiAgICByZXR1cm4gbmV3IEVuZHBvaW50S2V5KFNlcnZpY2UuVUNDRmlsaW5nLCBWZW5kb3IuUFBTQSwgQ291bnRyeS5DQSk7CiAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAVHJhbnNpZW50Cg==</text>
+        <text encoding="base64">ICAgIGludGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLlRyYW5zaWVudDsK</text>
+        <text encoding="base64">Ly8gICAgQ29udmVydGVyPERCT2JqZWN0LCBUaW1lZEF1ZGl0PiBhdWRpdENvbnZlcnRlciA9IGRiT2JqZWN0IC0+IG1hcHBlci5jb252ZXJ0VmFsdWUoZGJPYmplY3QsIFRpbWVkQXVkaXQuY2xhc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
