@@ -80,11 +80,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/policy/bass/BASSFetcherUnitTest.java" timestamp="1478186094314">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="51" column="87" />
-        <mark key="." line="51" column="87" />
-        <mark key="^" line="51" column="87" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/policy/bass/BASSFetcherUnitTest.java" timestamp="1478537363459">
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="32" column="49" />
+        <mark key="." line="32" column="49" />
+        <mark key="^" line="32" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1478287594075">
         <mark key="[" line="192" column="0" />
@@ -363,6 +363,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/ExperianAMSHandlerUnitTest.java" timestamp="1477402189100">
         <mark key="[" line="140" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/core/config/CLMMongoModule.java" timestamp="1478536044639">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/ExperianAMSHandlerIT.java" timestamp="1477403007397">
         <mark key="[" line="39" column="36" />
       </file>
@@ -622,10 +627,8 @@
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/nexus/CreateSessionConnection.java" timestamp="1478533376497">
         <mark key="[" line="13" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1478270849461">
-        <mark key="[" line="104" column="58" />
-        <mark key="]" line="104" column="58" />
-        <mark key="." line="104" column="58" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1478536333031">
+        <mark key="[" line="123" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/scala/com/ondeck/alpaca/model/CorpSearch.scala" timestamp="1476457060078">
         <mark key="[" line="14" column="51" />
@@ -693,6 +696,7 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/build.gradle" timestamp="1478537123813" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/associate/creditdecision/associator/OpportunityCreditDecisionOrphaner.java" timestamp="1470948966029">
         <mark key="[" line="33" column="47" />
       </file>
@@ -892,7 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="73" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryCachingReportHandler.java" />
       <jump line="20" column="62" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryRunnable.java" />
       <jump line="54" column="20" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/fetch/AsyncReportFetcherTask.java" />
       <jump line="95" column="39" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/fetch/AsyncTaskHandler.java" />
@@ -992,13 +995,14 @@
       <jump line="69" column="64" filename="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/mdx/CreateUserConnectionTest.java" />
       <jump line="33" column="27" filename="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.tpl.html" />
       <jump line="33" column="78" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/bass/BASSFetcher.java" />
+      <jump line="60" column="56" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/core/config/CLMMongoModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBgcHBzYV91Y2NgOiBtYWtlIGNvbm5lY3QgZmV0Y2ggcHBzYSB1Y2NmaWxpbmcgcmVwb3J0IGN1cnJlbnRseSBpbiBwZW5kaW5nIHN0YXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>bass.ondeck.com&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>bass.ondeck.com&quot;</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -1007,31 +1011,31 @@
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBgcHBzYV91Y2NgOiBtYWtlIGNvbm5lY3QgZmV0Y2ggcHBzYSB1Y2NmaWxpbmcgcmVwb3J0IGN1cnJlbnRseSBpbiBwZW5kaW5nIHN0YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEBCZW5vaXQgdGhlIGFwaXRva2VuIGlzIG51bGwgd2hpbGUgdGhlIHN0YXR1cyBpcyAyMDAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXguc3NvLndpZGdldC5HZXRXaWRnZXRDb25uZWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIEpzb25TZXJpYWxpemVyPERhdGVUaW1lPiBkYXRlVGltZVNlcmlhbGl6ZXIgPSAodmFsdWUsIGpnZW4sIHByb3ZpZGVyKSAtPiBqZ2VuLndyaXRlT2JqZWN0KHZhbHVlLnRvRGF0ZSgpKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXguc3NvLk1EWFNTT0NvbnN0YW50czsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">bmV3IEpzb25TZXJpYWxpemVyPERhdGVUaW1lPigpCiAgICB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgdm9pZCBzZXJpYWxpemUoRGF0ZVRpbWUgdmFsdWUsIEpzb25HZW5lcmF0b3IgamdlbiwgU2VyaWFsaXplclByb3ZpZGVyIHByb3ZpZGVyKSB0aHJvd3MgSU9FeGNlcHRpb24KICAgICAgewogICAgICAgIGpnZW4ud3JpdGVPYmplY3QodmFsdWUudG9EYXRlKCkpOwogICAgICB9CiAgICB9Ow==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXguc3NvLk1EWFNTT0NvbnN0YW50czsK</text>
+        <text encoding="base64">LSBgcHBzYV91Y2NgOiBtYWtlIGNvbm5lY3QgZmV0Y2ggcHBzYSB1Y2NmaWxpbmcgcmVwb3J0IGN1cnJlbnRseSBpbiBwZW5kaW5nIHN0YXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0yMzE0XSByZWFycmFuZ2UgTVggcGFja2FnZXMK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEBCZW5vaXQgdGhlIGFwaXRva2VuIGlzIG51bGwgd2hpbGUgdGhlIHN0YXR1cyBpcyAyMDAuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXguc3NvLkdldFdpZGdldENvbm5lY3Rpb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXguc3NvLndpZGdldC5HZXRXaWRnZXRDb25uZWN0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXguc3NvLkdldFdpZGdldENvbm5lY3Rpb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXguc3NvLk1EWFNTT0NvbnN0YW50czsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXgubWR4LkRlbGV0ZVVzZXJDb25uZWN0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXguc3NvLk1EWFNTT0NvbnN0YW50czsK</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
