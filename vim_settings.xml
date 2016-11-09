@@ -254,6 +254,11 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/nexus/account/transaction/ListAccountTransactionsConnectionUnitTest.java" timestamp="1478711456691">
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="26" />
+        <mark key="." line="72" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/production_nj/vars.yml" timestamp="1478544940123">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="35" column="2" />
@@ -322,7 +327,7 @@
         <mark key="]" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/nexus/account/ListAccountsConnectionUnitTest.java" timestamp="1478709330342">
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/nexus/account/ListAccountsConnectionUnitTest.java" timestamp="1478711351785">
         <mark key="[" line="68" column="94" />
         <mark key="]" line="68" column="94" />
         <mark key="." line="68" column="94" />
@@ -535,10 +540,10 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/nexus/account/transaction/ListAccountTransactionsConnection.java" timestamp="1478709442672">
-        <mark key="[" line="40" column="3" />
-        <mark key="]" line="43" column="119" />
-        <mark key="." line="43" column="119" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/nexus/account/transaction/ListAccountTransactionsConnection.java" timestamp="1478711622607">
+        <mark key="[" line="66" column="57" />
+        <mark key="]" line="66" column="57" />
+        <mark key="." line="66" column="57" />
         <mark key="^" line="43" column="119" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/build.gradle" timestamp="1478555105858">
@@ -804,10 +809,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MD_API_TOKEN_HEADER</text>
+        <text>getFromDate</text>
       </register>
       <register name="-" type="4">
-        <text>MD_API_TOKEN_HEADER</text>
+        <text>getFromDate</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -825,22 +830,22 @@
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMudG9EYXRlID0gdG9EYXRlOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS85LzE2Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZnJvbURhdGUgPSBmcm9tRGF0ZTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVjb3Jkc1BlclBhZ2UgPSByZWNvcmRzUGVyUGFnZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGFnZSA9IHBhZ2U7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudG9EYXRlID0gdG9EYXRlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWNjb3VudEd1aWQgPSBhY2NvdW50R3VpZDsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZnJvbURhdGUgPSBmcm9tRGF0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
