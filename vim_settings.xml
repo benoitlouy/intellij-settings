@@ -141,8 +141,8 @@
         <mark key="^" line="63" column="36" />
         <mark key="." line="63" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFlow.java" timestamp="1478714457283">
-        <mark key="[" line="20" column="27" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFlow.java" timestamp="1478720413587">
+        <mark key="[" line="41" column="51" />
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
@@ -236,31 +236,30 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-flow/1.57/3a5215ffbe86896a19aed23e35c57a717fa7a8a/datapipes-flow-1.57-sources.jar!/com/odc/datapipes/flow/SimpleExecuteVisitor.java" timestamp="1478715991163" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-flow/1.57/3a5215ffbe86896a19aed23e35c57a717fa7a8a/datapipes-flow-1.57-sources.jar!/com/odc/datapipes/flow/SimpleExecuteVisitor.java" timestamp="1478720616346" />
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/audit/auditor/GroverRecordAuditor.java" timestamp="1478192748358">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="30" column="29" />
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFetcher.java" timestamp="1478715935738">
-        <mark key="[" line="34" column="4" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFetcher.java" timestamp="1478720906309">
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
         <mark key="^" line="34" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectDataPipe.java" timestamp="1478642677820" />
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" timestamp="1478640918658">
-        <mark key="[" line="30" column="20" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" timestamp="1478720475351">
+        <mark key="[" line="42" column="124" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="22" column="36" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/develop.yml" timestamp="1478715140410">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="2" />
-        <mark key="." line="33" column="2" />
-        <mark key="^" line="33" column="2" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/develop.yml" timestamp="1478720319227">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/LexisNexisBiidConnectFetchReportDataPipe.java" timestamp="1478643059912">
         <mark key="[" line="23" column="4" />
@@ -268,7 +267,12 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="28" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/resources/server-override.clm.properties" timestamp="1478716059468">
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/AbstractMockedServerIntegrationTest.java" timestamp="1478720800034">
+        <mark key="[" line="61" column="70" />
+        <mark key="]" line="61" column="70" />
+        <mark key="." line="61" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/resources/server-override.clm.properties" timestamp="1478720324100">
         <mark key="[" line="64" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/main/java/com/odc/connectjobs/BaseConnectJob.java" timestamp="1478289942037">
@@ -387,10 +391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
