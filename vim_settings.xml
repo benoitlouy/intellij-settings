@@ -353,7 +353,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/BankDataResource.java" timestamp="1478884566066">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/BankDataResource.java" timestamp="1478889120382">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -417,6 +417,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/EnrollmentManagement.java" timestamp="1478889701921">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="13" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/util/Tasks.scala" timestamp="1478795613405">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -478,10 +484,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/EnrollmentResource.java" timestamp="1478885733110">
-        <mark key="[" line="24" column="57" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/EnrollmentResource.java" timestamp="1478888502837">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/ppsa/ESCPPSAResponseConverterSpec.scala" timestamp="1476996158699">
         <mark key="[" line="84" column="0" />
@@ -631,6 +637,12 @@
         <mark key="[" line="72" column="33" />
         <mark key="]" line="72" column="33" />
         <mark key="." line="72" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1478889511520">
+        <mark key="[" line="590" column="21" />
+        <mark key="]" line="589" column="24" />
+        <mark key="^" line="589" column="24" />
+        <mark key="." line="589" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectDataPipe.java" timestamp="1478642677820" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/dao/jaxb/PersistedReportDAOTest.java" timestamp="1477402040453">
@@ -897,11 +909,11 @@
       <jump line="60" column="56" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/core/config/CLMMongoModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>stringProvider</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -909,32 +921,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGZpbmRPckNyZWF0ZUVucm9sbG1lbnQoUHJvdmlkZXIgcHJvdmlkZXIsIExvbmcgbWVyY2hhbklkKQogIHsKICAgIAogIH0KICAKICBwdWJsaWMg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgU2VjdXJpdHlDb250ZXh0IHNlY3VyaXR5Q29udGV4dDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBAQ29udGV4dAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBwcml2YXRlIExvbmcgZ2V0TWVyY2hhbnRJZChVc2VyRGF0YSB1c2VyRGF0YSkKICB7CgogIH0=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1c2VyRGF0YS5nZXRVc2VyQWNjb3VudCgpLmdldE1lcmNoYW50KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xMS8xNi4K</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIExvbmcgbWVyY2hhbnRJZCA9IHVzZXIuZ2V0VXNlckFjY291bnQoKS5nZXRNZXJjaGFudCgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE1lcmNoYW50VXNlciB1c2VyID0gKE1lcmNoYW50VXNlcikgY29udGV4dC5nZXRVc2VyUHJpbmNpcGFsKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcm90ZWN0ZWQgU2VjdXJpdHlDb250ZXh0IHNlY3VyaXR5Q29udGV4dDsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBAQ29udGV4dAo=</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
