@@ -417,11 +417,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/EnrollmentManagement.java" timestamp="1478889701921">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="13" column="70" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/EnrollmentManagement.java" timestamp="1478890911588">
+        <mark key="[" line="72" column="69" />
+        <mark key="]" line="72" column="69" />
+        <mark key="." line="72" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/util/Tasks.scala" timestamp="1478795613405">
         <mark key="[" line="12" column="0" />
@@ -484,7 +483,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/EnrollmentResource.java" timestamp="1478888502837">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/EnrollmentResource.java" timestamp="1478890665814">
         <mark key="[" line="27" column="3" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -910,10 +909,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>manage_institutions_widget</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>manage_institutions_widget</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -921,32 +920,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGZpbmRPckNyZWF0ZUVucm9sbG1lbnQoUHJvdmlkZXIgcHJvdmlkZXIsIExvbmcgbWVyY2hhbklkKQogIHsKICAgIAogIH0KICAKICBwdWJsaWMg</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24uY29yZS5WZW5kb3JDb25uZWN0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xMS8xNi4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGZpbmRPckNyZWF0ZUVucm9sbG1lbnQoUHJvdmlkZXIgcHJvdmlkZXIsIExvbmcgbWVyY2hhbklkKQogIHsKICAgIAogIH0KICAKICBwdWJsaWMg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExvbmcgbWVyY2hhbnRJZCA9IHVzZXIuZ2V0VXNlckFjY291bnQoKS5nZXRNZXJjaGFudCgpOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xMS8xNi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1lcmNoYW50VXNlciB1c2VyID0gKE1lcmNoYW50VXNlcikgY29udGV4dC5nZXRVc2VyUHJpbmNpcGFsKCk7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvbmcgbWVyY2hhbnRJZCA9IHVzZXIuZ2V0VXNlckFjY291bnQoKS5nZXRNZXJjaGFudCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgU2VjdXJpdHlDb250ZXh0IHNlY3VyaXR5Q29udGV4dDsK</text>
+        <text encoding="base64">ICAgIE1lcmNoYW50VXNlciB1c2VyID0gKE1lcmNoYW50VXNlcikgY29udGV4dC5nZXRVc2VyUHJpbmNpcGFsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAQ29udGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
