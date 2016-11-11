@@ -230,7 +230,7 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/policy/cat/CATFlowIntegrationTest.java" timestamp="1478817645138">
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/policy/cat/CATFlowIntegrationTest.java" timestamp="1478871448733">
         <mark key="[" line="65" column="15" />
         <mark key="]" line="65" column="15" />
         <mark key="." line="65" column="15" />
@@ -329,6 +329,12 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/roles/service-deploy/templates/server-override.clm.properties.j2" timestamp="1478871818792">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/mx-model/src/main/java/com/odc/vendor/model/mx/sso/widget/UrlWrapper.java" timestamp="1478117448967">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="0" />
@@ -409,6 +415,12 @@
         <mark key="[" line="47" column="21" />
         <mark key="]" line="37" column="51" />
         <mark key="." line="37" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/all.yml" timestamp="1478871829023">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMModelRequestCreator.java" timestamp="1478792391998">
         <mark key="[" line="43" column="48" />
@@ -746,10 +758,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SXRlcmFibGVzLmdldEZpcnN0KGF1ZGl0UmVwb3J0cywgbnVsbCkuZ2V0RGF0YSgpLCA=</text>
+        <text>bass</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SXRlcmFibGVzLmdldEZpcnN0KGF1ZGl0UmVwb3J0cywgbnVsbCkuZ2V0RGF0YSgpLCA=</text>
+        <text>bass</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
