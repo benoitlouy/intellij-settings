@@ -548,7 +548,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1478795120216">
+      <file name="/fragment.java" timestamp="1478897048684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -721,6 +721,11 @@
         <mark key="." line="61" column="98" />
         <mark key="^" line="77" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-api/src/main/java/com/odc/enrollment/api/model/mx/MXEnrollmentRequest.java" timestamp="1478897265329">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectFetchReportDataPipe.java" timestamp="1478643612443">
         <mark key="[" line="41" column="8" />
         <mark key="]" line="33" column="7" />
@@ -748,6 +753,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/nexus/CreateSessionConnection.java" timestamp="1478533376497">
         <mark key="[" line="13" column="97" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/MXEnrollment.java" timestamp="1478896937299">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1478544896362">
         <mark key="[" line="35" column="50" />
@@ -842,8 +852,8 @@
         <mark key="]" line="37" column="26" />
         <mark key="." line="37" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/ExperianAMSEnrollmentController.java" timestamp="1478896590875">
-        <mark key="[" line="56" column="30" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/ExperianAMSEnrollmentController.java" timestamp="1478896800558">
+        <mark key="[" line="37" column="77" />
         <mark key="]" line="36" column="48" />
         <mark key="^" line="36" column="48" />
         <mark key="." line="36" column="48" />
@@ -905,6 +915,12 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/MXEnrollmentController.java" timestamp="1478897022068">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/ExperianBCRAsOfReportHandlerIT.java" timestamp="1477403766358">
         <mark key="[" line="75" column="61" />
@@ -1251,11 +1267,11 @@
       <jump line="60" column="56" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/core/config/CLMMongoModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>experianAms/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBqb2JCCg==</text>
       </register>
       <register name="-" type="4">
-        <text>experianAms/</text>
+        <text encoding="base64">IEV4cGVyaWFuIEFNUyA=</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -1264,31 +1280,31 @@
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBqb2JCCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5VVUlEOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMudmVuZG9yLmNvbm5lY3Rpb24ubXgubWR4LnVzZXIuQ3JlYXRlVXNlckNvbm5lY3Rpb247Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xMS8xNi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMubWVyY2hhbnRhcGkuZG9tYWluLmJhbmtkYXRhLlByb3ZpZGVyOwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwQ2xpZW50RXJyb3JFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xMS8xNi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
