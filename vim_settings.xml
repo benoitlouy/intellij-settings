@@ -48,6 +48,9 @@
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/mx-model/src/main/java/com/odc/vendor/model/mx/nexus/session/Session.java" timestamp="1478551154876">
         <mark key="[" line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/enroll/model/ExperianAMSEnrollment.java" timestamp="1478900820231">
+        <mark key="[" line="24" column="59" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1478894199685">
         <mark key="[" line="29" column="30" />
         <mark key="]" line="35" column="18" />
@@ -148,7 +151,7 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/develop.yml" timestamp="1479143792781">
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/develop.yml" timestamp="1479144760810">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="14" column="53" />
         <mark key="^" line="14" column="53" />
@@ -235,6 +238,9 @@
         <mark key="]" line="31" column="31" />
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/mdx/user/CreateUserConnection.java" timestamp="1478902342002">
+        <mark key="[" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-model/inteflow-model/src/test/java/com/odc/vendor/model/inteflow/UnmarshallResponseTest.java" timestamp="1469634634174">
         <mark key="[" line="24" column="109" />
@@ -348,7 +354,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/ExperianBCRCachingReportHandlerIT.java" timestamp="1477403058528">
         <mark key="[" line="58" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/roles/service-deploy/templates/server-override.enrollmentservice.properties.j2" timestamp="1479143723020">
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/roles/service-deploy/templates/server-override.enrollmentservice.properties.j2" timestamp="1479144733688">
         <mark key="[" line="22" column="39" />
         <mark key="]" line="26" column="24" />
         <mark key="^" line="26" column="24" />
@@ -617,6 +623,9 @@
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/production_co/vars.yml" timestamp="1479144714074">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-api/src/main/java/com/odc/enrollment/api/model/mx/MXEnrollment.java" timestamp="1478901755200">
         <mark key="[" line="2" column="25" />
       </file>
@@ -665,6 +674,12 @@
         <mark key="[" line="29" column="61" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/integrationTest/resources/server-override.enrollmentservice.properties" timestamp="1479144766747">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+        <mark key="^" line="26" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/EnrollmentManagement.java" timestamp="1478893819651">
         <mark key="[" line="40" column="0" />
@@ -1027,7 +1042,7 @@
         <mark key="." line="68" column="57" />
         <mark key="^" line="44" column="119" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/staging_nj.yml" timestamp="1479143809128">
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/staging_nj.yml" timestamp="1479144695751">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="14" column="53" />
         <mark key="^" line="14" column="53" />
@@ -1035,6 +1050,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/associate/creditdecision/associator/OpportunityCreditDecisionOrphaner.java" timestamp="1470948966029">
         <mark key="[" line="33" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/test/java/com/odc/enrollment/server/experian/alerts/enroll/handler/ExperianAMSEnrollmentRequestHandlerUnitTest.java" timestamp="1479144851932">
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/veda/VedaOrgIdCachingReportHandlerIT.java" timestamp="1477403167449">
         <mark key="[" line="85" column="56" />
@@ -1230,6 +1250,12 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/core/src/test/java/com/ondeck/loansales/service/sale/SaleMailerTest.java" timestamp="1471023635420">
         <mark key="[" line="61" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/production_nj/vars.yml" timestamp="1479144722125">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qw.connect.properties" timestamp="1478287627682">
         <mark key="[" line="45" column="0" />
@@ -1446,10 +1472,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAUXVhbGlmaWVyKCJteFJlc3RUZW1wbGF0ZSIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>mxEnrollmentMetricHook</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -1458,31 +1484,31 @@
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAUXVhbGlmaWVyKCJteFJlc3RUZW1wbGF0ZSIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcmVzdWx0LnNldFJlc3BvbnNlQ2xhenoocmVzcG9uc2VDbGFzcyk7Cg==</text>
+        <text encoding="base64">ICBAUXVhbGlmaWVyKCJteFJlc3RUZW1wbGF0ZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcmVzdWx0LnNldFJlcXVlc3RDbGF6eigpOwo=</text>
+        <text encoding="base64">Ly8gICAgcmVzdWx0LnNldFJlc3BvbnNlQ2xhenoocmVzcG9uc2VDbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgPFUK</text>
+        <text encoding="base64">Ly8gICAgcmVzdWx0LnNldFJlcXVlc3RDbGF6eigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgPFUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xNC8xNi4K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xNC8xNi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjtkZAo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
