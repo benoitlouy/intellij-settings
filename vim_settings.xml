@@ -366,6 +366,12 @@
         <mark key="." line="65" column="15" />
         <mark key="^" line="92" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/test/java/com/odc/enrollment/server/mx/enroll/MXEnrollerUnitTest.java" timestamp="1479135307304">
+        <mark key="[" line="108" column="94" />
+        <mark key="]" line="108" column="94" />
+        <mark key="." line="108" column="94" />
+        <mark key="^" line="83" column="78" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/MXIT.java" timestamp="1478708381676">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
@@ -477,6 +483,9 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/paynet/PaynetCanadaBCRCachingReportHandlerTest.java" timestamp="1477345051740">
         <mark key="[" line="83" column="95" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-api/src/main/java/com/odc/enrollment/api/model/Service.java" timestamp="1479132773358">
+        <mark key="[" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/test/java/com/ondeck/loansales/jobs/NotifierTest.java" timestamp="1470934664606">
         <mark key="[" line="80" column="55" />
@@ -1197,10 +1206,10 @@
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/enroll/MXEnroller.java" timestamp="1478902141860">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="4" />
-        <mark key="." line="44" column="4" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/enroll/MXEnroller.java" timestamp="1479133570524">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/module/CommonModule.java" timestamp="1476887279619">
         <mark key="[" line="57" column="45" />
@@ -1336,10 +1345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>VendorConnectionException</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>VendorConnectionException</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -1348,31 +1357,31 @@
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG14RW5yb2xsbWVudEVudGl0eS5zZXQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1YRW5yb2xsbWVudFJlcG9zaXRvcnkgbXhFbnJvbGxtZW50UmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0RW50aXR5SWQoImVudGl0eUlkIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0RW50aXR5VHlwZShFbnRpdHlUeXBlLk1FUkNIQU5UKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgT3B0aW9uYWw8TVhFbnJvbGxtZW50RW50aXR5PiBmaW5kQnlJZChMb25nIGVucm9sbG1lbnRJZCkKICB7CiAgICByZXR1cm4gT3B0aW9uYWwub2ZOdWxsYWJsZShteEVucm9sbG1lbnRSZXBvc2l0b3J5LmZpbmRPbmUoZW5yb2xsbWVudElkKSk7CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xNC8xNi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbAogIEBPdmVycmlkZQogIHB1YmxpYyBNWEVucm9sbG1lbnRFbnRpdHkgc2F2ZShNWEVucm9sbG1lbnRFbnRpdHkgZW5yb2xsbWVudCkgdGhyb3dzIER1cGxpY2F0ZUVucm9sbG1lbnRFeGNlcHRpb24KICB7CiAgICBPcHRpb25hbDxNWEVucm9sbG1lbnRFbnRpdHk+IGZvdW5kRW5yb2xsbWVudCA9IGZpbmQoZW5yb2xsbWVudCk7CiAgICBpZiAoZm91bmRFbnJvbGxtZW50LmlzUHJlc2VudCgpKQogICAgewogICAgICBNWEVucm9sbG1lbnRFbnRpdHkgZXhpc3RpbmdFbnJvbGxtZW50ID0gZm91bmRFbnJvbGxtZW50LmdldCgpOwogICAgICBFbnJvbGxtZW50U3RhdHVzIHN0YXR1cyA9IGV4aXN0aW5nRW5yb2xsbWVudC5nZXRFbnJvbGxtZW50KCkuZ2V0RW5yb2xsbWVudFN0YXR1cygpOwogICAgICBzd2l0Y2ggKHN0YXR1cykKICAgICAgewogICAgICAgIGNhc2UgVU5FTlJPTExFRDoKICAgICAgICAgIGxvZy5pbmZvKCJVcGRhdGluZyBleGlzdGluZyBVbmVucm9sbGVkIGVucm9sbG1lbnQgdG8gRW5yb2xsZWQgc3RhdHVzIik7CiAgICAgICAgICBlbnJvbGxtZW50LnNldEVucm9sbG1lbnRJZChleGlzdGluZ0Vucm9sbG1lbnQuZ2V0RW5yb2xsbWVudElkKCkpOwogICAgICAgICAgZW5yb2xsbWVudC5nZXRFbnJvbGxtZW50KCkuc2V0RW5yb2xsbWVudElkKGV4aXN0aW5nRW5yb2xsbWVudC5nZXRFbnJvbGxtZW50SWQoKSk7CiAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIEVOUk9MTEVEOgogICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCJFbnJvbGxtZW50IGFscmVhZHkgZXhpc3RzIGZvciBleHBlcmlhbiBlbnJvbGxtZW50OiAlcyIsIGVucm9sbG1lbnQpOwogICAgICAgICAgdGhyb3cgbmV3IER1cGxpY2F0ZUVucm9sbG1lbnRFeGNlcHRpb24obWVzc2FnZSk7CiAgICAgIH0KICAgIH0KCiAgICBsb2cuaW5mbygiUGVyc2lzdGluZyBlbnJvbGxtZW50ICIgKyBlbnJvbGxtZW50KTsKICAgIHJldHVybiBteEVucm9sbG1lbnRSZXBvc2l0b3J5LnNhdmUoZW5yb2xsbWVudCk7CiAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBteEVucm9sbG1lbnRFbnRpdHk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
