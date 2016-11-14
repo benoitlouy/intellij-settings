@@ -28,7 +28,6 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/common/dao/ExperianAmsEnrollmentRepository.java" timestamp="1478898591843" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/alerts/publish/ExperianAlertPublishHandler.java" timestamp="1477343824672">
         <mark key="[" line="31" column="100" />
       </file>
@@ -128,7 +127,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyHandler.java" timestamp="1478815980042" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/qd.yml" timestamp="1479143796024">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/messaging/ConnectReportResultUnitTest.java" timestamp="1478285458688">
         <mark key="[" line="29" column="27" />
         <mark key="]" line="29" column="27" />
@@ -146,6 +147,12 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/develop.yml" timestamp="1479143792781">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="53" />
+        <mark key="^" line="14" column="53" />
+        <mark key="." line="14" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/paynet/PaynetBCRCachingReportHandlerTest.java" timestamp="1477402619803">
         <mark key="[" line="83" column="58" />
@@ -166,7 +173,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/us/EquifaxCCRCachingReportHandlerIT.java" timestamp="1477403563637">
         <mark key="[" line="80" column="69" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.1.5.RELEASE/bb34cc6820000f0bc83bf0319098a18d6326bb82/spring-web-4.1.5.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1478895048762" />
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/core/config/MongoDbConfig.java" timestamp="1478276495035">
         <mark key="[" line="70" column="87" />
         <mark key="]" line="70" column="0" />
@@ -187,7 +193,6 @@
         <mark key="]" line="281" column="0" />
         <mark key="." line="281" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc.authnz.tools/spring-client-auth/1.3/729dbe88a773ef6cfac86da88b2288a79c453480/spring-client-auth-1.3.jar!/com/odc/authnz/tools/spring/client/auth/model/RestTemplateCallable.class" timestamp="1478725172999" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/MXTestParams.java" timestamp="1478622401641">
         <mark key="[" line="5" column="74" />
         <mark key="]" line="6" column="53" />
@@ -343,6 +348,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/ExperianBCRCachingReportHandlerIT.java" timestamp="1477403058528">
         <mark key="[" line="58" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/roles/service-deploy/templates/server-override.enrollmentservice.properties.j2" timestamp="1479143723020">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connectjobs/src/main/resources/connectjobs-context.xml" timestamp="1478290301279">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -421,11 +432,11 @@
         <mark key="]" line="42" column="10" />
         <mark key="." line="42" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/config/MXConnectionConfiguration.java" timestamp="1479141773525">
-        <mark key="[" line="48" column="138" />
-        <mark key="]" line="41" column="46" />
-        <mark key="." line="41" column="46" />
-        <mark key="^" line="41" column="46" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/config/MXConnectionConfiguration.java" timestamp="1479143180447">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="23" />
+        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/staging_co.yml" timestamp="1478715170265">
         <mark key="[" line="35" column="49" />
@@ -492,7 +503,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/ExperianAMSHandlerIT.java" timestamp="1477403007397">
         <mark key="[" line="39" column="36" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.1.5.RELEASE/bb34cc6820000f0bc83bf0319098a18d6326bb82/spring-web-4.1.5.RELEASE-sources.jar!/org/springframework/web/client/DefaultResponseErrorHandler.java" timestamp="1478894921473" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/scheduledjobs/src/test/java/com/ondeck/alpaca/scheduledoperations/ScheduledOperationsTest.java" timestamp="1477321474426">
         <mark key="[" line="57" column="77" />
         <mark key="]" line="57" column="77" />
@@ -512,10 +522,10 @@
         <mark key="." line="69" column="94" />
         <mark key="^" line="68" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/common/config/AuditServiceClientFactory.java" timestamp="1479141824784">
-        <mark key="[" line="39" column="62" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/common/config/AuditServiceClientFactory.java" timestamp="1479142347808">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/utils/Defines/Defines.java" timestamp="1471268246352">
         <mark key="[" line="882" column="98" />
@@ -615,7 +625,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1478897048684">
+      <file name="/fragment.java" timestamp="1479142595716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -651,7 +661,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/main/scala/com/ondeck/alpaca/logic/decider/ClosingDocumentsDecider.scala" timestamp="1476978216772">
         <mark key="[" line="17" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/enroll/config/ExperianAlertEnrollmentConnectionConfig.java" timestamp="1479141254637">
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/enroll/config/ExperianAlertEnrollmentConnectionConfig.java" timestamp="1479142467858">
         <mark key="[" line="29" column="61" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -739,7 +749,6 @@
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc.vendor.connection/vendor-connection-core/1.25-PDTS-966-SNAPSHOT/e6a38e0d56f4ff90e6d2de1342491cabe19e54e2/vendor-connection-core-1.25-PDTS-966-SNAPSHOT.jar!/com/odc/vendor/connection/core/hooks/metrics/ElasticSearchVendorMetricHook.class" timestamp="1479137732269" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/test/java/com/odc/enrollment/server/core/AbstractEnrollmentRequestHandlerUnitTest.java" timestamp="1479137933968">
         <mark key="[" line="78" column="93" />
         <mark key="]" line="78" column="93" />
@@ -888,6 +897,9 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/staging_co.yml" timestamp="1479143801490">
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverter.scala" timestamp="1477084394441">
         <mark key="[" line="126" column="44" />
       </file>
@@ -903,7 +915,6 @@
         <mark key="^" line="43" column="44" />
         <mark key="." line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/action/conf/LoanServiceClientConfig.java" timestamp="1478641841307" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/enroll/service/ExperianAMSEnroller.java" timestamp="1478901492383">
         <mark key="[" line="47" column="16" />
         <mark key="]" line="47" column="16" />
@@ -1016,6 +1027,12 @@
         <mark key="." line="68" column="57" />
         <mark key="^" line="44" column="119" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/staging_nj.yml" timestamp="1479143809128">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="53" />
+        <mark key="^" line="14" column="53" />
+        <mark key="." line="14" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/associate/creditdecision/associator/OpportunityCreditDecisionOrphaner.java" timestamp="1470948966029">
         <mark key="[" line="33" column="47" />
       </file>
@@ -1031,7 +1048,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/main/resources/email-template.properties" timestamp="1471028611098">
         <mark key="[" line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/integrationTest/java/com/odc/enrollment/server/ExperianAMSEnrollmentControllerIntegrationTest.java" timestamp="1478896528580" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianConsumerCreditReportConverterSpec.scala" timestamp="1477084806794">
         <mark key="[" line="324" column="37" />
         <mark key="]" line="324" column="37" />
@@ -1040,7 +1056,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandlerIT.java" timestamp="1477402444428">
         <mark key="[" line="86" column="75" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-flow/1.57/3a5215ffbe86896a19aed23e35c57a717fa7a8a/datapipes-flow-1.57-sources.jar!/com/odc/datapipes/flow/SimpleExecuteVisitor.java" timestamp="1478720616346" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/enroll/handler/ExperianAMSGetRequestHandler.java" timestamp="1479136995727">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="16" />
@@ -1094,7 +1109,6 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/handler/AbstractAsOfReportHandlerTest.java" timestamp="1477403114169">
         <mark key="[" line="93" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectDataPipe.java" timestamp="1478642677820" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/dao/jaxb/PersistedReportDAOTest.java" timestamp="1477402040453">
         <mark key="[" line="100" column="85" />
         <mark key="]" line="100" column="85" />
@@ -1432,10 +1446,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgPFUK</text>
+        <text encoding="base64">ICBAUXVhbGlmaWVyKCJteFJlc3RUZW1wbGF0ZSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVzcG9uc2VFbnRpdHk8VXNlcldyYXBwZXI8VXNlcj4+</text>
+        <text>mxEnrollmentMetricHook</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -1444,31 +1458,31 @@
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgPFUK</text>
+        <text encoding="base64">ICBAUXVhbGlmaWVyKCJteFJlc3RUZW1wbGF0ZSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">Ly8gICAgcmVzdWx0LnNldFJlc3BvbnNlQ2xhenoocmVzcG9uc2VDbGFzcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Ly8gICAgcmVzdWx0LnNldFJlcXVlc3RDbGF6eigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xNC8xNi4K</text>
+        <text encoding="base64">ICBwdWJsaWMgPFUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjtkZAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjsK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xNC8xNi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjtkCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjtkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
