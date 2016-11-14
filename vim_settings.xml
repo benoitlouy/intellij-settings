@@ -98,11 +98,10 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/develop.yml" timestamp="1479150881763">
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="35" column="38" />
-        <mark key="^" line="35" column="38" />
-        <mark key="." line="35" column="38" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/develop.yml" timestamp="1479157041705">
+        <mark key="]" line="30" column="38" />
+        <mark key="^" line="30" column="38" />
+        <mark key="." line="30" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/test/java/com/odc/vendor/connection/mx/sso/widget/GetWidgetConnectionTest.java" timestamp="1478534598778">
         <mark key="[" line="81" column="57" />
@@ -577,10 +576,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/db/scripts/20150403162732_add_initial_data.sql" timestamp="1479152198722" />
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/integrationTest/java/com/odc/enrollment/server/MXEnrollmentControllerIntegrationTest.java" timestamp="1479155650280">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/integrationTest/java/com/odc/enrollment/server/MXEnrollmentControllerIntegrationTest.java" timestamp="1479156748201">
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="58" column="9" />
+        <mark key="." line="58" column="9" />
+        <mark key="^" line="58" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/all.yml" timestamp="1478879915549">
         <mark key="[" line="35" column="0" />
@@ -711,6 +711,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/local.yml" timestamp="1479157081709">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/db/README.md" timestamp="1479149691968" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/test/java/com/odc/enrollment/server/mx/enroll/MXEnrollmentRequestHandlerUnitTest.java" timestamp="1479155222820">
         <mark key="[" line="0" column="44" />
@@ -732,6 +737,11 @@
         <mark key="[" line="72" column="33" />
         <mark key="]" line="72" column="33" />
         <mark key="." line="72" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFetcher.java" timestamp="1478790172216">
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+        <mark key="^" line="34" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/db/scripts/20161114134244_add_mx_table.sql" timestamp="1479150314824">
         <mark key="[" line="23" column="24" />
@@ -1019,8 +1029,8 @@
       <jump line="60" column="56" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/core/config/CLMMongoModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>where</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I3NwcmluZ19kYXRhc291cmNlX3Bhc3N3b3JkOiAnZS1uNmFvel9HY0FoOEwxJwo=</text>
       </register>
       <register name="-" type="4">
         <text>where</text>
@@ -1032,31 +1042,31 @@
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">I3NwcmluZ19kYXRhc291cmNlX3Bhc3N3b3JkOiAnZS1uNmFvel9HY0FoOEwxJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjsK</text>
+        <text encoding="base64">I3NwcmluZ19kYXRhc291cmNlX3VzZXJuYW1lOiAnYXBwX2Vucm9sbF9zdmNfcncnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjsK</text>
+        <text encoding="base64">I3NwcmluZ19kYXRhc291cmNlX3VybDogJ2pkYmM6cG9zdGdyZXNxbDovL3FkZnVsbC1wb3N0Z3Jlczo1NDMyL2Vucm9sbG1lbnQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xNC8xNi4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuZXZlbnRzLkV2ZW50SGFuZGxlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnJvbGxtZW50LmdldFVzZXJUcmFja2luZ0lkKCksIHJlc3VsdC5nZXQoKS5nZXRVc2VyVHJhY2tpbmdJZCgpKTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnJvbGxtZW50LmdldFBvcnRmb2xpb1N1YmNvZGUoKSwgcmVzdWx0LmdldCgpLmdldFBvcnRmb2xpb1N1YmNvZGUoKSk7Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXN0aW5nRW5yb2xsbWVudC5zZXRQb3J0Zm9saW9TdWJjb2RlKHBvcnRmb2xpb1N1YmNvZGUpOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMS8xNC8xNi4K</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
