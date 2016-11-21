@@ -31,11 +31,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/WebTargetModule.java" timestamp="1479412049201">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="99" column="58" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/java/com/ondeck/alpaca/web/resource/WebTargetModule.java" timestamp="1479745206096">
+        <mark key="[" line="100" column="40" />
+        <mark key="]" line="100" column="59" />
+        <mark key="^" line="100" column="59" />
+        <mark key="." line="100" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/inteflow-connection/src/main/java/com/odc/vendor/connection/inteflow/InteflowConnection.java" timestamp="1474035547712">
         <mark key="[" line="17" column="82" />
@@ -179,10 +179,10 @@
         <mark key="]" line="102" column="41" />
         <mark key="." line="102" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/Scala/service/CanadaPPSAServiceSpec.scala" timestamp="1479411912999">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/logic/src/test/scala/com/ondeck/alpaca/logic/Scala/service/CanadaPPSAServiceSpec.scala" timestamp="1479745060920">
+        <mark key="[" line="138" column="49" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/resources/credentials.properties" timestamp="1479237534242" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/roles/service-deploy/templates/server-override.enrollmentservice.properties.j2" timestamp="1479224676831" />
@@ -1505,10 +1505,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Task</text>
+        <text>asEagerSingleton();</text>
       </register>
       <register name="-" type="4">
-        <text>Task</text>
+        <text>asEagerSingleton();</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
@@ -1517,31 +1517,31 @@
         <text encoding="base64">ICAgIHN1cGVyKGlkLCB0cmFpbCwgc3RhcnRUaW1lLCBlbmRUaW1lLCBlcnJvciwgZGVjaXNpb25UeXBlLCByZXF1ZXN0LCBwYXJhbXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICAgIHZlcmlmeU5vTW9yZUludGVyYWN0aW9ucyhwcHNhRGFvKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTEvMTcvMTYuCg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeU5vTW9yZUludGVyYWN0aW9ucyhwcHNhRGFvKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeU5vTW9yZUludGVyYWN0aW9ucyhwcHNhRGFvKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtb2RlbEhvc3RSIFNlcnZpY2UgQ2xpZW50Cg==</text>
+        <text encoding="base64">Ly8gICAgdmVyaWZ5Tm9Nb3JlSW50ZXJhY3Rpb25zKHBwc2FEYW8pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeU5vTW9yZUludGVyYWN0aW9ucyhwcHNhRGFvKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kZXIuaW5zdGFsbChuZXcgTW9kZWxIb3N0UkNsaWVudE1vZHVsZSgpKTsK</text>
+        <text encoding="base64">ICAgIHZlcmlmeU5vTW9yZUludGVyYWN0aW9ucyhwcHNhRGFvKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suYWxwYWNhLm1vZGVsaG9zdHIuTW9kZWxIb3N0UkNsaWVudE1vZHVsZTsK</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgYmxvdXkgb24gMTEvMTcvMTYuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9uZGVjay5hbHBhY2E8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmFscGFjYS13cy1tb2RlbGhvc3RyPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QucGFyZW50LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>175</text>
