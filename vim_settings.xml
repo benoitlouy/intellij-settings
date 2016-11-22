@@ -290,6 +290,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/integrationTest/resources/application.properties" timestamp="1479766759851">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="44" column="36" />
+        <mark key="^" line="44" column="36" />
+        <mark key="." line="44" column="36" />
+      </file>
       <file name="/Dummy.txt" timestamp="1479761300888">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1074,11 +1080,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/main/scala/com/ondeck/alpaca/web/Scala/service/ReRunConnectDeciderService.scala" timestamp="1479420630555">
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/db/scripts/20161114190602_add_mx_enrollment_table.sql" timestamp="1479155862990">
-        <mark key="[" line="69" column="23" />
-        <mark key="]" line="69" column="23" />
-        <mark key="." line="69" column="23" />
-        <mark key="^" line="57" column="34" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/db/scripts/20161114190602_add_mx_enrollment_table.sql" timestamp="1479767758326">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="17" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1479765160950">
         <mark key="[" line="0" column="0" />
@@ -1124,7 +1130,7 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/dao/MXEnrollmentDao.java" timestamp="1479152847726">
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/dao/MXEnrollmentDao.java" timestamp="1479766209010">
         <mark key="[" line="37" column="11" />
         <mark key="]" line="37" column="21" />
         <mark key="." line="37" column="21" />
@@ -1136,10 +1142,8 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/paynet/PaynetBCRCachingReportHandlerIT.java" timestamp="1477402431424">
         <mark key="[" line="54" column="99" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/roles/service-deploy/templates/application.properties.j2" timestamp="1479764846739">
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/roles/service-deploy/templates/application.properties.j2" timestamp="1479766133383">
         <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/jobs/loan_sales/src/dist/README.md" timestamp="1469799931144">
         <mark key="[" line="12" column="19" />
@@ -1218,6 +1222,7 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/Scala/dao/PPSADaoIT.scala" timestamp="1479754934747" />
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/action/conf/LoanServiceClientConfig.java" timestamp="1478641841307" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/integrationTest/java/com/odc/enrollment/server/mx/MXEnrollmentControllerIntegrationTest.java" timestamp="1479767217744" />
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/ccr/ContactToConnectCCRRequest.java" timestamp="1477488710576">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="17" column="64" />
@@ -1244,16 +1249,17 @@
         <mark key="^" line="36" column="48" />
         <mark key="." line="36" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/enroll/MXEnrollmentRequestHandler.java" timestamp="1479764701193">
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="6" />
-        <mark key="." line="25" column="6" />
-        <mark key="^" line="25" column="19" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/MXEnrollmentController.java" timestamp="1479767361330" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/enroll/MXEnrollmentRequestHandler.java" timestamp="1479766311313">
+        <mark key="[" line="34" column="94" />
+        <mark key="]" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandlerIT.java" timestamp="1477403099961">
         <mark key="[" line="81" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/db/scripts/20150403162646_create_initial_schema.sql" timestamp="1479155583343" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/db/scripts/20150403162646_create_initial_schema.sql" timestamp="1479767741757" />
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/app/application/shared/uploadDocuments/uploadDocuments.spec.js" timestamp="1478033338587">
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
@@ -1378,7 +1384,7 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/model/MXEnrollmentEntity.java" timestamp="1479759609483">
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/model/MXEnrollmentEntity.java" timestamp="1479767713435">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -1549,10 +1555,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yodlee</text>
+        <text>postgres</text>
       </register>
       <register name="-" type="4">
-        <text>yodlee</text>
+        <text>postgres</text>
       </register>
       <register name="/" type="4">
         <text>connect-api</text>
