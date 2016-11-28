@@ -729,6 +729,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/service/enrollment/ExperianEnrollmentServiceUnitTest.java" timestamp="1478116589062">
         <mark key="[" line="142" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFetcher.java" timestamp="1480353900121">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/datapipes/impl/src/main/java/com/odc/datapipes/connect/ConnectDataPipe.java" timestamp="1478642677820" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/sso/MDXSSOConstants.java" timestamp="1478534348923">
         <mark key="[" line="5" column="0" />
@@ -1148,7 +1154,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/policy/cat/CATFlowIntegrationTest.java" timestamp="1480352970300">
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/policy/cat/CATFlowIntegrationTest.java" timestamp="1480353641866">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
@@ -1808,11 +1814,11 @@
       <jump line="38" column="3" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagementTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gY2F0UmVzcG9uc2UgPSBJbW11dGFibGVNYXAub2YoImNhdEtleSIsICJjYXRWYWx1ZSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>logg</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>logg</text>
       </register>
       <register name="/" type="4">
         <text>Matchers</text>
