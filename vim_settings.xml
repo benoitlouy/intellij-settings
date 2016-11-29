@@ -110,8 +110,10 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/BusinessResource.java" timestamp="1480431123851">
-        <mark key="[" line="340" column="95" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/BusinessResource.java" timestamp="1480435091663">
+        <mark key="[" line="341" column="91" />
+        <mark key="]" line="341" column="91" />
+        <mark key="." line="341" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/develop.yml" timestamp="1479831452943">
         <mark key="[" line="13" column="0" />
@@ -657,6 +659,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/loansales/loansales_notifier/src/main/resources/email-template.properties" timestamp="1471028611098">
         <mark key="[" line="1" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/EligibilityManagement.java" timestamp="1480434916447" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/enroll/handler/ExperianAMSGetRequestHandler.java" timestamp="1479136995727">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="16" />
@@ -709,6 +712,9 @@
         <mark key="]" line="20" column="32" />
         <mark key="." line="20" column="32" />
         <mark key="^" line="20" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/business/ApplicationState.java" timestamp="1480434074880">
+        <mark key="[" line="46" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/sso/MDXSSOConstants.java" timestamp="1478534348923">
         <mark key="[" line="5" column="0" />
@@ -1258,6 +1264,12 @@
         <mark key="^" line="63" column="36" />
         <mark key="." line="63" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/business/ApplicationStateManagerTest.java" timestamp="1480436065717">
+        <mark key="[" line="734" column="49" />
+        <mark key="]" line="735" column="64" />
+        <mark key="." line="735" column="64" />
+        <mark key="^" line="735" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/androidclient/settings.gradle" timestamp="1480369768735">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -1271,6 +1283,12 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1480435567417">
+        <mark key="[" line="79" column="38" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="83" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1480351041856">
         <mark key="[" line="0" column="0" />
@@ -1786,11 +1804,11 @@
       <jump line="38" column="3" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagementTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Nullable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnRyYWN0LmdldE9mZmVyKCkuc2V0UHJvZHVjdFR5cGUoUHJvZHVjdFR5cGUuVGVybUxvYW4pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Nullable</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Matchers</text>
@@ -1799,31 +1817,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1lcmNoYW50VXNlciBtZXJjaGFudFVzZXIgPSBuZXcgTWVyY2hhbnRVc2VyKG5ldyBVc2VyQWNjb3VudCgpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnRyYWN0LmdldE9mZmVyKCkuc2V0UHJvZHVjdFR5cGUoUHJvZHVjdFR5cGUuVGVybUxvYW4pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXJBY2NvdW50LnNldAo=</text>
+        <text encoding="base64">ICAgIGNvbnRyYWN0LnNldE9mZmVyKG5ldyBPZmZlcigpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFVzZXJBY2NvdW50IHVzZXJBY2NvdW50ID0gbmV3IFVzZXJBY2NvdW50KCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRyYWN0LnNldEV4cGlyYXRpb25EYXRlKERhdGVUaW1lLm5vdygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRyYWN0LnVwZGF0ZVN0YXR1cyhDb250cmFjdFN0YXR1cy5GdW5kZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1c2luZXNzLmdldFVzZQo=</text>
+        <text encoding="base64">ICAgIENvbnRyYWN0IGNvbnRyYWN0ID0gbmV3IENvbnRyYWN0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
+        <text encoding="base64">ICAgIGNvbnRyYWN0LnVwZGF0ZVN0YXR1cygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1lcmNoYW50VXNlciB1c2VyID0gKE1lcmNoYW50VXNlcikgc2VjdXJpdHlDb250ZXh0LmdldFVzZXJQcmluY2lwYWwoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLmFubm90YXRpb24uWG1sRWxlbWVudFdyYXBwZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLmFubm90YXRpb24uWG1sRWxlbWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
