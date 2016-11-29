@@ -110,6 +110,9 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/BusinessResource.java" timestamp="1480431123851">
+        <mark key="[" line="340" column="95" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/develop.yml" timestamp="1479831452943">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -308,6 +311,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/paynet/PaynetCanadaBCRCachingReportHandlerTest.java" timestamp="1477345051740">
         <mark key="[" line="83" column="95" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/LoanService.java" timestamp="1480431573556" />
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/dao/ConnectReportDao.scala" timestamp="1479420725938">
         <mark key="[" line="9" column="65" />
         <mark key="]" line="9" column="65" />
@@ -425,9 +429,6 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/dao/ContractRepository.java" timestamp="1480430652469">
         <mark key="[" line="25" column="130" />
-        <mark key="]" line="27" column="116" />
-        <mark key="^" line="27" column="116" />
-        <mark key="." line="27" column="116" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/mx-connection/src/main/java/com/odc/vendor/connection/mx/mdx/user/DeleteUserConnection.java" timestamp="1478902395415">
         <mark key="[" line="42" column="56" />
@@ -661,6 +662,7 @@
         <mark key="]" line="31" column="16" />
         <mark key="." line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/ProductResource.java" timestamp="1480431117094" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-client/src/main/java/com/odc/enrollment/client/EnrollmentClient.java" timestamp="1479158026755">
         <mark key="[" line="93" column="3" />
       </file>
@@ -1270,8 +1272,10 @@
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1480429155640">
-        <mark key="[" line="57" column="56" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1480431196262">
+        <mark key="[" line="120" column="54" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1480351041856">
         <mark key="[" line="0" column="0" />
@@ -1787,8 +1791,8 @@
       <jump line="38" column="3" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagementTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE1lcmNoYW50VXNlciBtZXJjaGFudFVzZXIgPSBuZXcgTWVyY2hhbnRVc2VyKG5ldyBVc2VyQWNjb3VudCgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -1800,31 +1804,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
+        <text encoding="base64">ICAgIE1lcmNoYW50VXNlciBtZXJjaGFudFVzZXIgPSBuZXcgTWVyY2hhbnRVc2VyKG5ldyBVc2VyQWNjb3VudCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJBY2NvdW50LnNldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLmFubm90YXRpb24uWG1sRWxlbWVudFdyYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgIFVzZXJBY2NvdW50IHVzZXJBY2NvdW50ID0gbmV3IFVzZXJBY2NvdW50KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLmFubm90YXRpb24uWG1sRWxlbWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0xMDMxXSBhZGQgbm8gYXJnIGNvbnN0cnVjdG9yIHRvIHRoZSBQUFNBRW50cnkgY2xhc3MK</text>
+        <text encoding="base64">ICAgIGJ1c2luZXNzLmdldFVzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCAwZTE1ZTg0ZjM4Y2E0NDMzZDFiOWE2YjRjOWNkMjc0NjA1YzdmNGY3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0xMDMxXSBhZGQgbm8gYXJnIGNvbnN0cnVjdG9yIHRvIHRoZSBQUFNBRW50cnkgY2xhc3MK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLmFubm90YXRpb24uWG1sRWxlbWVudFdyYXBwZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLmFubm90YXRpb24uWG1sRWxlbWVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
