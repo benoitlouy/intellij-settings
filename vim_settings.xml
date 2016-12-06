@@ -3,60 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481038940301">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-mock-server/src/main/java/com/odc/enrollment/mockserver/MockEnrollmentConfiguration.java" timestamp="1481036270199">
-        <mark key="[" line="84" column="53" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/build.gradle" timestamp="1481037954718">
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="70" />
-        <mark key="." line="14" column="70" />
-        <mark key="^" line="14" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagementTest.java" timestamp="1481039046637">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-client/src/main/java/com/odc/enrollment/client/MXEnrollmentClient.java" timestamp="1481036126722">
-        <mark key="[" line="20" column="66" />
-        <mark key="]" line="20" column="66" />
-        <mark key="." line="20" column="66" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/test/java/com/odc/enrollment/server/mx/enroll/MXEnrollerUnitTest.java" timestamp="1481036548176">
-        <mark key="[" line="113" column="25" />
-        <mark key="]" line="113" column="25" />
-        <mark key="." line="113" column="25" />
-        <mark key="^" line="111" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/yodlee/YodleeEnrollmentController.java" timestamp="1481035598520" />
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/db/scripts/20161114190602_add_mx_enrollment_table.sql" timestamp="1481035049676">
-        <mark key="[" line="66" column="59" />
-        <mark key="]" line="39" column="49" />
-        <mark key="." line="39" column="49" />
-        <mark key="^" line="17" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1481041360626">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-api/src/main/java/com/odc/enrollment/api/model/EnrollmentRequest.java" timestamp="1481035691356" />
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-mock-server/src/test/java/com/odc/enrollment/mockserver/MockEnrollmentConfigurationUnitTest.java" timestamp="1481036732784">
-        <mark key="[" line="87" column="30" />
-        <mark key="]" line="87" column="30" />
-        <mark key="." line="87" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/integrationTest/java/com/odc/enrollment/server/mx/MXEnrollmentControllerIntegrationTest.java" timestamp="1481036479804">
-        <mark key="[" line="75" column="135" />
-        <mark key="]" line="75" column="138" />
-        <mark key="." line="75" column="138" />
-        <mark key="^" line="75" column="138" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/MXEnrollmentController.java" timestamp="1481035889439">
         <mark key="'" line="43" column="99" />
         <mark key="[" line="43" column="79" />
@@ -68,10 +14,11 @@
         <mark key="]" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-client/src/integrationTest/java/com/odc/enrollment/client/MXEnrollmentClientIntegrationTest.java" timestamp="1481036203563">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/integrationTest/java/com/odc/enrollment/server/mx/MXEnrollmentControllerIntegrationTest.java" timestamp="1481036479804">
+        <mark key="[" line="75" column="135" />
+        <mark key="]" line="75" column="138" />
+        <mark key="." line="75" column="138" />
+        <mark key="^" line="75" column="138" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/core/dao/BaseDao.java" timestamp="1481035344953">
         <mark key="[" line="43" column="72" />
@@ -79,10 +26,61 @@
         <mark key="." line="43" column="72" />
         <mark key="^" line="52" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagementTest.java" timestamp="1481039046637">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/test/java/com/odc/enrollment/server/mx/enroll/MXEnrollerUnitTest.java" timestamp="1481036548176">
+        <mark key="[" line="113" column="25" />
+        <mark key="]" line="113" column="25" />
+        <mark key="." line="113" column="25" />
+        <mark key="^" line="111" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-client/src/integrationTest/java/com/odc/enrollment/client/MXEnrollmentClientIntegrationTest.java" timestamp="1481036203563">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/enroll/MXEnroller.java" timestamp="1481035773263">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481038940301">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-mock-server/src/main/java/com/odc/enrollment/mockserver/MockEnrollmentConfiguration.java" timestamp="1481036270199">
+        <mark key="[" line="84" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-client/src/main/java/com/odc/enrollment/client/MXEnrollmentClient.java" timestamp="1481036126722">
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="20" column="66" />
+        <mark key="." line="20" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-mock-server/src/test/java/com/odc/enrollment/mockserver/MockEnrollmentConfigurationUnitTest.java" timestamp="1481036732784">
+        <mark key="[" line="87" column="30" />
+        <mark key="]" line="87" column="30" />
+        <mark key="." line="87" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/build.gradle" timestamp="1481037954718">
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="70" />
+        <mark key="." line="14" column="70" />
+        <mark key="^" line="14" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/db/scripts/20161114190602_add_mx_enrollment_table.sql" timestamp="1481035049676">
+        <mark key="[" line="66" column="59" />
+        <mark key="]" line="39" column="49" />
+        <mark key="." line="39" column="49" />
+        <mark key="^" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1481041360626">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
     </filemarks>
     <jumps>
