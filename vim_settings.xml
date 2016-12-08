@@ -44,18 +44,18 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagement.java" timestamp="1481128257899">
         <mark key="[" line="201" column="3" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/enroll/MXEnroller.java" timestamp="1481035773263">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481038940301">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481209787702">
+        <mark key="[" line="35" column="115" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-mock-server/src/main/java/com/odc/enrollment/mockserver/MockEnrollmentConfiguration.java" timestamp="1481036270199">
         <mark key="[" line="84" column="53" />
@@ -81,11 +81,6 @@
         <mark key="]" line="39" column="49" />
         <mark key="." line="39" column="49" />
         <mark key="^" line="17" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1481041360626">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -192,7 +187,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd2lkZ2V0LmdldEJvZHkoKS5nZXRVcmwoKS5nZXRVcmwoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>ApplicationState</text>
@@ -204,31 +199,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd2lkZ2V0LmdldEJvZHkoKS5nZXRVcmwoKS5nZXRVcmwoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZUVudGl0eTxVcmxXcmFwcGVyPFdpZGdldD4+IHdpZGdldCA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW5yb2xsbWVudC5nZXRCb2R5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uU3RhdGUgYXBwbGljYXRpb25TdGF0ZSA9IE9iamVjdHMuZmlyc3ROb25OdWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVucm9sbG1lbnQgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZUVudGl0eTxNWEVucm9sbG1lbnQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhTdHJpbmcudmFsdWVPZihtZXJjaGFudElkKSwgcmVxdWVzdC5nZXRFbnRpdHlJZCgpKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0yMjY0XSBhZGQgRlVORElORyBBcHBsaWNhdGlvblN0YXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhFbnRpdHlUeXBlLk1FUkNIQU5ULCByZXF1ZXN0LmdldEVudGl0eVR5cGUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMubWVyY2hhbnRhcGkuZG9tYWluLmNvbnRyYWN0LkNvbnRyYWN0RnVuZGluZ0JhbmtBY2NvdW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE1YRW5yb2xsbWVudFJlcXVlc3QgcmVxdWVzdCA9IHJlcXVlc3RDYXB0b3IuZ2V0VmFsdWUoKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
