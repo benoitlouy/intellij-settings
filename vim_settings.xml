@@ -19,7 +19,7 @@
       <file name="/a.dummy" timestamp="1481639969907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/application.properties" timestamp="1481638978501">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/application.properties" timestamp="1481643284003">
         <mark key="[" line="314" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/odc/authnz/tools/authnz-tools-core/1.3.1/authnz-tools-core-1.3.1.jar!/com/odc/authnz/tools/core/token/caching/TimeBasedCachedAccessTokenFactory.class" timestamp="1481639220832" />
@@ -43,7 +43,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481209787702">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481642098285">
         <mark key="[" line="35" column="115" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -77,10 +77,11 @@
         <mark key="." line="26" column="28" />
         <mark key="^" line="32" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/config/MXConfig.java" timestamp="1481639960578">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/config/MXConfig.java" timestamp="1481643215343">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1481639523979">
         <mark key="[" line="604" column="55" />
@@ -94,8 +95,10 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/odc/authnz/tools/spring-client-auth/1.4/spring-client-auth-1.4.jar!/com/odc/authnz/tools/spring/client/auth/AuthenticatedHttpRequestFactory.class" timestamp="1481638465172" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/roles/service-deploy/vars/main.yml" timestamp="1481567470102" />
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/roles/app/templates/override.properties.j2" timestamp="1481639084221">
-        <mark key="[" line="229" column="43" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/roles/app/templates/override.properties.j2" timestamp="1481643292759">
+        <mark key="[" line="186" column="10" />
+        <mark key="]" line="186" column="10" />
+        <mark key="." line="186" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-client/src/integrationTest/java/com/odc/enrollment/client/MXEnrollmentClientIntegrationTest.java" timestamp="1481036203563">
         <mark key="[" line="28" column="0" />
@@ -218,11 +221,11 @@
       <jump line="42" column="99" filename="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/MXEnrollmentController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>https://int-live.moneydesktop.com</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>https://int-live.moneydesktop.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -231,31 +234,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8xMy8xNi4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8xMy8xNi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBBdXRobnpDbGllbnRTZXR0aW5ncyBzZXR0aW5ncyA9IG5ldyBBdXRobnpDbGllbnRTZXR0aW5ncygKICAgICAgICAgICAgICAgIGF1dGhuelVybCwKICAgICAgICAgICAgICAgIGF1dGhuekNsaWVudElkLAogICAgICAgICAgICAgICAgYXV0aG56Q2xpZW50U2VjcmV0LAogICAgICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgICAgIGF1dGhuekNsaWVudENvbm5lY3RUaW1lb3V0LAogICAgICAgICAgICAgICAgYXV0aG56Q2xpZW50UmVhZFRpbWVvdXQpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
