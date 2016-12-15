@@ -19,9 +19,6 @@
       <file name="/a.dummy" timestamp="1481639969907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/application.properties" timestamp="1481644160903">
-        <mark key="[" line="314" column="33" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/bankstatements-connection/build.gradle" timestamp="1481728018955">
         <mark key="[" line="4" column="59" />
         <mark key="]" line="4" column="59" />
@@ -42,6 +39,7 @@
         <mark key="]" line="202" column="0" />
         <mark key="." line="202" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/LoanService.java" timestamp="1481817520294" />
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/subdivision/SubDivision.java" timestamp="1481302778485">
         <mark key="[" line="255" column="64" />
         <mark key="]" line="256" column="0" />
@@ -79,17 +77,22 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/mapper/PPSAs.scala" timestamp="1481753932456" />
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/test/FakeConnectData.java" timestamp="1481813648821">
-        <mark key="[" line="940" column="38" />
-        <mark key="]" line="943" column="43" />
-        <mark key="." line="943" column="43" />
-        <mark key="^" line="943" column="43" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/summary/LoanSummary.java" timestamp="1481817902693">
+        <mark key="[" line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/test/FakeConnectData.java" timestamp="1481814502741">
+        <mark key="[" line="941" column="38" />
+        <mark key="]" line="912" column="64" />
+        <mark key="." line="912" column="64" />
+        <mark key="^" line="912" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1481229002924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1481751975593">
-        <mark key="[" line="2035" column="90" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" timestamp="1481814440422">
+        <mark key="[" line="2036" column="0" />
+        <mark key="]" line="2036" column="0" />
+        <mark key="." line="2036" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/dev01.yml" timestamp="1481321241766">
         <mark key="[" line="26" column="28" />
@@ -104,10 +107,10 @@
         <mark key="^" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_524_add_ppsa.sql" timestamp="1481753183259" />
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1481639523979">
-        <mark key="[" line="604" column="55" />
-        <mark key="]" line="606" column="0" />
-        <mark key="." line="606" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/business/ApplicationStateManagerTest.java" timestamp="1481817496313">
+        <mark key="[" line="813" column="2" />
+        <mark key="]" line="815" column="0" />
+        <mark key="." line="815" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/config/DB.scala" timestamp="1481751757509">
         <mark key="[" line="66" column="72" />
@@ -146,6 +149,15 @@
         <mark key="[" line="84" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/model/src/main/java/com/ondeck/alpaca/model/enums/State.java" timestamp="1481810845503" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/scala/com/ondeck/alpaca/ws/connect/Scala/converter/ppsa/ESCPPSAResponseConverterSpec.scala" timestamp="1481814618229">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1481817312870">
+        <mark key="[" line="143" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/config/EnrollmentServiceConfig.java" timestamp="1481745439290">
         <mark key="[" line="18" column="12" />
       </file>
@@ -256,8 +268,8 @@
       <jump line="42" column="99" filename="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/MXEnrollmentController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Country.CA</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0yMjY0XSBhZGQgRlVORElORyBBcHBsaWNhdGlvblN0YXRlCg==</text>
       </register>
       <register name="-" type="4">
         <text>Country.CA</text>
@@ -269,31 +281,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBzY2FsYXN0eWxlOm9mZgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0yMjY0XSBhZGQgRlVORElORyBBcHBsaWNhdGlvblN0YXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyI+Pj4+Pj4+Pj4+Pj4+Pj4gSU5QVVQuUFJPVklOQ0UgJHtpbnB1dC5nZXRQcm92aW5jZX0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+      <register name="3" type="4">
+        <text encoding="base64">PDw8PDw8PCBlZDhlYzlkOTc0YTYxY2NmNDdkY2JlZmVlZDVjZWFkOWYxZDAzZTVmCiAgcHJpdmF0ZSBEZWNpc2lvbiBidWlsZERlY2lzaW9uKERlY2lzaW9uU3RhdHVzIGRlY2lzaW9uU3RhdHVzLCBEZWNpc2lvbkVsaWdpYmlsaXR5IGRlY2lzaW9uRWxpZ2liaWxpdHksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9mZmVyLi4uIG9mZmVycykgewo9PT09PT09</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyI+Pj4+Pj4+Pj4+Pj4+Pj4gQUREUkVTUy5TVEFURSAke2Euc3RhdGV9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0geWllbGQgU3RhdGUuZnJvbShhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYSA8LSBPcHRpb24oaW5wdXQuZ2V0UHJvdmluY2UpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PDw8PDw8PCBlZDhlYzlkOTc0YTYxY2NmNDdkY2JlZmVlZDVjZWFkOWYxZDAzZTVmCj09PT09PT0KaW1wb3J0IGphdmEudXRpbC5BcnJheXM7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5TZXQ7CgppbXBvcnQgb3JnLmpvZGEudGltZS5EYXRlVGltZTsKaW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7CmltcG9ydCBvcmcuanVuaXQuUnVsZTsKaW1wb3J0IG9yZy5qdW5pdC5UZXN0OwppbXBvcnQgb3JnLmp1bml0LnJ1bGVzLkV4cGVjdGVkRXhjZXB0aW9uOwppbXBvcnQgb3JnLm1vY2tpdG8uSW5PcmRlcjsKaW1wb3J0IG9yZy5tb2NraXRvLkluamVjdE1vY2tzOwppbXBvcnQgb3JnLm1vY2tpdG8uTW9jazsKaW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87CmltcG9ydCBvcmcubW9ja2l0by5Nb2NraXRvQW5ub3RhdGlvbnM7CgppbXBvcnQgY29tLmdvb2dsZS5jb21tb24uY29sbGVjdC5JbW11dGFibGVMaXN0Owo+Pj4+Pj4+IFtQRFRTLTIyNjRdIGFkZCBGVU5ESU5HIEFwcGxpY2F0aW9uU3RhdGU=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0ZSA9IGZvciB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbihpbnB1dC5nZXRQcm92aW5jZSkubWFwKFN0YXRlLmZyb20pCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PDw8PDw8PCBlZDhlYzlkOTc0YTYxY2NmNDdkY2JlZmVlZDVjZWFkOWYxZDAzZTVmCj09PT09PT0KaW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwppbXBvcnQgamF2YS51dGlsLkNvbGxlY3Rpb25zOwppbXBvcnQgamF2YS51dGlsLkhhc2hTZXQ7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5TZXQ7CgppbXBvcnQgb3JnLmFwYWNoZS5jb21tb25zLmNvbGxlY3Rpb25zLkNvbGxlY3Rpb25VdGlsczsKaW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5Cb29sZWFuVXRpbHM7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuU2VydmljZTsKCmltcG9ydCBjb20uZ29vZ2xlLmNvbW1vbi5iYXNlLlByZWRpY2F0ZTsKaW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuQ29sbGVjdGlvbnMyOwo+Pj4+Pj4+IFtQRFRTLTIyNjRdIGFkZCBGVU5ESU5HIEFwcGxpY2F0aW9uU3RhdGU=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">T3B0aW9uKGlucHV0LmdldFByb3ZpbmNlKS5zYWZlTWFwKHByb3ZpbmNlID0+IHsKICAgICAgICAgICAgICB2YWwgcmVzID0gU3RhdGUuZnJvbShwcm92aW5jZSkKICAgICAgICAgICAgICBwcmludGxuKHMiPj4+Pj4+Pj4+Pj4+Pj4+IElOUFVULlBST1ZJTkNFICRyZXMiKQogICAgICAgICAgICAgIHJlcwogICAgICAgICAgICB9KQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0yMjY0XSBhZGQgRlVORElORyBBcHBsaWNhdGlvblN0YXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
