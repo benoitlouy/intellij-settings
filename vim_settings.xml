@@ -107,10 +107,10 @@
         <mark key="^" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/sql/alpaca_ddl_524_add_ppsa.sql" timestamp="1481753183259" />
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/business/ApplicationStateManagerTest.java" timestamp="1481817496313">
-        <mark key="[" line="813" column="2" />
-        <mark key="]" line="815" column="0" />
-        <mark key="." line="815" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/business/ApplicationStateManagerTest.java" timestamp="1481818346650">
+        <mark key="[" line="782" column="49" />
+        <mark key="]" line="782" column="49" />
+        <mark key="." line="782" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/config/DB.scala" timestamp="1481751757509">
         <mark key="[" line="66" column="72" />
@@ -155,8 +155,10 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1481817312870">
-        <mark key="[" line="143" column="14" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1481818377657">
+        <mark key="[" line="140" column="11" />
+        <mark key="]" line="140" column="11" />
+        <mark key="." line="140" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/config/EnrollmentServiceConfig.java" timestamp="1481745439290">
         <mark key="[" line="18" column="12" />
@@ -268,11 +270,11 @@
       <jump line="42" column="99" filename="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/MXEnrollmentController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0yMjY0XSBhZGQgRlVORElORyBBcHBsaWNhdGlvblN0YXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>ADVANCED_FUND_STATE</text>
       </register>
       <register name="-" type="4">
-        <text>Country.CA</text>
+        <text>ADVANCED_FUND_STATE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -281,31 +283,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0yMjY0XSBhZGQgRlVORElORyBBcHBsaWNhdGlvblN0YXRlCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PDw8PDw8PCBlZDhlYzlkOTc0YTYxY2NmNDdkY2JlZmVlZDVjZWFkOWYxZDAzZTVmCiAgcHJpdmF0ZSBEZWNpc2lvbiBidWlsZERlY2lzaW9uKERlY2lzaW9uU3RhdHVzIGRlY2lzaW9uU3RhdHVzLCBEZWNpc2lvbkVsaWdpYmlsaXR5IGRlY2lzaW9uRWxpZ2liaWxpdHksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9mZmVyLi4uIG9mZmVycykgewo9PT09PT09</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIFRyYW5zYWN0aW9uIHRyeCA9IG5ldyBUcmFuc2FjdGlvbigpOwogICAgdHJ4LnR5cGUgPSAiQWR2YW5jZSI7CiAgICBUcmFuc2FjdGlvbkhpc3RvcnlSZXNwb25zZSB0cmFuc2FjdGlvbkhpc3RvcnlSZXNwb25zZSA9IG5ldyBUcmFuc2FjdGlvbkhpc3RvcnlSZXNwb25zZSgpOwogICAgdHJhbnNhY3Rpb25IaXN0b3J5UmVzcG9uc2UudHJhbnNhY3Rpb25IaXN0b3J5ID0gbmV3IFRyYW5zYWN0aW9uSGlzdG9yeSgpOwogICAgdHJhbnNhY3Rpb25IaXN0b3J5UmVzcG9uc2UudHJhbnNhY3Rpb25IaXN0b3J5LnRyYW5zYWN0aW9ucyA9IEltbXV0YWJsZUxpc3Qub2YodHJ4KTsKICAgIHdoZW4obG9hblNlcnZpY2UuZ2V0VHJhbnNhY3Rpb25IaXN0b3J5KG1lcmNoYW50VXNlciwgbG9hbklkLCBudWxsKSkudGhlblJldHVybih0cmFuc2FjdGlvbkhpc3RvcnlSZXNwb25zZSk7</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdoZW4obG9hblNlcnZpY2UuZ2V0VHJhbnNhY3Rpb25IaXN0b3J5KG1lcmNoYW50VXNlciwgbG9hbklkLCBudWxsKSkudGhlblJldHVybih0cmFuc2FjdGlvbkhpc3RvcnlSZXNwb25zZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uSGlzdG9yeVJlc3BvbnNlLnRyYW5zYWN0aW9uSGlzdG9yeS50cmFuc2FjdGlvbnMgPSBJbW11dGFibGVMaXN0Lm9mKHRyeDEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uSGlzdG9yeVJlc3BvbnNlLnRyYW5zYWN0aW9uSGlzdG9yeSA9IG5ldyBUcmFuc2FjdGlvbkhpc3RvcnkoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PDw8PDw8PCBlZDhlYzlkOTc0YTYxY2NmNDdkY2JlZmVlZDVjZWFkOWYxZDAzZTVmCj09PT09PT0KaW1wb3J0IGphdmEudXRpbC5BcnJheXM7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5TZXQ7CgppbXBvcnQgb3JnLmpvZGEudGltZS5EYXRlVGltZTsKaW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7CmltcG9ydCBvcmcuanVuaXQuUnVsZTsKaW1wb3J0IG9yZy5qdW5pdC5UZXN0OwppbXBvcnQgb3JnLmp1bml0LnJ1bGVzLkV4cGVjdGVkRXhjZXB0aW9uOwppbXBvcnQgb3JnLm1vY2tpdG8uSW5PcmRlcjsKaW1wb3J0IG9yZy5tb2NraXRvLkluamVjdE1vY2tzOwppbXBvcnQgb3JnLm1vY2tpdG8uTW9jazsKaW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87CmltcG9ydCBvcmcubW9ja2l0by5Nb2NraXRvQW5ub3RhdGlvbnM7CgppbXBvcnQgY29tLmdvb2dsZS5jb21tb24uY29sbGVjdC5JbW11dGFibGVMaXN0Owo+Pj4+Pj4+IFtQRFRTLTIyNjRdIGFkZCBGVU5ESU5HIEFwcGxpY2F0aW9uU3RhdGU=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFRyYW5zYWN0aW9uSGlzdG9yeVJlc3BvbnNlIHRyYW5zYWN0aW9uSGlzdG9yeVJlc3BvbnNlID0gbmV3IFRyYW5zYWN0aW9uSGlzdG9yeVJlc3BvbnNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeDEudHlwZSA9ICJPdGhlciI7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PDw8PDw8PCBlZDhlYzlkOTc0YTYxY2NmNDdkY2JlZmVlZDVjZWFkOWYxZDAzZTVmCj09PT09PT0KaW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwppbXBvcnQgamF2YS51dGlsLkNvbGxlY3Rpb25zOwppbXBvcnQgamF2YS51dGlsLkhhc2hTZXQ7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5TZXQ7CgppbXBvcnQgb3JnLmFwYWNoZS5jb21tb25zLmNvbGxlY3Rpb25zLkNvbGxlY3Rpb25VdGlsczsKaW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5Cb29sZWFuVXRpbHM7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuU2VydmljZTsKCmltcG9ydCBjb20uZ29vZ2xlLmNvbW1vbi5iYXNlLlByZWRpY2F0ZTsKaW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuQ29sbGVjdGlvbnMyOwo+Pj4+Pj4+IFtQRFRTLTIyNjRdIGFkZCBGVU5ESU5HIEFwcGxpY2F0aW9uU3RhdGU=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFRyYW5zYWN0aW9uIHRyeDEgPSBuZXcgVHJhbnNhY3Rpb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0yMjY0XSBhZGQgRlVORElORyBBcHBsaWNhdGlvblN0YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
