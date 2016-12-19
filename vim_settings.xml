@@ -30,10 +30,20 @@
         <mark key="]" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/JsonSerializers.java" timestamp="1482168181750">
+        <mark key="[" line="115" column="47" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/ConnectFlows.java" timestamp="1481900387400">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/integrationTest/com/ondeck/mobileapi/ApplicationStateIntegrationTest.java" timestamp="1482167932839">
+        <mark key="[" line="124" column="57" />
+        <mark key="]" line="124" column="57" />
+        <mark key="." line="124" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/aus/AustraliaFlowUnitTest.java" timestamp="1481902053652">
         <mark key="[" line="208" column="0" />
@@ -116,14 +126,20 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/build.sbt" timestamp="1482165187427">
+        <mark key="[" line="78" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/JsonUtils.java" timestamp="1482164975018">
+        <mark key="'" line="54" column="4" />
+        <mark key="[" line="62" column="115" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/config/DB.scala" timestamp="1481751757509">
         <mark key="[" line="66" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/models/ApplicationState.java" timestamp="1482161456775">
-        <mark key="[" line="67" column="19" />
-        <mark key="]" line="67" column="38" />
-        <mark key="." line="67" column="38" />
-        <mark key="^" line="67" column="38" />
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/models/ApplicationState.java" timestamp="1482167315989">
+        <mark key="[" line="69" column="37" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/roles/app/templates/override.properties.j2" timestamp="1481644098714">
         <mark key="[" line="188" column="14" />
@@ -140,8 +156,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/Views.java" timestamp="1482161234939">
-        <mark key="[" line="82" column="30" />
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/Views.java" timestamp="1482166482744">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-mock-server/src/main/java/com/odc/enrollment/mockserver/MockEnrollmentConfiguration.java" timestamp="1481036270199">
         <mark key="[" line="84" column="53" />
@@ -309,8 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="29" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/tradinghistory/veda/VedaTradingHistoryRunnableTest.java" />
-      <jump line="38" column="51" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/core/fetch/AsyncTaskHandlerUnitTest.java" />
       <jump line="45" column="27" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/unit/java/com/odc/connect/core/fetch/AsyncReportFetcherUnitTest.java" />
       <jump line="45" column="48" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/fetch/AsyncReportFetcher.java" />
       <jump line="10" column="21" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/fetch/AsyncReportFetcherTaskFactory.java" />
@@ -409,14 +425,15 @@
       <jump line="39" column="85" filename="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/dao/PPSADao.scala" />
       <jump line="38" column="3" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagementTest.java" />
       <jump line="42" column="99" filename="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/MXEnrollmentController.java" />
+      <jump line="55" column="119" filename="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/JsonUtils.java" />
+      <jump line="46" column="4" filename="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/JsonUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Views.Post.Login.V6.class, Views.Post.Login.V7.class, Views.Post.Login.V8.class,
-                Views.Get.ApplicationState.V1.class,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>VERIFICATION</text>
+        <text>AsVerification</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -424,33 +441,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Views.Post.Login.V6.class, Views.Post.Login.V7.class, Views.Post.Login.V8.class,
-                Views.Get.ApplicationState.V1.class,</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvblN0YXRlLlN0ZXAgZnVuZGVkU3RlcCA9IEFwcGxpY2F0aW9uU3RhdGUuU3RlcC5GVU5ERUQ7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBlbmFibGVkID0gcHJvdmlkZXIuZ2V0Q29uZmlnKCkuaXNFbmFibGVkKE1hcHBlckZlYXR1cmUuREVGQVVMVF9WSUVXX0lOQ0xVU0lPTik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdGVwIHN0ZXAgPSBTdGVwLmZyb21TdHJpbmcoIkZVTkRFRCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNlcmlhbGl6YXRpb24oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVmlld3MuR2V0LkFwcGxpY2F0aW9uU3RhdGUuVjEuY2xhc3MsIFZpZXdzLlBvc3QuTG9naW4uVjkuY2xhc3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEltbXV0YWJsZVNldC5vZihWaWV3cy5Qb3N0LkxvZ2luLlY2LmNsYXNzLCBWaWV3cy5Qb3N0LkxvZ2luLlY3LmNsYXNzLCBWaWV3cy5Qb3N0LkxvZ2luLlY4LmNsYXNzLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTZXQ8Q2xhc3M8Pz4+IFZJRVdTX1dJVEhPVVRfRlVOREVEID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBWRVJJRklDQVRJT047Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
