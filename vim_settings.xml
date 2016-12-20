@@ -48,12 +48,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/test/com/ondeck/mobileapi/json/JsonUtilsTest.java" timestamp="1482186169107">
-        <mark key="[" line="224" column="45" />
-        <mark key="]" line="224" column="45" />
-        <mark key="." line="224" column="45" />
-        <mark key="^" line="224" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481642098285">
         <mark key="[" line="35" column="115" />
         <mark key="]" line="37" column="0" />
@@ -114,10 +108,15 @@
         <mark key="]" line="70" column="72" />
         <mark key="." line="70" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/guice/providers/ObjectMapperProvider.java" timestamp="1482246089045">
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/guice/providers/ObjectMapperProvider.java" timestamp="1482247785144">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/github/playframework/framework/src/play/src/test/java/play/mvc/StatusHeaderTest.java" timestamp="1482248505736">
+        <mark key="[" line="22" column="63" />
+        <mark key="]" line="22" column="63" />
+        <mark key="." line="22" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/validation.properties" timestamp="1482182908520" />
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.3-sources.jar!/play/mvc/StatusHeader.java" timestamp="1482244283479" />
@@ -207,6 +206,7 @@
         <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.7.1-sources.jar!/com/fasterxml/jackson/databind/deser/std/StdScalarDeserializer.java" timestamp="1482181017606" />
+      <file name="$USER_HOME$/Projects/github/playframework/framework/src/play/src/test/java/play/mvc/ResultsTest.java" timestamp="1482247953677" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/AbstractSpecializedFlowUnitTest.java" timestamp="1481840829784">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
@@ -526,11 +526,11 @@
       <jump line="31" column="116" filename="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/CustomObjectMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Mockito.RETURNS_DEEP_STUBS</text>
       </register>
       <register name="-" type="4">
-        <text>new JsonFactory(</text>
+        <text>Mockito.RETURNS_DEEP_STUBS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -539,31 +539,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gTW9ja2l0by5tb2NrKE9iamVjdE1hcHBlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4gTUFQUEVSMiAiICsgSnNvbi5tYXBwZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4gTUFQUEVSMSAiICsgbWFwcGVyKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4gTUFQUEVSMSAiICsgbWFwcGVyKTsK</text>
+        <text encoding="base64">ICAgIEBCZWZvcmVDbGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PiBNQVBQRVIzICIgKyBKc29uLm1hcHBlcigpKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8yMC8xNi4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG1hcHBlciA9IEpzb24ubWFwcGVyKCk7CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBCeXRlU3RyaW5nQnVpbGRlciBidWlsZGVyID0gQnl0ZVN0cmluZyQuTU9EVUxFJC5uZXdCdWlsZGVyKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIEpzb25HZW5lcmF0b3IgZ2VuID0gbmV3IEpzb25GYWN0b3J5KG1hcHBlcikuY3JlYXRlR2VuZXJhdG9yKG5ldyBPdXRwdXRTdHJlYW1Xcml0ZXIoYnVpbGRlci5hc091dHB1dFN0cmVhbSgpLCAidXRmLTgiKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1hcHBlci53cml0ZVZhbHVlKGdlbiwgcmVzcG9uc2VCb2R5KTsKICAgICAgICAgICAgICAgICAgICAgICAgQnl0ZVN0cmluZyByZXN1bHQgPSBidWlsZGVyLnJlc3VsdCgpOwogICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IFN0cmluZyhyZXN1bHQudG9BcnJheSgpKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgQnl0ZVN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IEJ5dGVTdHJpbmckLk1PRFVMRSQubmV3QnVpbGRlcigpOwogICAgICAgICAgICAgICAgICAgICAgICBKc29uR2VuZXJhdG9yIGdlbiA9IG1hcHBlci5nZXRGYWN0b3J5KCkuY3JlYXRlR2VuZXJhdG9yKG5ldyBPdXRwdXRTdHJlYW1Xcml0ZXIoYnVpbGRlci5hc091dHB1dFN0cmVhbSgpLCAidXRmLTgiKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1hcHBlci53cml0ZVZhbHVlKGdlbiwgcmVzcG9uc2VCb2R5KTsKICAgICAgICAgICAgICAgICAgICAgICAgQnl0ZVN0cmluZyByZXN1bHQgPSBidWlsZGVyLnJlc3VsdCgpOwogICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IFN0cmluZyhyZXN1bHQudG9BcnJheSgpKSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbi5tYXBwZXIoKS53cml0ZVZhbHVlQXNTdHJpbmcocmVzcG9uc2VCb2R5KSk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlc3VsdCBvayhyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4gTUFQUEVSMiAiICsgSnNvbi5tYXBwZXIoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
