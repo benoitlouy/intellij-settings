@@ -27,13 +27,20 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/versioning/EndpointVersionValidator.java" timestamp="1482273676114">
+        <mark key="[" line="71" column="59" />
+        <mark key="]" line="71" column="59" />
+        <mark key="." line="71" column="59" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/test/com/ondeck/mobileapi/models/ApplicationStateTest.java" timestamp="1482171523170">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/controllers/BusinessController.java" timestamp="1482246298723">
-        <mark key="[" line="225" column="30" />
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/controllers/BusinessController.java" timestamp="1482273534181">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/template.conf" timestamp="1482178599846">
         <mark key="[" line="44" column="0" />
@@ -48,6 +55,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/routes" timestamp="1482273296496" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481642098285">
         <mark key="[" line="35" column="115" />
         <mark key="]" line="37" column="0" />
@@ -515,11 +523,11 @@
       <jump line="31" column="116" filename="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/CustomObjectMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>: &quot; + requestEndpointVersion</text>
       </register>
       <register name="-" type="4">
-        <text>apply</text>
+        <text>: &quot; + requestEndpointVersion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -528,31 +536,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0cud2FybihlcnJvclJlc3BvbnNlLm1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8yMC8xNi4K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8yMC8xNi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0KCkK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0KCkK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBYU1NGaWx0ZXIoKSB7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIEBJbmplY3QKICAgIHB1YmxpYyBYU1NGaWx0ZXIoTWF0ZXJpYWxpemVyIG1hdCkgewogICAgICAgIHN1cGVyKG1hdCk7CiAgICB9CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIENvbXBsZXRpb25TdGFnZTxSZXN1bHQ+IGFwcGx5KEZ1bmN0aW9uPEh0dHAuUmVxdWVzdEhlYWRlciwgQ29tcGxldGlvblN0YWdlPFJlc3VsdD4+IG5leHQsCiAgICAgICAgICAgIEh0dHAuUmVxdWVzdEhlYWRlciByaCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
