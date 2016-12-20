@@ -148,10 +148,10 @@
         <mark key="]" line="70" column="72" />
         <mark key="." line="70" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/guice/providers/ObjectMapperProvider.java" timestamp="1482186390751">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/guice/providers/ObjectMapperProvider.java" timestamp="1482242967158">
+        <mark key="[" line="25" column="62" />
+        <mark key="]" line="25" column="62" />
+        <mark key="." line="25" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-client/src/integrationTest/java/com/odc/enrollment/client/MXEnrollmentClientIntegrationTest.java" timestamp="1481036203563">
         <mark key="[" line="28" column="0" />
@@ -159,6 +159,7 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/validation.properties" timestamp="1482182908520" />
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.3-sources.jar!/play/mvc/StatusHeader.java" timestamp="1482243337972" />
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/Views.java" timestamp="1482171539715">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -177,10 +178,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/config/EnrollmentServiceConfig.java" timestamp="1481745439290">
         <mark key="[" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/modules/DependencyInjectionModule.java" timestamp="1482178663532">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/modules/DependencyInjectionModule.java" timestamp="1482242736407">
+        <mark key="[" line="79" column="84" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/bankstatements-connection/build.gradle" timestamp="1481728018955">
         <mark key="[" line="4" column="59" />
@@ -262,6 +263,12 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/controllers/LoginController.java" timestamp="1482243638175">
+        <mark key="[" line="86" column="20" />
+        <mark key="]" line="86" column="20" />
+        <mark key="." line="86" column="20" />
+        <mark key="^" line="86" column="19" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.7.1-sources.jar!/com/fasterxml/jackson/databind/deser/std/StdScalarDeserializer.java" timestamp="1482181017606" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/predicate/IsFAPSalesChannelUnitTest.java" timestamp="1481836960891">
@@ -391,11 +398,11 @@
       <jump line="31" column="116" filename="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/CustomObjectMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuZ2V0RmFjdG9yeSgpLmNvbmZpZ3VyZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>sou</text>
       </register>
       <register name="-" type="4">
-        <text>jsonNode</text>
+        <text>sou</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -404,31 +411,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuZ2V0RmFjdG9yeSgpLmNvbmZpZ3VyZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ5dGVTdHJpbmdCdWlsZGVyIGJ1aWxkZXIgPSBCeXRlU3RyaW5nJC5NT0RVTEUkLm5ld0J1aWxkZXIoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1vZHVsZSA9IG1vZHVsZS5hZGREZXNlcmlhbGl6ZXIoU3RyaW5nLmNsYXNzLCBuZXcgSnNvbkRlc2VyaWFsaXplcnMuWFNTU2FmZVN0cmluZ0Rlc2VyaWFsaXplcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uVXRpbHMudG9TdHJpbmcocmVzcG9uc2VCb2R5KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1vZHVsZSA9IG1vZHVsZS5hZGRTZXJpYWxpemVyKFN0cmluZy5jbGFzcywgbmV3IEpzb25TZXJpYWxpemVycy5YU1NTYWZlU3RyaW5nU2VyaWFsaXplcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIucmVnaXN0ZXJNb2R1bGUobW9kdWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICBtYXBwZXIuZ2V0RmFjdG9yeSgpLmNvbmZpZ3VyZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1vZHVsZSA9IG1vZHVsZS5hZGREZXNlcmlhbGl6ZXIoU3RyaW5nLmNsYXNzLCBuZXcgSnNvbkRlc2VyaWFsaXplcnMuWFNTU2FmZVN0cmluZ0Rlc2VyaWFsaXplcigpKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVNb2R1bGUgbW9kdWxlID0gbmV3IFNpbXBsZU1vZHVsZSgiWFNTU2FmZU1vZHVsZSIsIFZlcnNpb24udW5rbm93blZlcnNpb24oKSkKICAgICAgICAgICAgICAgIC5hZGRTZXJpYWxpemVyKFN0cmluZy5jbGFzcywgbmV3IEpzb25TZXJpYWxpemVycy5YU1NTYWZlU3RyaW5nU2VyaWFsaXplcigpKQogICAgICAgICAgICAgICAgLmFkZERlc2VyaWFsaXplcihTdHJpbmcuY2xhc3MsIG5ldyBKc29uRGVzZXJpYWxpemVycy5YU1NTYWZlU3RyaW5nRGVzZXJpYWxpemVyKCkpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1vZHVsZSA9IG1vZHVsZS5hZGRTZXJpYWxpemVyKFN0cmluZy5jbGFzcywgbmV3IEpzb25TZXJpYWxpemVycy5YU1NTYWZlU3RyaW5nU2VyaWFsaXplcigpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXBwZXIucmVnaXN0ZXJNb2R1bGUobW9kdWxlKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBTaW1wbGVNb2R1bGUgbW9kdWxlID0gbmV3IFNpbXBsZU1vZHVsZSgiWFNTU2FmZU1vZHVsZSIsIFZlcnNpb24udW5rbm93blZlcnNpb24oKSkKICAgICAgICAgICAgICAgIC5hZGRTZXJpYWxpemVyKFN0cmluZy5jbGFzcywgbmV3IEpzb25TZXJpYWxpemVycy5YU1NTYWZlU3RyaW5nU2VyaWFsaXplcigpKQogICAgICAgICAgICAgICAgLmFkZERlc2VyaWFsaXplcihTdHJpbmcuY2xhc3MsIG5ldyBKc29uRGVzZXJpYWxpemVycy5YU1NTYWZlU3RyaW5nRGVzZXJpYWxpemVyKCkpOw==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
