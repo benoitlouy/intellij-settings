@@ -48,6 +48,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/test/com/ondeck/mobileapi/json/JsonUtilsTest.java" timestamp="1482186169107">
+        <mark key="[" line="224" column="45" />
+        <mark key="]" line="224" column="45" />
+        <mark key="." line="224" column="45" />
+        <mark key="^" line="224" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481642098285">
         <mark key="[" line="35" column="115" />
         <mark key="]" line="37" column="0" />
@@ -130,6 +136,12 @@
         <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/application.conf" timestamp="1482173781277" />
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/XSSFilter.java" timestamp="1482262592256">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/scoring/tradinghistory/business/VedaBrokerBusinessTradingHistoryScoringFlowIntegrationTest.java" timestamp="1481838313419">
         <mark key="[" line="42" column="19" />
         <mark key="]" line="42" column="19" />
@@ -522,10 +534,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Mockito.RETURNS_DEEP_STUBS</text>
+        <text>apply</text>
       </register>
       <register name="-" type="4">
-        <text>Mockito.RETURNS_DEEP_STUBS</text>
+        <text>apply</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -534,31 +546,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gTW9ja2l0by5tb2NrKE9iamVjdE1hcHBlci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBYU1NGaWx0ZXIoKSB7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIHB1YmxpYyBYU1NGaWx0ZXIoTWF0ZXJpYWxpemVyIG1hdCkgewogICAgICAgIHN1cGVyKG1hdCk7CiAgICB9CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIENvbXBsZXRpb25TdGFnZTxSZXN1bHQ+IGFwcGx5KEZ1bmN0aW9uPEh0dHAuUmVxdWVzdEhlYWRlciwgQ29tcGxldGlvblN0YWdlPFJlc3VsdD4+IG5leHQsCiAgICAgICAgICAgIEh0dHAuUmVxdWVzdEhlYWRlciByaCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmVDbGFzcwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8yMC8xNi4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gTW9ja2l0by5tb2NrKE9iamVjdE1hcHBlci5jbGFzcyk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4gTUFQUEVSMiAiICsgSnNvbi5tYXBwZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
