@@ -48,12 +48,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/test/com/ondeck/mobileapi/json/JsonUtilsTest.java" timestamp="1482186169107">
-        <mark key="[" line="224" column="45" />
-        <mark key="]" line="224" column="45" />
-        <mark key="." line="224" column="45" />
-        <mark key="^" line="224" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/enrollment/MXEnrollmentManagement.java" timestamp="1481642098285">
         <mark key="[" line="35" column="115" />
         <mark key="]" line="37" column="0" />
@@ -87,14 +81,8 @@
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/build.sbt" timestamp="1482176142955">
-        <mark key="[" line="91" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/JsonUtils.java" timestamp="1482186371626">
-        <mark key="'" line="66" column="4" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/build.sbt" timestamp="1482270885191">
+        <mark key="[" line="75" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/config/DB.scala" timestamp="1481751757509">
         <mark key="[" line="66" column="72" />
@@ -136,11 +124,11 @@
         <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/application.conf" timestamp="1482173781277" />
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/XSSFilter.java" timestamp="1482270738973">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/XSSFilter.java" timestamp="1482271479832">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="26" column="46" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/scoring/tradinghistory/business/VedaBrokerBusinessTradingHistoryScoringFlowIntegrationTest.java" timestamp="1481838313419">
         <mark key="[" line="42" column="19" />
@@ -291,12 +279,6 @@
         <mark key="[" line="12" column="3" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/CustomObjectMapper.java" timestamp="1482178296106">
-        <mark key="'" line="32" column="116" />
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/models/ApplicationState.java" timestamp="1482171535743">
         <mark key="[" line="66" column="0" />
@@ -534,7 +516,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
         <text>apply</text>
@@ -546,31 +528,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8yMC8xNi4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0KCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBYU1NGaWx0ZXIoKSB7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIHB1YmxpYyBYU1NGaWx0ZXIoTWF0ZXJpYWxpemVyIG1hdCkgewogICAgICAgIHN1cGVyKG1hdCk7CiAgICB9CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIENvbXBsZXRpb25TdGFnZTxSZXN1bHQ+IGFwcGx5KEZ1bmN0aW9uPEh0dHAuUmVxdWVzdEhlYWRlciwgQ29tcGxldGlvblN0YWdlPFJlc3VsdD4+IG5leHQsCiAgICAgICAgICAgIEh0dHAuUmVxdWVzdEhlYWRlciByaCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxMi8yMC8xNi4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBYU1NGaWx0ZXIoKSB7Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIHB1YmxpYyBYU1NGaWx0ZXIoTWF0ZXJpYWxpemVyIG1hdCkgewogICAgICAgIHN1cGVyKG1hdCk7CiAgICB9CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIENvbXBsZXRpb25TdGFnZTxSZXN1bHQ+IGFwcGx5KEZ1bmN0aW9uPEh0dHAuUmVxdWVzdEhlYWRlciwgQ29tcGxldGlvblN0YWdlPFJlc3VsdD4+IG5leHQsCiAgICAgICAgICAgIEh0dHAuUmVxdWVzdEhlYWRlciByaCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
