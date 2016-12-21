@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/group_vars/all.yml" timestamp="1481834577591">
-        <mark key="[" line="169" column="42" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/group_vars/all.yml" timestamp="1482346413619">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/controllers/UserController.java" timestamp="1482338752334">
         <mark key="[" line="81" column="126" />
@@ -55,7 +57,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/routes" timestamp="1482335023966" />
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/test/com/ondeck/mobileapi/json/JsonUtilsTest.java" timestamp="1482337007061">
         <mark key="[" line="223" column="19" />
         <mark key="]" line="223" column="19" />
@@ -130,8 +131,6 @@
         <mark key="]" line="15" column="25" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/validation.properties" timestamp="1482182908520" />
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.3-sources.jar!/play/mvc/StatusHeader.java" timestamp="1482244283479" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-mock-server/src/main/java/com/odc/enrollment/mockserver/MockEnrollmentConfiguration.java" timestamp="1481036270199">
         <mark key="[" line="84" column="53" />
       </file>
@@ -146,7 +145,6 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/application.conf" timestamp="1482173781277" />
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/XSSFilter.java" timestamp="1482271479832">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="19" column="0" />
@@ -240,14 +238,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.7.1-sources.jar!/com/fasterxml/jackson/databind/deser/std/StdScalarDeserializer.java" timestamp="1482181017606" />
-      <file name="$USER_HOME$/Projects/github/playframework/framework/src/play/src/test/java/play/mvc/ResultsTest.java" timestamp="1482247953677" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/AbstractSpecializedFlowUnitTest.java" timestamp="1481840829784">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.7.1-sources.jar!/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java" timestamp="1482181589665" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/enroll/MXEnrollmentRequestHandler.java" timestamp="1481035760142">
         <mark key="[" line="19" column="45" />
         <mark key="]" line="19" column="45" />
@@ -264,7 +259,6 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/srcs/jackson-core-2.7.1-sources.jar!/com/fasterxml/jackson/core/io/CharacterEscapes.java" timestamp="1482184994827" />
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/integrationTest/com/ondeck/mobileapi/ApplicationStateIntegrationTest.java" timestamp="1482170364378">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -303,7 +297,6 @@
         <mark key="." line="270" column="18" />
         <mark key="^" line="270" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/test/com/ondeck/mobileapi/controllers/ProductControllerTest.java" timestamp="1482182580462" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/VedaBusinessTradingHistoryConfig.java" timestamp="1481229064532">
         <mark key="[" line="78" column="3" />
         <mark key="]" line="37" column="0" />
@@ -343,7 +336,6 @@
         <mark key="]" line="77" column="2" />
         <mark key="." line="77" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/scripts/db/update_commitment_transactions.sql" timestamp="1482173591742" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/tradinghistory/indepth/VedaInDepthScoringFlow.java" timestamp="1481830295232">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="25" column="6" />
@@ -360,6 +352,11 @@
         <mark key="[" line="55" column="25" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/application.properties" timestamp="1482346438942">
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="331" column="0" />
+        <mark key="." line="331" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/usa/USAFlowUnitTest.java" timestamp="1481839596011">
         <mark key="[" line="524" column="4" />
@@ -378,7 +375,6 @@
         <mark key="^" line="279" column="16" />
         <mark key="." line="279" column="16" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.3-sources.jar!/play/mvc/Results.java" timestamp="1482245521835" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagement.java" timestamp="1481128257899">
         <mark key="[" line="201" column="3" />
         <mark key="]" line="202" column="0" />
@@ -440,11 +436,6 @@
         <mark key="[" line="48" column="50" />
         <mark key="]" line="48" column="50" />
         <mark key="." line="48" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1481918990741">
-        <mark key="[" line="79" column="6" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1482182159664">
         <mark key="[" line="0" column="0" />
@@ -563,8 +554,8 @@
       <jump line="31" column="116" filename="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/CustomObjectMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbUERUUy05NjddIGFkZCBzb21lIG1pc3NpbmcgY29uZmlndXJhdGlvbiBhbmQgYmVhbiBpbnN0YW50aWF0aW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -576,31 +567,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1zZyA9IFN0cmluZy5mb3JtYXQoKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBbUERUUy05NjddIGFkZCBzb21lIG1pc3NpbmcgY29uZmlndXJhdGlvbiBhbmQgYmVhbiBpbnN0YW50aWF0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1zZyA9IFN0cmluZy5mb3JtYXQoKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBlNDRhMWJhM2U1OWVjNTdlYWNiOWU5MmJiNGY1MmNhNzJjYTg5MWJmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCk7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1zZyA9IFN0cmluZy5mb3JtYXQoKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBbUERUUy05NjddIGFkZCBzb21lIG1pc3NpbmcgY29uZmlndXJhdGlvbiBhbmQgYmVhbiBpbnN0YW50aWF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1zZyA9IFN0cmluZy5mb3JtYXQoKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1zZyA9IFN0cmluZy5mb3JtYXQoIkNvdWxkIG5vdCBwYXJzZSBib2R5IGNvbnRlbnQgaW50byAlcyBvYmplY3QuIEJvZHkgY29udGVudD1cIiVzXCIiLCBCYW5rQWNjb3VudC5jbGFzcywgcmVxdWVzdCgpLmJvZHkoKS5hc1RleHQoKSk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBlNDRhMWJhM2U1OWVjNTdlYWNiOWU5MmJiNGY1MmNhNzJjYTg5MWJmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1zZyA9IFN0cmluZy5mb3JtYXQoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIFhTU1NhZmVTdHJpbmdTZXJpYWxpemVyIGV4dGVuZHMgU3RkU2VyaWFsaXplcjxTdHJpbmc+IHsKCiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgRW5jb2RlciBlbmNvZGVyID0gRVNBUEkuZW5jb2RlcigpOwogICAgICAgIHByaXZhdGUgZmluYWwgU3RyaW5nU2VyaWFsaXplciBkZWxlZ2F0ZSA9IG5ldyBTdHJpbmdTZXJpYWxpemVyKCk7CgogICAgICAgIHB1YmxpYyBYU1NTYWZlU3RyaW5nU2VyaWFsaXplcigpIHsKICAgICAgICAgICAgc3VwZXIoU3RyaW5nLmNsYXNzKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIHNlcmlhbGl6ZShTdHJpbmcgdmFsdWUsIEpzb25HZW5lcmF0b3IgZ2VuLCBTZXJpYWxpemVyUHJvdmlkZXIgcHJvdmlkZXIpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICAgIGlmICh2YWx1ZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBkZWxlZ2F0ZS5zZXJpYWxpemUodmFsdWUsIGdlbiwgcHJvdmlkZXIpOwogICAgICAgICAgICB9IGVsc2UgewoKICAgICAgICAgICAgICAgIGRlbGVnYXRlLnNlcmlhbGl6ZShlbmNvZGVyLmVuY29kZUZvckhUTUwodmFsdWUpLCBnZW4sIHByb3ZpZGVyKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1zZyA9IFN0cmluZy5mb3JtYXQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
