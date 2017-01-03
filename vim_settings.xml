@@ -219,8 +219,8 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/application.conf" timestamp="1483471546471">
-        <mark key="[" line="22" column="34" />
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/conf/application.conf" timestamp="1483474779537">
+        <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="31" />
         <mark key="." line="28" column="31" />
         <mark key="^" line="28" column="31" />
@@ -300,15 +300,17 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/integration/BankDataResourceTest.java" timestamp="1482875146113" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-client/src/main/java/com/odc/enrollment/client/MXEnrollmentClient.java" timestamp="1481036126722">
         <mark key="[" line="20" column="66" />
         <mark key="]" line="20" column="66" />
         <mark key="." line="20" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/contract/ContractManagement.java" timestamp="1483470690713">
-        <mark key="[" line="511" column="0" />
-        <mark key="]" line="511" column="0" />
-        <mark key="." line="511" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/contract/ContractManagement.java" timestamp="1483475775107">
+        <mark key="[" line="525" column="49" />
+        <mark key="]" line="511" column="72" />
+        <mark key="." line="511" column="72" />
+        <mark key="^" line="511" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1481839538057">
         <mark key="[" line="224" column="4" />
@@ -439,7 +441,7 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/integrationTest/com/ondeck/mobileapi/ApplicationStateIntegrationTest.java" timestamp="1483471591572">
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/integrationTest/com/ondeck/mobileapi/ApplicationStateIntegrationTest.java" timestamp="1483475590363">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
@@ -458,6 +460,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/mobileapi/integrationTest/com/ondeck/mobileapi/utils/IntegrationTestUtils.java" timestamp="1482874289797" />
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/bankstatements-connection/src/main/java/com/odc/vendor/connection/bankstatements/bankfeeds/RetrieveCustomerDataConnection.java" timestamp="1481729115310">
         <mark key="[" line="61" column="11" />
         <mark key="]" line="61" column="11" />
@@ -476,6 +479,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/application-default.properties" timestamp="1482937589808" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/business/VedaBusinessTradingHistoryFetcherTaskFactory.java" timestamp="1481229026800">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -736,7 +740,8 @@
         <mark key="^" line="11" column="54" />
         <mark key="." line="11" column="54" />
       </file>
-      <file name="/fragment.java" timestamp="1482937846426">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/business/ApplicationStateManager.java" timestamp="1483473323023" />
+      <file name="/fragment.java" timestamp="1483474850741">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/tradinghistory/business/VedaBusinessTradingHistoryScoringFlow.java" timestamp="1481837331134">
@@ -860,10 +865,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MDcxOGYxNzUtYjcxMS00MWQ4LThiYmQtOWJlNjc2NDhmMjY4&quot;</text>
+        <text>contract.isAlternativeFundingMethodsSupported();</text>
       </register>
       <register name="-" type="4">
-        <text>MDcxOGYxNzUtYjcxMS00MWQ4LThiYmQtOWJlNjc2NDhmMjY4&quot;</text>
+        <text>contract.isAlternativeFundingMethodsSupported();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
