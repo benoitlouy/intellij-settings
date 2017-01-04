@@ -106,7 +106,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/contract/ContractManagementTest.java" timestamp="1483546769156" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/contract/ContractManagementTest.java" timestamp="1483548823248">
+        <mark key="[" line="869" column="0" />
+        <mark key="]" line="869" column="0" />
+        <mark key="." line="869" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/config/ErrorHandler.java" timestamp="1482335493102">
         <mark key="[" line="25" column="94" />
         <mark key="]" line="27" column="0" />
@@ -132,11 +136,11 @@
         <mark key="]" line="20" column="66" />
         <mark key="." line="20" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/contract/ContractManagement.java" timestamp="1483543502877">
-        <mark key="[" line="516" column="74" />
-        <mark key="]" line="511" column="72" />
-        <mark key="." line="511" column="72" />
-        <mark key="^" line="511" column="72" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/contract/ContractManagement.java" timestamp="1483549272823">
+        <mark key="[" line="522" column="0" />
+        <mark key="]" line="522" column="0" />
+        <mark key="." line="522" column="0" />
+        <mark key="^" line="522" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/bankstatements/BankStatementsConfig.java" timestamp="1482422985252">
         <mark key="[" line="38" column="11" />
@@ -861,11 +865,11 @@
       <jump line="31" column="116" filename="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/CustomObjectMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getFundingBankAccount()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4gYiA9IGNvbnRyYWN0LmlzQWx0ZXJuYXRpdmVGdW5kaW5nTWV0aG9kc1N1cHBvcnRlZCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getFundingBankAccount()</text>
+        <text>contract.isAlternativeFundingMethodsSupported()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -874,31 +878,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gYiA9IGNvbnRyYWN0LmlzQWx0ZXJuYXRpdmVGdW5kaW5nTWV0aG9kc1N1cHBvcnRlZCgpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBwcml2YXRlIENvbnRyYWN0IGV2YWx1YXRlU2tpcEJhbmtFZGl0KExvbmcgdXNlcklkLCBDb250cmFjdCBjb250cmFjdCkgewogICAgaWYgKGNvbnRyYWN0ID09IG51bGwpIHsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgYm9vbGVhbiBpc0FkZGl0aW9uYWxGaW5hbmNpbmcgPSBwcm9kdWN0TWFuYWdlbWVudC5oYXNQcm9kdWN0cyh1c2VySWQpOwoKICAgIC8vIGZvciByZXBlYXQgY3VzdG9tZXIgd2UgZG9uJ3QgYWxsb3cgZnVuZGluZyBiYW5rIGFjY291bnQgdXBkYXRlIG90aGVyIHRoYW4gc2VsZWN0aW9uIG9mIGZ1bmRpbmcgbWV0aG9kCiAgICAvLyAtIG9ubHkgaWYgc3VjaCBzZWxlY3Rpb24gaXMgYWxzbyBhdmFpbGFibGUKICAgIC8vIHNvLCB3ZSBzaG91bGQgaW5kaWNhdGUgdG8gc2tpcCBiYW5rIGVkaXQgaWYgcmVwZWF0IGN1c3RvbWVyCiAgICBib29sZWFuIHNraXBCYW5rRWRpdEZvclJlcGVhdEN1c3RvbWVyID0gaXNBZGRpdGlvbmFsRmluYW5jaW5nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgIWNvbnRyYWN0LnJlcXVpcmVzQmFua0FjY291bnRJbmZvKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJiAhY29udHJhY3QuaXNBbHRlcm5hdGl2ZUZ1bmRpbmdNZXRob2RzU3VwcG9ydGVkKCk7CgogICAgY29udHJhY3Quc2V0U2tpcEJhbmtFZGl0KHNraXBCYW5rRWRpdEZvclJlcGVhdEN1c3RvbWVyKTsKICAgIHJldHVybiBjb250cmFjdDsKICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgYmFua0FjY291bnQuc2V0UGVuZGluZ0Z1bmRPcHRpb24odHJ1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBQQVJST1RfTE9HX0RJUkVDVE9SWTogL3Zhci9sb2cvcGFycm90LXNlcnZpY2UK</text>
+        <text encoding="base64">Ly8gICAgYmFua0FjY291bnQuc2V0UGVuZGluZ0Z1bmRPcHRpb24odHJ1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obm9kZSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwcml2YXRlIENvbnRyYWN0IGV2YWx1YXRlU2tpcEJhbmtFZGl0KExvbmcgdXNlcklkLCBDb250cmFjdCBjb250cmFjdCkgewogICAgaWYgKGNvbnRyYWN0ID09IG51bGwpIHsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgYm9vbGVhbiBpc0FkZGl0aW9uYWxGaW5hbmNpbmcgPSBwcm9kdWN0TWFuYWdlbWVudC5oYXNQcm9kdWN0cyh1c2VySWQpOwoKICAgIC8vIGZvciByZXBlYXQgY3VzdG9tZXIgd2UgZG9uJ3QgYWxsb3cgZnVuZGluZyBiYW5rIGFjY291bnQgdXBkYXRlIG90aGVyIHRoYW4gc2VsZWN0aW9uIG9mIGZ1bmRpbmcgbWV0aG9kCiAgICAvLyAtIG9ubHkgaWYgc3VjaCBzZWxlY3Rpb24gaXMgYWxzbyBhdmFpbGFibGUKICAgIC8vIHNvLCB3ZSBzaG91bGQgaW5kaWNhdGUgdG8gc2tpcCBiYW5rIGVkaXQgaWYgcmVwZWF0IGN1c3RvbWVyCiAgICBib29sZWFuIHNraXBCYW5rRWRpdEZvclJlcGVhdEN1c3RvbWVyID0gaXNBZGRpdGlvbmFsRmluYW5jaW5nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgIWNvbnRyYWN0LnJlcXVpcmVzQmFua0FjY291bnRJbmZvKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJiAhY29udHJhY3QuaXNBbHRlcm5hdGl2ZUZ1bmRpbmdNZXRob2RzU3VwcG9ydGVkKCk7CgogICAgY29udHJhY3Quc2V0U2tpcEJhbmtFZGl0KHNraXBCYW5rRWRpdEZvclJlcGVhdEN1c3RvbWVyKTsKICAgIHJldHVybiBjb250cmFjdDsKICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBQQVJST1RfTE9HX0RJUkVDVE9SWTogL3Zhci9sb2cvcGFycm90LXNlcnZpY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkocHJvcC5nZXRLZXkoKS50b1N0cmluZygpLCBPYmplY3RzLnRvU3RyaW5nKHByb3AuZ2V0VmFsdWUoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiIyMgT1ZFUlJJREUgIiArIHByb3AuZ2V0S2V5KCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
