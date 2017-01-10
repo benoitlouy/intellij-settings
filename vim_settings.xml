@@ -267,11 +267,11 @@
         <mark key="." line="522" column="0" />
         <mark key="^" line="522" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/ConnectService.java" timestamp="1484080279873">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/ConnectService.java" timestamp="1484086714684">
         <mark key="[" line="304" column="54" />
         <mark key="]" line="304" column="54" />
         <mark key="." line="304" column="54" />
-        <mark key="^" line="304" column="53" />
+        <mark key="^" line="304" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/bankstatements/BankStatementsConfig.java" timestamp="1482422985252">
         <mark key="[" line="38" column="11" />
@@ -757,10 +757,10 @@
         <mark key="[" line="42" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/service/ConnectServiceUnitTest.java" timestamp="1484076854920">
-        <mark key="[" line="90" column="81" />
-        <mark key="]" line="134" column="8" />
-        <mark key="." line="134" column="8" />
-        <mark key="^" line="88" column="7" />
+        <mark key="[" line="94" column="81" />
+        <mark key="]" line="138" column="8" />
+        <mark key="." line="138" column="8" />
+        <mark key="^" line="92" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/csc/CSCBusinessIDReportFetcher.java" timestamp="1483995151325">
         <mark key="[" line="68" column="88" />
@@ -1091,10 +1091,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/lienjudgment/lexisnexis/LexisNexisLienJudgmentCachingReportHandler.java" timestamp="1483995233339">
         <mark key="[" line="76" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryFetcherTaskFactoryUnitTest.java" timestamp="1483997867743">
-        <mark key="[" line="62" column="56" />
-        <mark key="]" line="56" column="8" />
-        <mark key="." line="56" column="8" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryFetcherTaskFactoryUnitTest.java" timestamp="1484087121004">
+        <mark key="[" line="67" column="56" />
+        <mark key="]" line="78" column="56" />
+        <mark key="." line="78" column="56" />
+        <mark key="^" line="78" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/java/com/ondeck/parrot/App.java" timestamp="1483040348644">
         <mark key="[" line="40" column="0" />
@@ -1541,11 +1542,11 @@
       <jump line="119" column="42" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/dunbradstreet/DunBradstreetBCRCachingReportHandlerIT.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9CQVNFX1VSTCA9ICJodHRwOi8vbG9jYWxob3N0OjE2MjE2L0Nvbm5lY3QvIjsK</text>
+      <register name="&quot;" type="4">
+        <text>Context.builder().wi</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V3JhcHBlciA=</text>
+        <text>Context.builder().wi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1581,7 +1582,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>646</text>
       </register>
     </registers>
     <search>
@@ -1615,7 +1616,6 @@
         <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>233</entry>
         <entry>661</entry>
         <entry>96</entry>
         <entry>29</entry>
@@ -1635,6 +1635,7 @@
         <entry>W</entry>
         <entry>w</entry>
         <entry>0</entry>
+        <entry>646</entry>
       </history-cmd>
       <history-expr />
       <history-input />
