@@ -198,10 +198,11 @@
         <mark key="]" line="20" column="66" />
         <mark key="." line="20" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/ConnectService.java" timestamp="1483984429506">
-        <mark key="[" line="633" column="63" />
-        <mark key="]" line="633" column="63" />
-        <mark key="." line="633" column="63" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/ConnectService.java" timestamp="1484059771723">
+        <mark key="[" line="766" column="68" />
+        <mark key="]" line="766" column="68" />
+        <mark key="." line="766" column="68" />
+        <mark key="^" line="823" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/controllers/TransactionController.java" timestamp="1482246662208">
         <mark key="[" line="46" column="30" />
@@ -727,10 +728,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchReportFetcherUnitTest.java" timestamp="1483997253719">
         <mark key="[" line="150" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/ContextProvider.java" timestamp="1484058004759">
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/ContextProvider.java" timestamp="1484059961277">
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+        <mark key="^" line="42" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/handlers/ErrorHandler.java" timestamp="1482336132422">
         <mark key="[" line="26" column="0" />
@@ -1010,11 +1012,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/veda/VedaOrgIdConfig.java" timestamp="1484058435295">
-        <mark key="[" line="167" column="18" />
-        <mark key="]" line="167" column="17" />
-        <mark key="." line="167" column="17" />
-        <mark key="^" line="167" column="17" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/veda/VedaOrgIdConfig.java" timestamp="1484060053913">
+        <mark key="[" line="188" column="8" />
+        <mark key="]" line="188" column="8" />
+        <mark key="." line="188" column="8" />
+        <mark key="^" line="187" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/github/playframework/framework/project/Dependencies.scala" timestamp="1483739702162">
         <mark key="[" line="122" column="82" />
@@ -1147,11 +1149,11 @@
       <jump line="119" column="42" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/dunbradstreet/DunBradstreetBCRCachingReportHandlerIT.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>Nullable</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1160,31 +1162,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuYWRhUFBTQUN0cmwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAkLmFwcGx5KGNvbS5vZGMuY29ubmVjdC5lbnVtdHlwZS5WZW5kb3IuVkVEQUJyb2tlciwgY29tLm9kYy5jb25uZWN0LmVudW10eXBlLlNlcnZpY2UuQnVzaW5lc3NJRCwgY29tLm9kYy5jb25uZWN0LmVudW10eXBlLkNvdW50cnkuQVVTKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIEBOdWxsYWJsZQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBJbW11dGFibGVNYXAuQnVpbGRlciA8IFR1cGxlMyA8IFZlbmRvciwgU2VydmljZSwgQ291bnRyeSA+LCBDb250ZXh0ID4gYnVpbGRlciA9IEltbXV0YWJsZU1hcC5idWlsZGVyKCk7CiAgICBmb3IgKFR1cGxlMjxUdXBsZTM8VmVuZG9yLCBTZXJ2aWNlLCBDb3VudHJ5PiwgQ29udGV4dD4gY29udGV4dDogY29udGV4dHMpCiAgICB7CiAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgQE51bGxhYmxlCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRoaXMudmVkYUJyb2tlck9yZ0lkQ29udGV4dCA9IHZlZGFCcm9rZXJPcmdJZENvbnRleHQ7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRoaXMudmVkYU9yZ0lkQ29udGV4dCA9IHZlZGFPcmdJZENvbnRleHQ7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1221,7 +1223,6 @@
         <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>360</entry>
         <entry>233</entry>
         <entry>661</entry>
         <entry>96</entry>
@@ -1241,6 +1242,7 @@
         <entry>160</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
