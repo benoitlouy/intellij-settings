@@ -43,6 +43,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/lexisnexis/v183/LexisNexisBusinessIDReportFetcherV183.java" timestamp="1483995001275">
         <mark key="[" line="33" column="80" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/ContextProvider.java" timestamp="1484158380560" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/DunBradstreetBCRReportFetcher.java" timestamp="1483994477022">
         <mark key="[" line="76" column="83" />
       </file>
@@ -92,6 +93,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/lexisnexis/v126/LexisNexisBusinessIDCachingReportHandler.java" timestamp="1483995278034">
         <mark key="[" line="68" column="94" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/handler/ContextProviderUnitTest.java" timestamp="1484158439434">
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="31" column="60" />
+        <mark key="." line="31" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/dev01.yml" timestamp="1481828414106">
         <mark key="[" line="26" column="28" />
@@ -688,7 +694,7 @@
         <mark key="." line="237" column="14" />
         <mark key="^" line="237" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1483649721553">
+      <file name="/fragment.java" timestamp="1484158133253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/lexisnexis/LexisNexisUCCFilingHandlerUnitTest.java" timestamp="1483996678362">
@@ -757,10 +763,10 @@
         <mark key="[" line="42" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/service/ConnectServiceUnitTest.java" timestamp="1484076854920">
-        <mark key="[" line="94" column="81" />
-        <mark key="]" line="138" column="8" />
-        <mark key="." line="138" column="8" />
-        <mark key="^" line="92" column="7" />
+        <mark key="[" line="95" column="81" />
+        <mark key="]" line="139" column="8" />
+        <mark key="." line="139" column="8" />
+        <mark key="^" line="93" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/csc/CSCBusinessIDReportFetcher.java" timestamp="1483995151325">
         <mark key="[" line="68" column="88" />
@@ -1546,11 +1552,11 @@
       <jump line="119" column="42" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/dunbradstreet/DunBradstreetBCRCachingReportHandlerIT.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CSC</text>
       </register>
       <register name="-" type="4">
-        <text>final</text>
+        <text>CSC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1559,31 +1565,31 @@
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9CQVNFX1VSTCA9ICJodHRwOi8vcWRmdWxsY29ubmVjdC8iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gIEBJbmplY3QKLy8gIHB1YmxpYyBDb250ZXh0UHJvdmlkZXIoQ29sbGVjdGlvbjxQYWlyPFRyaXBsZTxWZW5kb3IsIFNlcnZpY2UsIENvdW50cnk+LCBDb250ZXh0Pj4gY29udGV4dHMpCi8vICB7Ci8vICAgIGxvZ2dlci5pbmZvKCJpbml0aWFsaXppbmcgY29udGV4dHMge30iLCBjb250ZXh0cyk7Ci8vICAgIHRoaXMuY29udGV4dHMgPSBNYXBzLnRyYW5zZm9ybVZhbHVlcygKLy8gICAgICAgIE1hcHMudW5pcXVlSW5kZXgoY29udGV4dHMsCi8vICAgICAgICAgICAgbmV3IEZ1bmN0aW9uPFBhaXI8VHJpcGxlPFZlbmRvciwgU2VydmljZSwgQ291bnRyeT4sIENvbnRleHQ+LCBUcmlwbGU8VmVuZG9yLCBTZXJ2aWNlLCBDb3VudHJ5Pj4oKQovLyAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgICAgcHVibGljIFRyaXBsZTxWZW5kb3IsIFNlcnZpY2UsIENvdW50cnk+IGFwcGx5KFBhaXI8VHJpcGxlPFZlbmRvciwgU2VydmljZSwgQ291bnRyeT4sIENvbnRleHQ+IGlucHV0KQovLyAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICByZXR1cm4gaW5wdXQuZ2V0TGVmdCgpOwovLyAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0pLAovLyAgICAgICAgbmV3IEZ1bmN0aW9uPFBhaXI8VHJpcGxlPFZlbmRvcixTZXJ2aWNlLENvdW50cnk+LENvbnRleHQ+LCBDb250ZXh0PigpCi8vICAgICAgICB7Ci8vICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICBwdWJsaWMgQ29udGV4dCBhcHBseShQYWlyPFRyaXBsZTxWZW5kb3IsIFNlcnZpY2UsIENvdW50cnk+LCBDb250ZXh0PiBpbnB1dCkKLy8gICAgICAgICAgewovLyAgICAgICAgICAgIHJldHVybiBpbnB1dC5nZXRSaWdodCgpOwovLyAgICAgICAgICB9Ci8vICAgICAgICB9KTsKLy8gIH0=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzEwLzE3Lgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzExLzE3Lgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gIEBJbmplY3QKLy8gIHB1YmxpYyBDb250ZXh0UHJvdmlkZXIoQ29sbGVjdGlvbjxQYWlyPFRyaXBsZTxWZW5kb3IsIFNlcnZpY2UsIENvdW50cnk+LCBDb250ZXh0Pj4gY29udGV4dHMpCi8vICB7Ci8vICAgIGxvZ2dlci5pbmZvKCJpbml0aWFsaXppbmcgY29udGV4dHMge30iLCBjb250ZXh0cyk7Ci8vICAgIHRoaXMuY29udGV4dHMgPSBNYXBzLnRyYW5zZm9ybVZhbHVlcygKLy8gICAgICAgIE1hcHMudW5pcXVlSW5kZXgoY29udGV4dHMsCi8vICAgICAgICAgICAgbmV3IEZ1bmN0aW9uPFBhaXI8VHJpcGxlPFZlbmRvciwgU2VydmljZSwgQ291bnRyeT4sIENvbnRleHQ+LCBUcmlwbGU8VmVuZG9yLCBTZXJ2aWNlLCBDb3VudHJ5Pj4oKQovLyAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgICAgcHVibGljIFRyaXBsZTxWZW5kb3IsIFNlcnZpY2UsIENvdW50cnk+IGFwcGx5KFBhaXI8VHJpcGxlPFZlbmRvciwgU2VydmljZSwgQ291bnRyeT4sIENvbnRleHQ+IGlucHV0KQovLyAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICByZXR1cm4gaW5wdXQuZ2V0TGVmdCgpOwovLyAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0pLAovLyAgICAgICAgbmV3IEZ1bmN0aW9uPFBhaXI8VHJpcGxlPFZlbmRvcixTZXJ2aWNlLENvdW50cnk+LENvbnRleHQ+LCBDb250ZXh0PigpCi8vICAgICAgICB7Ci8vICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICBwdWJsaWMgQ29udGV4dCBhcHBseShQYWlyPFRyaXBsZTxWZW5kb3IsIFNlcnZpY2UsIENvdW50cnk+LCBDb250ZXh0PiBpbnB1dCkKLy8gICAgICAgICAgewovLyAgICAgICAgICAgIHJldHVybiBpbnB1dC5nZXRSaWdodCgpOwovLyAgICAgICAgICB9Ci8vICAgICAgICB9KTsKLy8gIH0=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9CQVNFX1VSTCA9ICJodHRwOi8vbG9jYWxob3N0OjE2MjE2L0Nvbm5lY3QvIjsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzEwLzE3Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENhY2hpbmdQb2xpY3koY2FjaGluZ1BvbGljeS5nZXRXcmFwcGVkKCkpCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>646</text>
