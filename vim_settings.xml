@@ -48,8 +48,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/ContextProvider.java" timestamp="1484317589994">
-        <mark key="[" line="50" column="68" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/ContextProvider.java" timestamp="1484318350345">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/dunbradstreet/DunBradstreetBCRReportFetcher.java" timestamp="1483994477022">
         <mark key="[" line="76" column="83" />
@@ -293,10 +295,10 @@
         <mark key="." line="33" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/src/main/java/com/odc/connect/enumtype/Channel.java" timestamp="1484317489463">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
-        <mark key="^" line="4" column="4" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/bankstatements/BankStatementsConfig.java" timestamp="1482422985252">
         <mark key="[" line="38" column="11" />
@@ -1445,11 +1447,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/veda/VedaOrgIdConfig.java" timestamp="1484317636808">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="204" column="8" />
-        <mark key="." line="204" column="8" />
-        <mark key="^" line="203" column="17" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/veda/VedaOrgIdConfig.java" timestamp="1484317903130">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchCachingReportHandlerIT.java" timestamp="1483986208862">
         <mark key="[" line="93" column="40" />
@@ -1618,10 +1619,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb250ZXh0ICE9IG51bGwgPyBjb250ZXh0IDogQ29udGV4dC5ERUZBVUxUOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>new Context(vendor, service, country)</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>processPend</text>
@@ -1630,31 +1631,31 @@
         <text>txnList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb250ZXh0ICE9IG51bGwgPyBjb250ZXh0IDogQ29udGV4dC5ERUZBVUxUOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzEzLzE3Lgo=</text>
+        <text encoding="base64">ICAgIENvbnRleHQgY29udGV4dCA9IGNvbnRleHRzLmdldCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJpbml0aWFsaXppbmcgY29udGV4dHMge30iLCBjb250ZXh0cyk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIENvbnRleHQgREVGQVVMVCA9IG5ldyBCdWlsZGVyKCkuYnVpbGQoKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHRoaXMuY29udGV4dHMgPSBNYXBzLnRyYW5zZm9ybVZhbHVlcygKICAgICAgICBNYXBzLnVuaXF1ZUluZGV4KGNvbnRleHRzLAogICAgICAgICAgICBuZXcgRnVuY3Rpb248UGFpcjxUcmlwbGU8VmVuZG9yLCBTZXJ2aWNlLCBDb3VudHJ5PiwgQ29udGV4dD4sIFRyaXBsZTxWZW5kb3IsIFNlcnZpY2UsIENvdW50cnk+PigpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgVHJpcGxlPFZlbmRvciwgU2VydmljZSwgQ291bnRyeT4gYXBwbHkoUGFpcjxUcmlwbGU8VmVuZG9yLCBTZXJ2aWNlLCBDb3VudHJ5PiwgQ29udGV4dD4gaW5wdXQpCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIGlucHV0LmdldExlZnQoKTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pLAogICAgICAgIG5ldyBGdW5jdGlvbjxQYWlyPFRyaXBsZTxWZW5kb3IsU2VydmljZSxDb3VudHJ5PixDb250ZXh0PiwgQ29udGV4dD4oKQogICAgICAgIHsKICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIENvbnRleHQgYXBwbHkoUGFpcjxUcmlwbGU8VmVuZG9yLCBTZXJ2aWNlLCBDb3VudHJ5PiwgQ29udGV4dD4gaW5wdXQpCiAgICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBpbnB1dC5nZXRSaWdodCgpOwogICAgICAgICAgfQogICAgICAgIH0pOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBOb25lLAo=</text>
+        <text encoding="base64">ICAgIEltbXV0YWJsZU1hcC5CdWlsZGVyPAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBOb25lLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzEyLzE3Lgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBAQmVhbgogIHB1YmxpYyBQYWlyPFRyaXBsZTxjb20ub2RjLmNvbm5lY3QuZW51bXR5cGUuVmVuZG9yLCBjb20ub2RjLmNvbm5lY3QuZW51bXR5cGUuU2VydmljZSwgY29tLm9kYy5jb25uZWN0LmVudW10eXBlLkNvdW50cnk+LCBDb250ZXh0PiB2ZWRhT3JnSWRDb250ZXh0KAogICAgICBWZW5kb3JDb25uZWN0aW9uPFJlcXVlc3RUeXBlLldvcmtpbmdXaXRoT3JnYW5pc2F0aW9uLCBjb20ub2RjLnZlbmRvci5tb2RlbC52ZWRhLm9yZ2FuaXNhdGlvbi5pZGVudGlmaWNhdGlvbi5yZXNwb25zZS5CQ0FtZXNzYWdlPiB2ZWRhT3JnSWRDb25uZWN0aW9uLAogICAgICBQZXJzaXN0ZWRSZXBvcnREQU88VmVkYU9yZ0lkUmVzcG9uc2U+IHZlZGFPcmdJZFBlcnNpc3RlZFJlcG9ydERBTywKICAgICAgUGVuZGluZ1JlcXVlc3RRdWV1ZURBTzxCdXNpbmVzc0lEU2VhcmNoUmVxdWVzdCwgVmVkYU9yZ0lkUGVuZGluZ1JlcXVlc3Q+IHZlZGFPcmdJZFBlbmRpbmdSZXF1ZXN0UXVldWVEQU8pCiAgewogICAgcmV0dXJuIFBhaXIub2YoCiAgICAgICAgVHJpcGxlLm9mKGNvbS5vZGMuY29ubmVjdC5lbnVtdHlwZS5WZW5kb3IuVkVEQSwgY29tLm9kYy5jb25uZWN0LmVudW10eXBlLlNlcnZpY2UuQnVzaW5lc3NJRCwgY29tLm9kYy5jb25uZWN0LmVudW10eXBlLkNvdW50cnkuQVVTKSwKICAgICAgICBDb250ZXh0LmJ1aWxkZXIoKQogICAgICAgICAgICAud2l0aENvbm5lY3Rpb24odmVkYU9yZ0lkQ29ubmVjdGlvbikKICAgICAgICAgICAgLndpdGhEYW8odmVkYU9yZ0lkUGVyc2lzdGVkUmVwb3J0REFPKQogICAgICAgICAgICAud2l0aFBlbmRpbmdSZXF1ZXN0REFPKHZlZGFPcmdJZFBlbmRpbmdSZXF1ZXN0UXVldWVEQU8pCiAgICAgICAgICAgIC5idWlsZCgpCiAgICApOwogIH0KCiAgQEJlYW4KICBwdWJsaWMgUGFpcjxUcmlwbGU8Y29tLm9kYy5jb25uZWN0LmVudW10eXBlLlZlbmRvciwgY29tLm9kYy5jb25uZWN0LmVudW10eXBlLlNlcnZpY2UsIGNvbS5vZGMuY29ubmVjdC5lbnVtdHlwZS5Db3VudHJ5PiwgQ29udGV4dD4gdmVkYUJyb2tlck9yZ0lkQ29udGV4dCgKICAgICAgVmVuZG9yQ29ubmVjdGlvbjxSZXF1ZXN0VHlwZS5Xb3JraW5nV2l0aE9yZ2FuaXNhdGlvbiwgY29tLm9kYy52ZW5kb3IubW9kZWwudmVkYS5vcmdhbmlzYXRpb24uaWRlbnRpZmljYXRpb24ucmVzcG9uc2UuQkNBbWVzc2FnZT4gdmVkYUJyb2tlck9yZ0lkQ29ubmVjdGlvbiwKICAgICAgUGVyc2lzdGVkUmVwb3J0REFPPFZlZGFPcmdJZFJlc3BvbnNlPiB2ZWRhQnJva2VyT3JnSWRQZXJzaXN0ZWRSZXBvcnREQU8sCiAgICAgIFBlbmRpbmdSZXF1ZXN0UXVldWVEQU88QnVzaW5lc3NJRFNlYXJjaFJlcXVlc3QsIFZlZGFPcmdJZFBlbmRpbmdSZXF1ZXN0PiB2ZWRhQnJva2VyT3JnSWRQZW5kaW5nUmVxdWVzdFF1ZXVlREFPKQogIHsKICAgIHJldHVybiBQYWlyLm9mKAogICAgICAgIFRyaXBsZS5vZihjb20ub2RjLmNvbm5lY3QuZW51bXR5cGUuVmVuZG9yLlZFREFCcm9rZXIsIGNvbS5vZGMuY29ubmVjdC5lbnVtdHlwZS5TZXJ2aWNlLkJ1c2luZXNzSUQsIGNvbS5vZGMuY29ubmVjdC5lbnVtdHlwZS5Db3VudHJ5LkFVUyksCiAgICAgICAgQ29udGV4dC5idWlsZGVyKCkKICAgICAgICAgICAgLndpdGhDb25uZWN0aW9uKHZlZGFCcm9rZXJPcmdJZENvbm5lY3Rpb24pCiAgICAgICAgICAgIC53aXRoRGFvKHZlZGFCcm9rZXJPcmdJZFBlcnNpc3RlZFJlcG9ydERBTykKICAgICAgICAgICAgLndpdGhQZW5kaW5nUmVxdWVzdERBTyh2ZWRhQnJva2VyT3JnSWRQZW5kaW5nUmVxdWVzdFF1ZXVlREFPKQogICAgICAgICAgICAuYnVpbGQoKQogICAgKTsKICB9</text>
       </register>
       <register name=":" type="4">
         <text>646</text>
