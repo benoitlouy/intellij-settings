@@ -703,6 +703,12 @@
         <mark key="]" line="65" column="78" />
         <mark key="." line="65" column="78" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/Context.java" timestamp="1484326185936">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="128" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSAReportFetcher.java" timestamp="1483994612691">
         <mark key="[" line="43" column="85" />
       </file>
@@ -885,6 +891,12 @@
         <mark key="[" line="17" column="33" />
         <mark key="]" line="17" column="33" />
         <mark key="." line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSAPollReportHandler.java" timestamp="1484327677519">
+        <mark key="[" line="74" column="47" />
+        <mark key="]" line="74" column="63" />
+        <mark key="." line="74" column="63" />
+        <mark key="^" line="74" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/AdditionalEndpointConfig.java" timestamp="1484255625670">
         <mark key="[" line="9" column="0" />
@@ -1069,11 +1081,29 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchFT.java" timestamp="1484075104722">
         <mark key="[" line="28" column="125" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/equifax/intl/ca/EquifaxCanadaCCRCachingReportHandler.java" timestamp="1484324418138">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/ExperianBCRCachingReportHandlerIT.java" timestamp="1484340504252">
         <mark key="[" line="57" column="66" />
         <mark key="]" line="57" column="66" />
         <mark key="." line="57" column="66" />
         <mark key="^" line="83" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumerid/equifax/intl/ca/EquifaxCanadaConsumerIdCachingReportHandler.java" timestamp="1484324535402">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="101" column="91" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/lexisnexis/LexisNexisUCCFilingHandler.java" timestamp="1484594910439">
+        <mark key="[" line="137" column="79" />
+        <mark key="]" line="135" column="38" />
+        <mark key="^" line="135" column="38" />
+        <mark key="." line="135" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/ExperianAMSFetcherIT.java" timestamp="1484337609212">
         <mark key="[" line="86" column="17" />
@@ -1448,6 +1478,12 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchPollReportHandler.java" timestamp="1484327590580">
+        <mark key="[" line="70" column="45" />
+        <mark key="]" line="70" column="61" />
+        <mark key="." line="70" column="61" />
+        <mark key="^" line="70" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/fetch/AsyncReportFetcherUnitTest.java" timestamp="1484341833615">
         <mark key="[" line="76" column="48" />
         <mark key="]" line="76" column="48" />
@@ -1809,10 +1845,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;/underwriting/valid-request-australia.json&quot;</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;/underwriting/valid-request-australia.json&quot;</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>processPend</text>
