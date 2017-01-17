@@ -333,12 +333,6 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/deploy/roles/app/templates/server-override.connect.properties.j2" timestamp="1484664422652">
-        <mark key="'" line="248" column="0" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="." line="267" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/config/EnrollmentServiceConfig.java" timestamp="1481745439290">
         <mark key="[" line="18" column="12" />
       </file>
@@ -941,6 +935,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/production.connect.properties" timestamp="1484691269209" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/lexisnexis/LexisNexisUCCFilingReportFetcherIT.java" timestamp="1484337565911">
         <mark key="[" line="54" column="72" />
         <mark key="]" line="54" column="78" />
@@ -1175,12 +1170,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="355" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryConfig.java" timestamp="1484590056946">
-        <mark key="'" line="164" column="167" />
-        <mark key="[" line="138" column="18" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/alerts/BusinessMonitoringConfig.java" timestamp="1484583547288">
         <mark key="[" line="110" column="19" />
@@ -1650,7 +1639,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/forward/ForwardBundle.java" timestamp="1482522667542">
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/spring/auditBeans.xml" timestamp="1484601336661" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/spring/auditBeans.xml" timestamp="1484691981729" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/yodlee/common/dao/YodleeDao.java" timestamp="1482348780158">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -1917,7 +1906,7 @@
         <text encoding="base64">ICAgIEZsb3dTdGVwPENvbm5lY3RGZXRjaFJlcXVlc3Q8VUNDRmlsaW5nU2VhcmNoUmVxdWVzdD4+IGNvbm5lY3RGZXRjaFJlcXVlc3QgPQogICAgICAgIChGbG93U3RlcDxDb25uZWN0RmV0Y2hSZXF1ZXN0PFVDQ0ZpbGluZ1NlYXJjaFJlcXVlc3Q+PikgU2V0cy5kaWZmZXJlbmNlKG1lcmdlU3RlcFBhcmVudHMsIEltbXV0YWJsZVNldC5vZihyZXBseVRvKSkuaXRlcmF0b3IoKS5uZXh0KCk7CiAgICBhc3NlcnRFcXVhbHMobmV3IFR5cGVUb2tlbjxDb25uZWN0RmV0Y2hSZXF1ZXN0PFVDQ0ZpbGluZ1NlYXJjaFJlcXVlc3Q+PigpIHt9LCBjb25uZWN0RmV0Y2hSZXF1ZXN0LmdldFJldHVyblR5cGUoKSk7</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>89</text>
       </register>
     </registers>
     <search>
@@ -1951,7 +1940,6 @@
         <entry>processPend</entry>
       </history-search>
       <history-cmd>
-        <entry>300</entry>
         <entry>215</entry>
         <entry>55</entry>
         <entry>147</entry>
@@ -1971,6 +1959,7 @@
         <entry>w</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>89</entry>
       </history-cmd>
       <history-expr />
       <history-input />
