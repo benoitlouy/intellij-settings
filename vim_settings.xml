@@ -430,7 +430,7 @@
         <mark key="." line="74" column="47" />
         <mark key="^" line="87" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFlow.java" timestamp="1484856726803" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFlow.java" timestamp="1484861042662" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/jaxb/PersistedReportDAOConfig.java" timestamp="1484234972320">
         <mark key="[" line="221" column="98" />
         <mark key="]" line="210" column="0" />
@@ -667,6 +667,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMPolicyFlow.java" timestamp="1484861060063">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/can/CanadaFlowUnitTest.java" timestamp="1481839538057">
         <mark key="[" line="224" column="4" />
         <mark key="]" line="224" column="16" />
@@ -676,7 +681,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/alerts/ExperianAMSFetcher.java" timestamp="1483994780055">
         <mark key="[" line="42" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/all.yml" timestamp="1484857161305">
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/all.yml" timestamp="1484859850982">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="14" column="44" />
         <mark key="^" line="14" column="44" />
@@ -792,6 +797,11 @@
         <mark key="]" line="2" column="41" />
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/priordecision/PriorDecisionFlow.java" timestamp="1484860858861">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/UnderwritingFlowIntegrationTest.java" timestamp="1484591415674">
         <mark key="[" line="79" column="39" />
@@ -1523,6 +1533,11 @@
         <mark key="]" line="76" column="48" />
         <mark key="." line="76" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/model/CRDBModelRequest.java" timestamp="1484860672885">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/intl/SpecializedFlow.java" timestamp="1481832161234">
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="0" />
@@ -1892,10 +1907,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5SZXN0VGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>legalName</text>
@@ -1904,31 +1919,31 @@
         <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGxvY2F0aW9ucyA9IHsgImNsYXNzcGF0aDpzcHJpbmcvYXBwbGljYXRpb25Db250ZXh0LnhtbCJ9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5SZXN0VGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5jbGllbnQuSHR0cENvbXBvbmVudHNDbGllbnRIdHRwUmVxdWVzdEZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFN0cmluZyBpbnB1dFR5cGUgPSAiY2F0X2FwaSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuYXV0aG56LnRvb2xzLnNwcmluZy5jbGllbnQuYXV0aC5BdXRoZW50aWNhdGVkUmV0cnlSZXN0VGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBAQmVhbgogIEBRdWFsaWZpZXIoIm1lc1Jlc3RUZW1wbGF0ZSIpCiAgcHVibGljIEF1dGhlbnRpY2F0ZWRSZXRyeVJlc3RUZW1wbGF0ZSBtZXNSZXN0VGVtcGxhdGUoCiAgICAgIEBRdWFsaWZpZXIoIm1lc0NsaWVudFJlcXVlc3RGYWN0b3J5IikgQXV0aGVudGljYXRlZEh0dHBSZXF1ZXN0RmFjdG9yeSByZXF1ZXN0RmFjdG9yeSkKICB7CiAgICByZXR1cm4gbmV3IEF1dGhlbnRpY2F0ZWRSZXRyeVJlc3RUZW1wbGF0ZShuZXcgUmVzdFRlbXBsYXRlKG5ldyBIdHRwQ29tcG9uZW50c0NsaWVudEh0dHBSZXF1ZXN0RmFjdG9yeSgpKSwgcmVxdWVzdEZhY3RvcnkpOwogIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzE5LzE3Lgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5SZXN0VGVtcGxhdGU7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5jbGllbnQuSHR0cENvbXBvbmVudHNDbGllbnRIdHRwUmVxdWVzdEZhY3Rvcnk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMuYXV0aG56LnRvb2xzLnNwcmluZy5jbGllbnQuYXV0aC5BdXRoZW50aWNhdGVkUmV0cnlSZXN0VGVtcGxhdGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
