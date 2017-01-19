@@ -1,4 +1,11 @@
-<scheme name="SublimeMonokai" version="142" parent_scheme="Default">
+<scheme name="SublimeMonokai copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-01-19T10:58:02</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.3.1.0.0</property>
+    <property name="modified">2017-01-19T10:59:12</property>
+    <property name="originalScheme">SublimeMonokai</property>
+  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -1585,6 +1592,12 @@
       <value>
         <option name="FOREGROUND" value="bce9fd" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_HASH_ASSOC">
+      <value>
+        <option name="FOREGROUND" value="f9276c" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_HEREDOC_ID">
