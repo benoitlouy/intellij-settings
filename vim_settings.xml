@@ -11,7 +11,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1484685397272">
+      <file name="/a.dummy" timestamp="1484937704920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/lienjudgment/lexisnexis/LexisNexisLienJudgmentCachingReportHandlerIT.java" timestamp="1484336288908">
@@ -445,11 +445,11 @@
         <mark key="." line="74" column="47" />
         <mark key="^" line="87" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFlow.java" timestamp="1484930116137">
-        <mark key="[" line="34" column="2" />
-        <mark key="]" line="34" column="7" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="34" column="7" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CATFlow.java" timestamp="1484937696135">
+        <mark key="[" line="71" column="53" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/jaxb/PersistedReportDAOConfig.java" timestamp="1484234972320">
         <mark key="[" line="221" column="98" />
@@ -920,6 +920,11 @@
         <mark key="]" line="43" column="32" />
         <mark key="." line="43" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/policy/cat/CRDBModelRequestDataMergerUnitTest.java" timestamp="1484939156639">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchConfig.java" timestamp="1484583786905">
         <mark key="[" line="98" column="90" />
         <mark key="]" line="8" column="0" />
@@ -1102,6 +1107,12 @@
         <mark key="]" line="20" column="66" />
         <mark key="." line="20" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/cat/CRDBModelRequestDataMerger.java" timestamp="1484937832114">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="24" column="77" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/bankstatements/api/BankStatementsCallback.java" timestamp="1482361125002">
         <mark key="[" line="32" column="5" />
         <mark key="]" line="2" column="0" />
@@ -1226,7 +1237,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/test/scala/com/ondeck/alpaca/common/Scala/Generators.scala" timestamp="1484753986484">
         <mark key="[" line="288" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/policy/CLMModelRequestCreatorUnitTest.java" timestamp="1484930514765">
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/policy/CLMModelRequestCreatorUnitTest.java" timestamp="1484938970522">
         <mark key="[" line="94" column="4" />
         <mark key="]" line="94" column="4" />
         <mark key="." line="94" column="4" />
@@ -1373,7 +1384,7 @@
         <mark key="." line="237" column="14" />
         <mark key="^" line="237" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1484923063502">
+      <file name="/fragment.java" timestamp="1484938495152">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/lexisnexis/LexisNexisUCCFilingHandlerUnitTest.java" timestamp="1484585352358">
@@ -1979,11 +1990,11 @@
       <jump line="2022" column="16" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>ImmutableList.of()</text>
       </register>
       <register name="/" type="4">
         <text>legalName</text>
@@ -1995,28 +2006,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIE1vZGVsRXhlY3V0aW9uIG1vZGVsRXhlY3V0aW9uID0gbmV3IE1vZGVsRXhlY3V0aW9uKCk7CiAgICBtb2RlbEV4ZWN1dGlvbi5zZXRJZCgiaWQiKTsKICAgIG1vZGVsRXhlY3V0aW9uLnNldFN1Y2Nlc3ModHJ1ZSk7CiAgICBKc29uTm9kZSBtb2RlbE91dHB1dCA9IG1hcHBlci5jcmVhdGVPYmplY3ROb2RlKCkucHV0KCJjcmRiS2V5IiwgImNyZGJWYWx1ZSIpOwogICAgbW9kZWxFeGVjdXRpb24uc2V0T3V0cHV0KG1vZGVsT3V0cHV0KTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzIwLzE3Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCBhdWRpdFJlcG9ydHMuc2l6ZSgpKTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhJbW11dGFibGVNYXAub2YoIm1vZGVsIiwgQ0FURmxvdy5DUkRCX01PREVMX05BTUUpLCBtZXNSZXF1ZXN0LmdldERhdGEoKSk7CiAgICBhc3NlcnRFcXVhbHMoMSwgbWVzUmVxdWVzdC5nZXRJbnB1dHMoKS5zaXplKCkpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCBtZXNFeGVjdXRpb24uZ2V0SW5wdXRzKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydE51bGwoKChNYXA8U3RyaW5nLCBPYmplY3Q+KW1lc0V4ZWN1dGlvbi5nZXREYXRhKCkpLmdldCgiZXJyb3IiKSk7Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAxLzIwLzE3Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhtb2RlbEV4ZWN1dGlvbi5nZXRJZCgpLCAoKE1hcDxTdHJpbmcsIE9iamVjdD4pbWVzRXhlY3V0aW9uLmdldERhdGEoKSkuZ2V0KCJpZCIpKTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
