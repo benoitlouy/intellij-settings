@@ -22,9 +22,9 @@
         <mark key="[" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/cashflow-service/src/main/java/com/ondeck/cfs/service/service/mx/MxCashFlowService.java" timestamp="1485295506147">
-        <mark key="[" line="184" column="5" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+        <mark key="[" line="183" column="5" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/scala/com/ondeck/alpaca/common/Scala/config/DB.scala" timestamp="1481751757509">
         <mark key="[" line="66" column="72" />
@@ -68,6 +68,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/policy/CLMPolicyHandlerIntegrationTest.java" timestamp="1484943759467">
         <mark key="[" line="38" column="124" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/cashflow-service/src/main/java/com/ondeck/cfs/service/service/mx/MxDataFetcher.java" timestamp="1485355352991">
+        <mark key="[" line="103" column="45" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/config/EnrollmentServiceConfig.java" timestamp="1481745439290">
         <mark key="[" line="18" column="12" />
@@ -148,12 +153,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/cashflow-service/src/main/java/com/ondeck/cfs/service/service/mx/MxTdsServiceHelper.java" timestamp="1485296811408">
-        <mark key="[" line="87" column="4" />
-        <mark key="]" line="87" column="7" />
-        <mark key="." line="87" column="7" />
-        <mark key="^" line="87" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/csc/CSCBusinessIDReportFetcherIT.java" timestamp="1484337757967">
         <mark key="[" line="38" column="47" />
@@ -291,6 +290,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/experian/ExperianCallerVersion2701Test.java" timestamp="1483997791878">
         <mark key="[" line="27" column="79" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rholder/guava-retrying/2.0.0/e26af7bfb282fa2787191f383950f030243c5480/guava-retrying-2.0.0-sources.jar!/com/github/rholder/retry/Retryer.java" timestamp="1485355231626" />
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/forward/ForwardBundle.java" timestamp="1482522667542">
         <mark key="[" line="26" column="0" />
       </file>
@@ -425,10 +425,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvblRva2VuQ2FjaGUuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>Double</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
@@ -437,31 +437,31 @@
         <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGxvY2F0aW9ucyA9IHsgImNsYXNzcGF0aDpzcHJpbmcvYXBwbGljYXRpb25Db250ZXh0LnhtbCJ9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvblRva2VuQ2FjaGUuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uVG9rZW5DYWNoZS5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJbW11dGFibGVNYXAuYnVpbGRlcigpLnB1dChudWxsLCBudWxsKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBhcmdbXSkgdGhyb3dzIEV4ZWN1dGlvbkV4Y2VwdGlvbiwgUmV0cnlFeGNlcHRpb24gewogICAgICAgIFJldHJ5ZXJCdWlsZGVyPEludGVnZXI+IHJldHJ5ZXJCdWlsZGVyID0gUmV0cnllckJ1aWxkZXIuPEludGVnZXI+bmV3QnVpbGRlcigpLnJldHJ5SWZFeGNlcHRpb24oKS53aXRoU3RvcFN0cmF0ZWd5KFN0b3BTdHJhdGVnaWVzLnN0b3BBZnRlckF0dGVtcHQoMikpOwogICAgICAgIFJldHJ5ZXI8SW50ZWdlcj4gcmV0cnllciA9IHJldHJ5ZXJCdWlsZGVyLmJ1aWxkKCk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEludGVnZXIgcmVzdXRsID0gcmV0cnllci5jYWxsKCgpIC0+IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVFJZIik7CiAgICAgICAgICAgICAgICByZXR1cm4gNCAvIDA7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgICAgICBJbnRlZ2VyIHJlc3V0bCA9IHJldHJ5ZXIuY2FsbCgoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVFJZIik7CiAgICAgICAgICAgIHJldHVybiA0IC8gMjsKICAgICAgICB9KTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3V0bCk7CiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0T3JFbHNlVGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeUlmUmVzdWx0KFRyeTo6aXNGYWlsdXJlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0T3JFbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZnJlc2hSZXNwb25zZS50b0VpdGhlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBUcnkubmFycm93KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlZnJlc2hSZXNwb25zZS50b0VpdGhlcigpLmZvCg==</text>
+        <text encoding="base64">ICAgICAgICBUcnkubmFycm93KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlZnJlc2hSZXNwb25zZS50b0VpdGhlcigpLmZvbGQK</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvblRva2VuQ2FjaGUuZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
