@@ -114,10 +114,10 @@
         <mark key="." line="75" column="40" />
         <mark key="^" line="93" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/contract/ContractManagement.java" timestamp="1483549272823">
-        <mark key="[" line="522" column="0" />
-        <mark key="]" line="522" column="0" />
-        <mark key="." line="522" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/contract/ContractManagement.java" timestamp="1485554975320">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="117" />
+        <mark key="." line="153" column="0" />
         <mark key="^" line="522" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/src/main/java/com/odc/connect/enumtype/Channel.java" timestamp="1484317489463">
@@ -533,6 +533,12 @@
         <mark key="^" line="36" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/deploy/integrationTest.yml" timestamp="1485461228570" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/contract/ContractManagementTest.java" timestamp="1485554978775">
+        <mark key="'" line="1228" column="2" />
+        <mark key="[" line="1237" column="50" />
+        <mark key="]" line="1239" column="0" />
+        <mark key="." line="1239" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/us/EquifaxCCRCachingReportHandlerIT.java" timestamp="1484341977739">
         <mark key="[" line="95" column="71" />
         <mark key="]" line="95" column="71" />
@@ -943,8 +949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="64" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/BusinessIDRequestKeysMapNormalizer.java" />
-      <jump line="22" column="32" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/businessid/BusinessIdRequestKeysMapCreatorIntegrationTest.java" />
       <jump line="26" column="25" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/businessid/BusinessIdRequestKeysMapCreatorIntegrationTest.java" />
       <jump line="32" column="38" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/BusinessIDConfig.java" />
       <jump line="41" column="17" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/test/integration/java/com/odc/connect/businessid/BusinessIdRequestKeysMapCreatorIntegrationTest.java" />
@@ -1043,13 +1047,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" />
       <jump line="2022" column="16" filename="$USER_HOME$/Projects/OnDeck/alpaca/web/src/test/java/com/ondeck/alpaca/web/QuickDeclineIT.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" />
+      <jump line="1231" column="79" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/contract/ContractManagementTest.java" />
+      <jump line="1228" column="2" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/contract/ContractManagementTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4obG9hblNlcnZpY2UudmFsaWRhdGVMb2FuKHNhbWUoTUVSQ0hBTlRfVVNFUiksIGVxKG9mZmVyKSkpLnRoZW5SZXR1cm4oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>contractWithOffer(offer)</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
@@ -1058,28 +1064,28 @@
         <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGxvY2F0aW9ucyA9IHsgImNsYXNzcGF0aDpzcHJpbmcvYXBwbGljYXRpb25Db250ZXh0LnhtbCJ9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4obG9hblNlcnZpY2UudmFsaWRhdGVMb2FuKHNhbWUoTUVSQ0hBTlRfVVNFUiksIGVxKG9mZmVyKSkpLnRoZW5SZXR1cm4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9mZmVyLnNldElkKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9mZmVyIG9mZmVyID0gbmV3IE9mZmVyKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50cy56aQo=</text>
+        <text encoding="base64">ICAgIGdldE9mZmVyKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VUaHJvdyhjYXVzZSAtPiBuZXcgQXBwbGljYXRpb25FeGNlcHRpb24oIkVycm9yIHdoaWxlIGZldGNoaW5nIGFjY291bnRzIiwgY2F1c2UpKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vbWFrZSBzdXJlIHRvIHVwZGF0ZSBvd25lciBsZWdhbCBpZGVudGlmaWVyIGluIHNhbGVzZm9yY2Ugc2luY2Ugd2UgbWF5IGhhdmUganVzdCBjb2xsZWN0ZWQgdGhlIGZ1bGwgaWRlbnRpZmllcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamF2YXNsYW5nLmNvbGxlY3Rpb24uTGlzdC5vZkFsbChteERhdGFGZXRjaGVyLmZldGNoQWNjb3VudHMoc2Vzc2lvblRva2VuU3VwcGxpZXIsIHJkYykK</text>
+        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uU2VydmljZS51cGRhdGVPd25lckluZm9ybWF0aW9uKG9wcG9ydHVuaXR5LCBvd25lcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudHMgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhc2xhbmcuY29sbGVjdGlvbi5MaXN0PEFjY291bnQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
