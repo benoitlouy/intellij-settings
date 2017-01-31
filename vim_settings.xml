@@ -343,7 +343,7 @@
         <mark key="]" line="14" column="41" />
         <mark key="." line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/UnderwritingFlow.java" timestamp="1485815063288" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/UnderwritingFlow.java" timestamp="1485874655651" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/integrationTest/java/com/odc/enrollment/server/AbstractIntegrationTest.java" timestamp="1485191164554">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
@@ -937,8 +937,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/UnderwritingFlowUnitTest.java" timestamp="1485815207684">
-        <mark key="[" line="285" column="154" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/UnderwritingFlowUnitTest.java" timestamp="1485874437530">
+        <mark key="[" line="296" column="122" />
+        <mark key="]" line="296" column="122" />
+        <mark key="." line="296" column="122" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/account/yodlee/bankdata/FastLinkConnection.java" timestamp="1484585602712">
         <mark key="[" line="80" column="22" />
@@ -1041,6 +1043,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/blacklist/NoBlacklistPredicate.java" timestamp="1485874521044" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/ContextProvider.java" timestamp="1484584641890">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -1398,7 +1401,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/core/config/JacksonJsonProviderConfig.java" timestamp="1485796467186">
         <mark key="[" line="23" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/blacklist/ValidPartnerPredicate.java" timestamp="1485814979029">
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/blacklist/ValidPartnerPredicate.java" timestamp="1485874492471">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
         <mark key="." line="15" column="8" />
@@ -1740,7 +1743,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-flow/1.58/f22611b7d49a4cbff3f03b1bcb12ed1ba9422e6b/datapipes-flow-1.58-sources.jar!/com/odc/datapipes/flow/SimpleExecuteVisitor.java" timestamp="1485815233574" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.odc/datapipes-flow/1.58/f22611b7d49a4cbff3f03b1bcb12ed1ba9422e6b/datapipes-flow-1.58-sources.jar!/com/odc/datapipes/flow/SimpleExecuteVisitor.java" timestamp="1485874198873" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/PendingRequestQueueDAOConfig.java" timestamp="1484069146615">
         <mark key="[" line="59" column="3" />
       </file>
@@ -2135,10 +2138,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
