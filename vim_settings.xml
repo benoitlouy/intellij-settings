@@ -1414,7 +1414,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchFT.java" timestamp="1484075104722">
         <mark key="[" line="28" column="125" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1485979190287" />
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/build.gradle" timestamp="1485988258824">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/ExperianBCRCachingReportHandlerIT.java" timestamp="1484340504252">
         <mark key="[" line="57" column="66" />
         <mark key="]" line="57" column="66" />
@@ -2400,8 +2404,8 @@
       <jump line="1228" column="2" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/contract/ContractManagementTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>project.groupId@</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZTpqYWNrc29uLW1vZHVsZS1zY2FsYV8yLjExOjIuOC4yJwo=</text>
       </register>
       <register name="-" type="4">
         <text>project.groupId@</text>
@@ -2413,34 +2417,33 @@
         <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGxvY2F0aW9ucyA9IHsgImNsYXNzcGF0aDpzcHJpbmcvYXBwbGljYXRpb25Db250ZXh0LnhtbCJ9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZTpqYWNrc29uLW1vZHVsZS1zY2FsYV8yLjExOjIuOC4yJwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICBAVGVzdAogIEBJZ25vcmUoIm5lZWQgdXNlciBzZXR1cCBpbiBVc2VyU2VydmljZSIpCiAgcHVibGljIHZvaWQgYXV0aGVudGljYXRlU3VjZXNzKCkgewogICAgVXNlckFjY291bnQgYXV0aGVudGljYXRlID0gdW5kZXJUZXN0LmF1dGhlbnRpY2F0ZSgidXNlciIsICJwYXNzd29yZCIpOwogICAgYXNzZXJ0Tm90TnVsbChhdXRoZW50aWNhdGUpOwogIH0KfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgZXhwZWN0ZWRFeGNlcHRpb24uZXhwZWN0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgZXhwZWN0ZWRFeGNlcHRpb24uZXhwZWN0KCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>//    config.property(ApacheClientProperties.CONNECTION_MANAGER, ConnectionPool.connectionManager());
 //    config.property(ApacheClientProperties.CONNECTION_MANAGER_SHARED, true);
 //    config.connectorProvider(new ApacheConnectorProvider());</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQocmV0cnkuaXNGYWlsdXJlKCksIGlzKHRydWUpKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-      throw new RuntimeException();</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
