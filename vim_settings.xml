@@ -646,11 +646,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/intl/aus/veda/VedaFlowConfig.java" timestamp="1484242548094">
         <mark key="[" line="49" column="117" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/resources/parrot-service.yml" timestamp="1485982767477">
-        <mark key="[" line="45" column="135" />
-        <mark key="]" line="45" column="91" />
-        <mark key="^" line="45" column="91" />
-        <mark key="." line="45" column="91" />
+      <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/resources/parrot-service.yml" timestamp="1486049055300">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="94" />
+        <mark key="^" line="25" column="94" />
+        <mark key="." line="25" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/bankruptcy/lexisnexis/LexisNexisBankruptcySearchFetcherIT.java" timestamp="1484337196977">
         <mark key="[" line="52" column="67" />
@@ -1594,7 +1594,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/parrot/deploy/group_vars/dev01.yml" timestamp="1485982694233">
+      <file name="$USER_HOME$/Projects/OnDeck/parrot/deploy/group_vars/dev01.yml" timestamp="1486049064358">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -1667,6 +1667,9 @@
         <mark key="[" line="3" column="5" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/parrot/deploy/group_vars/staging_co.yml" timestamp="1486049076431">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/cashflow-service/src/main/java/com/ondeck/cfs/service/mx/conversions/MxBankTransactionCreateRequestConverter.java" timestamp="1485980688564">
         <mark key="[" line="38" column="0" />
@@ -2404,11 +2407,11 @@
       <jump line="1228" column="2" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/contract/ContractManagementTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZTpqYWNrc29uLW1vZHVsZS1zY2FsYV8yLjExOjIuOC4yJwo=</text>
+      <register name="&quot;" type="4">
+        <text>abc123</text>
       </register>
       <register name="-" type="4">
-        <text>project.groupId@</text>
+        <text>abc123</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
