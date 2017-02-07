@@ -11,7 +11,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486069463599">
+      <file name="/a.dummy" timestamp="1486497406117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/experian/alerts/common/dao/ExperianAmsEnrollmentRepository.java" timestamp="1482348616307">
@@ -139,11 +139,11 @@
         <mark key="]" line="59" column="97" />
         <mark key="." line="59" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/financials/_bankform_b.html.erb" timestamp="1486496088971">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-        <mark key="^" line="23" column="20" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/financials/_bankform_b.html.erb" timestamp="1486498668149">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="26" column="142" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/bower.json" timestamp="1486417916229">
         <mark key="[" line="54" column="75" />
@@ -408,6 +408,7 @@
         <mark key="]" line="65" column="42" />
         <mark key="." line="65" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/routes.rb" timestamp="1486497330362" />
       <file name="$USER_HOME$/Projects/OnDeck/parrot/deploy/group_vars/all.yml" timestamp="1482953529921">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -1176,6 +1177,9 @@
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/javascripts/odo/forms/financials.js" timestamp="1486498072646">
+        <mark key="[" line="289" column="67" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/group_vars/production_nj/vars.yml" timestamp="1481828610064">
         <mark key="[" line="103" column="18" />
       </file>
@@ -1912,11 +1916,11 @@
       <jump line="138" column="82" filename="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gYnVzaW5lc3NGb3JtLnJhZGlvX2J1dHRvbig6ZXhpc3RpbmdfZmluYW5jaW5nLCBmYWxzZSwgaWQ6ICdleGlzdGluZ19maW5hbmNpbmdfZmFsc2UnLCBkYXRhOiB7bmdfbW9kZWw6ICJoYXNFeGlzdGluZ0ZpbmFuY2luZyIsIG5nX3ZhbHVlOiAiZmFsc2UifSkgJT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZvcj0iZXhpc3RpbmdMZW5kZXJOYW1lIiA=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IGZvcj0iZXhpc3RpbmdMZW5kZXJOYW1lIiA=</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
