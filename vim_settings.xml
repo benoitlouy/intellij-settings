@@ -723,15 +723,21 @@
         <mark key="]" line="65" column="78" />
         <mark key="." line="65" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/javascripts/odo/forms/businesses.js" timestamp="1486480507078">
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/javascripts/odo/forms/businesses.js" timestamp="1486486858168">
         <mark key="'" line="239" column="39" />
-        <mark key="[" line="281" column="9" />
-        <mark key="]" line="243" column="0" />
-        <mark key="^" line="241" column="39" />
-        <mark key="." line="243" column="0" />
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="281" column="0" />
+        <mark key="^" line="277" column="43" />
+        <mark key="." line="281" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSAReportFetcher.java" timestamp="1483994612691">
         <mark key="[" line="43" column="85" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/stylesheets/form.sass" timestamp="1486483093570">
+        <mark key="[" line="301" column="8" />
+        <mark key="]" line="301" column="8" />
+        <mark key="^" line="301" column="8" />
+        <mark key="." line="301" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/VendorConnectionSwitch.java" timestamp="1483978970393">
         <mark key="[" line="10" column="67" />
@@ -1249,11 +1255,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/experian/ExperianCCRReportFetcher.java" timestamp="1483995075038">
         <mark key="[" line="47" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/business.rb" timestamp="1486420086918">
-        <mark key="[" line="319" column="15" />
-        <mark key="]" line="319" column="38" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/business.rb" timestamp="1486482889607">
+        <mark key="[" line="377" column="0" />
+        <mark key="]" line="377" column="0" />
         <mark key="^" line="319" column="38" />
-        <mark key="." line="319" column="38" />
+        <mark key="." line="377" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/cashflow-service/src/main/java/com/ondeck/cfs/service/mx/service/MxStatusTrackingService.java" timestamp="1485969637399">
         <mark key="[" line="10" column="0" />
@@ -1696,12 +1702,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" timestamp="1486480347971">
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" timestamp="1486486151875">
         <mark key="'" line="138" column="82" />
-        <mark key="[" line="143" column="66" />
-        <mark key="]" line="143" column="66" />
-        <mark key="." line="143" column="66" />
-        <mark key="^" line="143" column="72" />
+        <mark key="[" line="135" column="15" />
+        <mark key="]" line="153" column="27" />
+        <mark key="." line="153" column="27" />
+        <mark key="^" line="153" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/application.properties" timestamp="1482346438942">
         <mark key="[" line="338" column="0" />
@@ -1794,6 +1800,9 @@
         <mark key="[" line="137" column="86" />
         <mark key="]" line="137" column="86" />
         <mark key="." line="137" column="86" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/locales/en.yml" timestamp="1486486122436">
+        <mark key="[" line="109" column="116" />
       </file>
     </filemarks>
     <jumps>
@@ -1900,10 +1909,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVtYWluaW5nQmFsYW5jZSAiICsgbmV3VmFsKTsK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>city</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
@@ -1912,31 +1921,31 @@
         <text encoding="base64">ICB2YWxpZGF0ZXMgOmV4aXN0aW5nX2xlbmRlcl9uYW1lLCA6cHJlc2VuY2UgPT4ge21lc3NhZ2U6ICJyZXF1aXJlZCJ9LCA6dW5sZXNzID0+IFByb2MubmV3IHsgfGJ1c2luZXNzfCBidXNpbmVzcy5leGlzdGluZ19maW5hbmNpbmcgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVtYWluaW5nQmFsYW5jZSAiICsgbmV3VmFsKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmdldEhhc0V4aXN0aW5nRmluYW5jaW5nID0gZnVuY3Rpb24oKSB7CiAgICAgICAgcmV0dXJuICRzY29wZS5oYXNFeGlzdGluZ0ZpbmFuY2luZzsKICAgICAgfTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibGVuZGVyTmFtZSAiICsgbmV3VmFsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiPj4+Pj4+IEdFVCAiICsgJHNjb3BlLmhhc0V4aXN0aW5nRmluYW5jaW5nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiPj4+Pj4+IFNFVCAiICsgdik7ZAo=</text>
+        <text encoding="base64">ICAjIHZhbGlkYXRlc19wcmVzZW5jZV9vZiA6cmVtYWluaW5nX2JhbGFuY2UsIDptZXNzYWdlID0+ICJyZXF1aXJlZCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuaGFzRXhpc3RpbmdGaW5hbmNpbmcgPSB2Owo=</text>
+        <text encoding="base64">ICAjIHZhbGlkYXRlc19wcmVzZW5jZV9vZiA6ZXhpc3RpbmdfbGVuZGVyX25hbWUsIDptZXNzYWdlID0+ICJyZXF1aXJlZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzY29wZS5oYXNFeGlzdGluZ0ZpbmFuY2luZyA9IHY7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8vICQoJyNleGlzdGluZ19maW5hbmNpbmdfdHJ1ZScpLmNsaWNrKGZ1bmN0aW9uKCkgewogICAgICAvLyAgICQoJyNleGlzdGluZ19sZW5kZXJfbmFtZV9maWVsZCcpLnZhbCh1bmRlZmluZWQpOwogICAgICAvLyAgICQoJyNyZW1haW5pbmdfYmFsYW5jZV9maWVsZCcpLnZhbCh1bmRlZmluZWQpOwogICAgICAvLyAgICQoJyNleGlzdGluZ19sZW5kZXJfbmFtZV9maWVsZCcpLnBhcmVudHMoJ2Rpdi5idXNpbmVzc0V4aXN0aW5nRmluYW5jaW5nSW5mb19fZm9ybUdyb3VwJykuc2hvdygpOwogICAgICAvLyB9KTsKICAgICAgLy8KICAgICAgLy8gJCgnI2V4aXN0aW5nX2ZpbmFuY2luZ19mYWxzZScpLmNsaWNrKGZ1bmN0aW9uKCkgewogICAgICAvLyAgICQoJyNleGlzdGluZ19sZW5kZXJfbmFtZV9maWVsZCcpLnBhcmVudHMoJ2Rpdi5idXNpbmVzc0V4aXN0aW5nRmluYW5jaW5nSW5mb19fZm9ybUdyb3VwJykuaGlkZSgpOwogICAgICAvLyAgICQoJyNleGlzdGluZ19sZW5kZXJfbmFtZV9maWVsZCcpLnZhbCh1bmRlZmluZWQpOwogICAgICAvLyAgICQoJyNyZW1haW5pbmdfYmFsYW5jZV9maWVsZCcpLnZhbCh1bmRlZmluZWQpOwogICAgICAvLyB9KTsKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuJGFwcGx5KGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZ3VsYXIuZWxlbWVudCgiI3JlbWFpbmluZ19iYWxhbmNlX2ZpZWxkIikuY2xlYXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>126</text>
