@@ -139,6 +139,12 @@
         <mark key="]" line="59" column="97" />
         <mark key="." line="59" column="97" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/financials/_bankform_b.html.erb" timestamp="1486496088971">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/bower.json" timestamp="1486417916229">
         <mark key="[" line="54" column="75" />
         <mark key="]" line="55" column="32" />
@@ -1706,7 +1712,7 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" timestamp="1486493726463" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" timestamp="1486495767596" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/application.properties" timestamp="1482346438942">
         <mark key="[" line="338" column="0" />
         <mark key="]" line="338" column="0" />
@@ -1906,11 +1912,11 @@
       <jump line="138" column="82" filename="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGlkPSJoci10YXhJZCI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gYnVzaW5lc3NGb3JtLnJhZGlvX2J1dHRvbig6ZXhpc3RpbmdfZmluYW5jaW5nLCBmYWxzZSwgaWQ6ICdleGlzdGluZ19maW5hbmNpbmdfZmFsc2UnLCBkYXRhOiB7bmdfbW9kZWw6ICJoYXNFeGlzdGluZ0ZpbmFuY2luZyIsIG5nX3ZhbHVlOiAiZmFsc2UifSkgJT4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlkPSJoci10YXhJZCI=</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
@@ -1919,7 +1925,7 @@
         <text encoding="base64">ICB2YWxpZGF0ZXMgOmV4aXN0aW5nX2xlbmRlcl9uYW1lLCA6cHJlc2VuY2UgPT4ge21lc3NhZ2U6ICJyZXF1aXJlZCJ9LCA6dW5sZXNzID0+IFByb2MubmV3IHsgfGJ1c2luZXNzfCBidXNpbmVzcy5leGlzdGluZ19maW5hbmNpbmcgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gYnVzaW5lc3NGb3JtLnJhZGlvX2J1dHRvbig6ZXhpc3RpbmdfZmluYW5jaW5nLCBmYWxzZSwgaWQ6ICdleGlzdGluZ19maW5hbmNpbmdfZmFsc2UnLCBkYXRhOiB7bmdfbW9kZWw6ICJoYXNFeGlzdGluZ0ZpbmFuY2luZyIsIG5nX3ZhbHVlOiAiZmFsc2UifSkgJT4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1928,22 +1934,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEByZW1haW5pbmdfYmFsYW5jZSA9IHN0cmlwX251bWJlcl9zdHJpbmcobnVtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5pbmZvICI+Pj4+Pj4gI3tzZWxmLmV4aXN0aW5nX2xlbmRlcl9uYW1lfSAje3NlbGYuZXhpc3RpbmdfbGVuZGVyX25hbWUuYmxhbms/fSIK</text>
+        <text encoding="base64">ICAgIEByZW1haW5pbmdfYmFsYW5jZSA9IHN0cmlwX251bWJlcl9zdHJpbmcobnVtKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5pbmZvICI+Pj4+Pj4gI3tzZWxmLnJlbWFpbmluZ19iYWxhbmNlfSAje3NlbGYucmVtYWluaW5nX2JhbGFuY2UuYmxhbms/fSIK</text>
+        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5pbmZvICI+Pj4+Pj4gI3tzZWxmLmV4aXN0aW5nX2xlbmRlcl9uYW1lfSAje3NlbGYuZXhpc3RpbmdfbGVuZGVyX25hbWUuYmxhbms/fSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVtYWluaW5nQmFsYW5jZSAiICsgbmV3VmFsKTsK</text>
+        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5pbmZvICI+Pj4+Pj4gI3tzZWxmLnJlbWFpbmluZ19iYWxhbmNlfSAje3NlbGYucmVtYWluaW5nX2JhbGFuY2UuYmxhbms/fSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibGVuZGVyTmFtZSAiICsgbmV3VmFsKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVtYWluaW5nQmFsYW5jZSAiICsgbmV3VmFsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibGVuZGVyTmFtZSAiICsgbmV3VmFsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>126</text>
