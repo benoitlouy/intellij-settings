@@ -942,6 +942,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/blacklist/NoBlacklistPredicate.java" timestamp="1486579270499">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/ContextProvider.java" timestamp="1484584641890">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -1176,11 +1181,10 @@
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/javascripts/odo/forms/financials.js" timestamp="1486573680998">
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="270" column="0" />
-        <mark key="^" line="267" column="24" />
-        <mark key="." line="270" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/javascripts/odo/forms/financials.js" timestamp="1486579042089">
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/group_vars/production_nj/vars.yml" timestamp="1481828610064">
         <mark key="[" line="103" column="18" />
@@ -1271,8 +1275,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/experian/ExperianCCRReportFetcher.java" timestamp="1483995075038">
         <mark key="[" line="47" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/business.rb" timestamp="1486506249949">
-        <mark key="[" line="318" column="4" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/business.rb" timestamp="1486577828912">
+        <mark key="[" line="324" column="35" />
+        <mark key="]" line="324" column="35" />
+        <mark key="." line="324" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/cashflow-service/src/main/java/com/ondeck/cfs/service/mx/service/MxStatusTrackingService.java" timestamp="1485969637399">
         <mark key="[" line="10" column="0" />
@@ -1376,6 +1382,12 @@
       </file>
       <file name="/fragment.java" timestamp="1486159938695">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/models/business_spec.rb" timestamp="1486578453286">
+        <mark key="[" line="735" column="7" />
+        <mark key="]" line="767" column="49" />
+        <mark key="^" line="767" column="49" />
+        <mark key="." line="767" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/group_vars/all.yml" timestamp="1482346413619">
         <mark key="[" line="221" column="0" />
@@ -1926,11 +1938,11 @@
       <jump line="138" column="82" filename="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>existing lender</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFByZWRpY2F0ZXMuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>existing lender</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
@@ -1939,31 +1951,31 @@
         <text encoding="base64">ICB2YWxpZGF0ZXMgOmV4aXN0aW5nX2xlbmRlcl9uYW1lLCA6cHJlc2VuY2UgPT4ge21lc3NhZ2U6ICJyZXF1aXJlZCJ9LCA6dW5sZXNzID0+IFByb2MubmV3IHsgfGJ1c2luZXNzfCBidXNpbmVzcy5leGlzdGluZ19maW5hbmNpbmcgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFByZWRpY2F0ZXMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiRE8gTk9UIEFERCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0Lmhhcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiQUREIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiRE8gTk9UIEFERCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiQUREIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIlZBTElEIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiSU5WQUxJRCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmZpbmFuY2lhbHNGb3JtKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIlZBTElEIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
