@@ -1176,10 +1176,11 @@
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/javascripts/odo/forms/financials.js" timestamp="1486568907320">
-        <mark key="[" line="268" column="53" />
-        <mark key="]" line="268" column="53" />
-        <mark key="." line="268" column="53" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/javascripts/odo/forms/financials.js" timestamp="1486573680998">
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="270" column="0" />
+        <mark key="^" line="267" column="24" />
+        <mark key="." line="270" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/group_vars/production_nj/vars.yml" timestamp="1481828610064">
         <mark key="[" line="103" column="18" />
@@ -1426,6 +1427,12 @@
         <mark key="[" line="223" column="19" />
         <mark key="]" line="223" column="19" />
         <mark key="." line="223" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/javascripts/odo/forms/financials_spec.js" timestamp="1486573772806">
+        <mark key="[" line="596" column="28" />
+        <mark key="]" line="596" column="28" />
+        <mark key="." line="596" column="28" />
+        <mark key="^" line="587" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/loan/summary/LoanSummary.java" timestamp="1481817902693">
         <mark key="[" line="38" column="36" />
@@ -1920,10 +1927,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IT09IHVuZGVmaW5lZCA=</text>
+        <text>existing lender</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IT09IHVuZGVmaW5lZCA=</text>
+        <text>existing lender</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
@@ -1932,34 +1939,34 @@
         <text encoding="base64">ICB2YWxpZGF0ZXMgOmV4aXN0aW5nX2xlbmRlcl9uYW1lLCA6cHJlc2VuY2UgPT4ge21lc3NhZ2U6ICJyZXF1aXJlZCJ9LCA6dW5sZXNzID0+IFByb2MubmV3IHsgfGJ1c2luZXNzfCBidXNpbmVzcy5leGlzdGluZ19maW5hbmNpbmcgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmZpbmFuY2lhbHNGb3JtKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmluYW5jaWFsc0Zvcm0uaGFzRXhpc3RpbmdGaW5hbmNpbmcgJiYgZmluYW5jaWFsc0Zvcm0uaGFzRXhpc3RpbmdGaW5hbmNpbmcuJG1vZGVsVmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiRE8gTk9UIEFERCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmluYW5jaWFsc0Zvcm0uaGFzRXhpc3RpbmdGaW5hbmNpbmcgIT09IHVuZGVmaW5lZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmZpbmFuY2lhbHNGb3JtLmxlbmRlck5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiQUREIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmZpbmFuY2lhbHNGb3JtLmhhc0V4aXN0aW5nRmluYW5jaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIlZBTElEIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKCAhZmluYW5jaWFsc0Zvcm0uZXN0aW1hdGVkQW5udWFsUmV2ZW51ZS4kdmFsaWQgfHwgIWZpbmFuY2lhbHNGb3JtLmF2ZXJhZ2VCYW5rQmFsYW5jZS4kdmFsaWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiSU5WQUxJRCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuYWJsZVZhbGlkYXRpb25zT25Gb3JtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmZpbmFuY2lhbHNGb3JtKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>126</text>
+        <text>72</text>
       </register>
     </registers>
     <search>
@@ -1993,7 +2000,6 @@
         <entry>experian</entry>
       </history-search>
       <history-cmd>
-        <entry>55</entry>
         <entry>147</entry>
         <entry>46</entry>
         <entry>79</entry>
@@ -2013,6 +2019,7 @@
         <entry>0</entry>
         <entry>w</entry>
         <entry>126</entry>
+        <entry>72</entry>
       </history-cmd>
       <history-expr />
       <history-input />
