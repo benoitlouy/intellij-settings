@@ -3,7 +3,7 @@
     <property name="created">2017-01-19T10:58:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-01-19T10:59:12</property>
+    <property name="modified">2017-02-08T17:35:26</property>
     <property name="originalScheme">SublimeMonokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -1586,6 +1586,43 @@
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
         <option name="FOREGROUND" value="9bff" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value>
+        <option name="FOREGROUND" value="f9276c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value>
+        <option name="FOREGROUND" value="f9276c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID">
+      <value>
+        <option name="FOREGROUND" value="48ff60" />
+        <option name="BACKGROUND" value="f2e8e4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value>
+        <option name="FOREGROUND" value="f9276c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
+      <value>
+        <option name="FOREGROUND" value="f9276c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_GVAR">
