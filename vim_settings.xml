@@ -1152,6 +1152,9 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/spring/beans.xml" timestamp="1484255190087">
         <mark key="[" line="84" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/decision/DecisionBusiness.java" timestamp="1486593892043">
+        <mark key="[" line="128" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/experian/ExperianCallerVersion2701.java" timestamp="1483994766703">
         <mark key="[" line="15" column="43" />
       </file>
@@ -1285,6 +1288,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/business/Business.java" timestamp="1486593887152">
+        <mark key="[" line="185" column="10" />
+        <mark key="]" line="185" column="10" />
+        <mark key="." line="185" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/static/samples/underwriting/valid-request-chase.json" timestamp="1486397298732" />
       <file name="$USER_HOME$/Projects/OnDeck/parrot/deploy/group_vars/dev01.yml" timestamp="1486049064358">
@@ -1940,10 +1948,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWF4bGVuZ3RoOiAxMiwg</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWF4bGVuZ3RoOiAxMiwg</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
