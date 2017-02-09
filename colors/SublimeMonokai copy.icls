@@ -3,7 +3,7 @@
     <property name="created">2017-01-19T10:58:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-02-08T17:35:26</property>
+    <property name="modified">2017-02-09T09:40:12</property>
     <property name="originalScheme">SublimeMonokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -1625,6 +1625,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="RUBY_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="e6da74" />
+        <option name="BACKGROUND" value="212121" />
+      </value>
+    </option>
     <option name="RUBY_GVAR">
       <value>
         <option name="FOREGROUND" value="bce9fd" />
@@ -1661,6 +1667,24 @@
       <value>
         <option name="FOREGROUND" value="f92772" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_PARAMDEF_CALL">
+      <value>
+        <option name="FOREGROUND" value="f92772" />
+        <option name="BACKGROUND" value="212121" />
+      </value>
+    </option>
+    <option name="RUBY_SPECIFIC_CALL">
+      <value>
+        <option name="FOREGROUND" value="f92772" />
+        <option name="BACKGROUND" value="212121" />
+      </value>
+    </option>
+    <option name="RUBY_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="48ff60" />
+        <option name="BACKGROUND" value="212121" />
       </value>
     </option>
     <option name="SASS_ATTRIBUTE">
