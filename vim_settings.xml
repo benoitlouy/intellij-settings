@@ -672,10 +672,11 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/test/java/com/ondeck/termloan/api/model/amortizationschedule/LoanPaydownTest.java" timestamp="1486754558337">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/test/java/com/ondeck/termloan/api/model/amortizationschedule/LoanPaydownTest.java" timestamp="1486755308961">
+        <mark key="[" line="44" column="33" />
+        <mark key="]" line="44" column="33" />
+        <mark key="." line="44" column="33" />
+        <mark key="^" line="45" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryTask.java" timestamp="1484585466638">
         <mark key="[" line="24" column="18" />
@@ -728,6 +729,11 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/test/java/com/ondeck/termloan/service/amortizationschedule/AmortizationScheduleServiceTest.java" timestamp="1486757111397">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="29" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/TestContext.java" timestamp="1484088506001">
         <mark key="[" line="1" column="0" />
@@ -1112,6 +1118,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/itest/java/com/ondeck/termloan/database/LoanPaydownDAOIT.java" timestamp="1486756212315">
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/test/resources/parrot_test.yml" timestamp="1486052452845">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="14" />
@@ -1439,7 +1451,7 @@
         <mark key="]" line="122" column="95" />
         <mark key="." line="122" column="95" />
       </file>
-      <file name="/fragment.java" timestamp="1486754549031">
+      <file name="/fragment.java" timestamp="1486757304118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/models/business_spec.rb" timestamp="1486677075533">
@@ -2014,10 +2026,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBsb2FuSWQgPSAibG9hbklkIjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
@@ -2026,31 +2038,31 @@
         <text encoding="base64">ICAgICAgICAucGVyY2VudGFnZVByaW5jaXBhbFBhaWQocGVyY2VudGFnZVByaW5jaXBhbFBhaWQpLnBlcmNlbnRhZ2VJbnRlcmVzdFBhaWQocGVyY2VudGFnZUludGVyZXN0UGFpZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBsb2FuSWQgPSAibG9hbklkIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAyLzEwLzE3Lgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5pbnRlcm5hbC5ydW5uZXJzLnN0YXRlbWVudHMuRXhwZWN0RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAyLzEwLzE3Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAyLzEwLzE3Lgo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAyLzEwLzE3Lgo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
