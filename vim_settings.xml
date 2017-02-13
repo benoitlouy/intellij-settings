@@ -1087,10 +1087,10 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/termloan/TermLoanService.java" timestamp="1487001368724">
-        <mark key="[" line="51" column="71" />
-        <mark key="]" line="51" column="71" />
-        <mark key="." line="51" column="71" />
-        <mark key="^" line="51" column="69" />
+        <mark key="[" line="52" column="71" />
+        <mark key="]" line="52" column="71" />
+        <mark key="." line="52" column="71" />
+        <mark key="^" line="52" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/java/com/ondeck/parrot/authentication/AuthenticationBundle.java" timestamp="1485902534947">
         <mark key="[" line="15" column="83" />
@@ -1209,7 +1209,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/core/service/DefaultCLMServiceIntegrationTest.java" timestamp="1484944084303">
         <mark key="[" line="43" column="120" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/main/java/com/ondeck/termloan/api/model/amortizationschedule/LoanPaydown.java" timestamp="1486765115818">
+      <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/main/java/com/ondeck/termloan/api/model/amortizationschedule/LoanPaydown.java" timestamp="1487003154968">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="22" />
@@ -1569,11 +1569,11 @@
         <mark key="]" line="57" column="44" />
         <mark key="." line="57" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/termloan/TermLoanServiceTest.java" timestamp="1487001383655">
-        <mark key="[" line="79" column="24" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/termloan/TermLoanServiceTest.java" timestamp="1487003422383">
+        <mark key="[" line="52" column="71" />
+        <mark key="]" line="52" column="71" />
+        <mark key="." line="52" column="71" />
+        <mark key="^" line="87" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/Results2.java" timestamp="1482245668838">
         <mark key="[" line="7" column="0" />
@@ -2059,11 +2059,11 @@
       <jump line="138" column="82" filename="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHViQ2xpZW50KGxvYW5JZCwgbG9hblBheWRvd25zKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCBMaXN0PExvYW5QYXlkb3duPiBsb2FuUGF5ZG93bnM=</text>
       </register>
       <register name="-" type="4">
-        <text>(answer = Answers.RETURNS_DEEP_STUBS)</text>
+        <text encoding="base64">LCBMaXN0PExvYW5QYXlkb3duPiBsb2FuUGF5ZG93bnM=</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
@@ -2072,31 +2072,31 @@
         <text encoding="base64">ICAgICAgICBzdHViQ2xpZW50KGxvYW5JZCwgbG9hblBheWRvd25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbW9ydGl6YXRpb25DU1YuaWZQcmVzZW50KFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQucmVzb3VyY2UoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBMaXN0PExvYW5QYXlkb3duPgogICAgICAgICAgICAgICAgbG9hblBheWRvd25zMSA9CiAgICAgICAgICAgICAgICBjbGllbnQucmVzb3VyY2UoInVybC92Mi9hbW9ydGl6YXRpb25zY2hlZHVsZS9sb2FuaWQvIiArIGxvYW5JZCkKICAgICAgICAgICAgICAgICAgICAgICAgLmdldChuZXcgR2VuZXJpY1R5cGU8TGlzdDxMb2FuUGF5ZG93bj4+KCkge30pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2FuUGF5ZG93bnMxKTs=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAyLzEzLzE3Lgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQucmVzb3VyY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW0uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW08U3RyaW5nW10+IGNvbmNhdCA9IFN0cmVhbS5jb25jYXQoU3RyZWFtLm9mKEhFQURFUlMpLCBwYXlkb3ducy5zdHJlYW0oKS5tYXAodGhpczo6dG9DU1ZMaW5lKSk7Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
