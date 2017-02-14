@@ -304,11 +304,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/db/add_existing_mca_to_business_decision_business.sql" timestamp="1487108254580">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/db/add_existing_mca_to_business_decision_business.sql" timestamp="1487109374061">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="5" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/id/FetchReportByIdHandlerUnitTest.java" timestamp="1484332090358">
         <mark key="[" line="144" column="38" />
@@ -1652,10 +1652,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>multiply(ONE_HUNDRED</text>
+        <text>decision_business</text>
       </register>
       <register name="-" type="4">
-        <text>multiply(ONE_HUNDRED</text>
+        <text>decision_business</text>
       </register>
       <register name="/" type="4">
         <text>experian</text>
