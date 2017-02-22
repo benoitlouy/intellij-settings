@@ -856,7 +856,7 @@
         <mark key="]" line="65" column="78" />
         <mark key="." line="65" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/acquisition/SalesforceChoiceForHowSoon.java" timestamp="1487794671452" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/acquisition/SalesforceChoiceForHowSoon.java" timestamp="1487796811048" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSAReportFetcher.java" timestamp="1483994612691">
         <mark key="[" line="43" column="85" />
       </file>
@@ -965,9 +965,9 @@
         <mark key="." line="296" column="122" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/salesforce/Application.java" timestamp="1487794687724">
-        <mark key="[" line="704" column="0" />
-        <mark key="]" line="704" column="0" />
-        <mark key="." line="704" column="0" />
+        <mark key="[" line="706" column="0" />
+        <mark key="]" line="706" column="0" />
+        <mark key="." line="706" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/main/java/com/ondeck/termloan/database/collectionhold/CollectionHoldDAO.java" timestamp="1486750486819" />
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/cashflow-service/src/main/java/com/ondeck/cfs/service/mx/listener/MxCashFlowEnrollmentListener.java" timestamp="1485981967742">
@@ -996,9 +996,6 @@
         <mark key="[" line="85" column="18" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/USAOfferActivationRule.java" timestamp="1487794603217">
-        <mark key="[" line="93" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/veda/VedaOrgIdFetcherTaskFactory.java" timestamp="1484585502808">
         <mark key="[" line="38" column="18" />
@@ -2238,8 +2235,8 @@
       <jump line="91" column="31" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/LeadResource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getStatusInfo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTYWxlc2ZvcmNlQ2hvaWNlRm9ySG93U29vbi5XSVRISU5fNzJfSE9VUlMub3JkaW5hbCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>getStatusInfo</text>
@@ -2251,31 +2248,31 @@
         <text encoding="base64">ICAgICAgICBzdHViQ2xpZW50KGxvYW5JZCwgbG9hblBheWRvd25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTYWxlc2ZvcmNlQ2hvaWNlRm9ySG93U29vbi5XSVRISU5fNzJfSE9VUlMub3JkaW5hbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgJiYgKHVyZ2VuY3lEYXlzQ2hvaWNlLmlzUHJlc2VudCgpICYmIHVyZ2VuY3lEYXlzQ2hvaWNlLmdldCgpIDw9IDMpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBBdXRobnpDbGllbnRTZXR0aW5ncyBhdXRobnpDbGllbnRTZXR0aW5ncyA9IG5ldyBBdXRobnpDbGllbnRTZXR0aW5ncygiaHR0cHM6Ly9hdXRoLm9uZGVjay50b29scyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImRldl9tZXJjaGFudEFQSSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIk9EYzRSRU0zTWpVdE5USTNNUzAwT0RKR0xUaEZORGt0TWtaRFFqaEdNalkzTWpSQyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAwMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAwMCk7CiAgICAgICAgVGVybUxvYW5TZXJ2aWNlIHRscyA9IG5ldyBUZXJtTG9hblNlcnZpY2UoImh0dHA6Ly9kMmZ1bGwwMTo4MDgwL3Rlcm1sb2FuIiwgYXV0aG56Q2xpZW50U2V0dGluZ3MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lcmNoYW50LWFwaS1jbGllbnQiKTsKICAgICAgICBPcHRpb25hbDxMaXN0PExvYW5QYXlkb3duPj4gYW1vcnRpemF0aW9uU2NoZWR1bGUgPSB0bHMuZ2V0QW1vcnRpemF0aW9uU2NoZWR1bGUoIjE3MzYyNTM0MDI0MzAwMDUiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYW1vcnRpemF0aW9uU2NoZWR1bGUpOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgJiYgaXNMb2FuQW1vdW50RWxpZ2libGVUb1Nob3cob2ZmZXIuZ2V0TG9hbkFtb3VudCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicmVjZWl2ZWQge30iLCByZXNwb25zZS5nZXRTdGF0dXNJbmZvKCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgJiYgaXNEZXNpcmVkTG9hbkFtb3VudEdvb2RUb1Nob3coZGVzaXJlZExvYW5BbW91bnQuZ2V0KCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZC8vICAgICAgICByZXR1cm4gZGVzaXJlZExvYW5BbW91bnQuaXNQcmVzZW50KCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihUZXJtTG9hblNlcnZpY2UuY2xhc3MpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZmlsdGVyKHYgLT4gdiA+PSAxICYmIHYgPD0gU2FsZXNmb3JjZUNob2ljZUZvckhvd1Nvb24udmFsdWVzKCkubGVuZ3RoKS5tYXAodiAtPiBTYWxlc2ZvcmNlQ2hvaWNlRm9ySG93U29vbi52YWx1ZXMoKVt2IC0gMV0uc2EpCiAgICAgICAgICAgIC5vckVsc2U=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd2hlbih3ZWJSZXNvdXJjZS5nZXQoQ2xpZW50UmVzcG9uc2UuY2xhc3MpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJiYgdXJnZW5jeURheXNDaG9pY2UuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQobmV3IEdlbmVyaWNUeXBlPExpc3Q8TG9hblBheWRvd24+PigpIHt9KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>702</text>
