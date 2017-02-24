@@ -388,6 +388,9 @@
         <mark key="]" line="175" column="84" />
         <mark key="." line="175" column="84" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/unified-app-model/src/main/java/com/ondeck/common/model/underwriting/TermCreditDecision.java" timestamp="1487951655732">
+        <mark key="[" line="23" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/helper/salesforce/OpportunityHelper.java" timestamp="1487013690695">
         <mark key="[" line="368" column="8" />
       </file>
@@ -944,6 +947,11 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/group_vars/devglobalproducts.yml" timestamp="1487280728878">
         <mark key="[" line="20" column="73" />
+      </file>
+      <file name="$USER_HOME$/Downloads/term_credit_decision_option.json" timestamp="1487951749462">
+        <mark key="[" line="90" column="34" />
+        <mark key="]" line="90" column="34" />
+        <mark key="." line="90" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/equifax/us/EquifaxBCRReportFetcherUnitTest.java" timestamp="1484331499194">
         <mark key="[" line="56" column="64" />
@@ -2263,11 +2271,11 @@
       <jump line="91" column="31" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/LeadResource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RnVuY3Rpb248TE9DRGF0YSwgQ29sbGVjdGlvbjxQcm9maWxlQ29udGFjdD4+IGYgPSA=</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
