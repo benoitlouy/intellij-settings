@@ -894,10 +894,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSAReportFetcher.java" timestamp="1483994612691">
         <mark key="[" line="43" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/stylesheets/form.sass" timestamp="1488226359508">
-        <mark key="[" line="421" column="23" />
-        <mark key="]" line="423" column="0" />
-        <mark key="." line="423" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/stylesheets/form.sass" timestamp="1488227772131">
+        <mark key="'" line="427" column="9" />
+        <mark key="[" line="427" column="9" />
+        <mark key="]" line="427" column="14" />
+        <mark key="^" line="427" column="14" />
+        <mark key="." line="427" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/VendorConnectionSwitch.java" timestamp="1483978970393">
         <mark key="[" line="10" column="67" />
@@ -1566,7 +1568,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/consumer/experian/ExperianCCRReportFetcher.java" timestamp="1483995075038">
         <mark key="[" line="47" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/business.rb" timestamp="1487861993679">
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/business.rb" timestamp="1488228210114">
         <mark key="[" line="376" column="41" />
         <mark key="]" line="314" column="0" />
         <mark key="." line="314" column="0" />
@@ -2278,14 +2280,13 @@
         <mark key="[" line="109" column="116" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/term-loan/build.gradle" timestamp="1487278665402" />
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/stylesheets/application.sass" timestamp="1488225014963">
-        <mark key="[" line="701" column="0" />
-        <mark key="]" line="701" column="0" />
-        <mark key="." line="701" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/stylesheets/application.sass" timestamp="1488228174555">
+        <mark key="[" line="695" column="0" />
+        <mark key="]" line="695" column="0" />
+        <mark key="." line="695" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="42" filename="$USER_HOME$/Projects/OnDeck/commons/src/java/com/odc/commons/util/request/XPathBasedRequestKeysMapCreator.java" />
       <jump line="45" column="39" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/request/Xpath2BasedRequestKeysMapCreator.java" />
       <jump line="47" column="9" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/request/Xpath2BasedRequestKeysMapCreator.java" />
       <jump line="51" column="27" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/request/Xpath2BasedRequestKeysMapCreator.java" />
@@ -2385,6 +2386,7 @@
       <jump line="68" column="0" filename="$USER_HOME$/Projects/OnDeck/loanservicing/jobs/paydown_generation/src/main/java/com/odc/loanservicing/model/Paydown.java" />
       <jump line="27" column="25" filename="$USER_HOME$/Projects/OnDeck/term-loan/webservice/src/test/java/com/ondeck/termloan/api/resource/amortizationschedule/AdjustLoanPaydownScaleTest.java" />
       <jump line="91" column="31" filename="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/LeadResource.java" />
+      <jump line="427" column="9" filename="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/stylesheets/form.sass" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2403,10 +2405,14 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRpc3BsYXk6IGlubGluZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LmJ1c2luZXNzSWRUeXBlU2VjdGlvbiA+IGRpdgo=</text>
+      <register name="3" type="4">
+        <text>//.singleColumnOverwrites.selfReported__cont input[type=&quot;text&quot;]
+//  width: 55%
+//  float: none
+//  +mqMax($allo)
+//    width: 100%</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2414,36 +2420,21 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>//.singleColumnOverwrites.selfReported__cont input[type=&quot;text&quot;]
+//  width: 55%
+//  float: none
+//  +mqMax($allo)
+//    width: 100%</text>
       </register>
-      <register name="7" type="4">
-        <text>//.businessIdTypeSection *
-//  padding: 0 5px
-
-//.leftColumn
-//  float: left
-//  //position: relative
-//  width: 20%
-//  //padding-bottom: 10px
-//
-//.rightColumn
-//  float: left
-//  //position: relative
-//  width: 80%
-//  //padding-bottom: 10px
-
-//br
-//  clear: both
-//
-//hr
-//  clear: both</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRpc3BsYXk6IGlubGluZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aWR0aDogNTUlCg==</text>
+        <text encoding="base64">LmJ1c2luZXNzSWRUeXBlU2VjdGlvbiA+IGRpdgo=</text>
       </register>
       <register name=":" type="4">
         <text>702</text>
