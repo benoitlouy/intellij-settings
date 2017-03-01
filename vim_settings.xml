@@ -31,6 +31,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/lexisnexis/v183/LexisNexisBusinessIDReportFetcherV183.java" timestamp="1483995001275">
         <mark key="[" line="33" column="80" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/helpers/sessions_helper.rb" timestamp="1488387879422" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/experian/alerts/publish/ExperianAlertPublishHandler.java" timestamp="1483983481221">
         <mark key="[" line="30" column="102" />
         <mark key="]" line="30" column="102" />
@@ -447,7 +448,7 @@
         <mark key="]" line="65" column="42" />
         <mark key="." line="65" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/routes.rb" timestamp="1488383038352" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/routes.rb" timestamp="1488387469811" />
       <file name="$USER_HOME$/Projects/OnDeck/parrot/deploy/group_vars/all.yml" timestamp="1482953529921">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -1286,8 +1287,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/application_controller.rb" timestamp="1487612080452">
-        <mark key="[" line="352" column="47" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/application_controller.rb" timestamp="1488388153094">
+        <mark key="[" line="397" column="6" />
+        <mark key="]" line="397" column="6" />
+        <mark key="." line="397" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchFT.java" timestamp="1484075104722">
         <mark key="[" line="28" column="125" />
@@ -1827,10 +1830,10 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/businesses_controller.rb" timestamp="1487012867311">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/businesses_controller.rb" timestamp="1488388158946">
+        <mark key="[" line="114" column="16" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/controllers/LoginController.java" timestamp="1482334498121">
         <mark key="[" line="45" column="0" />
@@ -1987,7 +1990,7 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" timestamp="1487012524416">
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/businesses/_form.html.erb" timestamp="1488388896458">
         <mark key="[" line="138" column="25" />
         <mark key="]" line="138" column="25" />
         <mark key="." line="138" column="25" />
@@ -2059,6 +2062,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/experian/ExperianCaller.java" timestamp="1483994525372">
         <mark key="[" line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/javascripts/odo/services/industry.js" timestamp="1488387114799" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/equifax/intl/ca/EquifaxCanadaBCRCachingReportHandler.java" timestamp="1484322814239">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -2229,11 +2233,11 @@
       <jump line="427" column="9" filename="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/stylesheets/form.sass" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0zNzI1XSBmaXggYnVpbGQK</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
