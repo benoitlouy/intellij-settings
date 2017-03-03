@@ -53,11 +53,6 @@
         <mark key="]" line="44" column="44" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/decision/Offer.java" timestamp="1488552736094">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/test/java/com/ondeck/termloan/service/amortizationschedule/AdjustLoanPaydownScaleTest.java" timestamp="1487277525781">
         <mark key="[" line="35" column="67" />
       </file>
@@ -276,6 +271,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/product/ProductManagement.java" timestamp="1488555504536" />
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/pom.xml" timestamp="1482946182006">
         <mark key="[" line="23" column="12" />
         <mark key="]" line="25" column="0" />
@@ -501,6 +497,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1488397552880">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/PaymentsResource.java" timestamp="1488555610087">
+        <mark key="[" line="57" column="64" />
+        <mark key="]" line="57" column="59" />
+        <mark key="." line="57" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/AdditionnalEndpointConfig.java" timestamp="1484252316459">
         <mark key="[" line="1" column="0" />
@@ -881,6 +882,9 @@
         <mark key="]" line="775" column="52" />
         <mark key="." line="775" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/ProductResource.java" timestamp="1488555450109">
+        <mark key="[" line="214" column="59" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/java/com/ondeck/parrot/authentication/AuthenticationConfig.java" timestamp="1485890921820">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -951,9 +955,9 @@
         <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingHelperTest.java" timestamp="1488552778525">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/group_vars/devglobalproducts.yml" timestamp="1487280728878">
         <mark key="[" line="20" column="73" />
@@ -1069,6 +1073,9 @@
         <mark key="]" line="86" column="58" />
         <mark key="^" line="86" column="58" />
         <mark key="." line="86" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/resource/LineOfCreditResource.java" timestamp="1488555639015">
+        <mark key="[" line="145" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/bankstatements/BankStatementsConfigHolder.java" timestamp="1482422694700">
         <mark key="[" line="4" column="25" />
@@ -1468,11 +1475,6 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/audit/auditor/MESExecutionAuditorUnitTest.java" timestamp="1484924984098">
         <mark key="[" line="16" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/UnderwritingHelper.java" timestamp="1488552866059">
-        <mark key="[" line="285" column="27" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/deploy/group_vars/all.yml" timestamp="1485969216490">
         <mark key="[" line="53" column="26" />
@@ -2315,11 +2317,11 @@
       <jump line="427" column="9" filename="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/stylesheets/form.sass" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0zODcxXSBzYXZlIHByZXBheW1lbnQgZGlzY291bnQgaW4gb2ZmZXIgdGFibGUK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
