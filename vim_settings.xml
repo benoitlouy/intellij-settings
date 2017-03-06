@@ -305,7 +305,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/staging_nj.yml" timestamp="1484923446527">
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/staging_nj.yml" timestamp="1488828407446">
         <mark key="[" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/equifax/us/EquifaxCCRCachingReportHandlerTest.java" timestamp="1484585287607">
@@ -866,7 +866,7 @@
         <mark key="[" line="42" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/staging_co.yml" timestamp="1487263719941" />
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/all.yml" timestamp="1488827430440">
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/all.yml" timestamp="1488828351656">
         <mark key="[" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/assets/i18n/CANADA.json" timestamp="1487968680068">
@@ -1310,8 +1310,10 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/deploy/group_vars/dev01.yml" timestamp="1487260242170" />
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/production_co/vars.yml" timestamp="1484923454393">
-        <mark key="[" line="37" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/production_co/vars.yml" timestamp="1488828432673">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/java/com/ondeck/parrot/authnz/AuthnzModule.java" timestamp="1485895133296">
         <mark key="[" line="13" column="4" />
@@ -1576,6 +1578,12 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/gateways/merchantapi/MerchantApiEndPoint.java" timestamp="1488482306210" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/production_nj/vars.yml" timestamp="1488828454927">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/passport/src/main/java/com/ondeck/passport/country/subdivision/SubDivision.java" timestamp="1481302778485">
         <mark key="[" line="255" column="64" />
         <mark key="]" line="256" column="0" />
@@ -1649,8 +1657,8 @@
         <mark key="]" line="19" column="57" />
         <mark key="." line="19" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/staging_co.yml" timestamp="1484923425410">
-        <mark key="[" line="37" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/clmservice/deploy/group_vars/staging_co.yml" timestamp="1488828387141">
+        <mark key="[" line="37" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/resource/LeadResourceTest.java" timestamp="1487781667259">
         <mark key="[" line="7" column="32" />
@@ -2596,28 +2604,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7Cgo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoc3BsaXQpKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1tdIHNwbGl0ID0gcy5zcGxpdCgiICIpOwo=</text>
+        <text encoding="base64">ICB7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzID0gIm1wcHNlcnZpY2VfYWxsIG1wcF91bmVuY3J5cHRlZF9hbGwiOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoc3BsaXQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEltbXV0YWJsZVNldC5jb3B5T2Yoc2NvcGUuc3BsaXQoIiAiKSk7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZ1tdIHNwbGl0ID0gcy5zcGxpdCgiICIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzID0gIm1wcHNlcnZpY2VfYWxsIG1wcF91bmVuY3J5cHRlZF9hbGwiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
