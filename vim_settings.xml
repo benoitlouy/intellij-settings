@@ -865,7 +865,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/build.gradle" timestamp="1488998686475" />
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/build.gradle" timestamp="1488999492748" />
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/assets/javascripts/odo/forms/businesses.js" timestamp="1488568030188">
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="0" />
@@ -904,6 +904,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ws.security/wss4j/1.6.18/61917319616fe45f07abf182b7db97d1b8eb30af/wss4j-1.6.18-sources.jar!/org/apache/ws/security/WSConstants.java" timestamp="1489000491474" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/dao/ProductHistoryRepository.java" timestamp="1488833631958">
         <mark key="[" line="20" column="17" />
         <mark key="]" line="20" column="17" />
@@ -925,7 +926,7 @@
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1488998995787">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1489000522066">
         <mark key="[" line="630" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/signup/_email_opt_in.html.erb" timestamp="1487367113787" />
@@ -1490,6 +1491,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/security/WSSecuritySOAPHeaderHandler.java" timestamp="1489000517785">
+        <mark key="[" line="81" column="41" />
+        <mark key="]" line="81" column="41" />
+        <mark key="." line="81" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/veda/VedaOrgIdCachingReportHandler.java" timestamp="1484325901244">
         <mark key="[" line="87" column="0" />
@@ -2324,11 +2330,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="&quot;" type="4">
+        <text>WSConstants</text>
       </register>
       <register name="-" type="4">
-        <text>loanId</text>
+        <text>WSConstants</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2337,31 +2343,31 @@
         <text encoding="base64">ZGVmIGRhdGFwaXBlc192ZXJzaW9uID0gJzEuNTktUERUUy0xMzI4LVNOQVBTSE9UJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzgvMTcuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzgvMTcuCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzgvMTcuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzgvMTcuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXVkaXRSZXBvcnQuc2V0RGF0YShJbW11dGFibGVNYXAub2YoImxvYW5JZCIsIGlucHV0LmdldExvY1N0YXR1cygpLmdldExvYW5JZCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgYXVkaXRSZXBvcnQuc2V0RGF0YShJbW11dGFibGVNYXAub2YoImxvYW5JZCIsIGlucHV0LmdldExvY1N0YXR1cygpLmdldExvYW5JZCgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>199</text>
