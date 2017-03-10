@@ -421,6 +421,11 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1489181215358">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/gateways/merchantapi/request/DrawRequest.java" timestamp="1488466912888">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="11" />
@@ -814,6 +819,7 @@
         <mark key="[" line="95" column="119" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/conf/properties/useradmin.properties" timestamp="1489177464637" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/common/src/main/java/com/ondeck/alpaca/common/provider/AbstractJaxrsWebTargetProvider.java" timestamp="1489181532940" />
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/config/MXEventHandlersConfig.java" timestamp="1485192230779">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -911,6 +917,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchReportFetcher.java" timestamp="1483995312660">
         <mark key="[" line="63" column="68" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar!/javax/ws/rs/client/WebTarget.class" timestamp="1489183481244" />
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/priordecision/PriorDecisionFlow.java" timestamp="1484860858861">
         <mark key="[" line="52" column="4" />
         <mark key="]" line="52" column="4" />
@@ -1773,8 +1780,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserServiceImpl.java" timestamp="1489179399515">
-        <mark key="[" line="60" column="31" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserServiceImpl.java" timestamp="1489184612492">
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="." line="307" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/account/yodlee/bankdata/FastLinkUserUnitTest.java" timestamp="1484585688495">
         <mark key="[" line="44" column="22" />
@@ -2055,7 +2064,7 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/pom.xml" timestamp="1489165034085">
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/pom.xml" timestamp="1489180475907">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -2290,10 +2299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UudjIuVXNlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5hYnNlbnQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
+        <text>getEntity</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2302,34 +2311,34 @@
         <text encoding="base64">ZGVmIGRhdGFwaXBlc192ZXJzaW9uID0gJzEuNTktUERUUy0xMzI4LVNOQVBTSE9UJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UudjIuVXNlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5hYnNlbnQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UuZXhjZXB0aW9uLlVzZXJTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UudjIuVXNlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UuZXhjZXB0aW9uLlVzZXJTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0ZXJuYWxDdXN0b21lcklkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiUGFydG5lciBpZGVudGlmaWVyIGZvciBwYXJ0bmVySWQgW3t9XSBhbmQgZXh0ZXJuYWxDdXN0b21lcklkIFt7fV0gbm90IGZvdW5kIiwgcGFydG5lcklkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKFN0YXR1cy5OT1RfRk9VTkQuZ2V0U3RhdHVzQ29kZSgpID09IHVpZS5nZXRSZXNwb25zZSgpLmdldFN0YXR1cygpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIFBhcnRuZXJJZGVudGlmaWVyLmNsYXNzKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFVzZXJTZXJ2aWNlSW1wbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBleHRlcm5hbEN1c3RvbWVySWQpKSkuZ2V0KAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc291cmNlRm9yKFN0cmluZy5mb3JtYXQoInBhcnRuZXJpZGVudGlmaWVyL3BhcnRuZXJJZC8lcy9leHRlcm5hbEN1c3RvbWVySWQvJXMiLCBwYXJ0bmVySWQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>87</text>
+        <text>106</text>
       </register>
     </registers>
     <search>
@@ -2363,7 +2372,6 @@
         <entry>consent</entry>
       </history-search>
       <history-cmd>
-        <entry>34</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>89</entry>
@@ -2383,6 +2391,7 @@
         <entry>9</entry>
         <entry>199</entry>
         <entry>87</entry>
+        <entry>106</entry>
       </history-cmd>
       <history-expr />
       <history-input />
