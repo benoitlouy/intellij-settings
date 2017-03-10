@@ -994,6 +994,7 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/consumer/intl/can/UnifiedCanadaConsumerScoringFlow.java" timestamp="1484756951939">
         <mark key="[" line="95" column="119" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/conf/properties/useradmin.properties" timestamp="1489177464637" />
       <file name="$USER_HOME$/Projects/OnDeck/loanservicing/core/src/main/java/com/asset/ODC/utils/Defines/DBDefines.java" timestamp="1486753245930">
         <mark key="[" line="1249" column="78" />
       </file>
@@ -1914,6 +1915,12 @@
         <mark key="." line="21" column="18" />
         <mark key="^" line="44" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/build.gradle" timestamp="1489176879616">
+        <mark key="[" line="114" column="46" />
+        <mark key="]" line="115" column="48" />
+        <mark key="^" line="115" column="48" />
+        <mark key="." line="115" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/console-common/pom.xml" timestamp="1488213382710">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="22" />
@@ -2130,6 +2137,9 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/build.gradle" timestamp="1489176896393">
+        <mark key="[" line="98" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/audit/AuditEntry.java" timestamp="1482441651023">
         <mark key="[" line="8" column="27" />
@@ -2661,6 +2671,11 @@
         <mark key="]" line="701" column="0" />
         <mark key="." line="701" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/service/userservice/UserServiceConfig.java" timestamp="1489177858900">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="47" column="9" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/request/Xpath2BasedRequestKeysMapCreator.java" />
@@ -2765,8 +2780,8 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>converter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>converter</text>
@@ -2783,26 +2798,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGlzdG9yaWNhbENhbmFkaWFuQnVzaW5lc3NDcmVkaXRSZXBvcnRDb252ZXJ0ZXIkIGNvbnZlcnRlciA9CiAgICAgICAgICAgIEhpc3RvcmljYWxDYW5hZGlhbkJ1c2luZXNzQ3JlZGl0UmVwb3J0Q29udmVydGVyJC5NT0RVTEUkOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5hbCBIaXN0b3JpY2FsQ2FuYWRpYW5CdXNpbmVzc0NyZWRpdFJlcG9ydENvbnZlcnRlciBjYW5hZGlhbkJDUkNvbnZlcnRlciwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFVzZXJTZXJ2aWNlSW1wbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNhbmFkaWFuQkNSQ29udmVydGVyID0gY2FuYWRpYW5CQ1JDb252ZXJ0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSGlzdG9yaWNhbENhbmFkaWFuQnVzaW5lc3NDcmVkaXRSZXBvcnRDb252ZXJ0ZXIgY2FuYWRpYW5CQ1JDb252ZXJ0ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWRkcmVzcyA8LSBPcHRpb24oY29tcGFueUluZm8uZ2V0QWRkcmVzcykK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBhOiBTZXFbU2NvcmVzLlNjb3JlXSA9IE9wdGlvbihjb21tZXJjaWFsUmVwb3J0LmdldENOU2NvcmVTdW1tYXJ5KS5zYWZlTWFwKF8uZ2V0U2NvcmVzKS5tYXAoXy5nZXRTY29yZXMuYXNTY2FsYSkuZmxhdHRlbgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyU2VydmljZSB1c2VyU2VydmljZSgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjb3Jlcy5maW4K</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name=":" type="4">
         <text>87</text>
