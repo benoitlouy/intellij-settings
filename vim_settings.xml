@@ -723,8 +723,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v1/UserServiceConnection.java" timestamp="1489179194358">
-        <mark key="[" line="72" column="33" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v1/UserServiceConnection.java" timestamp="1489184866032">
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="31" />
+        <mark key="." line="54" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/eid-client/src/test/java/com/odc/eid/canada/client/EidClientIntegrationTest.java" timestamp="1489090252415" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryTask.java" timestamp="1484585466638">
@@ -1780,10 +1782,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserServiceImpl.java" timestamp="1489184612492">
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="." line="307" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserServiceImpl.java" timestamp="1489184847579">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/account/yodlee/bankdata/FastLinkUserUnitTest.java" timestamp="1484585688495">
         <mark key="[" line="44" column="22" />
@@ -2298,11 +2300,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5hYnNlbnQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>getEntity</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2311,31 +2313,37 @@
         <text encoding="base64">ZGVmIGRhdGFwaXBlc192ZXJzaW9uID0gJzEuNTktUERUUy0xMzI4LVNOQVBTSE9UJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5hYnNlbnQoKTsK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0ZXJuYWxDdXN0b21lcklkKTsK</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiUGFydG5lciBpZGVudGlmaWVyIGZvciBwYXJ0bmVySWQgW3t9XSBhbmQgZXh0ZXJuYWxDdXN0b21lcklkIFt7fV0gbm90IGZvdW5kIiwgcGFydG5lcklkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFN0YXR1cy5OT1RfRk9VTkQuZ2V0U3RhdHVzQ29kZSgpID09IHVpZS5nZXRSZXNwb25zZSgpLmdldFN0YXR1cygpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFBhcnRuZXJJZGVudGlmaWVyLmNsYXNzKSk7Cg==</text>
+      <register name="7" type="4">
+        <text>//  private WebResource resourceFor(final String entityUrl) {
+//    return client.resource(baseURI + &quot;/&quot; + entityUrl);
+//  }
+
+//  private WebResource.Builder resourceWithAuth(final String entityUrl) throws UserServiceException {
+//    return addClientAuth(resourceFor(entityUrl));
+//  }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBleHRlcm5hbEN1c3RvbWVySWQpKSkuZ2V0KAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5hYnNlbnQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc291cmNlRm9yKFN0cmluZy5mb3JtYXQoInBhcnRuZXJpZGVudGlmaWVyL3BhcnRuZXJJZC8lcy9leHRlcm5hbEN1c3RvbWVySWQvJXMiLCBwYXJ0bmVySWQsCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
