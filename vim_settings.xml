@@ -333,10 +333,10 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1489420984070">
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="47" column="23" />
-        <mark key="." line="47" column="23" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1489421254280">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="21" />
+        <mark key="." line="52" column="21" />
         <mark key="^" line="47" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/gateways/merchantapi/request/DrawRequest.java" timestamp="1488466912888">
@@ -739,7 +739,7 @@
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1489005870468">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/pom.xml" timestamp="1489421242827">
         <mark key="[" line="634" column="0" />
         <mark key="]" line="634" column="0" />
         <mark key="." line="634" column="0" />
@@ -1898,11 +1898,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>${authnz.tools.version}</text>
       </register>
       <register name="-" type="4">
-        <text>request(</text>
+        <text>${authnz.tools.version}</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
