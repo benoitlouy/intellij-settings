@@ -1043,11 +1043,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/test/java/com/ondeck/userservice/client/v2/UserServiceIT.java" timestamp="1489506032008">
-        <mark key="[" line="201" column="24" />
-        <mark key="]" line="201" column="12" />
-        <mark key="." line="201" column="12" />
-        <mark key="^" line="201" column="12" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/test/java/com/ondeck/userservice/client/v2/UserServiceIT.java" timestamp="1489506925189">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="237" column="39" />
+        <mark key="." line="237" column="39" />
+        <mark key="^" line="237" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/test/resources/parrot_test.yml" timestamp="1482946657916">
         <mark key="[" line="8" column="0" />
@@ -1463,11 +1463,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryConfig.java" timestamp="1485206198876">
         <mark key="[" line="159" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/controller/UpdateAccountController.java" timestamp="1489505249283">
-        <mark key="[" line="105" column="22" />
-        <mark key="]" line="105" column="21" />
-        <mark key="." line="105" column="21" />
-        <mark key="^" line="105" column="21" />
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/controller/UpdateAccountController.java" timestamp="1489506683837">
+        <mark key="[" line="109" column="63" />
+        <mark key="]" line="109" column="63" />
+        <mark key="." line="109" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/java/com/ondeck/parrot/authentication/UserServiceAuthenticator.java" timestamp="1485891979574">
         <mark key="[" line="12" column="0" />
@@ -2333,10 +2332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZC5zZXRVc2VybmFtZSh1c2VyLmdldFVzZXJDcmVkZW50aWFscygpLmdldFVzZXJuYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBidXNpbmVzc05hbWUgPSAiRGF0YSBjb3JwIEluYy4iOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>(expected = User)</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2345,31 +2344,31 @@
         <text encoding="base64">ZGVmIGRhdGFwaXBlc192ZXJzaW9uID0gJzEuNTktUERUUy0xMzI4LVNOQVBTSE9UJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZC5zZXRVc2VybmFtZSh1c2VyLmdldFVzZXJDcmVkZW50aWFscygpLmdldFVzZXJuYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBidXNpbmVzc05hbWUgPSAiRGF0YSBjb3JwIEluYy4iOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVzZXJUeXBlIHVzZXIgPSB1c2VyU2VydmljZU1hbmFnZXIuZ2V0VXNlckJ5SWQodXNlcklkKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBwYXNzd29yZDIgPSAiczBtZVBAYXNzIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gYjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFVzZXJTZXJ2aWNlTWFuYWdlciB1c2VyU2VydmljZU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZC5zZXRVc2VybmFtZSh1c2VyLmdldFVzZXJDcmVkZW50aWFscygpLmdldFVzZXJuYW1lKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIFVzZXJUeXBlIHVzZXIgPSB1c2VyU2VydmljZU1hbmFnZXIuZ2V0VXNlckJ5SWQodXNlcklkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghcmVjb3ZlcnlVcmwuZXF1YWxzKCIiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyByZWNvdmVyeVVybCA9IHVzZXJTZXJ2aWNlTWFuYWdlci5nZW5lcmF0ZVVybCh1c2VyRGF0YS5nZXRVc2VySWQoKSk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFVzZXJTZXJ2aWNlTWFuYWdlciB1c2VyU2VydmljZU1hbmFnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
