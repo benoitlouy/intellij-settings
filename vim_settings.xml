@@ -426,7 +426,7 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1489504240833">
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1489521451372">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
@@ -496,10 +496,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi-client/pom.xml" timestamp="1489520939286">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="33" />
-        <mark key="." line="16" column="33" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi-client/pom.xml" timestamp="1489521481797">
+        <mark key="[" line="119" column="23" />
+        <mark key="]" line="119" column="23" />
+        <mark key="." line="119" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1488835037201">
         <mark key="[" line="0" column="0" />
@@ -1525,6 +1525,11 @@
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi-client/src/main/java/com/ondeck/merchantapi/client/MerchantApiClientFactory.java" timestamp="1489521528249">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca-api/api/src/test/scala/com/ondeck/alpaca/api/Scala/thirdpartyreports/service/EServiceCorpReportServiceSpec.scala" timestamp="1484862385839">
         <mark key="[" line="48" column="58" />
       </file>
@@ -1878,7 +1883,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserServiceImpl.java" timestamp="1489503980925">
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserServiceImpl.java" timestamp="1489521442631">
         <mark key="[" line="163" column="13" />
         <mark key="]" line="163" column="13" />
         <mark key="." line="163" column="13" />
@@ -2393,11 +2398,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaHR0cENsaWVudC5hZGRGaWx0ZXIoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>version.</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2406,45 +2411,31 @@
         <text encoding="base64">ZGVmIGRhdGFwaXBlc192ZXJzaW9uID0gJzEuNTktUERUUy0xMzI4LVNOQVBTSE9UJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lcmNoYW50QXBpTWFuYWdlci5hcAo=</text>
+        <text encoding="base64">ICAgICAgaHR0cENsaWVudC5hZGRGaWx0ZXIoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBASW5qZWN0TW9ja3MK</text>
+        <text encoding="base64">ICAgIENsaWVudENvbmZpZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIENsaWVudENvbmZpZyBjb25maWcgPSBuZXcgQ2xpZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBKZXJzZXlBdXRobnpDbGllbnRGaWx0ZXIoYSkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgZ2VuZXJhdGVVcmxfcmV0dXJuc0FVcmwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgIGxvbmcgdXNlcklkID0gNTQyMzYzTDsKLy8KLy8gICAgICAgIFN0cmluZyB1cmwgPSB1c2VyU2VydmljZU1hbmFnZXIuZ2VuZXJhdGVVcmwodXNlcklkKTsKLy8KLy8gICAgICAgIGFzc2VydFRoYXQodXJsLmxlbmd0aCgpID4gMCkuaXNUcnVlKCk7Ci8vICAgIH0KLy8KLy8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgZ2VuZXJhdGVVcmxfcmV0dXJuc0FuRW1wdHlTdHJpbmdJZlVzZXJJc05vdEZvdW5kKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Ci8vICAgICAgICBsb25nIHVzZXJJZCA9IDFMOwovLwovLyAgICAgICAgU3RyaW5nIHVybCA9IHVzZXJTZXJ2aWNlTWFuYWdlci5nZW5lcmF0ZVVybCh1c2VySWQpOwovLwovLyAgICAgICAgYXNzZXJ0VGhhdCh1cmwpLmlzRXF1YWxUbygiIik7Ci8vICAgIH0KCi8vICAgIEBUZXN0Ci8vICAgIHB1YmxpYyB2b2lkIGZpbmRVc2VyQnlVc2VybmFtZV9yZXR1cm5zQVVzZXIoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgIFN0cmluZyB1c2VybmFtZSA9ICJ0ZXN0MTM2MjY1MjIxNjg1NjgzNS5mdWxsZGVtb0BvbmRlY2tjYXBpdGFsLmNvbSI7Ci8vCi8vICAgICAgICBVc2VyVHlwZSB1c2VyID0gdXNlclNlcnZpY2VNYW5hZ2VyLmdldFVzZXJCeVVzZXJuYW1lKHVzZXJuYW1lKTsKLy8KLy8gICAgICAgIGFzc2VydFRoYXQodXNlci5nZXRVc2VyQ3JlZGVudGlhbHMoKS5nZXRVc2VybmFtZSgpKS5pc0VxdWFsVG8odXNlcm5hbWUpOwovLyAgICB9Ci8vCi8vICAgIEBUZXN0Ci8vICAgIHB1YmxpYyB2b2lkIGZpbmRVc2VyQnlVc2VybmFtZV9yZXR1cm5zTnVsbElmVXNlcklzTm90Rm91bmQoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgIFN0cmluZyB1c2VybmFtZSA9ICJ0ZXN0OTk5OTk5OTk5OTk5LmZ1bGxkZW1vQG9uZGVja2NhcGl0YWwuY29tIjsKLy8KLy8gICAgICAgIFVzZXJUeXBlIHVzZXIgPSB1c2VyU2VydmljZU1hbmFnZXIuZ2V0VXNlckJ5VXNlcm5hbWUodXNlcm5hbWUpOwovLwovLyAgICAgICAgYXNzZXJ0VGhhdCh1c2VyKS5pc051bGwoKTsKLy8gICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1lcmNoYW50QXBpTWFuYWdlci5hcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBASW5qZWN0TW9ja3MK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>//    @Test
-//    public void getUserById_returnsAUser() {
-//        long userId = 412005L;
-//        UserType user = userServiceManager.getUserById(userId);
-//
-//        assertThat(user.getUserId()).isEqualTo(userId);
-//    }
-//
-//    @Test
-//    public void getUserById_returnsNullIfUserIsNotFound() {
-//        long userId = 1L;
-//        UserType user = userServiceManager.getUserById(userId);
-//
-//        assertThat(user).isNull();
-//    }</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgZ2VuZXJhdGVVcmxfcmV0dXJuc0FVcmwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgIGxvbmcgdXNlcklkID0gNTQyMzYzTDsKLy8KLy8gICAgICAgIFN0cmluZyB1cmwgPSB1c2VyU2VydmljZU1hbmFnZXIuZ2VuZXJhdGVVcmwodXNlcklkKTsKLy8KLy8gICAgICAgIGFzc2VydFRoYXQodXJsLmxlbmd0aCgpID4gMCkuaXNUcnVlKCk7Ci8vICAgIH0KLy8KLy8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgZ2VuZXJhdGVVcmxfcmV0dXJuc0FuRW1wdHlTdHJpbmdJZlVzZXJJc05vdEZvdW5kKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Ci8vICAgICAgICBsb25nIHVzZXJJZCA9IDFMOwovLwovLyAgICAgICAgU3RyaW5nIHVybCA9IHVzZXJTZXJ2aWNlTWFuYWdlci5nZW5lcmF0ZVVybCh1c2VySWQpOwovLwovLyAgICAgICAgYXNzZXJ0VGhhdCh1cmwpLmlzRXF1YWxUbygiIik7Ci8vICAgIH0KCi8vICAgIEBUZXN0Ci8vICAgIHB1YmxpYyB2b2lkIGZpbmRVc2VyQnlVc2VybmFtZV9yZXR1cm5zQVVzZXIoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgIFN0cmluZyB1c2VybmFtZSA9ICJ0ZXN0MTM2MjY1MjIxNjg1NjgzNS5mdWxsZGVtb0BvbmRlY2tjYXBpdGFsLmNvbSI7Ci8vCi8vICAgICAgICBVc2VyVHlwZSB1c2VyID0gdXNlclNlcnZpY2VNYW5hZ2VyLmdldFVzZXJCeVVzZXJuYW1lKHVzZXJuYW1lKTsKLy8KLy8gICAgICAgIGFzc2VydFRoYXQodXNlci5nZXRVc2VyQ3JlZGVudGlhbHMoKS5nZXRVc2VybmFtZSgpKS5pc0VxdWFsVG8odXNlcm5hbWUpOwovLyAgICB9Ci8vCi8vICAgIEBUZXN0Ci8vICAgIHB1YmxpYyB2b2lkIGZpbmRVc2VyQnlVc2VybmFtZV9yZXR1cm5zTnVsbElmVXNlcklzTm90Rm91bmQoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgIFN0cmluZyB1c2VybmFtZSA9ICJ0ZXN0OTk5OTk5OTk5OTk5LmZ1bGxkZW1vQG9uZGVja2NhcGl0YWwuY29tIjsKLy8KLy8gICAgICAgIFVzZXJUeXBlIHVzZXIgPSB1c2VyU2VydmljZU1hbmFnZXIuZ2V0VXNlckJ5VXNlcm5hbWUodXNlcm5hbWUpOwovLwovLyAgICAgICAgYXNzZXJ0VGhhdCh1c2VyKS5pc051bGwoKTsKLy8gICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
