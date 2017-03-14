@@ -928,10 +928,10 @@
         <mark key="]" line="634" column="0" />
         <mark key="." line="634" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/test/java/com/ondeck/userservice/client/v1/UserServiceManagerIT.java" timestamp="1489437505554">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/test/java/com/ondeck/userservice/client/v1/UserServiceManagerIT.java" timestamp="1489501177466">
+        <mark key="[" line="50" column="100" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/MockFlowUtil.java" timestamp="1481900602950">
         <mark key="[" line="77" column="2" />
@@ -1570,7 +1570,7 @@
         <mark key="]" line="42" column="19" />
         <mark key="." line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v1/UserServiceManager.java" timestamp="1489420958862">
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v1/UserServiceManager.java" timestamp="1489500937033">
         <mark key="[" line="359" column="0" />
         <mark key="]" line="359" column="0" />
         <mark key="." line="359" column="0" />
@@ -1804,11 +1804,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/controller/ResetPasswordController.java" timestamp="1489499882758">
-        <mark key="[" line="74" column="39" />
-        <mark key="]" line="74" column="38" />
-        <mark key="." line="74" column="38" />
-        <mark key="^" line="74" column="38" />
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/controller/ResetPasswordController.java" timestamp="1489500434718">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserServiceImpl.java" timestamp="1489497547012">
         <mark key="[" line="44" column="0" />
@@ -2319,7 +2318,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdXNlckNyZWRlbnRpYWxzID0gdXNlci5nZXRVc2VyQ3JlZGVudGlhbHMoKTsK</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZC5zZXRTdWJUeXBlKHVzZXIyLmdldFVzZXJTdWJUeXBlKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>com.ondeck.userservice.client.v1</text>
@@ -2331,31 +2330,31 @@
         <text encoding="base64">ZGVmIGRhdGFwaXBlc192ZXJzaW9uID0gJzEuNTktUERUUy0xMzI4LVNOQVBTSE9UJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdXNlckNyZWRlbnRpYWxzID0gdXNlci5nZXRVc2VyQ3JlZGVudGlhbHMoKTsK</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZC5zZXRTdWJUeXBlKHVzZXIyLmdldFVzZXJTdWJUeXBlKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZC5zZXRQYXNzd29yZCh1c2VyQ3JlZGVudGlhbHMuZ2V0UGFzc3dvcmQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgVXNlclR5cGUgdXNlcjI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZC5zZXRVc2VybmFtZSh1c2VyQ3JlZGVudGlhbHMuZ2V0VXNlcm5hbWUoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgdXNlckNyZWRlbnRpYWxzID0gdXNlci5nZXRVc2VyQ3JlZGVudGlhbHMoKTsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29tbWFuZC5zZXRQYXNzd29yZCh1c2VyQ3JlZGVudGlhbHMuZ2V0UGFzc3dvcmQoKSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZC5zZXRVc2VybmFtZSh1c2VyQ3JlZGVudGlhbHMuZ2V0VXNlcm5hbWUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJFeGNlcHRpb24gdGhyb3duIGluIFJlc2V0UGFzc3dvcmRDb250cm9sbGVyLiBFcnJvciByZXNwb25zZSBmcm9tIFVzZXJTZXJ2aWNlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlckNyZWRlbnRpYWxzID0gdXNlci5nZXRVc2VyQ3JlZGVudGlhbHMoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFVzZXJBZG1pbkV4Y2VwdGlvbigK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKCIuZm9ybUJhY2tpbmdPYmplY3QgW0Vycm9yIGluIHJlc3BvbnNlIGZyb20gVXNlclNlcnZpY2VdIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJFeGNlcHRpb24gdGhyb3duIGluIFJlc2V0UGFzc3dvcmRDb250cm9sbGVyLiBFcnJvciByZXNwb25zZSBmcm9tIFVzZXJTZXJ2aWNlIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFVzZXJBZG1pbkV4Y2VwdGlvbigK</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
