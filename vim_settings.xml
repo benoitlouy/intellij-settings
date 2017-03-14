@@ -426,7 +426,7 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1489521451372">
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1489521772915">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
@@ -496,10 +496,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi-client/pom.xml" timestamp="1489521481797">
-        <mark key="[" line="119" column="23" />
-        <mark key="]" line="119" column="23" />
-        <mark key="." line="119" column="23" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi-client/pom.xml" timestamp="1489521780900">
+        <mark key="[" line="16" column="67" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1488835037201">
         <mark key="[" line="0" column="0" />
@@ -1157,6 +1157,9 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi-client/src/main/java/com/ondeck/merchantapi/client/MerchantImpersonationAuthenticator.java" timestamp="1489522327355">
+        <mark key="[" line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/ExperianAMSFetcherUnitTest.java" timestamp="1484337141779">
         <mark key="[" line="138" column="67" />
         <mark key="]" line="138" column="67" />
@@ -1525,10 +1528,10 @@
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi-client/src/main/java/com/ondeck/merchantapi/client/MerchantApiClientFactory.java" timestamp="1489521528249">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi-client/src/main/java/com/ondeck/merchantapi/client/MerchantApiClientFactory.java" timestamp="1489522268356">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca-api/api/src/test/scala/com/ondeck/alpaca/api/Scala/thirdpartyreports/service/EServiceCorpReportServiceSpec.scala" timestamp="1484862385839">
         <mark key="[" line="48" column="58" />
@@ -2399,10 +2402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaHR0cENsaWVudC5hZGRGaWx0ZXIoKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBodHRwQ2xpZW50Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>version.</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2411,31 +2414,31 @@
         <text encoding="base64">ZGVmIGRhdGFwaXBlc192ZXJzaW9uID0gJzEuNTktUERUUy0xMzI4LVNOQVBTSE9UJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaHR0cENsaWVudC5hZGRGaWx0ZXIoKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBodHRwQ2xpZW50Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENsaWVudENvbmZpZwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIENsaWVudENvbmZpZyBjb25maWcgPSBuZXcgQ2xpZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyBKZXJzZXlBdXRobnpDbGllbnRGaWx0ZXIoYSkK</text>
+        <text encoding="base64">ICAgIGh0dHBDbGllbnQuc2V0UmVhZFRpbWVvdXQoY29uZmlndXJhdGlvbi5nZXRSZWFkVGltZW91dE1pbGxpcygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1lcmNoYW50QXBpTWFuYWdlci5hcAo=</text>
+        <text encoding="base64">ICAgIGh0dHBDbGllbnQuc2V0Q29ubmVjdFRpbWVvdXQoY29uZmlndXJhdGlvbi5nZXRDb25uZWN0VGltZW91dE1pbGxpcygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASW5qZWN0TW9ja3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENsaWVudCBodHRwQ2xpZW50ID0gQ2xpZW50LmNyZWF0ZShjb25maWcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgY29uZmlnLmdldENsYXNzZXMoKS5hZGQoSmFja3NvbkN1c3RvbUNsaWVudFByb3ZpZGVyLmNsYXNzKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgZ2VuZXJhdGVVcmxfcmV0dXJuc0FVcmwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgIGxvbmcgdXNlcklkID0gNTQyMzYzTDsKLy8KLy8gICAgICAgIFN0cmluZyB1cmwgPSB1c2VyU2VydmljZU1hbmFnZXIuZ2VuZXJhdGVVcmwodXNlcklkKTsKLy8KLy8gICAgICAgIGFzc2VydFRoYXQodXJsLmxlbmd0aCgpID4gMCkuaXNUcnVlKCk7Ci8vICAgIH0KLy8KLy8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgZ2VuZXJhdGVVcmxfcmV0dXJuc0FuRW1wdHlTdHJpbmdJZlVzZXJJc05vdEZvdW5kKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Ci8vICAgICAgICBsb25nIHVzZXJJZCA9IDFMOwovLwovLyAgICAgICAgU3RyaW5nIHVybCA9IHVzZXJTZXJ2aWNlTWFuYWdlci5nZW5lcmF0ZVVybCh1c2VySWQpOwovLwovLyAgICAgICAgYXNzZXJ0VGhhdCh1cmwpLmlzRXF1YWxUbygiIik7Ci8vICAgIH0KCi8vICAgIEBUZXN0Ci8vICAgIHB1YmxpYyB2b2lkIGZpbmRVc2VyQnlVc2VybmFtZV9yZXR1cm5zQVVzZXIoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgIFN0cmluZyB1c2VybmFtZSA9ICJ0ZXN0MTM2MjY1MjIxNjg1NjgzNS5mdWxsZGVtb0BvbmRlY2tjYXBpdGFsLmNvbSI7Ci8vCi8vICAgICAgICBVc2VyVHlwZSB1c2VyID0gdXNlclNlcnZpY2VNYW5hZ2VyLmdldFVzZXJCeVVzZXJuYW1lKHVzZXJuYW1lKTsKLy8KLy8gICAgICAgIGFzc2VydFRoYXQodXNlci5nZXRVc2VyQ3JlZGVudGlhbHMoKS5nZXRVc2VybmFtZSgpKS5pc0VxdWFsVG8odXNlcm5hbWUpOwovLyAgICB9Ci8vCi8vICAgIEBUZXN0Ci8vICAgIHB1YmxpYyB2b2lkIGZpbmRVc2VyQnlVc2VybmFtZV9yZXR1cm5zTnVsbElmVXNlcklzTm90Rm91bmQoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgIFN0cmluZyB1c2VybmFtZSA9ICJ0ZXN0OTk5OTk5OTk5OTk5LmZ1bGxkZW1vQG9uZGVja2NhcGl0YWwuY29tIjsKLy8KLy8gICAgICAgIFVzZXJUeXBlIHVzZXIgPSB1c2VyU2VydmljZU1hbmFnZXIuZ2V0VXNlckJ5VXNlcm5hbWUodXNlcm5hbWUpOwovLwovLyAgICAgICAgYXNzZXJ0VGhhdCh1c2VyKS5pc051bGwoKTsKLy8gICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
