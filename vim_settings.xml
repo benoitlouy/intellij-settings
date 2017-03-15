@@ -1347,6 +1347,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/service/userservice/UserServiceManager.java" timestamp="1489586937790">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/itest/java/com/ondeck/termloan/database/LoanPaydownDAOIT.java" timestamp="1487091619185">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -2432,29 +2437,96 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIEF1dGhuekNsaWVudFNldHRpbmdzIGF1dGhuekNsaWVudFNldHRpbmdzKCkgewogICAgICAgIHJldHVybiBuZXcgQXV0aG56Q2xpZW50U2V0dGluZ3ModXJsLCBjbGllbnRJZCwgY2xpZW50U2VjcmV0LCBudWxsLCA2MDAwMCwgNjAwMDApOwogICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>//    public String generateUrl(Long userId) {
+//        GenerateURLRequestDocument document = GenerateURLRequestDocumentBuilder.build(userId, PASSWORD,
+//                config.getSecurityCode());
+//
+//        try {
+//            HttpConnection connection = getConnection(config.getGenerateUrl());
+//            String response = connection.authenticatedPost(document.toString(), Constant.TEXT_XML_CONTENT_TYPE,
+//                    tokenProvider.getUserServiceToken());
+//
+//            GenerateURLResponseDocument urlResponseDocument =
+//                    GenerateURLResponseDocument.Factory.parse(response);
+//
+//            String url = urlResponseDocument.getGenerateURLResponse().getURL();
+//
+//            return url != null ? url : &quot;&quot;;
+//        } catch (IOException | AuthenticationFailureException | XmlException e) {
+//            logger.error(&quot;.generateUrl Error while attempting to generate url for user id: &quot; + userId, e);
+//            throw new RuntimeException(e);
+//        }
+//    }
+
+//    public UserType getUserByUsername(String username) {
+//        try {
+//            HttpConnection connection = getConnection(config.getGetUserByUsername() + username);
+//            String response = connection.get(tokenProvider.getUserServiceToken());
+//            GetUserResponseDocument.GetUserResponse getUserResponse = GetUserResponseDocument.Factory
+//                    .parse(response)
+//                    .getGetUserResponse();
+//
+//            return getUserResponse.getGetUser();
+//        } catch (AuthenticationFailureException | IOException | XmlException e) {
+//            logger.error(&quot;.getUserByUsername Error while attempting to find user for username: &quot; + username, e);
+//        }
+//
+//        return null;
+//    }
+
+//    public UpdateUserResponseDocument updateUser(Long userId, String oldUsername, String newUsername) {
+//        UpdateUserRequestDocument document = UpdateUserRequestDocumentBuilder.build(userId, oldUsername, newUsername,
+//                config.getSecurityCode());
+//
+//        try {
+//            HttpConnection connection = getConnection(config.getUpdateUser());
+//            String response = connection.authenticatedPost(document.toString(), Constant.TEXT_XML_CONTENT_TYPE,
+//                    tokenProvider.getUserServiceToken());
+//
+//            return UpdateUserResponseDocument.Factory.parse(response);
+//        } catch (XmlException | IOException | AuthenticationFailureException e) {
+//            String msg = String.format(&quot;.updateUser Error attempting to update user for userId: %d username: %s &quot; +
+//                    &quot;new_username: %s&quot;, userId, oldUsername, newUsername);
+//            logger.error(msg, e);
+//
+//            throw new RuntimeException(e);
+//        }
+//    }</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB1cGRhdGVEZW1vVXNlckZhaWxzKCkgdGhyb3dzIFVzZXJTZXJ2aWNlRXhjZXB0aW9uIHsKICAgIGVtYWlsID0gInVzZXIuZGVtbzEwMEBvbmRlY2tjYXBpdGFsLmNvbSI7CiAgICBTdHJpbmcgcGFzc3dvcmQgPSAiczBtZVBAYXNzIjsKICAgIFN0cmluZyBidXNpbmVzc05hbWUgPSAiRGF0YSBjb3JwIEluYy4iOwoKICAgIExvbmcgdXNlcklkID0gdXNlclNlcnZpY2UuY3JlYXRlTWVyY2hhbnRVc2VyKGVtYWlsLCBwYXNzd29yZCwgYnVzaW5lc3NOYW1lKTsKCiAgICBVc2VyQWNjb3VudCB1c2VyQWNjb3VudCA9IG5ldyBVc2VyQWNjb3VudCgpOwogICAgdXNlckFjY291bnQuc2V0SWQodXNlcklkKTsKICAgIHVzZXJBY2NvdW50LnNldFVzZXJuYW1lKCJ1c2VyLmRlbW8yMDBAb25kZWNrY2FwaXRhbC5jb20iKTsKCiAgICBleHBlY3RlZEV4Y2VwdGlvbi5leHBlY3QoVXNlclNlcnZpY2VFeGNlcHRpb24uY2xhc3MpOwogICAgdXNlclNlcnZpY2UudXBkYXRlVXNlcih1c2VyQWNjb3VudCk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHVwZGF0ZVVzZXJXaXRoRXhpc3RpbmdVc2VybmFtZUZhaWxzKCkgdGhyb3dzIFVzZXJTZXJ2aWNlRXhjZXB0aW9uIHsKICAgIFN0cmluZyBlbWFpbCA9ICJvZG9Vc2VyX1Rlc3RFbWFpbEBvbmRlY2suY29tXyIgKyBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgIFN0cmluZyBwYXNzd29yZCA9ICJzMG1lUEBhc3MiOwogICAgU3RyaW5nIGJ1c2luZXNzTmFtZSA9ICJEYXRhIGNvcnAgSW5jLiI7CgogICAgU3RyaW5nIGVtYWlsMiA9ICJvZG9Vc2VyX1Rlc3RFbWFpbDJAb25kZWNrLmNvbV8iICsgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CgogICAgTG9uZyB1c2VySWQgPSB1c2VyU2VydmljZS5jcmVhdGVNZXJjaGFudFVzZXIoZW1haWwsIHBhc3N3b3JkLCBidXNpbmVzc05hbWUpOwogICAgTG9uZyB1c2VySWQyID0gdXNlclNlcnZpY2UuY3JlYXRlTWVyY2hhbnRVc2VyKGVtYWlsMiwgcGFzc3dvcmQsIGJ1c2luZXNzTmFtZSk7CgogICAgVXNlckFjY291bnQgdXNlckFjY291bnQgPSBuZXcgVXNlckFjY291bnQoKTsKICAgIHVzZXJBY2NvdW50LnNldElkKHVzZXJJZCk7CiAgICB1c2VyQWNjb3VudC5zZXRVc2VybmFtZShlbWFpbDIpOwoKICAgIHVzZXJTZXJ2aWNlLnVwZGF0ZVVzZXIodXNlckFjY291bnQpOwogIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBTdHJpbmcgY2xpZW50U2VjcmV0ID0gUmFuZG9tU3RyaW5nVXRpbHMucmFuZG9tQWxwaGFudW1lcmljKDgpOwo=</text>
+      <register name="6" type="4">
+        <text>//    public UserType getUserById(long userId) {
+//        try {
+//            HttpConnection connection = getConnection(config.getGetUser() + userId);
+//            String response = connection.get(tokenProvider.getUserServiceToken());
+//            GetUserResponseDocument.GetUserResponse getUserResponse = GetUserResponseDocument.Factory
+//                    .parse(response)
+//                    .getGetUserResponse();
+//
+//            return getUserResponse.getGetUser();
+//        } catch (AuthenticationFailureException | IOException | XmlException e) {
+//            logger.error(&quot;.getUserById Error when attempting to fetch user for id &quot; + userId, e);
+//            throw new RuntimeException(e);
+//        }
+//    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBMb25nIGlkID0gUmFuZG9tVXRpbHMubmV4dExvbmcoMCwgOTk5OTk5OSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBTdHJpbmcgY2xpZW50U2VjcmV0ID0gUmFuZG9tU3RyaW5nVXRpbHMucmFuZG9tQWxwaGFudW1lcmljKDgpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIEF1dGhuekNsaWVudFNldHRpbmdzIGF1dGhuekNsaWVudFNldHRpbmdzKCkgewogICAgICAgIHJldHVybiBuZXcgQXV0aG56Q2xpZW50U2V0dGluZ3ModXJsLCBjbGllbnRJZCwgY2xpZW50U2VjcmV0LCBudWxsLCA2MDAwMCwgNjAwMDApOwogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTdHJpbmcgY2xpZW50TmFtZSA9IFJhbmRvbVN0cmluZ1V0aWxzLnJhbmRvbUFscGhhbnVtZXJpYygxMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
