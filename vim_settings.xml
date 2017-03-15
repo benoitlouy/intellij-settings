@@ -432,11 +432,11 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1489525520201">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1489592884405">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/gateways/merchantapi/request/DrawRequest.java" timestamp="1488466912888">
         <mark key="[" line="10" column="11" />
@@ -1088,10 +1088,10 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/test/java/com/ondeck/userservice/client/v2/UserServiceIT.java" timestamp="1489585592956">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/test/java/com/ondeck/userservice/client/v2/UserServiceIT.java" timestamp="1489592957492">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/test/resources/parrot_test.yml" timestamp="1482946657916">
         <mark key="[" line="8" column="0" />
@@ -2423,11 +2423,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>find</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiaHR0cDovL2xvY2FsaG9zdDo4MDgwL1VzZXJTZXJ2aWNlIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>find</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2436,98 +2436,31 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiaHR0cDovL2xvY2FsaG9zdDo4MDgwL1VzZXJTZXJ2aWNlIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVtYWlscy5hZGQoZW1haWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVtYWlsID0gbnVsbDsK</text>
       </register>
-      <register name="4" type="4">
-        <text>//    public String generateUrl(Long userId) {
-//        GenerateURLRequestDocument document = GenerateURLRequestDocumentBuilder.build(userId, PASSWORD,
-//                config.getSecurityCode());
-//
-//        try {
-//            HttpConnection connection = getConnection(config.getGenerateUrl());
-//            String response = connection.authenticatedPost(document.toString(), Constant.TEXT_XML_CONTENT_TYPE,
-//                    tokenProvider.getUserServiceToken());
-//
-//            GenerateURLResponseDocument urlResponseDocument =
-//                    GenerateURLResponseDocument.Factory.parse(response);
-//
-//            String url = urlResponseDocument.getGenerateURLResponse().getURL();
-//
-//            return url != null ? url : &quot;&quot;;
-//        } catch (IOException | AuthenticationFailureException | XmlException e) {
-//            logger.error(&quot;.generateUrl Error while attempting to generate url for user id: &quot; + userId, e);
-//            throw new RuntimeException(e);
-//        }
-//    }
-
-//    public UserType getUserByUsername(String username) {
-//        try {
-//            HttpConnection connection = getConnection(config.getGetUserByUsername() + username);
-//            String response = connection.get(tokenProvider.getUserServiceToken());
-//            GetUserResponseDocument.GetUserResponse getUserResponse = GetUserResponseDocument.Factory
-//                    .parse(response)
-//                    .getGetUserResponse();
-//
-//            return getUserResponse.getGetUser();
-//        } catch (AuthenticationFailureException | IOException | XmlException e) {
-//            logger.error(&quot;.getUserByUsername Error while attempting to find user for username: &quot; + username, e);
-//        }
-//
-//        return null;
-//    }
-
-//    public UpdateUserResponseDocument updateUser(Long userId, String oldUsername, String newUsername) {
-//        UpdateUserRequestDocument document = UpdateUserRequestDocumentBuilder.build(userId, oldUsername, newUsername,
-//                config.getSecurityCode());
-//
-//        try {
-//            HttpConnection connection = getConnection(config.getUpdateUser());
-//            String response = connection.authenticatedPost(document.toString(), Constant.TEXT_XML_CONTENT_TYPE,
-//                    tokenProvider.getUserServiceToken());
-//
-//            return UpdateUserResponseDocument.Factory.parse(response);
-//        } catch (XmlException | IOException | AuthenticationFailureException e) {
-//            String msg = String.format(&quot;.updateUser Error attempting to update user for userId: %d username: %s &quot; +
-//                    &quot;new_username: %s&quot;, userId, oldUsername, newUsername);
-//            logger.error(msg, e);
-//
-//            throw new RuntimeException(e);
-//        }
-//    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVtYWlscy5hZGQoZW1haWwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChlbWFpbCAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVtYWlsID0gbnVsbDsK</text>
       </register>
-      <register name="7" type="4">
-        <text>//    public UserType getUserById(long userId) {
-//        try {
-//            HttpConnection connection = getConnection(config.getGetUser() + userId);
-//            String response = connection.get(tokenProvider.getUserServiceToken());
-//            GetUserResponseDocument.GetUserResponse getUserResponse = GetUserResponseDocument.Factory
-//                    .parse(response)
-//                    .getGetUserResponse();
-//
-//            return getUserResponse.getGetUser();
-//        } catch (AuthenticationFailureException | IOException | XmlException e) {
-//            logger.error(&quot;.getUserById Error when attempting to fetch user for id &quot; + userId, e);
-//            throw new RuntimeException(e);
-//        }
-//    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIEF1dGhuekNsaWVudFNldHRpbmdzIGF1dGhuekNsaWVudFNldHRpbmdzKCkgewogICAgICAgIHJldHVybiBuZXcgQXV0aG56Q2xpZW50U2V0dGluZ3ModXJsLCBjbGllbnRJZCwgY2xpZW50U2VjcmV0LCBudWxsLCA2MDAwMCwgNjAwMDApOwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
