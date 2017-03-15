@@ -764,20 +764,20 @@
         <mark key="]" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/util/PasswordUtility.java" timestamp="1489179346304">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/util/PasswordUtility.java" timestamp="1489611588903">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/lienjudgment/lexisnexis/LexisNexisLienJudgmentCachingReportHandlerTest.java" timestamp="1484585322628">
         <mark key="[" line="54" column="23" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v1/UserServiceConnection.java" timestamp="1489436315503">
-        <mark key="[" line="203" column="78" />
-        <mark key="]" line="203" column="78" />
-        <mark key="." line="203" column="78" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v1/UserServiceConnection.java" timestamp="1489611103601">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryTask.java" timestamp="1484585466638">
         <mark key="[" line="24" column="18" />
@@ -2509,7 +2509,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UuZXhjZXB0aW9uLlVzZXJTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>resetToken</text>
@@ -2521,31 +2521,31 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UuZXhjZXB0aW9uLlVzZXJTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oYmFzZVBhY2thZ2VDbGFzc2VzID0gVXNlclNlcnZpY2VDb25maWcuY2xhc3MpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGRlY3J5cHQoZmluYWwgU3RyaW5nIGRhdGEpIHRocm93cyBVc2VyU2VydmljZUV4Y2VwdGlvbiB7CiAgICB0cnkgewogICAgICAvL1JlbW92ZSBsaW5lIHNlcGFyYXRvciBmcm9tIGVuY3J5cHRlZCBzdHJpbmcgdG8gYmUgYmFja3dhcmQgY29tcGF0aWJsZSB3aXRoIG9kYyBjb21tb24gUGFzc3dvcmRVdGlsaXR5CiAgICAgIHJldHVybiBuZXcgU3RyaW5nKGRlY3J5cHRpb25DaXBoZXIuZG9GaW5hbChCQVNFNjQuZGVjb2RlKGRhdGEucmVwbGFjZShTeXN0ZW0ubGluZVNlcGFyYXRvcigpLCAiIikpKSwgVVRGOCk7CiAgICB9IGNhdGNoIChJbGxlZ2FsQmxvY2tTaXplRXhjZXB0aW9uIHwgQmFkUGFkZGluZ0V4Y2VwdGlvbiBlKSB7CiAgICAgIHRocm93IG5ldyBVc2VyU2VydmljZUV4Y2VwdGlvbigiRGVjcnlwdGlvbiBlcnJvciIsIGUpOwogICAgfQogIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVkFMSURBVEVfQlVTSU5FU1NfTUVUSE9EID0gInZhbGlkYXRlQnVzaW5lc3MiOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8dmVyc2lvbi5qZXJzZXk+MS4xOC4xPC92ZXJzaW9uLmplcnNleT4K</text>
+        <text encoding="base64">ICAgKiBVc2VyIFNlcnZpY2UncyAidmFsaWRhdGVCdXNpbmVzcyIgd2ViIHNlcnZpY2UgcGF0aC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8IS0tPC9kZXBlbmRlbmN5Pi0tPgo=</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPCEtLTx2ZXJzaW9uPiR7dmVyc2lvbi5qZXJzZXl9PC92ZXJzaW9uPi0tPgo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJPCEtLTxhcnRpZmFjdElkPmplcnNleS1jbGllbnQ8L2FydGlmYWN0SWQ+LS0+Cg==</text>
+        <text encoding="base64">ICAgKiBVc2VyIFNlcnZpY2UncyBjcmVhdGVVc2VyIHdlYiBzZXJ2aWNlIHBhdGgK</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
