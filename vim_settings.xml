@@ -870,10 +870,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/scoring/consumer/intl/can/UnifiedCanadaConsumerScoringFlow.java" timestamp="1484756951939">
         <mark key="[" line="95" column="119" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/conf/properties/useradmin.properties" timestamp="1489519209234">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="27" />
-        <mark key="." line="33" column="27" />
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/conf/properties/useradmin.properties" timestamp="1489595774414">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/config/MXEventHandlersConfig.java" timestamp="1485192230779">
         <mark key="[" line="36" column="0" />
@@ -2450,7 +2450,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2sudXNlcnNlcnZpY2UuY2xpZW50LnYxLlVzZXJTZXJ2aWNlTWFuYWdlcjsK</text>
+        <text encoding="base64">dXNlcnNlcnZpY2UuZ2V0dXNlcmJ5dXNlcm5hbWU9Z2V0VXNlckJ5VXNlcm5hbWUvCg==</text>
       </register>
       <register name="-" type="4">
         <text>Service</text>
@@ -2462,40 +2462,31 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2sudXNlcnNlcnZpY2UuY2xpZW50LnYxLlVzZXJTZXJ2aWNlTWFuYWdlcjsK</text>
+        <text encoding="base64">dXNlcnNlcnZpY2UuZ2V0dXNlcmJ5dXNlcm5hbWU9Z2V0VXNlckJ5VXNlcm5hbWUvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2sudXNlcnNlcnZpY2UuY2xpZW50LnYxLio7Cg==</text>
+        <text encoding="base64">dXNlcnNlcnZpY2UuZ2VuZXJhdGV1cmw9Z2VuZXJhdGVVUkwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
+        <text encoding="base64">dXNlcnNlcnZpY2UudXBkYXRldXNlcj11cGRhdGVVc2VyLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlcnNlcnZpY2UuZ2V0dXNlcj1nZXRVc2VyLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlcnNlcnZpY2UudXNlcnNlYXJjaD11c2VyU2VhcmNoLwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>//    @Bean
-//    public UserServiceManager userServiceV1(
-//        @Value(&quot;${userservice.url}&quot;) final String url,
-//        @Value(&quot;${userservice.securitycode}&quot;) final String securityCode,
-//        @Value(&quot;${authnz.scope.userservice}&quot;) final String scope,
-//        final AuthnzClientSettings authnzClientSettings,
-//        @Value(&quot;${userservice.log}&quot;) final boolean log) throws IOException {
-//        UserServiceConnection connection = new UserServiceConnection(url, scope, authnzClientSettings, log);
-//        return new UserServiceManager(securityCode, connection);
-//    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlcnNlcnZpY2Uuc2VjdXJpdHljb2RlPWxGXigkaDNGMzQlZGZnNEFAQTIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2sudXNlcnNlcnZpY2UuY2xpZW50LnYxLlVzZXJTZXJ2aWNlTWFuYWdlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2sudXNlcnNlcnZpY2UuY2xpZW50LnYxLio7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBWYWx1ZSgiJHt1c2Vyc2VydmljZS51cmx9IikKICAgIHByaXZhdGUgU3RyaW5nIHVzZXJTZXJ2aWNlVXJsOwoKICAgIEBWYWx1ZSgiJHt1c2Vyc2VydmljZS5nZXR1c2VyfSIpCiAgICBwcml2YXRlIFN0cmluZyBnZXRVc2VyOwoKICAgIEBWYWx1ZSgiJHt1c2Vyc2VydmljZS51c2Vyc2VhcmNofSIpCiAgICBwcml2YXRlIFN0cmluZyB1c2VyU2VhcmNoOwoKICAgIEBWYWx1ZSgiJHt1c2Vyc2VydmljZS5zZWN1cml0eWNvZGV9IikKICAgIHByaXZhdGUgU3RyaW5nIHNlY3VyaXR5Q29kZTsKCiAgICBAVmFsdWUoIiR7dXNlcnNlcnZpY2UuZ2VuZXJhdGV1cmx9IikKICAgIHByaXZhdGUgU3RyaW5nIGdlbmVyYXRlVXJsOwoKICAgIEBWYWx1ZSgiJHt1c2Vyc2VydmljZS5nZXR1c2VyYnl1c2VybmFtZX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgZ2V0VXNlckJ5VXNlcm5hbWU7CgogICAgQFZhbHVlKCIke3VzZXJzZXJ2aWNlLnVwZGF0ZXVzZXJ9IikKICAgIHByaXZhdGUgU3RyaW5nIHVwZGF0ZVVzZXI7CgogICAgcHVibGljIFN0cmluZyBnZXRVc2VyU2VydmljZVVybCgpIHsKICAgICAgICByZXR1cm4gdXNlclNlcnZpY2VVcmw7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRHZXRVc2VyKCkgewogICAgICAgIHJldHVybiBnZXRVc2VyOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlclNlYXJjaCgpIHsKICAgICAgICByZXR1cm4gdXNlclNlYXJjaDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFNlY3VyaXR5Q29kZSgpIHsKICAgICAgICByZXR1cm4gc2VjdXJpdHlDb2RlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0R2VuZXJhdGVVcmwoKSB7CiAgICAgICAgcmV0dXJuIGdlbmVyYXRlVXJsOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0R2V0VXNlckJ5VXNlcm5hbWUoKSB7CiAgICAgICAgcmV0dXJuIGdldFVzZXJCeVVzZXJuYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXBkYXRlVXNlcigpIHsKICAgICAgICByZXR1cm4gdXBkYXRlVXNlcjsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
