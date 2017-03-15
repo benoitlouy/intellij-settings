@@ -1898,10 +1898,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserServiceImpl.java" timestamp="1489585404405">
-        <mark key="[" line="258" column="6" />
-        <mark key="]" line="258" column="6" />
-        <mark key="." line="258" column="6" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserServiceImpl.java" timestamp="1489589462819">
+        <mark key="[" line="298" column="80" />
+        <mark key="]" line="298" column="80" />
+        <mark key="." line="298" column="80" />
+        <mark key="^" line="287" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/account/yodlee/bankdata/FastLinkUserUnitTest.java" timestamp="1484585688495">
         <mark key="[" line="44" column="22" />
@@ -2122,11 +2123,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/config/parrot.yml" timestamp="1482354593959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserService.java" timestamp="1489588451320">
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-        <mark key="^" line="42" column="1" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserService.java" timestamp="1489588790199">
+        <mark key="[" line="42" column="6" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/resource/PaymentsResourceTest.java" timestamp="1488923498609">
         <mark key="[" line="2" column="20" />
@@ -2423,11 +2423,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>find</text>
       </register>
       <register name="-" type="4">
-        <text>ClientResponse</text>
+        <text>find</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2436,12 +2436,15 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>//    public String generateUrl(Long userId) {
 //        GenerateURLRequestDocument document = GenerateURLRequestDocumentBuilder.build(userId, PASSWORD,
 //                config.getSecurityCode());
@@ -2498,13 +2501,13 @@
 //        }
 //    }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>//    public UserType getUserById(long userId) {
 //        try {
 //            HttpConnection connection = getConnection(config.getGetUser() + userId);
@@ -2520,14 +2523,11 @@
 //        }
 //    }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIEF1dGhuekNsaWVudFNldHRpbmdzIGF1dGhuekNsaWVudFNldHRpbmdzKCkgewogICAgICAgIHJldHVybiBuZXcgQXV0aG56Q2xpZW50U2V0dGluZ3ModXJsLCBjbGllbnRJZCwgY2xpZW50U2VjcmV0LCBudWxsLCA2MDAwMCwgNjAwMDApOwogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
