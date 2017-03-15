@@ -991,6 +991,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/controller/UserSearchController.java" timestamp="1489593963762">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/Scala/client/ConnectIO.scala" timestamp="1489163547290">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -1347,7 +1352,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/service/userservice/UserServiceManager.java" timestamp="1489586937790">
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/service/userservice/UserServiceManager.java" timestamp="1489593234142">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -2424,7 +2429,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cDovL2xvY2FsaG9zdDo4MDgwL1VzZXJTZXJ2aWNlIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>7</text>
@@ -2436,31 +2441,32 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cDovL2xvY2FsaG9zdDo4MDgwL1VzZXJTZXJ2aWNlIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVtYWlscy5hZGQoZW1haWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVtYWlsID0gbnVsbDsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgaWYgKHNlYXJjaFJlc3BvbnNlID09IG51bGwKICAgICAgICAgIHx8IChzZWFyY2hSZXNwb25zZSAhPSBudWxsICYmIHNlYXJjaFJlc3BvbnNlLmdldEdldFVzZXJzUmVzcG9uc2UoKS5nZXRFcnJvckFycmF5KCkubGVuZ3RoID4gMCkpCiAgICAgIHsKICAgICAgICBsb2dnZXIuZXJyb3IoIi5yZWZlcmVuY2VEYXRhIFtFcnJvciBpbiByZXNwb25zZSBmcm9tIFVzZXJTZXJ2aWNlXSIpOwogICAgICAgIHRocm93IG5ldyBVc2VyQWRtaW5FeGNlcHRpb24oCiAgICAgICAgICAgICJFeGNlcHRpb24gdGhyb3duIG9uIFVzZXJTZWFyY2hDb250cm9sbGVyLiBFcnJvciByZXNwb25zZSBmcm9tIFVzZXJTZXJ2aWNlLiIpOwogICAgICB9CiAgICAgIGVsc2UKICAgICAgewogICAgICAgIGxvZ2dlci5pbmZvKCIucmVmZXJlbmNlRGF0YSBbU3VjY2Vzc2Z1bCBjYWxsIHRvIFVzZXJTZXJ2aWNlXSIpOwogICAgICAgIGlmIChzZWFyY2hSZXNwb25zZS5nZXRHZXRVc2Vyc1Jlc3BvbnNlKCkuZ2V0VXNlckFycmF5KCkubGVuZ3RoID4gMCkKICAgICAgICB7CiAgICAgICAgICBtb2RlbFJlZmVyZW5jZS5wdXQoQ29uc3RhbnQuVVNFUlNfS0VZLCBzZWFyY2hSZXNwb25zZS5nZXRHZXRVc2Vyc1Jlc3BvbnNlKCkKICAgICAgICAgICAgICAuZ2V0VXNlckFycmF5KCkpOwogICAgICAgIH0KICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGVtYWlscy5hZGQoZW1haWwpOwo=</text>
+      <register name="4" type="4">
+        <text>earchResponse.getGetUsersResponse()
+              .getUserArray()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChlbWFpbCAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1vZGVsUmVmZXJlbmNlLnB1dChDb25zdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVtYWlsID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1c2VyRmlsdGVyLmdldE1lcmNoYW50SWQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgc2VhcmNoUmVzcG9uc2UgPSB1c2VyU2VydmljZU1hbmFnZXIuZ2V0VXNlclNlYXJjaCh1c2VyRmlsdGVyLmdldFVzZXJuYW1lKCksIHVzZXJGaWx0ZXIuZ2V0TWVyY2hhbnROYW1lKCksCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGlmICh1c2VyRmlsdGVyICE9IG51bGwKICAgICAgICAmJiAhKCh1c2VyRmlsdGVyLmdldFVzZXJuYW1lKCkgPT0gbnVsbCB8fCB1c2VyRmlsdGVyLmdldFVzZXJuYW1lKCkuZXF1YWxzKCIiKSkKICAgICAgICAgICAgJiYgKHVzZXJGaWx0ZXIuZ2V0TWVyY2hhbnROYW1lKCkgPT0gbnVsbCB8fCB1c2VyRmlsdGVyLmdldE1lcmNoYW50TmFtZSgpLmVxdWFscygiIikpICYmIHVzZXJGaWx0ZXIKICAgICAgICAgICAgLmdldE1lcmNoYW50SWQoKSA9PSBudWxsKSk=</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
