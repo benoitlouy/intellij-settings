@@ -456,10 +456,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/Scala/converter/historicalreport/HistoricalCanadianBusinessCreditReportConverter.scala" timestamp="1490019180223">
-        <mark key="[" line="69" column="6" />
-        <mark key="]" line="69" column="6" />
-        <mark key="." line="69" column="6" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/Scala/converter/historicalreport/HistoricalCanadianBusinessCreditReportConverter.scala" timestamp="1490036515154">
+        <mark key="[" line="104" column="12" />
+        <mark key="]" line="104" column="12" />
+        <mark key="." line="104" column="12" />
+        <mark key="^" line="104" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/src/main/java/com/odc/connect/enumtype/CachingPolicy.java" timestamp="1484080172662">
         <mark key="[" line="51" column="0" />
@@ -865,6 +866,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/console-common/console-salesforce-client/src/test/java/com/ondeck/internalui/sfclient/BusinessInfoTranslatorTest.java" timestamp="1488210903630">
         <mark key="[" line="45" column="74" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/test/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessorIT.java" timestamp="1490036353025">
+        <mark key="[" line="145" column="31" />
+        <mark key="]" line="145" column="36" />
+        <mark key="^" line="145" column="36" />
+        <mark key="." line="145" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/models/PaymentPreview.java" timestamp="1488405800143">
         <mark key="[" line="31" column="11" />
         <mark key="]" line="31" column="11" />
@@ -1008,6 +1015,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/test/java/com/odc/webconnect/odas/api/processor/OdasChaseOpportunityProcessorTest.java" timestamp="1490036376659">
+        <mark key="[" line="121" column="12" />
+        <mark key="]" line="121" column="12" />
+        <mark key="." line="121" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/csc/CSCConnectionConfig.java" timestamp="1484583773133">
         <mark key="[" line="85" column="18" />
@@ -1972,8 +1984,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/common/converter/TermCreditDecisionToOfferConverter.java" timestamp="1489078609303">
         <mark key="[" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/test/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessorTest.java" timestamp="1490035789512">
-        <mark key="[" line="54" column="21" />
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/test/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessorTest.java" timestamp="1490036123991">
+        <mark key="[" line="413" column="60" />
+        <mark key="]" line="413" column="73" />
+        <mark key="." line="413" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/build.sbt" timestamp="1488473208344">
         <mark key="[" line="92" column="54" />
@@ -2639,10 +2653,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ice.v2.model.</text>
+        <text>Option(naicsNAICS.getCode)</text>
       </register>
       <register name="-" type="4">
-        <text>ice.v2.model.</text>
+        <text>Option(naicsNAICS.getCode)</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2651,12 +2665,15 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UudjIuVXNlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>//  @Bean(name = &quot;UserService&quot;)
 //  @Autowired
 //  public AuthnZClient getAuthnZClient(@Value(&quot;${authnZ.clientId}&quot;) String authnZClientId,
@@ -2669,23 +2686,20 @@
 //    return new AuthnZClient(HttpClientBuilder.create().build(), authnZRequest);
 //  }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+CgkJCTwhLS08Z3JvdXBJZD5vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzPC9ncm91cElkPi0tPgoJCQk8IS0tPGFydGlmYWN0SWQ+aHR0cGNsaWVudDwvYXJ0aWZhY3RJZD4tLT4KCQkJPCEtLTx2ZXJzaW9uPjQuNTwvdmVyc2lvbj4tLT4KCQk8IS0tPC9kZXBlbmRlbmN5Pi0tPg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiBPcHBvcnR1bml0eVR5cGUuZnJvbShvcHBvcnR1bml0eVR5cGUpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHJldHVybiBRdWV1ZS5mcm9tKHRoaXMucXVldWUpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9kdWN0LmZyb20ocHJvZHVjdCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBEb2N1bWVudFN0YXR1cy5mcm9tKHRoaXMuZG9jdW1lbnRTdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9kdWN0LmZyb20ocHJvZHVjdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>330</text>
