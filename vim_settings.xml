@@ -1671,8 +1671,10 @@
         <mark key="]" line="77" column="65" />
         <mark key="." line="77" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/authnZ/AuthnZConfig.java" timestamp="1489607501818">
-        <mark key="[" line="25" column="2" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/authnZ/AuthnZConfig.java" timestamp="1490034157429">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/models/DrawPreview.java" timestamp="1488405913033">
         <mark key="[" line="25" column="19" />
@@ -1826,6 +1828,11 @@
         <mark key="[" line="100" column="71" />
         <mark key="]" line="100" column="71" />
         <mark key="." line="100" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/pom.xml" timestamp="1490034134771">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/ConnectFlows.java" timestamp="1484688485985">
         <mark key="[" line="26" column="0" />
@@ -2554,8 +2561,8 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -2567,31 +2574,41 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHBvcnR1bml0eVR5cGUuZnJvbShvcHBvcnR1bml0eVR5cGUpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBRdWV1ZS5mcm9tKHRoaXMucXVldWUpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9kdWN0LmZyb20ocHJvZHVjdCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBEb2N1bWVudFN0YXR1cy5mcm9tKHRoaXMuZG9jdW1lbnRTdGF0dXMpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5ld2FsU3RhdHVzOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBzdGF0aWMgewogICAgU0xGNEpCcmlkZ2VIYW5kbGVyLnJlbW92ZUhhbmRsZXJzRm9yUm9vdExvZ2dlcigpOwogICAgU0xGNEpCcmlkZ2VIYW5kbGVyLmluc3RhbGwoKTsKICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>//  @Bean(name = &quot;UserService&quot;)
+//  @Autowired
+//  public AuthnZClient getAuthnZClient(@Value(&quot;${authnZ.clientId}&quot;) String authnZClientId,
+//  @Value(&quot;${authnZ.clientSecret}&quot;) String authnZClientSecret,
+//  @Value(&quot;${authnZ.url}&quot;) String authnZUrl,
+//  @Value(&quot;${authnZ.grantType}&quot;) String authnZGrantType,
+//  @Value(&quot;${authnZ.userservice.scope}&quot;) String authnZScope) throws AuthnZException {
+//    UserCredentials userCredentials = new UserCredentials(authnZClientId, authnZClientSecret);
+//    AuthnZRequest authnZRequest = new AuthnZRequest(userCredentials, authnZGrantType, authnZScope, authnZUrl);
+//    return new AuthnZClient(HttpClientBuilder.create().build(), authnZRequest);
+//  }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+CgkJCTwhLS08Z3JvdXBJZD5vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzPC9ncm91cElkPi0tPgoJCQk8IS0tPGFydGlmYWN0SWQ+aHR0cGNsaWVudDwvYXJ0aWZhY3RJZD4tLT4KCQkJPCEtLTx2ZXJzaW9uPjQuNTwvdmVyc2lvbj4tLT4KCQk8IS0tPC9kZXBlbmRlbmN5Pi0tPg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBPcHBvcnR1bml0eVR5cGUuZnJvbShvcHBvcnR1bml0eVR5cGUpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBRdWV1ZS5mcm9tKHRoaXMucXVldWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBSZXN0Q2xpZW50cy5uZXdDbGllbnQoYXV0aGVudGljYXRvciwgbmV3IExvZ2dpbmdGaWx0ZXIoKSwgbmV3IFJldHJ5RmlsdGVyKHNhbGVzZm9yY2VSZXRyeUNvdW50KSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9kdWN0LmZyb20ocHJvZHVjdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQFZhbHVlKCIke3NhbGVzZm9yY2VjbGllbnQucmV0cnkuY291bnQ6MH0iKSBpbnQgc2FsZXNmb3JjZVJldHJ5Q291bnQsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBEb2N1bWVudFN0YXR1cy5mcm9tKHRoaXMuZG9jdW1lbnRTdGF0dXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>330</text>
