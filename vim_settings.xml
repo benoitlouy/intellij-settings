@@ -298,11 +298,11 @@
         <mark key="]" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-admin/src/main/webapp/static/partner/view/partnerDetail.html" timestamp="1490036020693">
-        <mark key="[" line="115" column="16" />
-        <mark key="]" line="115" column="26" />
-        <mark key="^" line="115" column="26" />
-        <mark key="." line="115" column="26" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-admin/src/main/webapp/static/partner/view/partnerDetail.html" timestamp="1490037797838">
+        <mark key="[" line="122" column="98" />
+        <mark key="]" line="122" column="98" />
+        <mark key="^" line="122" column="98" />
+        <mark key="." line="122" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/test/java/com/odc/clm/service/server/audit/auditor/MESExecutionRequestAuditorUnitTest.java" timestamp="1484925067578">
         <mark key="[" line="17" column="9" />
@@ -976,11 +976,10 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/webconnect/pom.xml" timestamp="1490035133493">
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="48" />
-        <mark key="." line="42" column="48" />
-        <mark key="^" line="42" column="48" />
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/pom.xml" timestamp="1490037332339">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/build.gradle" timestamp="1489003432392">
         <mark key="[" line="16" column="0" />
@@ -2652,8 +2651,8 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Option(naicsNAICS.getCode)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCTwvZXhjbHVzaW9ucz4K</text>
       </register>
       <register name="-" type="4">
         <text>Option(naicsNAICS.getCode)</text>
@@ -2665,15 +2664,21 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UudjIuVXNlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">CQkJCTwvZXhjbHVzaW9ucz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxleGNsdXNpb25zPgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24udXNlcnNlcnZpY2UudjIuVXNlclNlcnZpY2U7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>//  @Bean(name = &quot;UserService&quot;)
 //  @Autowired
 //  public AuthnZClient getAuthnZClient(@Value(&quot;${authnZ.clientId}&quot;) String authnZClientId,
@@ -2686,20 +2691,14 @@
 //    return new AuthnZClient(HttpClientBuilder.create().build(), authnZRequest);
 //  }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+CgkJCTwhLS08Z3JvdXBJZD5vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzPC9ncm91cElkPi0tPgoJCQk8IS0tPGFydGlmYWN0SWQ+aHR0cGNsaWVudDwvYXJ0aWZhY3RJZD4tLT4KCQkJPCEtLTx2ZXJzaW9uPjQuNTwvdmVyc2lvbj4tLT4KCQk8IS0tPC9kZXBlbmRlbmN5Pi0tPg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHBvcnR1bml0eVR5cGUuZnJvbShvcHBvcnR1bml0eVR5cGUpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBRdWV1ZS5mcm9tKHRoaXMucXVldWUpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9kdWN0LmZyb20ocHJvZHVjdCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBPcHBvcnR1bml0eVR5cGUuZnJvbShvcHBvcnR1bml0eVR5cGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>330</text>
