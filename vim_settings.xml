@@ -228,6 +228,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/PartnerAccount.java" timestamp="1490023974512">
+        <mark key="[" line="255" column="24" />
+        <mark key="]" line="255" column="24" />
+        <mark key="." line="255" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/model/ResetPassword.java" timestamp="1489441006905">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1334,7 +1339,7 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/PartnerStatus.java" timestamp="1490020265368">
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/PartnerStatus.java" timestamp="1490023950223">
         <mark key="[" line="27" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1489002140892">
@@ -1390,7 +1395,7 @@
         <mark key="]" line="53" column="50" />
         <mark key="." line="53" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/SalesforceConfig.java" timestamp="1490021808869">
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/SalesforceConfig.java" timestamp="1490023612138">
         <mark key="[" line="27" column="6" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -1659,6 +1664,9 @@
         <mark key="]" line="77" column="65" />
         <mark key="." line="77" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/authnZ/AuthnZConfig.java" timestamp="1489607501818">
+        <mark key="[" line="25" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/models/DrawPreview.java" timestamp="1488405913033">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="11" />
@@ -1808,11 +1816,11 @@
         <mark key="]" line="100" column="71" />
         <mark key="." line="100" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-common/pom.xml" timestamp="1490020195000">
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="37" />
-        <mark key="^" line="30" column="37" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/pom.xml" timestamp="1490023124992">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/ConnectFlows.java" timestamp="1484688485985">
         <mark key="[" line="26" column="0" />
@@ -2543,11 +2551,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBSZXN0Q2xpZW50cy5uZXdDbGllbnQoYXV0aGVudGljYXRvciwgbmV3IExvZ2dpbmdGaWx0ZXIoKSwgbmV3IFJldHJ5RmlsdGVyKHNhbGVzZm9yY2VSZXRyeUNvdW50KSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.from(this.status);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IExvZ2dlci5nZXRMb2dnZXIoU2FsZXNmb3JjZUNvbmZpZy5jbGFzcyk7</text>
+        <text>.from(this.status);</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
