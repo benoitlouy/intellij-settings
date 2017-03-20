@@ -89,6 +89,11 @@
         <mark key="]" line="28" column="86" />
         <mark key="." line="28" column="86" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/Document.java" timestamp="1490030257595">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/src/main/java/com/odc/connect/enumtype/Vendor.java" timestamp="1484253239267">
         <mark key="[" line="20" column="12" />
       </file>
@@ -881,11 +886,10 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/ContactType.java" timestamp="1490029524551">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="33" />
-        <mark key="^" line="23" column="52" />
-        <mark key="." line="23" column="33" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/ContactType.java" timestamp="1490030958085">
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/financials_controller.rb" timestamp="1486677000261">
         <mark key="[" line="9" column="8" />
@@ -1465,7 +1469,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/resources/test.properties" timestamp="1490021349380" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-salesforce/src/test/resources/test.properties" timestamp="1490030692282" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/legacy/LegacyESCCorpSearchFT.java" timestamp="1484075104722">
         <mark key="[" line="28" column="125" />
       </file>
@@ -1948,7 +1952,7 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/DDAStatus.java" timestamp="1490029558518">
-        <mark key="[" line="17" column="0" />
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/controller/ResetPasswordController.java" timestamp="1489519336425">
         <mark key="[" line="48" column="0" />
@@ -2061,6 +2065,12 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/Opportunity.java" timestamp="1490030905742">
+        <mark key="[" line="1037" column="24" />
+        <mark key="]" line="1037" column="24" />
+        <mark key="." line="1037" column="24" />
+        <mark key="^" line="852" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/businesses_controller.rb" timestamp="1488388158946">
         <mark key="[" line="114" column="16" />
@@ -2484,10 +2494,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@JsonProperty(&quot;value&quot;)</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>@JsonProperty(&quot;value&quot;)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2496,31 +2506,31 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBEb2N1bWVudFN0YXR1cy5mcm9tKHRoaXMuZG9jdW1lbnRTdGF0dXMpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBzdGF0aWMgewogICAgU0xGNEpCcmlkZ2VIYW5kbGVyLnJlbW92ZUhhbmRsZXJzRm9yUm9vdExvZ2dlcigpOwogICAgU0xGNEpCcmlkZ2VIYW5kbGVyLmluc3RhbGwoKTsKICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZW5ld2FsU3RhdHVzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBSZXN0Q2xpZW50cy5uZXdDbGllbnQoYXV0aGVudGljYXRvciwgbmV3IExvZ2dpbmdGaWx0ZXIoKSwgbmV3IFJldHJ5RmlsdGVyKHNhbGVzZm9yY2VSZXRyeUNvdW50KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQFZhbHVlKCIke3NhbGVzZm9yY2VjbGllbnQucmV0cnkuY291bnQ6MH0iKSBpbnQgc2FsZXNmb3JjZVJldHJ5Q291bnQsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBzdGF0aWMgewogICAgU0xGNEpCcmlkZ2VIYW5kbGVyLnJlbW92ZUhhbmRsZXJzRm9yUm9vdExvZ2dlcigpOwogICAgU0xGNEpCcmlkZ2VIYW5kbGVyLmluc3RhbGwoKTsKICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQmFzaWNSZXN0Q2xpZW50IGJhc2ljUmVzdENsaWVudCwK</text>
+        <text encoding="base64">ICAgIHJldHVybiBSZXN0Q2xpZW50cy5uZXdDbGllbnQoYXV0aGVudGljYXRvciwgbmV3IExvZ2dpbmdGaWx0ZXIoKSwgbmV3IFJldHJ5RmlsdGVyKHNhbGVzZm9yY2VSZXRyeUNvdW50KSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgQFZhbHVlKCIke3NhbGVzZm9yY2VjbGllbnQucmV0cnkuY291bnQ6MH0iKSBpbnQgc2FsZXNmb3JjZVJldHJ5Q291bnQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTYWxlc2ZvcmNlUmVzdENsaWVudC5uZXdDbGllbnQoYXV0aGVudGljYXRvciwgbmV3IExvZ2dpbmdGaWx0ZXIoKSwgbmV3IFJldHJ5RmlsdGVyKHNhbGVzZm9yY2VSZXRyeUNvdW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgQmFzaWNSZXN0Q2xpZW50IGJhc2ljUmVzdENsaWVudCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlc3RDbGllbnRzLm5ldwo=</text>
+        <text encoding="base64">ICAgICAgQFZhbHVlKCIke3NhbGVzZm9yY2VjbGllbnQucmV0cnkuY291bnQ6MH0iKSBpbnQgc2FsZXNmb3JjZVJldHJ5Q291bnQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTYWxlc2ZvcmNlUmVzdENsaWVudC5uZXdDbGkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBTYWxlc2ZvcmNlUmVzdENsaWVudC5uZXdDbGllbnQoYXV0aGVudGljYXRvciwgbmV3IExvZ2dpbmdGaWx0ZXIoKSwgbmV3IFJldHJ5RmlsdGVyKHNhbGVzZm9yY2VSZXRyeUNvdW50KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>330</text>
