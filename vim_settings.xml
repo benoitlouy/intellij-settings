@@ -417,6 +417,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/main/scala/com/ondeck/alpaca/ws/connect/Scala/converter/historicalreport/HistoricalCanadianBusinessCreditReportConverter.scala" timestamp="1490019180223">
+        <mark key="[" line="69" column="6" />
+        <mark key="]" line="69" column="6" />
+        <mark key="." line="69" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/src/main/java/com/odc/connect/enumtype/CachingPolicy.java" timestamp="1484080172662">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -1844,10 +1849,11 @@
         <mark key="]" line="76" column="29" />
         <mark key="." line="76" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianBusinessCreditReportConverterTest.java" timestamp="1489172923272">
-        <mark key="[" line="54" column="54" />
-        <mark key="]" line="54" column="54" />
-        <mark key="." line="54" column="54" />
+      <file name="$USER_HOME$/Projects/OnDeck/alpaca/ws-connect/src/test/java/com/ondeck/alpaca/ws/connect/converter/historicalreport/HistoricalCanadianBusinessCreditReportConverterTest.java" timestamp="1490019576362">
+        <mark key="[" line="147" column="30" />
+        <mark key="]" line="152" column="94" />
+        <mark key="." line="152" column="94" />
+        <mark key="^" line="152" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/paynet/PaynetBCRCachingReportHandlerIT.java" timestamp="1484337637748">
         <mark key="[" line="53" column="8" />
@@ -2509,11 +2515,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ABC</text>
       </register>
       <register name="-" type="4">
-        <text>resetToken</text>
+        <text>ABC</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
