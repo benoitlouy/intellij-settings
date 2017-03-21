@@ -456,7 +456,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessor.java" timestamp="1490035419324">
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessor.java" timestamp="1490045381895">
         <mark key="[" line="186" column="6" />
         <mark key="]" line="187" column="33" />
         <mark key="^" line="187" column="33" />
@@ -2038,10 +2038,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/common/converter/TermCreditDecisionToOfferConverter.java" timestamp="1489078609303">
         <mark key="[" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/test/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessorTest.java" timestamp="1490036123991">
-        <mark key="[" line="413" column="60" />
-        <mark key="]" line="413" column="73" />
-        <mark key="." line="413" column="60" />
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/test/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessorTest.java" timestamp="1490045688087">
+        <mark key="[" line="142" column="76" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/build.sbt" timestamp="1488473208344">
         <mark key="[" line="92" column="54" />
@@ -2715,11 +2715,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DeserializationConfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgd2hlbih1c2VyU2VydmljZS5maW5kQnlJZCh1c2VySWQpKS50aGVuUmV0dXJuKE9wdGlvbmFsLm9mKHVzZXJBY2NvdW50KSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DeserializationConfig</text>
+        <text>Optional.of(userAccount)</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2728,31 +2728,31 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoY2xpZW50LmdldENvbmZpZ3VyYXRpb24oKS5pc1JlZ2lzdGVyZWQoYXV0aG56RmlsdGVyKSkuaXNGYWxzZSgpOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgd2hlbih1c2VyU2VydmljZS5maW5kQnlJZCh1c2VySWQpKS50aGVuUmV0dXJuKE9wdGlvbmFsLm9mKHVzZXJBY2NvdW50KSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgd2hlbih1c2VyU2VydmljZS5jcmVhdGVNZXJjaGFudFVzZXIoZXEob3duZXJFbWFpbCksIGFueShTdHJpbmcuY2xhc3MpLCBlcShidXNpbmVzc05hbWUpKSkudGhlblJldHVybih1c2VySWQpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBCdWlsZGVyIGJ1aWxkUG9zdEpzb25SZXF1ZXN0KFN0cmluZyByZXNvdXJjZSkgewogICAgcmV0dXJuIGNsaWVudC5yZXNvdXJjZShyZXNvdXJjZSkuYWNjZXB0KE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpLnR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVFlQRSk7CiAgfQoKICBwcml2YXRlIEF1dGhuWlJlc3BvbnNlIGdldEF1dGhuWlJlc3BvbnNlKCl7CiAgICB0cnkgewogICAgICByZXR1cm4gYXV0aG5aQ2xpZW50LmdldCgpOwogICAgfSBjYXRjaCAoQXV0aG5aRXhjZXB0aW9uIGUpIHsKICAgICAgdGhyb3cgbmV3IERlY2lzaW9uU2VydmljZUV4Y2VwdGlvbihlLmdldE1lc3NhZ2UoKSwgZSk7CiAgICB9CiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIExvbmcgdXNlcklkID0gT3Bwb3J0dW5pdHlQZXJzaXN0ZW5jZVByb2Nlc3NvclRlc3QudXNlcklkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aG5aUmVzcG9uc2UuZ2V0QWNjZXNzVG9rZW4oKSkucG9zdChDbGllbnRSZXNwb25zZS5jbGFzcywgcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIHdoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZFBvc3RKc29uUmVxdWVzdChkc1NlcnZlclVybCArIFJFU09VUkNFX1NUT1JFX0RFQ0lTSU9OLCBhdXRoblpSZXNwb25zZS5nZXRUb2tlblR5cGUoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENsaWVudFJlc3BvbnNlIHJlc3BvbnNlID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEF1dGhuWlJlc3BvbnNlIGF1dGhuWlJlc3BvbnNlID0gZ2V0QXV0aG5aUmVzcG9uc2UoKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBCdWlsZGVyIGJ1aWxkUG9zdEpzb25SZXF1ZXN0KFN0cmluZyByZXNvdXJjZSkgewogICAgcmV0dXJuIGNsaWVudC5yZXNvdXJjZShyZXNvdXJjZSkuYWNjZXB0KE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpLnR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVFlQRSk7CiAgfQoKICBwcml2YXRlIEF1dGhuWlJlc3BvbnNlIGdldEF1dGhuWlJlc3BvbnNlKCl7CiAgICB0cnkgewogICAgICByZXR1cm4gYXV0aG5aQ2xpZW50LmdldCgpOwogICAgfSBjYXRjaCAoQXV0aG5aRXhjZXB0aW9uIGUpIHsKICAgICAgdGhyb3cgbmV3IERlY2lzaW9uU2VydmljZUV4Y2VwdGlvbihlLmdldE1lc3NhZ2UoKSwgZSk7CiAgICB9CiAgfQ==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXV0aG5aUmVzcG9uc2UuZ2V0QWNjZXNzVG9rZW4oKSkucG9zdChDbGllbnRSZXNwb25zZS5jbGFzcywgcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZFBvc3RKc29uUmVxdWVzdChkc1NlcnZlclVybCArIFJFU09VUkNFX0FTU09DSUFURV9ERUNJU0lPTiwgYXV0aG5aUmVzcG9uc2UuZ2V0VG9rZW5UeXBlKCksCg==</text>
+        <text encoding="base64">ICAgICAgICBidWlsZFBvc3RKc29uUmVxdWVzdChkc1NlcnZlclVybCArIFJFU09VUkNFX1NUT1JFX0RFQ0lTSU9OLCBhdXRoblpSZXNwb25zZS5nZXRUb2tlblR5cGUoKSwK</text>
       </register>
       <register name=":" type="4">
         <text>330</text>
