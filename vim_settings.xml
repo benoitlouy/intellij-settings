@@ -1946,10 +1946,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/business/paynet/PaynetConnectionHelper.java" timestamp="1483994966619">
         <mark key="[" line="66" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibity/control/set/model/Loan.java" timestamp="1490128549228">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibity/control/set/model/Loan.java" timestamp="1490189919138">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="10" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/resources/parrot-service.yml" timestamp="1482946687816">
         <mark key="[" line="1" column="13" />
@@ -2790,11 +2791,11 @@
       <jump line="50" column="134" filename="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/integrationTest/java/com/odc/clm/service/server/CLMControllerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbUERUUy0zNTQyXSB0ZXh0IGNoYW5nZXMK</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>lsp_notification</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
