@@ -692,6 +692,7 @@
         <mark key="." line="287" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/tds-client/tds-client/src/main/java/com/ondeck/tds/client/TDS.java" timestamp="1490042707266" />
+      <file name="$USER_HOME$/Projects/OnDeck/lsp-notification-job/src/itest/resources/logging.properties" timestamp="1490211248893" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/tradinghistory/veda/business/VedaBusinessTradingHistoryCachingReportHandlerIT.java" timestamp="1484665238583">
         <mark key="[" line="142" column="81" />
         <mark key="]" line="47" column="0" />
@@ -782,6 +783,11 @@
         <mark key="[" line="73" column="3" />
         <mark key="]" line="61" column="25" />
         <mark key="." line="61" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/resources/logback.xml" timestamp="1490211120909">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/test/java/com/odc/webconnect/api/common/processor/OpportunityPersistenceProcessorIT.java" timestamp="1490036353025">
         <mark key="[" line="145" column="31" />
@@ -902,6 +908,7 @@
         <mark key="]" line="226" column="0" />
         <mark key="." line="226" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/lsp-notification-job/build.gradle" timestamp="1490211268106" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/connection/VendorConnectionSwitch.java" timestamp="1483978970393">
         <mark key="[" line="10" column="67" />
         <mark key="]" line="10" column="67" />
@@ -968,6 +975,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ondeck.job.lsp/lsp-job-commons/1.0.0-0a90c9b205/a97a87f1734faed7b1930b5c1146d0a9eba12500/lsp-job-commons-1.0.0-0a90c9b205-sources.jar!/com/ondeck/job/lsp/commons/batch/LspJobExecutionListener.java" timestamp="1490211972494" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/intl/MockFlowUtil.java" timestamp="1481900602950">
         <mark key="[" line="77" column="2" />
         <mark key="]" line="77" column="2" />
@@ -988,6 +996,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/lsp-notification-job/src/main/resources/logback.xml" timestamp="1490211035548" />
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/controller/UserSearchController.java" timestamp="1489594380912">
         <mark key="[" line="94" column="8" />
         <mark key="]" line="83" column="0" />
@@ -1357,6 +1366,7 @@
         <mark key="^" line="62" column="17" />
         <mark key="." line="62" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/writer/LoanWriter.java" timestamp="1490210449651" />
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/config/ErrorHandler.java" timestamp="1482335493102">
         <mark key="[" line="25" column="94" />
         <mark key="]" line="27" column="0" />
@@ -1377,11 +1387,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/renewaleligibilitycontrolset.properties" timestamp="1490204253762">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-        <mark key="^" line="27" column="28" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/renewaleligibilitycontrolset.properties" timestamp="1490211499476">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="42" column="14" />
+        <mark key="^" line="42" column="14" />
+        <mark key="." line="42" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/itest/java/com/ondeck/termloan/database/LoanPaydownDAOIT.java" timestamp="1487091619185">
         <mark key="[" line="80" column="0" />
@@ -1686,11 +1696,17 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/RenewalEligibilityControlSetJobConfig.java" timestamp="1490203278846" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/RenewalEligibilityControlSetJobConfig.java" timestamp="1490211516472" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/tradinghistory/veda/indepth/VedaInDepthTradingHistoryFetcherTaskFactory.java" timestamp="1484585488927">
         <mark key="[" line="28" column="28" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/logging.properties" timestamp="1490211769200">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibity/control/set/model/Loan.java" timestamp="1490200964265">
         <mark key="[" line="11" column="3" />
@@ -1795,10 +1811,11 @@
         <mark key="]" line="42" column="25" />
         <mark key="." line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/build.gradle" timestamp="1490201914253">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/build.gradle" timestamp="1490211310246">
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="72" column="21" />
+        <mark key="." line="72" column="21" />
+        <mark key="^" line="72" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/client/src/assets/i18n/Australia.json" timestamp="1488307853125">
         <mark key="[" line="76" column="29" />
@@ -2127,13 +2144,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibity/control/set/RenewalEligibilityControlSetJobConfig.java" timestamp="1490203255876">
-        <mark key="'" line="45" column="7" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="55" column="2" />
-        <mark key="^" line="45" column="34" />
-        <mark key="." line="55" column="2" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibity/control/set/config/OriginDataSourceConfig.java" timestamp="1490194192647">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="14" column="25" />
@@ -2442,10 +2452,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2457,28 +2467,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2NvdW50cnkuY29kZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsQ29udGFjdHMsIG5ldyBUeXBlVG9rZW48Q29sbGVjdGlvbjxUdXBsZTI8UHJvZmlsZUNvbnRhY3QsIFN0cmluZz4+PigpIHt9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRnVuY3Rpb25TdGVwPD4oY3MgLT4gY3Muc3RyZWFtKCkuZmlsLCAK</text>
+        <text encoding="base64">I2xvYy5jbG9zdXJlLnRvcGljPVZpcnR1YWxUb3BpYy5PbkRlY2tFdmVudHMuQ2xvc2VMb2MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZsb3dTdGVwPENvbGxlY3Rpb248VHVwbGUyPFByb2ZpbGVDb250YWN0LCBTdHJpbmc+Pj4gY29udGFjdHMgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">I3F1ZXVlLmJyb2tlci51cmw9dGNwOi8vZDdhbXEwMy5vbmRlY2suc3lzdGVtczo2MTYxNgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzIyLzE3Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">I215YmF0aXMubWFwcGVyTG9jYXRpb25zPWNsYXNzcGF0aCo6KioveG1sLyoueG1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qIHJ1bnRpbWUgJ2phdmF4Lm1haWw6bWFpbDoxLjQuNycgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>330</text>
