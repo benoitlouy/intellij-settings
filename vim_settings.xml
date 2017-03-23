@@ -1688,10 +1688,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/java/com/ondeck/job/lsp/renewal/eligibility/control/set/RenewalEligibilityControlSetJobIT.java" timestamp="1490291510874">
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/java/com/ondeck/job/lsp/renewal/eligibility/control/set/RenewalEligibilityControlSetJobIT.java" timestamp="1490292316855">
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/SalesChannelConflictManagement.java" timestamp="1488299874993">
         <mark key="[" line="24" column="0" />
@@ -2971,11 +2972,11 @@
       <jump line="24" column="67" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/java/com/ondeck/job/lsp/renewal/eligibility/control/set/RenewalEligibilityControlSetJobIT.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>);</text>
       </register>
       <register name="-" type="4">
-        <text>dev-globalproducts@</text>
+        <text>);</text>
       </register>
       <register name="/" type="4">
         <text>Optional.ofNullable(sfLead.getCountry()).map(Country::fromCode</text>
@@ -2984,34 +2985,31 @@
         <text encoding="base64">Y2xhc3NwYXRoPSIkY2xhc3NwYXRoIjovdXNyL2xvY2FsL29uZGVjay9qb2JzL2xzcC9wcm9wZXJ0aWVzL3JlbmV3YWxfZWxpZ2liaWxpdHlfY29udHJvbF9zZXQvLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN0bXQuZXhlY3V0ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJlcnJvciIpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBKb2Igam9iOwoKICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBKb2JMYXVuY2hlciBsYXVuY2hlcjsKCiAgQEF1dG93aXJlZAogIHByaXZhdGUgRGF0ZVRpbWUgYXNPZjsKCiAgQEF1dG93aXJlZAogIHByaXZhdGUgRGF0YVNvdXJjZSB0YXJnZXREYXRhU291cmNlOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJlcnJvciIpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>@RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = RenewalEligibilityControlSetJobConfig.class)
-//@ContextConfiguration(classes=RenewalEligibilityControlSetJobConfig.class, loader=AnnotationConfigContextLoader.class)
-//@Import(RenewalEligibilityControlSetJobConfig.class)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFzc2VydEVxdWFscyhzdGVwRXhlY3V0aW9uLmdldFJlYWRDb3VudCgpLCByZXN1bHRTZXQuZ2V0TG9uZygiY291bnQiKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdFNldC5uZXh0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKFJlc3VsdFNldCByZXN1bHRTZXQgPSBzdG10LmV4ZWN1dGVRdWVyeSgpKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdG10Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG10LmV4ZWN1dGVRdWVyeSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
