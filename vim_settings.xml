@@ -237,6 +237,11 @@
         <mark key="]" line="54" column="44" />
         <mark key="." line="54" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/deploy/roles/renewal_eligibility_control_set/templates/logging.properties.j2" timestamp="1490214603682">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/ConnectService.java" timestamp="1487951392166">
         <mark key="[" line="558" column="74" />
         <mark key="]" line="313" column="66" />
@@ -1052,6 +1057,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LoanReader.java" timestamp="1490213611606">
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
+        <mark key="^" line="49" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/model/Business.java" timestamp="1489441000619">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1387,11 +1398,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/renewaleligibilitycontrolset.properties" timestamp="1490211499476">
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="42" column="14" />
-        <mark key="^" line="42" column="14" />
-        <mark key="." line="42" column="14" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/renewaleligibilitycontrolset.properties" timestamp="1490213900920">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="43" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/itest/java/com/ondeck/termloan/database/LoanPaydownDAOIT.java" timestamp="1487091619185">
         <mark key="[" line="80" column="0" />
@@ -1702,7 +1713,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/logging.properties" timestamp="1490211769200">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/logging.properties" timestamp="1490214594724">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -1773,6 +1784,11 @@
         <mark key="[" line="78" column="28" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/deploy/deploy.yml" timestamp="1490214188312">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/service/ConnectServiceUnitTest.java" timestamp="1484330075301">
         <mark key="[" line="85" column="29" />
@@ -1889,6 +1905,7 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/deploy/roles/renewal_eligibility_control_set/tasks/main.yml" timestamp="1490214569143" />
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/service/merchantapi/MerchantApiManager.java" timestamp="1490120616215">
         <mark key="[" line="39" column="16" />
         <mark key="]" line="30" column="2" />
@@ -2143,6 +2160,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/deploy/roles/renewal_eligibility_control_set/defaults/main.yml" timestamp="1490214381492">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibity/control/set/config/OriginDataSourceConfig.java" timestamp="1490194192647">
         <mark key="[" line="15" column="19" />
@@ -2452,10 +2474,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text encoding="base64">TFNQOiBSZW5ld2FsIEVsaWdpYmlsaXR5IENvbnRyb2wgU2V0IEpvYiA=</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text encoding="base64">TFNQOiBSZW5ld2FsIEVsaWdpYmlsaXR5IENvbnRyb2wgU2V0IEpvYiA=</text>
       </register>
       <register name="/" type="4">
         <text>consent</text>
@@ -2466,26 +2488,26 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">I2NvdW50cnkuY29kZXM9VVNBLENBTixBVVMK</text>
+      <register name="2" type="4">
+        <text encoding="base64">InNlbGVjdCBkaXN0aW5jdCBjdC5sb2FuX2lkLCBtLm1lcmNoYW50X2lkLCBsdC5sb2FuX3R5cGVfbmFtZVxuIgogICAgICAgICAgICAgICArICIgIGZyb20gcHVibGljLm1lcmNoYW50cyBtXG4iCiAgICAgICAgICAgICAgICsgIiAgam9pbiBwdWJsaWMuY29tbWl0bWVudHMgYyBvbiBjLm1lcmNoYW50X2lkID0gbS5tZXJjaGFudF9pZFxuIgogICAgICAgICAgICAgICArICIgIGpvaW4gcHVibGljLmNvbW1pdG1lbnRfdHJhbnNhY3Rpb25zIGN0IG9uIGN0LmNvbW1pdG1lbnRfaWQgPSBjLmNvbW1pdG1lbnRfaWRcbiIKICAgICAgICAgICAgICAgKyAiICBqb2luIHB1YmxpYy5sb2FuX3R5cGVzIGx0IG9uIGx0LmxvYW5fdHlwZV9pZCA9IGN0LmxvYW5fdHlwZV9pZFxuIgogICAgICAgICAgICAgICArICIgIGpvaW4gcHVibGljLmZ1bmRpbmdfc291cmNlIGZzIG9uIGZzLmZ1bmRpbmdfc291cmNlX2lkID0gY3QuZnVuZGluZ19zb3VyY2VfaWRcbiIKICAgICAgICAgICAgICAgKyAiICBqb2luIHB1YmxpYy5iYW5rIGIgb24gYi5iYW5rX2lkID0gZnMuYmFua19pZFxuIgogICAgICAgICAgICAgICArICJ3aGVyZSBtLmNvdW50cnlfY29kZSA9ICdVU0EnXG4iCiAgICAgICAgICAgICAgICsgIiAgYW5kIGIuYmFua19uYW1lICE9ICdDaGFzZSdcbiIKICAgICAgICAgICAgICAgKyAiICBhbmQgY3QuYXBwcm92ZWQgaW4gKDAsIDEsIDQpXG4iCiAgICAgICAgICAgICAgICsgIiAgYW5kIGN0LnRyYW5zYWN0aW9uX2RhdGUgPiBjdXJyZW50X2RhdGUgLSBJTlRFUlZBTCAnNyB5ZWFycyc7Ig==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIiAgam9pbiBwdWJsaWMuYmFuayBiIG9uIGIuYmFua19pZCA9IGZzLmJhbmtfaWRcbiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2xvYy5jbG9zdXJlLnRvcGljPVZpcnR1YWxUb3BpYy5PbkRlY2tFdmVudHMuQ2xvc2VMb2MK</text>
+        <text encoding="base64">ICAgIEpvaW5lciBqb2luZXIgPSBKb2luZXIub24oIiwiKS4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3F1ZXVlLmJyb2tlci51cmw9dGNwOi8vZDdhbXEwMy5vbmRlY2suc3lzdGVtczo2MTYxNgo=</text>
+        <text encoding="base64">I2NvdW50cnkuY29kZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I215YmF0aXMubWFwcGVyTG9jYXRpb25zPWNsYXNzcGF0aCo6KioveG1sLyoueG1sCg==</text>
+        <text encoding="base64">I2xvYy5jbG9zdXJlLnRvcGljPVZpcnR1YWxUb3BpYy5PbkRlY2tFdmVudHMuQ2xvc2VMb2MK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
