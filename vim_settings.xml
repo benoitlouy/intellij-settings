@@ -443,8 +443,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/batchjobscommon/src/main/java/com/ondeck/job/common/base/BaseAbstractBatchJob.java" timestamp="1490382271475">
-        <mark key="[" line="68" column="9" />
+      <file name="$USER_HOME$/Projects/OnDeck/batchjobscommon/src/main/java/com/ondeck/job/common/base/BaseAbstractBatchJob.java" timestamp="1490384280426">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/deploy/group_vars/all.yml" timestamp="1482953529921">
         <mark key="[" line="2" column="20" />
@@ -2328,8 +2330,8 @@
       <jump line="151" column="25" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Long</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Long</text>
@@ -2341,39 +2343,31 @@
         <text encoding="base64">Y2xhc3NwYXRoPSIkY2xhc3NwYXRoIjovdXNyL2xvY2FsL29uZGVjay9qb2JzL2xzcC9wcm9wZXJ0aWVzL3JlbmV3YWxfZWxpZ2liaWxpdHlfY29udHJvbF9zZXQvLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI0LzE3Lgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI0LzE3Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNxbC5EYXRhU291cmNlOwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQmVhbgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNxbC5EYXRhU291cmNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5kCg==</text>
+        <text encoding="base64">ICBAQmVhbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAUHJpbWFyeQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbi5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAUHJpbWFyeQo=</text>
       </register>
-      <register name="9" type="4">
-        <text># LSP Datasource
-lsp.datasource.driver-class-name=org.postgresql.Driver
-lsp.datasource.url=jdbc:postgresql://dev01-postgres:5432/odc
-lsp.datasource.username=odc
-lsp.datasource.password=odc
-lsp.datasource.max-pool-size=10
-lsp.datasource.max-idle=10000
-lsp.datasource.min-idle=1
-lsp.datasource.validation-query=select 1</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
