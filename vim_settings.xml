@@ -22,7 +22,7 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/config/accinfo/maintenance/AccountInfoMaintenanceStepConfiguration.java" timestamp="1490387989100" />
+      <file name="$USER_HOME$/Projects/OnDeck/chasejobs/batch-processor/src/main/java/com/ondeck/jobs/firefly/config/accinfo/maintenance/AccountInfoMaintenanceStepConfiguration.java" timestamp="1490390971917" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/fetch/AsyncReportFetcher.java" timestamp="1484340961763">
         <mark key="[" line="17" column="25" />
         <mark key="]" line="17" column="25" />
@@ -1449,10 +1449,10 @@
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchLoanIdStepConfig.java" timestamp="1490390352459">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchLoanIdStepConfig.java" timestamp="1490390952890">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/experian/ExperianCCRReportFetcherTest.java" timestamp="1484342016551">
         <mark key="[" line="76" column="61" />
@@ -2376,10 +2376,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAud3JpdGVyKG5ldyBJdGVtV3JpdGVyPE9iamVjdD4oKSB7CiAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgIHB1YmxpYyB2b2lkIHdyaXRlKGZpbmFsIExpc3Q8Pz4gbGlzdCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgICAgIAogICAgICAgICAgfQogICAgICAgIH0p</text>
+        <text>list</text>
       </register>
       <register name="-" type="4">
-        <text>.split()</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text>Optional.ofNullable(sfLead.getCountry()).map(Country::fromCode</text>
