@@ -120,11 +120,12 @@
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchMerchantIdStepConfig.java" timestamp="1490628045187">
-        <mark key="'" line="60" column="26" />
-        <mark key="[" line="41" column="7" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchMerchantIdStepConfig.java" timestamp="1490637322587">
+        <mark key="'" line="66" column="26" />
+        <mark key="[" line="42" column="33" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/forward/ForwardResource.java" timestamp="1482512189924">
         <mark key="[" line="37" column="0" />
@@ -1631,11 +1632,11 @@
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchLoanIdStepConfig.java" timestamp="1490630873104">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="23" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchLoanIdStepConfig.java" timestamp="1490637149944">
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="38" column="13" />
+        <mark key="." line="38" column="13" />
+        <mark key="^" line="38" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/experian/ExperianCCRReportFetcherTest.java" timestamp="1484342016551">
         <mark key="[" line="76" column="61" />
@@ -2235,10 +2236,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchSFAccountStepConfig.java" timestamp="1490630868195">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchSFAccountStepConfig.java" timestamp="1490636397541">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/MXEnrollmentController.java" timestamp="1485192033404">
         <mark key="[" line="22" column="0" />
@@ -2639,11 +2640,11 @@
       <jump line="57" column="26" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchMerchantIdStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0O2RkCg==</text>
+      <register name="&quot;" type="4">
+        <text>merchantIds</text>
       </register>
       <register name="-" type="4">
-        <text>new SimpleAsyncTaskExecutor()</text>
+        <text>merchantIds</text>
       </register>
       <register name="/" type="4">
         <text>Optional.ofNullable(sfLead.getCountry()).map(Country::fromCode</text>
@@ -2652,35 +2653,31 @@
         <text encoding="base64">Y2xhc3NwYXRoPSIkY2xhc3NwYXRoIjovdXNyL2xvY2FsL29uZGVjay9qb2JzL2xzcC9wcm9wZXJ0aWVzL3JlbmV3YWxfZWxpZ2liaWxpdHlfY29udHJvbF9zZXQvLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0O2RkCg==</text>
+        <text encoding="base64">ICAgIGxpc3RlbmVyLnNldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0O2RkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI3LzE3Lgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI3LzE3Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVidWc9dHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVidWc9dHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>#include.countries=USA
-#exclude.funding.sources=Chase
-#include.loan.statuses=0,1,4
-#lookback.window=7 years
-#batch.size=5000</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
