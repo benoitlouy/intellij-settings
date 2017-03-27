@@ -117,11 +117,11 @@
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchMerchantIdStepConfig.java" timestamp="1490646669542">
-        <mark key="'" line="62" column="26" />
-        <mark key="[" line="46" column="33" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchMerchantIdStepConfig.java" timestamp="1490648834455">
+        <mark key="'" line="55" column="26" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/forward/ForwardResource.java" timestamp="1482512189924">
         <mark key="[" line="37" column="0" />
@@ -200,10 +200,10 @@
         <mark key="." line="75" column="84" />
         <mark key="^" line="165" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/BatchItemReader.java" timestamp="1490646794481">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/BatchItemReader.java" timestamp="1490648250701">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/test/resources/parrot_test_mocked_userservice.yml" timestamp="1486072410659">
         <mark key="[" line="25" column="14" />
@@ -659,6 +659,12 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/BatchItemReaderTest.java" timestamp="1490648292687">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="33" column="83" />
+        <mark key="." line="33" column="83" />
+        <mark key="^" line="33" column="83" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/batchjobscommon/src/test/java/com/ondeck/job/common/executor/model/JobExecutorTypedParametersTest.java" timestamp="1490378777044">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -761,11 +767,10 @@
         <mark key="." line="42" column="27" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/MerchantIdReaderConfig.java" timestamp="1490646522970">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="34" column="27" />
-        <mark key="^" line="34" column="27" />
-        <mark key="." line="34" column="27" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/MerchantIdReaderConfig.java" timestamp="1490648611395">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/cashflow-service/src/test/java/com/ondeck/cfs/service/mx/service/MxTdsServiceHelperTest.java" timestamp="1485973970745">
         <mark key="[" line="83" column="73" />
@@ -1882,7 +1887,7 @@
         <mark key="]" line="122" column="95" />
         <mark key="." line="122" column="95" />
       </file>
-      <file name="/fragment.java" timestamp="1490623958242">
+      <file name="/fragment.java" timestamp="1490647516672">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -2663,10 +2668,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suam9iLnJlbmV3YWwuZWxpZ2liaWxpdHkuc2YuZGF0YS5leHBvcnQuY29uZmlnLkRhdGFTb3VyY2VDb25maWc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>@Qualifier(&quot;fetchSFAccount&quot;) Step fetchSFAccount</text>
+        <text>merchantIds.size()</text>
       </register>
       <register name="/" type="4">
         <text>Optional.ofNullable(sfLead.getCountry()).map(Country::fromCode</text>
@@ -2675,33 +2680,31 @@
         <text encoding="base64">Y2xhc3NwYXRoPSIkY2xhc3NwYXRoIjovdXNyL2xvY2FsL29uZGVjay9qb2JzL2xzcC9wcm9wZXJ0aWVzL3JlbmV3YWxfZWxpZ2liaWxpdHlfY29udHJvbF9zZXQvLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI3LzE3Lgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suam9iLnJlbmV3YWwuZWxpZ2liaWxpdHkuc2YuZGF0YS5leHBvcnQuY29uZmlnLkRhdGFTb3VyY2VDb25maWc7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlF1YWxpZmllcjsK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmF0Y2guaXRlbS5kYXRhYmFzZS5KZGJjQ3Vyc29ySXRlbVJlYWRlcjsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmF0Y2guaXRlbS5JdGVtUHJvY2Vzc29yOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>import java.sql.Timestamp;
-import java.util.Date;
-import javax.sql.DataSource;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBAQmVhbihkZXN0cm95TWV0aG9kID0gImNsb3NlIikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAucHJvY2Vzc29yKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZldGNoU0ZBY2NvdW50U3RlcENvbmZpZy5jbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHB1YmxpYyBMb25nIHByb2Nlc3MoZmluYWwgTG9uZyBpdGVtKSB0aHJvd3MgRXhjZXB0aW9uIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
