@@ -1636,10 +1636,11 @@
         <mark key="." line="256" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/src/test/resources/schema.sql" timestamp="1490627822078" />
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchLoanIdStepConfig.java" timestamp="1490628381806">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchLoanIdStepConfig.java" timestamp="1490630873104">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/consumer/experian/ExperianCCRReportFetcherTest.java" timestamp="1484342016551">
         <mark key="[" line="76" column="61" />
@@ -2239,6 +2240,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchSFAccountStepConfig.java" timestamp="1490630868195">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-server/src/main/java/com/odc/enrollment/server/mx/MXEnrollmentController.java" timestamp="1485192033404">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -2641,7 +2647,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0O2RkCg==</text>
       </register>
       <register name="-" type="4">
         <text>new SimpleAsyncTaskExecutor()</text>
@@ -2653,35 +2659,35 @@
         <text encoding="base64">Y2xhc3NwYXRoPSIkY2xhc3NwYXRoIjovdXNyL2xvY2FsL29uZGVjay9qb2JzL2xzcC9wcm9wZXJ0aWVzL3JlbmV3YWxfZWxpZ2liaWxpdHlfY29udHJvbF9zZXQvLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0O2RkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVidWc9dHJ1ZQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI3LzE3Lgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ZGVidWc9dHJ1ZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>#include.countries=USA
 #exclude.funding.sources=Chase
 #include.loan.statuses=0,1,4
 #lookback.window=7 years
 #batch.size=5000</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5lbmQoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdGFydChub09wU3RlcCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBBcHBsaWNhdGlvbkNvbnRleHQgYSA9IGFwcGxpY2F0aW9uLgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGQobWVyY2hhbnRJZEZsb3cpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
