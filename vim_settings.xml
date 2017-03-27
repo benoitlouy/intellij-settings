@@ -502,7 +502,7 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490383080843">
+      <file name="/Dummy.txt" timestamp="1490623958255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/AdditionnalEndpointConfig.java" timestamp="1484252316459">
@@ -1449,7 +1449,7 @@
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchLoanIdStepConfig.java" timestamp="1490390952890">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchLoanIdStepConfig.java" timestamp="1490624035584">
         <mark key="[" line="38" column="16" />
         <mark key="]" line="38" column="16" />
         <mark key="." line="38" column="16" />
@@ -1524,11 +1524,11 @@
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/SFDataExportJobConfig.java" timestamp="1490389812107">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="32" column="38" />
-        <mark key="." line="34" column="24" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/SFDataExportJobConfig.java" timestamp="1490624093677">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="70" />
+        <mark key="^" line="40" column="74" />
+        <mark key="." line="40" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/security/WSSecuritySOAPHeaderHandler.java" timestamp="1489000517785">
         <mark key="[" line="81" column="41" />
@@ -1677,7 +1677,7 @@
         <mark key="]" line="122" column="95" />
         <mark key="." line="122" column="95" />
       </file>
-      <file name="/fragment.java" timestamp="1490383080833">
+      <file name="/fragment.java" timestamp="1490623958242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -1737,7 +1737,7 @@
         <mark key="]" line="85" column="29" />
         <mark key="." line="85" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/JobRunner.java" timestamp="1490387817565">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/JobRunner.java" timestamp="1490623883992">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -2376,10 +2376,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>.star</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>.star</text>
       </register>
       <register name="/" type="4">
         <text>Optional.ofNullable(sfLead.getCountry()).map(Country::fromCode</text>
