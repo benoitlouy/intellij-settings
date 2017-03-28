@@ -14,7 +14,7 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1490650469574">
+      <file name="/a.dummy" timestamp="1490709468287">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/3.0.7.RELEASE/spring-batch-core-3.0.7.RELEASE-sources.jar!/org/springframework/batch/core/listener/ExecutionContextPromotionListener.java" timestamp="1490646015996" />
@@ -361,6 +361,11 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/model/SFPartnerAccount.java" timestamp="1490709146310">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/java/com/ondeck/parrot/common/ThirdPartyReportJacksonProvider.java" timestamp="1485901347601">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="13" />
@@ -635,10 +640,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="28" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/model/SFOpportunity.java" timestamp="1490650436469">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/model/SFOpportunity.java" timestamp="1490709714248">
+        <mark key="[" line="54" column="39" />
+        <mark key="]" line="194" column="76" />
+        <mark key="." line="194" column="76" />
+        <mark key="^" line="194" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/predicate/IsFAPSalesChannelUnitTest.java" timestamp="1481836960891">
         <mark key="[" line="48" column="50" />
@@ -1791,6 +1797,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/model/SFCollection.java" timestamp="1490709429122">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/models/DrawPreview.java" timestamp="1488405913033">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="11" />
@@ -1828,10 +1839,10 @@
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/model/SFAccount.java" timestamp="1490650155610">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/model/SFAccount.java" timestamp="1490709014974">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/AuditFilter.java" timestamp="1482362224127">
         <mark key="[" line="9" column="60" />
@@ -2688,11 +2699,11 @@
       <jump line="57" column="26" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchMerchantIdStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>merchantIdFlow</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>merchantIdFlow</text>
+        <text>getPartnerAccountId</text>
       </register>
       <register name="/" type="4">
         <text>Optional.ofNullable(sfLead.getCountry()).map(Country::fromCode</text>
@@ -2701,31 +2712,31 @@
         <text encoding="base64">Y2xhc3NwYXRoPSIkY2xhc3NwYXRoIjovdXNyL2xvY2FsL29uZGVjay9qb2JzL2xzcC9wcm9wZXJ0aWVzL3JlbmV3YWxfZWxpZ2liaWxpdHlfY29udHJvbF9zZXQvLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlZhbHVlOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmF0Y2guY29yZS5saXN0ZW5lci5FeGVjdXRpb25Db250ZXh0UHJvbW90aW9uTGlzdGVuZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmF0Y2guY29yZS5TdGVwTGlzdGVuZXI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmF0Y2guY29yZS5TdGVwRXhlY3V0aW9uOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBAU2FsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI4LzE3Lgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElkKCkgewogICAgcmV0dXJuIGlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SWQoZmluYWwgU3RyaW5nIGlkKSB7CiAgICB0aGlzLmlkID0gaWQ7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldEFjY291bnRJZCgpIHsKICAgIHJldHVybiBhY2NvdW50SWQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBY2NvdW50SWQoZmluYWwgU3RyaW5nIGFjY291bnRJZCkgewogICAgdGhpcy5hY2NvdW50SWQgPSBhY2NvdW50SWQ7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICByZXR1cm4gbmFtZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldE5hbWUoZmluYWwgU3RyaW5nIG5hbWUpIHsKICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgfQoKICBwdWJsaWMgRGF0ZVRpbWUgZ2V0Q3JlYXRlZERhdGUoKSB7CiAgICByZXR1cm4gY3JlYXRlZERhdGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRDcmVhdGVkRGF0ZShmaW5hbCBEYXRlVGltZSBjcmVhdGVkRGF0ZSkgewogICAgdGhpcy5jcmVhdGVkRGF0ZSA9IGNyZWF0ZWREYXRlOwogIH0KCiAgcHVibGljIERhdGVUaW1lIGdldFVwZGF0ZWREYXRlKCkgewogICAgcmV0dXJuIHVwZGF0ZWREYXRlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0VXBkYXRlZERhdGUoZmluYWwgRGF0ZVRpbWUgdXBkYXRlZERhdGUpIHsKICAgIHRoaXMudXBkYXRlZERhdGUgPSB1cGRhdGVkRGF0ZTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0U3RhZ2VOYW1lKCkgewogICAgcmV0dXJuIHN0YWdlTmFtZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldFN0YWdlTmFtZShmaW5hbCBTdHJpbmcgc3RhZ2VOYW1lKSB7CiAgICB0aGlzLnN0YWdlTmFtZSA9IHN0YWdlTmFtZTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0UHJvZHVjdEZhbWlseSgpIHsKICAgIHJldHVybiBwcm9kdWN0RmFtaWx5OwogIH0KCiAgcHVibGljIHZvaWQgc2V0UHJvZHVjdEZhbWlseShmaW5hbCBTdHJpbmcgcHJvZHVjdEZhbWlseSkgewogICAgdGhpcy5wcm9kdWN0RmFtaWx5ID0gcHJvZHVjdEZhbWlseTsKICB9CgogIHB1YmxpYyBib29sZWFuIGlzRGVsZXRlZCgpIHsKICAgIHJldHVybiBpc0RlbGV0ZWQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXREZWxldGVkKGZpbmFsIGJvb2xlYW4gZGVsZXRlZCkgewogICAgaXNEZWxldGVkID0gZGVsZXRlZDsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0TG9hbklkKCkgewogICAgcmV0dXJuIGxvYW5JZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldExvYW5JZChmaW5hbCBTdHJpbmcgbG9hbklkKSB7CiAgICB0aGlzLmxvYW5JZCA9IGxvYW5JZDsKICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFBhcnRuZXJBY2NvdW50SWQoKSB7CiAgICByZXR1cm4gcGFydG5lckFjY291bnRJZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldFBhcnRuZXJBY2NvdW50SWQoZmluYWwgU3RyaW5nIHBhcnRuZXJBY2NvdW50SWQpIHsKICAgIHRoaXMucGFydG5lckFjY291bnRJZCA9IHBhcnRuZXJBY2NvdW50SWQ7CiAgfQ==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI3LzE3Lgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI4LzE3Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
