@@ -968,19 +968,19 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/writer/CollectionCSVItemWriter.java" timestamp="1490719413115">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/writer/CollectionCSVItemWriter.java" timestamp="1490721067015">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/writer/CSVItemCollectionWriter.java" timestamp="1490713058240">
         <mark key="[" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/writer/CollectionLineAggregatorTest.java" timestamp="1490719567942">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/writer/CollectionLineAggregatorTest.java" timestamp="1490721094632">
         <mark key="[" line="27" column="33" />
         <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/App.java" timestamp="1490368717949">
         <mark key="[" line="2" column="16" />
@@ -1182,8 +1182,8 @@
         <mark key="]" line="202" column="0" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/writer/CollectionLineAggregator.java" timestamp="1490719700140">
-        <mark key="[" line="19" column="98" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/writer/CollectionLineAggregator.java" timestamp="1490720857823">
+        <mark key="[" line="18" column="98" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
@@ -2722,11 +2722,11 @@
       <jump line="57" column="26" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchMerchantIdStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzYi50b1N0cmluZygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>lineSeparator</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yRWFjaChzIC0+IHNiLmFwcGVuZChzKS5hcHBlbmQobGluZVNlcGFyYXRvcik=</text>
+        <text>lineSeparator</text>
       </register>
       <register name="/" type="4">
         <text>Optional.ofNullable(sfLead.getCountry()).map(Country::fromCode</text>
