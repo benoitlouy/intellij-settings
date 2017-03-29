@@ -402,7 +402,7 @@
         <mark key="]" line="64" column="73" />
         <mark key="." line="64" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/batchjobscommon/pom.xml" timestamp="1490802056422">
+      <file name="$USER_HOME$/Projects/OnDeck/batchjobscommon/pom.xml" timestamp="1490809504339">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="14" column="53" />
         <mark key="." line="14" column="53" />
@@ -1203,8 +1203,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/batchjobscommon/src/main/java/com/ondeck/job/common/executor/model/JobExecutorResult.java" timestamp="1490801908718">
+      <file name="$USER_HOME$/Projects/OnDeck/batchjobscommon/src/main/java/com/ondeck/job/common/executor/model/JobExecutorResult.java" timestamp="1490809657235">
         <mark key="[" line="7" column="28" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/decision/CheckoutConditionsManagement.java" timestamp="1488551222554">
         <mark key="[" line="201" column="3" />
@@ -1342,6 +1345,11 @@
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/CountryClauseConfig.java" timestamp="1490809920236">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/experian/alerts/ExperianAMSFetcherUnitTest.java" timestamp="1484337141779">
         <mark key="[" line="138" column="67" />
@@ -2103,9 +2111,6 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/build.gradle" timestamp="1490809302099">
         <mark key="[" line="46" column="9" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/LoanIdReader.java" timestamp="1490390066656">
         <mark key="[" line="20" column="0" />
@@ -2802,7 +2807,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -2814,49 +2819,31 @@
         <text encoding="base64">ICAgICAgQFZhbHVlKCIje2pvYlBhcmFtZXRlcnNbJ2FzT2ZEYXRlJ119IikgZmluYWwgRGF0ZSBhc09mRGF0ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvLndyaXRlKCkK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzI5LzE3Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZyb20gaW5zdGFsbERpc3QgLy90YXNrIGltcGxlbWVudGVkIGluIHRoZSBBcHBsaWNhdGlvbiBQbHVnaW4K</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvLndyaXRlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGlzaC5kZXBlbmRzT24gam9iUGFja2FnaW5nQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGZyb20gaW5zdGFsbERpc3QgLy90YXNrIGltcGxlbWVudGVkIGluIHRoZSBBcHBsaWNhdGlvbiBQbHVnaW4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>task jobCreationConfiguration() {
-//    mainClassName = ''
-
-    //Don't automatically create startScripts for jobs.
-//    startScripts.enabled = false
-
-    //Move executable file to /bin and rename it
-//    def binDir = &quot;${project.projectDir}/execute.sh&quot;
-//    applicationDistribution.from(&quot;$binDir&quot;) {
-//        into &quot;bin&quot;
-//        rename(&quot;execute.sh&quot;, &quot;${project.name}.sh&quot;)
-//    }
-//
-//    //Move resources to bin directory
-//    applicationDistribution.from(sourceSets.main.resources.srcDirs) {
-//        into 'bin'
-//        include 'logback.xml'
-//    }
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">cHVibGlzaC5kZXBlbmRzT24gam9iUGFja2FnaW5nQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
