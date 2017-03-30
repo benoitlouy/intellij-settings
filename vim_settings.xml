@@ -297,7 +297,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" timestamp="1490889034552">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" timestamp="1490892399109">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
@@ -1193,8 +1193,8 @@
         <mark key="]" line="704" column="0" />
         <mark key="." line="704" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/WriteChecksumStepConfig.java" timestamp="1490889506349">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/WriteChecksumStepConfig.java" timestamp="1490892400930">
+        <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -2214,6 +2214,12 @@
         <mark key="]" line="92" column="54" />
         <mark key="." line="92" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/OutputFilesConfig.java" timestamp="1490892531960">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/business/equifax/us/EquifaxBCRCachingReportHandlerTest.java" timestamp="1484338607077">
         <mark key="[" line="46" column="72" />
         <mark key="]" line="46" column="72" />
@@ -2881,11 +2887,11 @@
       <jump line="25" column="11" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -2903,22 +2909,22 @@
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuc3RhcnQoZmV0Y2hTRk9wcG9ydHVuaXRpZXMpCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzMwLzE3Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKfQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAuc3RhcnQoZmV0Y2hTRk9wcG9ydHVuaXRpZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmaWxlTmFtZSArICIubWV0YSI7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBtZXRhRGF0YUZpbGVOYW1lRm9ybWF0KFN0cmluZyBmaWxlTmFtZSkgewo=</text>
+        <text encoding="base64">ICAKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
