@@ -490,11 +490,10 @@
         <mark key="." line="104" column="12" />
         <mark key="^" line="104" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/SFDataExportJobIT.java" timestamp="1490899083184">
-        <mark key="[" line="48" column="94" />
-        <mark key="]" line="51" column="85" />
-        <mark key="." line="51" column="85" />
-        <mark key="^" line="51" column="85" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/SFDataExportJobIT.java" timestamp="1490900234965">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/api/src/main/java/com/odc/connect/enumtype/CachingPolicy.java" timestamp="1484080172662">
         <mark key="[" line="51" column="0" />
@@ -2025,8 +2024,8 @@
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/DataSourceConfig.java" timestamp="1490886553721">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/DataSourceConfig.java" timestamp="1490900769632">
+        <mark key="[" line="47" column="44" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -2251,11 +2250,11 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/templates/application.properties.j2" timestamp="1490821234531">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="14" column="17" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/templates/application.properties.j2" timestamp="1490900350583">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/service/merchantapi/MerchantApiManager.java" timestamp="1490120616215">
         <mark key="[" line="39" column="16" />
@@ -2887,10 +2886,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgTGlzdDxTRkFjY291bnQ+IGFjY291bnRzID0gc2FsZXNmb3JjZUNsaWVudC5zZWxlY3QoU0ZBY2NvdW50LmNsYXNzLCBxdWVyeSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShuZXcgRmlsZShvdXRwdXREaXIsICJDb2xsZWN0aW9uc18yMDE3LTAzLTI3VDEwOjA4OjU2LjAwMi0wNDowMC5jc3YubWV0YSIpLmV4aXN0cygpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>Files.readLines(pair.getRight(), Charsets.UTF_8)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -2899,31 +2898,31 @@
         <text encoding="base64">ICAgICAgQFZhbHVlKCIje2pvYlBhcmFtZXRlcnNbJ2FzT2ZEYXRlJ119IikgZmluYWwgRGF0ZSBhc09mRGF0ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgTGlzdDxTRkFjY291bnQ+IGFjY291bnRzID0gc2FsZXNmb3JjZUNsaWVudC5zZWxlY3QoU0ZBY2NvdW50LmNsYXNzLCBxdWVyeSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShuZXcgRmlsZShvdXRwdXREaXIsICJDb2xsZWN0aW9uc18yMDE3LTAzLTI3VDEwOjA4OjU2LjAwMi0wNDowMC5jc3YubWV0YSIpLmV4aXN0cygpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciByZXRyeUludGVydmFsTXVsdGlwbGllcjsK</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShuZXcgRmlsZShvdXRwdXREaXIsICJPcHBvcnR1bml0aWVzXzIwMTctMDMtMjdUMTA6MDg6NTYuMDAyLTA0OjAwLmNzdi5tZXRhIikuZXhpc3RzKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciByZXRyeUludGVydmFsOwo=</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShuZXcgRmlsZShvdXRwdXREaXIsICJBY2NvdW50c18yMDE3LTAzLTI3VDEwOjA4OjU2LjAwMi0wNDowMC5jc3YubWV0YSIpLmV4aXN0cygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShuZXcgRmlsZShvdXRwdXREaXIsICJDb2xsZWN0aW9uc18yMDE3LTAzLTI3VDEwOjA4OjU2LjAwMi0wNDowMC5jc3YiKS5leGlzdHMoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShuZXcgRmlsZShvdXRwdXREaXIsICJPcHBvcnR1bml0aWVzXzIwMTctMDMtMjdUMTA6MDg6NTYuMDAyLTA0OjAwLmNzdiIpLmV4aXN0cygpKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBwdWJsaWMgSW50ZWdlciBnZXRSZXRyeUludGVydmFsKCkgewogICAgICByZXR1cm4gTW9yZU9iamVjdHMuZmlyc3ROb25OdWxsKHJldHJ5SW50ZXJ2YWwsIDEpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJldHJ5SW50ZXJ2YWwoZmluYWwgSW50ZWdlciByZXRyeUludGVydmFsKSB7CiAgICAgIHRoaXMucmV0cnlJbnRlcnZhbCA9IHJldHJ5SW50ZXJ2YWw7CiAgICB9CgogICAgcHVibGljIEludGVnZXIgZ2V0UmV0cnlJbnRlcnZhbE11bHRpcGxpZXIoKSB7CiAgICAgIHJldHVybiBNb3JlT2JqZWN0cy5maXJzdE5vbk51bGwocmV0cnlJbnRlcnZhbE11bHRpcGxpZXIsIDEpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJldHJ5SW50ZXJ2YWxNdWx0aXBsaWVyKGZpbmFsIEludGVnZXIgcmV0cnlJbnRlcnZhbE11bHRpcGxpZXIpIHsKICAgICAgdGhpcy5yZXRyeUludGVydmFsTXVsdGlwbGllciA9IHJldHJ5SW50ZXJ2YWxNdWx0aXBsaWVyOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShuZXcgRmlsZShvdXRwdXREaXIsICJBY2NvdW50c18yMDE3LTAzLTI3VDEwOjA4OjU2LjAwMi0wNDowMC5jc3YiKS5leGlzdHMoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGZpbmFsIFNpbXBsZVJldHJ5UG9saWN5IHJldHJ5UG9saWN5ID0KICAgICAgICBuZXcgU2ltcGxlUmV0cnlQb2xpY3kocHJvcGVydGllcy5nZXRNYXhSZXRyeSgpLCBJbW11dGFibGVNYXAub2YoU2FsZXNmb3JjZUV4Y2VwdGlvbi5jbGFzcywgdHJ1ZSkpOwoKICAgIGZpbmFsIEV4cG9uZW50aWFsQmFja09mZlBvbGljeSBiYWNrT2ZmUG9saWN5ID0gbmV3IEV4cG9uZW50aWFsQmFja09mZlBvbGljeSgpOwogICAgYmFja09mZlBvbGljeS5zZXRJbml0aWFsSW50ZXJ2YWwocHJvcGVydGllcy5nZXRSZXRyeUludGVydmFsKCkpOwogICAgYmFja09mZlBvbGljeS5zZXRNdWx0aXBsaWVyKHByb3BlcnRpZXMuZ2V0UmV0cnlJbnRlcnZhbE11bHRpcGxpZXIoKSk7CgogICAgZmluYWwgUmV0cnlUZW1wbGF0ZSByZXRyeVRlbXBsYXRlID0gbmV3IFJldHJ5VGVtcGxhdGUoKTsKICAgIHJldHJ5VGVtcGxhdGUuc2V0UmV0cnlQb2xpY3kocmV0cnlQb2xpY3kpOwogICAgcmV0cnlUZW1wbGF0ZS5zZXRCYWNrT2ZmUG9saWN5KGJhY2tPZmZQb2xpY3kpOwoKICAgIHJldHVybiByZXRyeVRlbXBsYXRlOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKDEsICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLndpdGhXYWl0U3RyYXRlZ3koV2FpdFN0cmF0ZWdpZXMuZXhwb25lbnRpYWxXYWl0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgZmluYWwgTGlzdDxTRkFjY291bnQ+IGFjY291bnRzID0gc2FsZXNmb3JjZUNsaWVudC5zZWxlY3QoU0ZBY2NvdW50LmNsYXNzLCBxdWVyeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
