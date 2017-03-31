@@ -1366,10 +1366,10 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/main/java/com/ondeck/salesforceclient/SalesforceClientConfig.java" timestamp="1490982664334">
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="21" column="56" />
-        <mark key="." line="21" column="56" />
+      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/main/java/com/ondeck/salesforceclient/SalesforceClientConfig.java" timestamp="1490984473194">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/auth/AuthConfig.java" timestamp="1489585940814">
         <mark key="[" line="42" column="0" />
@@ -2252,6 +2252,7 @@
         <mark key="]" line="92" column="54" />
         <mark key="." line="92" column="54" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.28/async-http-client-2.0.28.jar!/org/asynchttpclient/AsyncHttpClient.class" timestamp="1490983848762" />
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/OutputFilesConfig.java" timestamp="1490896037337">
         <mark key="[" line="48" column="32" />
         <mark key="]" line="48" column="31" />
@@ -2354,6 +2355,12 @@
         <mark key="]" line="11" column="36" />
         <mark key="." line="11" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/test/java/com/ondeck/salesforceclient/Test.java" timestamp="1490984762807">
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/test/java/com/ondeck/parrot/audit/AuditWriterTest.java" timestamp="1482510200155">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -2370,8 +2377,8 @@
         <mark key="." line="298" column="80" />
         <mark key="^" line="287" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/test/java/com/ondeck/salesforceclient/rest/SalesforceRestClientIT.java" timestamp="1490982789214">
-        <mark key="[" line="48" column="66" />
+      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/test/java/com/ondeck/salesforceclient/rest/SalesforceRestClientIT.java" timestamp="1490984541378">
+        <mark key="[" line="50" column="81" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
@@ -2426,7 +2433,6 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/target/generated-sources/annotations/com/ondeck/salesforceclient/DefaultSalesforceClientConfig.java" timestamp="1490982783507" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/resource/TermLoanResourceTest.java" timestamp="1487275605475">
         <mark key="[" line="57" column="13" />
         <mark key="]" line="57" column="13" />
@@ -2578,11 +2584,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/main/java/com/ondeck/salesforceclient/rest/SalesforceRestClient.java" timestamp="1490982913058">
-        <mark key="[" line="369" column="16" />
-        <mark key="]" line="369" column="14" />
+      <file name="$USER_HOME$/Projects/OnDeck/salesforceclient/src/main/java/com/ondeck/salesforceclient/rest/SalesforceRestClient.java" timestamp="1490983468679">
+        <mark key="[" line="369" column="70" />
+        <mark key="]" line="369" column="70" />
         <mark key="^" line="369" column="14" />
-        <mark key="." line="369" column="14" />
+        <mark key="." line="369" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/deploy/roles/renewal_eligibility_control_set/defaults/main.yml" timestamp="1490214381492">
         <mark key="[" line="5" column="21" />
@@ -2941,10 +2947,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.asyncHttpClient(new DefaultAsyncHttpClient())</text>
+        <text>are</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -2953,31 +2959,31 @@
         <text encoding="base64">ICBTdXBwbGllcjxBc3luY0h0dHBDbGllbnQ+IERFRkFVTFRfQVNZTkNfSFRUUF9DTElFTlQgPSBTdXBwbGllcnMubWVtb2l6ZShEZWZhdWx0QXN5bmNIdHRwQ2xpZW50OjpuZXcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzMxLzE3Lgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYXBwZXIucmVnaXN0ZXJNb2R1bGUobmV3IEpvZGFNb2R1bGUoKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIDwhLS08ZGVwZW5kZW5jeT4tLT4KICAgICAgPCEtLTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+LS0+CiAgICAgIDwhLS08YXJ0aWZhY3RJZD5zcHJpbmctdGVzdDwvYXJ0aWZhY3RJZD4tLT4KICAgICAgPCEtLTx2ZXJzaW9uPjQuMy43LlJFTEVBU0U8L3ZlcnNpb24+LS0+CiAgICAgIDwhLS08c2NvcGU+dGVzdDwvc2NvcGU+LS0+CiAgICA8IS0tPC9kZXBlbmRlbmN5Pi0tPg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBTdXBwbGllcjxBc3luY0h0dHBDbGllbnQ+IERFRkFVTFRfQVNZTkNfSFRUUF9DTElFTlQgPSBEZWZhdWx0QXN5bmNIdHRwQ2xpZW50OjpuZXc7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiAzLzMxLzE3Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhc09mRGF0ZSA9ICIyMDE3LTAzLTI3VDEwOjA4OjU2LjAwMi0wNDowMCI7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
