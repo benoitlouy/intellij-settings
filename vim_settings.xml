@@ -1628,11 +1628,11 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/renewaleligibilitycontrolset.properties" timestamp="1491328625415">
-        <mark key="[" line="42" column="18" />
-        <mark key="]" line="42" column="18" />
-        <mark key="^" line="19" column="47" />
-        <mark key="." line="42" column="18" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/renewaleligibilitycontrolset.properties" timestamp="1491331228460">
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+        <mark key="." line="42" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/itest/java/com/ondeck/termloan/database/LoanPaydownDAOIT.java" timestamp="1487091619185">
         <mark key="[" line="80" column="0" />
@@ -1807,11 +1807,11 @@
         <mark key="]" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LoanReaderConfig.java" timestamp="1491328643150">
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="37" column="94" />
-        <mark key="." line="37" column="94" />
-        <mark key="^" line="37" column="94" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LoanReaderConfig.java" timestamp="1491330903636">
+        <mark key="[" line="47" column="40" />
+        <mark key="]" line="47" column="40" />
+        <mark key="." line="47" column="40" />
+        <mark key="^" line="40" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/eservicecorp/ESCCorpSearchReportFetcherUnitTest.java" timestamp="1484336125564">
         <mark key="[" line="56" column="68" />
@@ -2943,10 +2943,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>USA,CAN,AUS</text>
+        <text>and fs.funding_source_name not in (%s)\n</text>
       </register>
       <register name="-" type="4">
-        <text>USA,CAN,AUS</text>
+        <text>and fs.funding_source_name not in (%s)\n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -2955,31 +2955,31 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">I2luY2x1ZGUuY291bnRyaWVzPVVTQSxDQU4sQVVTCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU0ZfT1BQT1JUVU5JVFlfRkVUQ0hFUl9MT0dHRVIuaW5mbygicXVlcnlpbmcgU0YgZm9yIG9wcG9ydHVuaXRpZXMgd2l0aCByZXN0cmljdGlvbiB7fSBmb3Ige30iCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsb2FuSWRzIC0+IHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgU3RyaW5nIGRhdGVDbGF1c2UpIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgU0ZfT1BQT1JUVU5JVFlfRkVUQ0hFUl9MT0dHRVIuaW5mbygicXVlcnlpbmcgU0YgZm9yIG9wcG9ydHVuaXRpZXMgd2l0aCByZXN0cmljdGlvbiB7fSBmb3Ige30iCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBsb2FuSWRzIC0+IHsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZmluYWwgU3RyaW5nIGRhdGVDbGF1c2UpIHsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZmluYWwgU3RyaW5nIGRhdGVDbGF1c2UpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
