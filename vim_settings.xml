@@ -1223,6 +1223,11 @@
         <mark key="]" line="33" column="54" />
         <mark key="." line="33" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/README.md" timestamp="1491331932128">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/account/yodlee/bankdata/FastLinkConnection.java" timestamp="1484585602712">
         <mark key="[" line="80" column="22" />
         <mark key="]" line="19" column="0" />
@@ -2159,7 +2164,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/README.md" timestamp="1490388805490">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/README.md" timestamp="1491331896251">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="37" />
         <mark key="." line="4" column="37" />
@@ -2942,8 +2947,8 @@
       <jump line="25" column="11" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>and fs.funding_source_name not in (%s)\n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBSdW46IGBgYC4vcmVuZXdhbC1lbGlnaWJpbGl0eS1jb250cm9sLXNldC5zaGBgYAo=</text>
       </register>
       <register name="-" type="4">
         <text>and fs.funding_source_name not in (%s)\n</text>
@@ -2955,31 +2960,35 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUuY291bnRyaWVzPVVTQSxDQU4sQVVTCg==</text>
+        <text encoding="base64">LSBSdW46IGBgYC4vcmVuZXdhbC1lbGlnaWJpbGl0eS1jb250cm9sLXNldC5zaGBgYAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">LSBHbyB0byBiaW4gZGlyZWN0b3J5Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU0ZfT1BQT1JUVU5JVFlfRkVUQ0hFUl9MT0dHRVIuaW5mbygicXVlcnlpbmcgU0YgZm9yIG9wcG9ydHVuaXRpZXMgd2l0aCByZXN0cmljdGlvbiB7fSBmb3Ige30iCg==</text>
+      <register name="3" type="4">
+        <text>- Go to bin directory
+- Run: ```./renewal-eligibility-control-set.sh```</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsb2FuSWRzIC0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgU3RyaW5nIGRhdGVDbGF1c2UpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="6" type="4">
+        <text>### Configuration
+- Configuration is maintained in the renewaleligibilitycontrolset.properties file
+- Logging config is in logback.xml</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgU3RyaW5nIGRhdGVDbGF1c2UpIHsK</text>
+      <register name="9" type="4">
+        <text>### About
+This job generates the control set used by the renewal eligibility job pipeline</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
