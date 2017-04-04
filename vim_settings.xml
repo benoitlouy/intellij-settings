@@ -2177,11 +2177,10 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="1" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/Contact.java" timestamp="1490384665938">
-        <mark key="[" line="169" column="11" />
-        <mark key="]" line="169" column="11" />
-        <mark key="^" line="85" column="59" />
-        <mark key="." line="169" column="11" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/Contact.java" timestamp="1491334699134">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/test/com/ondeck/mobileapi/json/JsonUtilsTest.java" timestamp="1482337007061">
         <mark key="[" line="223" column="19" />
@@ -2954,8 +2953,8 @@
       <jump line="25" column="11" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>process</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBDb250YWN0VHlwZS5OVUxMOwo=</text>
       </register>
       <register name="-" type="4">
         <text>process</text>
@@ -2967,35 +2966,32 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBSdW46IGBgYC4vcmVuZXdhbC1lbGlnaWJpbGl0eS1jb250cm9sLXNldC5zaGBgYAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb250YWN0VHlwZS5OVUxMOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY29udGFjdFR5cGUgPSBjb250YWN0VHlwZTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChjb250YWN0VHlwZSA9PSBudWxsKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LSBSdW46IGBgYC4vcmVuZXdhbC1lbGlnaWJpbGl0eS1jb250cm9sLXNldC5zaGBgYAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">LSBHbyB0byBiaW4gZGlyZWN0b3J5Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>- Go to bin directory
 - Run: ```./renewal-eligibility-control-set.sh```</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>### Configuration
-- Configuration is maintained in the renewaleligibilitycontrolset.properties file
-- Logging config is in logback.xml</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>### About
-This job generates the control set used by the renewal eligibility job pipeline</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
