@@ -1628,11 +1628,11 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/renewaleligibilitycontrolset.properties" timestamp="1490800881620">
-        <mark key="[" line="41" column="21" />
-        <mark key="]" line="19" column="47" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/renewaleligibilitycontrolset.properties" timestamp="1491328625415">
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="42" column="18" />
         <mark key="^" line="19" column="47" />
-        <mark key="." line="19" column="47" />
+        <mark key="." line="42" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/itest/java/com/ondeck/termloan/database/LoanPaydownDAOIT.java" timestamp="1487091619185">
         <mark key="[" line="80" column="0" />
@@ -1807,7 +1807,7 @@
         <mark key="]" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LoanReaderConfig.java" timestamp="1490886316698">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LoanReaderConfig.java" timestamp="1491328643150">
         <mark key="[" line="53" column="38" />
         <mark key="]" line="37" column="94" />
         <mark key="." line="37" column="94" />
@@ -2942,17 +2942,17 @@
       <jump line="25" column="11" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="&quot;" type="4">
+        <text>USA,CAN,AUS</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgQFZhbHVlKCIke2FzLm9mLmRhdGV9Iik=</text>
+        <text>USA,CAN,AUS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9CQVNFX1VSTCA9ICJodHRwOi8vbG9jYWxob3N0OjE2MjE2L0Nvbm5lY3QvIjsK</text>
+        <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
