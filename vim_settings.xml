@@ -1223,10 +1223,10 @@
         <mark key="]" line="33" column="54" />
         <mark key="." line="33" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/README.md" timestamp="1491331932128">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/README.md" timestamp="1491332755320">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/account/yodlee/bankdata/FastLinkConnection.java" timestamp="1484585602712">
         <mark key="[" line="80" column="22" />
@@ -1828,10 +1828,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/SFDataExportJobSingleFlowIT.java" timestamp="1490971146188">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/SFDataExportJobSingleFlowIT.java" timestamp="1491333028647">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/main/java/com/odc/decision/underwriting/predicate/IsFAPSalesChannel.java" timestamp="1484242160083">
         <mark key="[" line="12" column="3" />
@@ -1887,6 +1888,12 @@
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/SFDataExportJobConfig.java" timestamp="1491333067899">
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="45" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/vendor-connection/vendor-connection-core/src/main/java/com/odc/vendor/connection/core/security/WSSecuritySOAPHeaderHandler.java" timestamp="1489000517785">
         <mark key="[" line="81" column="41" />
@@ -2817,7 +2824,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/templates/run.sh.j2" timestamp="1490818387988">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/templates/run.sh.j2" timestamp="1491332124409">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="143" />
         <mark key="." line="3" column="143" />
@@ -2947,11 +2954,11 @@
       <jump line="25" column="11" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBSdW46IGBgYC4vcmVuZXdhbC1lbGlnaWJpbGl0eS1jb250cm9sLXNldC5zaGBgYAo=</text>
+      <register name="&quot;" type="4">
+        <text>process</text>
       </register>
       <register name="-" type="4">
-        <text>and fs.funding_source_name not in (%s)\n</text>
+        <text>process</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
