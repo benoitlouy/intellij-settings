@@ -1511,11 +1511,11 @@
         <mark key="." line="447" column="12" />
         <mark key="^" line="447" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/AbstractCachingReportHandler.java" timestamp="1491504938601">
-        <mark key="[" line="60" column="69" />
-        <mark key="]" line="60" column="68" />
-        <mark key="." line="60" column="68" />
-        <mark key="^" line="53" column="57" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/AbstractCachingReportHandler.java" timestamp="1491507543074">
+        <mark key="[" line="55" column="2" />
+        <mark key="]" line="55" column="2" />
+        <mark key="." line="55" column="2" />
+        <mark key="^" line="55" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/security/userservice/MigratingUserServiceAuthenticationProvider.java" timestamp="1489606825070">
         <mark key="[" line="64" column="12" />
@@ -1950,6 +1950,11 @@
         <mark key="[" line="35" column="2" />
         <mark key="]" line="35" column="2" />
         <mark key="." line="35" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/handler/AbstractCachingReportHandlerTest.java" timestamp="1491507759142">
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/java/com/ondeck/parrot/authentication/UserServiceAuthenticator.java" timestamp="1485891979574">
         <mark key="[" line="12" column="0" />
@@ -3050,10 +3055,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
+        <text encoding="base64">ICBARGlydGllc0NvbnRleHQK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -3062,31 +3067,31 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
+        <text encoding="base64">ICBARGlydGllc0NvbnRleHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoUmVzcG9uc2VTdGF0dXMuRVJST1IgPT0gcGVyc2lzdGVkUmVwb3J0LmdldEFwaVJlc3BvbnNlKCkuZ2V0U3RhdHVzKCkpCg==</text>
+        <text encoding="base64">ICBARGlydGllc0NvbnRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2ZjbGllbnRfY2xpZW50X3NlY3JldDoK</text>
+        <text encoding="base64">ICBARGlydGllc0NvbnRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVzX2RhdGFzb3VyY2VfcGFzc3dvcmQ6Cg==</text>
+        <text encoding="base64">ICBARGlydGllc0NvbnRleHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBARGlydGllc0NvbnRleHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhc2tFeGVjdXRvci5pbml0aWFsaXplKCk7Cg==</text>
+        <text encoding="base64">ICBARGlydGllc0NvbnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhc2tFeGVjdXRvciA9IG5ldyBUaHJlYWRQb29sVGFza0V4ZWN1dG9yKCk7Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoUmVzcG9uc2VTdGF0dXMuRVJST1IgPT0gcGVyc2lzdGVkUmVwb3J0LmdldEFwaVJlc3BvbnNlKCkuZ2V0U3RhdHVzKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2ZjbGllbnRfY2xpZW50X3NlY3JldDoK</text>
       </register>
       <register name=":" type="4">
         <text>129</text>
