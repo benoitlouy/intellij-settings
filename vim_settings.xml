@@ -310,7 +310,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/AbstractSFDataExportJobIT.java" timestamp="1491598086356">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/AbstractSFDataExportJobIT.java" timestamp="1491600153416">
         <mark key="[" line="32" column="73" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -2146,10 +2146,11 @@
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/DataSourceConfig.java" timestamp="1491598499307">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/DataSourceConfig.java" timestamp="1491599528346">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
+        <mark key="^" line="52" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/resources/parrot-service.yml" timestamp="1482946687816">
         <mark key="[" line="1" column="13" />
@@ -2321,8 +2322,8 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/pom.xml" timestamp="1491585602767">
-        <mark key="[" line="220" column="38" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/pom.xml" timestamp="1491600512543">
+        <mark key="[" line="261" column="18" />
         <mark key="]" line="38" column="33" />
         <mark key="^" line="38" column="33" />
         <mark key="." line="38" column="33" />
@@ -2416,11 +2417,11 @@
         <mark key="]" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/resources/renewaleligibilitysfproducer.properties" timestamp="1491598002107">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="40" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/resources/renewaleligibilitysfproducer.properties" timestamp="1491599563824">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="35" />
         <mark key="^" line="10" column="41" />
-        <mark key="." line="10" column="40" />
+        <mark key="." line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/AbstractConnectFT.java" timestamp="1491249435473">
         <mark key="[" line="20" column="57" />
@@ -3042,11 +3043,11 @@
       <jump line="25" column="11" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGFTb3VyY2Uuc2V0VHIK</text>
+      <register name="&quot;" type="4">
+        <text>drop.sql</text>
       </register>
       <register name="-" type="4">
-        <text>properties</text>
+        <text>drop.sql</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -3055,31 +3056,31 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGFTb3VyY2Uuc2V0VHIK</text>
+        <text encoding="base64">ICAgIFVSTCB1cmwgPSBnZXRDbGFzcygpLmdldFJlc291cmNlKCJyZW5ld2FsZWxpZ2liaWxpdHlzZnByb2R1Y2VyLnByb3BlcnRpZXMiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihsKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGRhdGFTb3VyY2Uuc2V0RHJpdmVyQ2xhc3NOYW1lKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHByb3BlcnRpZXMuZ2V0RHJpdmVyQ2xhc3NOYW1lKCkpKTsKICAgIGRhdGFTb3VyY2Uuc2V0SmRiY1VybChQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChwcm9wZXJ0aWVzLmdldFVybCgpKSk7CiAgICBkYXRhU291cmNlLnNldFVzZXJuYW1lKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHByb3BlcnRpZXMuZ2V0VXNlcm5hbWUoKSkpOwogICAgZGF0YVNvdXJjZS5zZXRQYXNzd29yZChQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChwcm9wZXJ0aWVzLmdldFBhc3N3b3JkKCkpKTsKICAgIGRhdGFTb3VyY2Uuc2V0TWF4aW11bVBvb2xTaXplKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHByb3BlcnRpZXMuZ2V0TWF4UG9vbFNpemUoKSkpOwogICAgZGF0YVNvdXJjZS5zZXRJZGxlVGltZW91dChQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChwcm9wZXJ0aWVzLmdldE1heElkbGUoKSkpOwogICAgZGF0YVNvdXJjZS5zZXRNaW5pbXVtSWRsZShQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChwcm9wZXJ0aWVzLmdldE1pbklkbGUoKSkpOwogICAgZGF0YVNvdXJjZS5zZXRDb25uZWN0aW9uVGVzdFF1ZXJ5KFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHByb3BlcnRpZXMuZ2V0VmFsaWRhdGlvblF1ZXJ5KCkpKTsKICAgIHJldHVybiBkYXRhU291cmNlOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBsID0gZ2V0UmVzb3VyY2VGaWxlcygiY2xhc3NwYXRoOi8iKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+PiAkZGViX3JlbCIpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBwcml2YXRlIExpc3Q8U3RyaW5nPiBnZXRSZXNvdXJjZUZpbGVzKFN0cmluZyBwYXRoICkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIExpc3Q8U3RyaW5nPiBmaWxlbmFtZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICB0cnkoCiAgICAgICAgSW5wdXRTdHJlYW0gaW4gPSBnZXRSZXNvdXJjZUFzU3RyZWFtKHBhdGggKTsKICAgICAgICBCdWZmZXJlZFJlYWRlciBiciA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoaW4gKSApICkgewogICAgICBTdHJpbmcgcmVzb3VyY2U7CgogICAgICB3aGlsZSggKHJlc291cmNlID0gYnIucmVhZExpbmUoKSkgIT0gbnVsbCApIHsKICAgICAgICBmaWxlbmFtZXMuYWRkKCByZXNvdXJjZSApOwogICAgICB9CiAgICB9CgogICAgcmV0dXJuIGZpbGVuYW1lczsKICB9CgogIHByaXZhdGUgSW5wdXRTdHJlYW0gZ2V0UmVzb3VyY2VBc1N0cmVhbSggU3RyaW5nIHJlc291cmNlICkgewogICAgZmluYWwgSW5wdXRTdHJlYW0gaW4KICAgICAgICA9IGdldENvbnRleHRDbGFzc0xvYWRlcigpLmdldFJlc291cmNlQXNTdHJlYW0oIHJlc291cmNlICk7CgogICAgcmV0dXJuIGluID09IG51bGwgPyBnZXRDbGFzcygpLmdldFJlc291cmNlQXNTdHJlYW0oIHJlc291cmNlICkgOiBpbjsKICB9CgogIHByaXZhdGUgQ2xhc3NMb2FkZXIgZ2V0Q29udGV4dENsYXNzTG9hZGVyKCkgewogICAgcmV0dXJuIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0Q29udGV4dENsYXNzTG9hZGVyKCk7CiAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+PiAkZGViX3JlbCIpCg==</text>
+        <text encoding="base64">ICAgIGRhdGFTb3VyY2Uuc2V0VHIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBjaGFuZ2Vsb2c7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGRhdGFTb3VyY2Uuc2V0RHJpdmVyQ2xhc3NOYW1lKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHByb3BlcnRpZXMuZ2V0RHJpdmVyQ2xhc3NOYW1lKCkpKTsKICAgIGRhdGFTb3VyY2Uuc2V0SmRiY1VybChQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChwcm9wZXJ0aWVzLmdldFVybCgpKSk7CiAgICBkYXRhU291cmNlLnNldFVzZXJuYW1lKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHByb3BlcnRpZXMuZ2V0VXNlcm5hbWUoKSkpOwogICAgZGF0YVNvdXJjZS5zZXRQYXNzd29yZChQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChwcm9wZXJ0aWVzLmdldFBhc3N3b3JkKCkpKTsKICAgIGRhdGFTb3VyY2Uuc2V0TWF4aW11bVBvb2xTaXplKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHByb3BlcnRpZXMuZ2V0TWF4UG9vbFNpemUoKSkpOwogICAgZGF0YVNvdXJjZS5zZXRJZGxlVGltZW91dChQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChwcm9wZXJ0aWVzLmdldE1heElkbGUoKSkpOwogICAgZGF0YVNvdXJjZS5zZXRNaW5pbXVtSWRsZShQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChwcm9wZXJ0aWVzLmdldE1pbklkbGUoKSkpOwogICAgZGF0YVNvdXJjZS5zZXRDb25uZWN0aW9uVGVzdFF1ZXJ5KFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHByb3BlcnRpZXMuZ2V0VmFsaWRhdGlvblF1ZXJ5KCkpKTsKICAgIHJldHVybiBkYXRhU291cmNlOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+PiAkZGViX3JlbCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+PiAkZGViX3JlbCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>129</text>
