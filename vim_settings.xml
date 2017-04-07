@@ -550,7 +550,7 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/settings.gradle" timestamp="1491591525966">
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/settings.gradle" timestamp="1491592357522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="54" />
@@ -2267,11 +2267,10 @@
         <mark key="]" line="42" column="25" />
         <mark key="." line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/build.gradle" timestamp="1491591516875">
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="32" />
-        <mark key="^" line="37" column="32" />
-        <mark key="." line="37" column="32" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/build.gradle" timestamp="1491593356074">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/LoanIdReader.java" timestamp="1490390066656">
         <mark key="[" line="20" column="0" />
@@ -3041,8 +3040,8 @@
       <jump line="25" column="11" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>local</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+PiAkZGViX3JlbCIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>local</text>
@@ -3054,10 +3053,10 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBjaGFuZ2Vsb2c7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+PiAkZGViX3JlbCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBjaGFuZ2Vsb2c7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -3071,7 +3070,10 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>INSERT INTO CHANGELOG (ID, APPLIED_AT, DESCRIPTION) VALUES (20170323190902, '2017-04-04 15:27:46', 'create control set table');
 
 -- 20170329143337_add_country_column_to_control_set.sql
@@ -3100,28 +3102,8 @@ INSERT INTO CHANGELOG (ID, APPLIED_AT, DESCRIPTION) VALUES (20170404144017, '201
 -- Final Memory: 5M/479M
 ------------------------------------------------------------------------</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>------------------------------------------------------------------------
--- MyBatis Migrations - script
-------------------------------------------------------------------------
--- 20170323190516_create_changelog.sql
---  Create Changelog
-
--- Default DDL for changelog table that will keep
--- a record of the migrations that have been run.
-
--- You can modify this to suit your database before
--- running your first migration.
-
--- Be sure that ID and DESCRIPTION fields exist in
--- BigInteger and String compatible fields respectively.
-
--- 20170323190902_create_control_set_table.sql
---  create_control_set_table
--- Migration SQL that makes the change goes here.</text>
       </register>
       <register name=":" type="4">
         <text>129</text>
