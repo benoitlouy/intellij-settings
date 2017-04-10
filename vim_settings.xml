@@ -645,9 +645,6 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491832816237">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/AdditionnalEndpointConfig.java" timestamp="1484252316459">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1270,6 +1267,13 @@
         <mark key="]" line="704" column="0" />
         <mark key="." line="704" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSACachingReportHandler.java" timestamp="1491843030867">
+        <mark key="'" line="37" column="138" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/WriteChecksumStepConfig.java" timestamp="1490896118669">
         <mark key="[" line="33" column="54" />
         <mark key="]" line="33" column="54" />
@@ -1521,11 +1525,10 @@
         <mark key="." line="447" column="12" />
         <mark key="^" line="447" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/AbstractCachingReportHandler.java" timestamp="1491512289085">
-        <mark key="[" line="55" column="43" />
-        <mark key="]" line="55" column="2" />
-        <mark key="." line="55" column="2" />
-        <mark key="^" line="55" column="2" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/AbstractCachingReportHandler.java" timestamp="1491842492045">
+        <mark key="[" line="274" column="3" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/security/userservice/MigratingUserServiceAuthenticationProvider.java" timestamp="1489606825070">
         <mark key="[" line="64" column="12" />
@@ -1949,10 +1952,10 @@
         <mark key="]" line="35" column="2" />
         <mark key="." line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/handler/AbstractCachingReportHandlerTest.java" timestamp="1491507759142">
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/handler/AbstractCachingReportHandlerTest.java" timestamp="1491843765472">
+        <mark key="[" line="99" column="19" />
+        <mark key="]" line="99" column="19" />
+        <mark key="." line="99" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/java/com/ondeck/parrot/authentication/UserServiceAuthenticator.java" timestamp="1485891979574">
         <mark key="[" line="12" column="0" />
@@ -2520,6 +2523,12 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/model/SFCollections.java" timestamp="1491839436351" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/presearch/eservicecorp/ESCPreSearchCachingReportHandler.java" timestamp="1491842997507">
+        <mark key="[" line="36" column="79" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="38" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/clmservice/clm-service-server/src/main/java/com/odc/clm/service/server/policy/CLMModelRequestCreator.java" timestamp="1487877574643">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -2789,6 +2798,7 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/spring/auditBeans.xml" timestamp="1491843255465" />
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/ConnectFlowsIntegrationTest.java" timestamp="1484689790877">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -2961,7 +2971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="1" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/veda/VedaOrgIdFetcherTaskFactory.java" />
       <jump line="25" column="20" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/PendingRequestQueueDAOConfig.java" />
       <jump line="24" column="65" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/dao/PendingRequestQueueDAOConfig.java" />
       <jump line="19" column="20" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/businessid/veda/VedaOrgIdTask.java" />
@@ -3061,13 +3070,14 @@
       <jump line="57" column="26" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchMerchantIdStepConfig.java" />
       <jump line="31" column="106" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/MerchantIdReaderConfig.java" />
       <jump line="25" column="11" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/CreateMetaDataFileStepConfig.java" />
+      <jump line="38" column="138" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSACachingReportHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Partner Category</text>
+        <text>isReportReusable</text>
       </register>
       <register name="-" type="4">
-        <text>Partner Category</text>
+        <text>isReportReusable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -3076,32 +3086,31 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGRhdGFTb3VyY2Uuc2V0RHJpdmVyQ2xhc3NOYW1lKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKGRyaXZlckNsYXNzTmFtZSkpOwogICAgZGF0YVNvdXJjZS5zZXRKZGJjVXJsKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKGpkYmNVcmwpKTsKICAgIGRhdGFTb3VyY2Uuc2V0VXNlcm5hbWUoUHJlY29uZGl0aW9ucy5jaGVja05vdE51bGwodXNlcm5hbWUpKTsKICAgIGRhdGFTb3VyY2Uuc2V0UGFzc3dvcmQoUHJlY29uZGl0aW9ucy5jaGVja05vdE51bGwocGFzc3dvcmQpKTsKICAgIGRhdGFTb3VyY2Uuc2V0TWF4aW11bVBvb2xTaXplKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKG1heFBvb2xTaXplKSk7CiAgICBkYXRhU291cmNlLnNldElkbGVUaW1lb3V0KFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKG1heElkbGVUaW1lKSk7CiAgICBkYXRhU291cmNlLnNldE1pbmltdW1JZGxlKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKG1pbklkbGVDb25uZWN0aW9ucykpOwogICAgZGF0YVNvdXJjZS5zZXRDb25uZWN0aW9uVGVzdFF1ZXJ5KFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHRlc3RDb25uZWN0aW9uUXVlcnkpKTsKCiAgICByZXR1cm4gZGF0YVNvdXJjZTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKHIgLT4gci5nZXRBcGlSZXNwb25zZSgpLmdldFByZVNlYXJjaFJlc3BvbnNlKCkgIT0gbnVsbCAmJiByLmdldEFwaVJlc3BvbnNlKCkuZ2V0UHJlU2VhcmNoUmVzcG9uc2UoKS5nZXRPcmRlck51bWJlcigpICE9IG51bGwpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgIEBWYWx1ZSgiJHtyZW5ld2FsLmVsaWdpYmlsaXR5LmRhdGFzb3VyY2UuZHJpdmVyLWNsYXNzLW5hbWV9IikgU3RyaW5nIGRyaXZlckNsYXNzTmFtZSwKICAgICAgQFZhbHVlKCIke3JlbmV3YWwuZWxpZ2liaWxpdHkuZGF0YXNvdXJjZS51cmx9IikgU3RyaW5nIGpkYmNVcmwsCiAgICAgIEBWYWx1ZSgiJHtyZW5ld2FsLmVsaWdpYmlsaXR5LmRhdGFzb3VyY2UudXNlcm5hbWV9IikgU3RyaW5nIHVzZXJuYW1lLAogICAgICBAVmFsdWUoIiR7cmVuZXdhbC5lbGlnaWJpbGl0eS5kYXRhc291cmNlLnBhc3N3b3JkfSIpIFN0cmluZyBwYXNzd29yZCwKICAgICAgQFZhbHVlKCIke3JlbmV3YWwuZWxpZ2liaWxpdHkuZGF0YXNvdXJjZS5tYXgtcG9vbC1zaXplfSIpIEludGVnZXIgbWF4UG9vbFNpemUsCiAgICAgIEBWYWx1ZSgiJHtyZW5ld2FsLmVsaWdpYmlsaXR5LmRhdGFzb3VyY2UubWF4LWlkbGV9IikgSW50ZWdlciBtYXhJZGxlVGltZSwKICAgICAgQFZhbHVlKCIke3JlbmV3YWwuZWxpZ2liaWxpdHkuZGF0YXNvdXJjZS5taW4taWRsZX0iKSBJbnRlZ2VyIG1pbklkbGVDb25uZWN0aW9ucywKICAgICAgQFZhbHVlKCIke3JlbmV3YWwuZWxpZ2liaWxpdHkuZGF0YXNvdXJjZS52YWxpZGF0aW9uLXF1ZXJ5fSIpIFN0cmluZyB0ZXN0Q29ubmVjdGlvblF1ZXJ5</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNsYXNzVW5kZXJUZXN0LmlzUmVwb3J0UmV1c2FibGUgPSByIC0+IHIuZ2V0QXBpUmVzcG9uc2UoKS5nZXRTdGF0dXMoKSAhPSBSZXNwb25zZVN0YXR1cy5FUlJPUjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgcHVibGljIEFic3RyYWN0Q2FjaGluZ1JlcG9ydEhhbmRsZXIoUHJlZGljYXRlPFBlcnNpc3RlZFJlcG9ydDxUPj4gaXNSZXBvcnRSZXVzYWJsZSkKICB7CiAgICB0aGlzLmlzUmVwb3J0UmV1c2FibGUgPSBpc1JlcG9ydFJldXNhYmxlOwogIH0KCiAgcHVibGljIEFic3RyYWN0Q2FjaGluZ1JlcG9ydEhhbmRsZXIoKQogIHsKICAgIHRoaXMoKTsKICB9</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNsYXNzIERhdGFTb3VyY2VQcm9wZXJ0aWVzIHsKICAgIHByaXZhdGUgU3RyaW5nIGRyaXZlckNsYXNzTmFtZTsKICAgIHByaXZhdGUgU3RyaW5nIHVybDsKICAgIHByaXZhdGUgU3RyaW5nIHVzZXJuYW1lOwogICAgcHJpdmF0ZSBTdHJpbmcgcGFzc3dvcmQ7CiAgICBwcml2YXRlIEludGVnZXIgbWF4UG9vbFNpemU7CiAgICBwcml2YXRlIEludGVnZXIgbWF4SWRsZTsKICAgIHByaXZhdGUgSW50ZWdlciBtaW5JZGxlOwogICAgcHJpdmF0ZSBTdHJpbmcgdmFsaWRhdGlvblF1ZXJ5OwoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0RHJpdmVyQ2xhc3NOYW1lKCkgewogICAgICByZXR1cm4gZHJpdmVyQ2xhc3NOYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERyaXZlckNsYXNzTmFtZShmaW5hbCBTdHJpbmcgZHJpdmVyQ2xhc3NOYW1lKSB7CiAgICAgIHRoaXMuZHJpdmVyQ2xhc3NOYW1lID0gZHJpdmVyQ2xhc3NOYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXJsKCkgewogICAgICByZXR1cm4gdXJsOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFVybChmaW5hbCBTdHJpbmcgdXJsKSB7CiAgICAgIHRoaXMudXJsID0gdXJsOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgIHJldHVybiB1c2VybmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRVc2VybmFtZShmaW5hbCBTdHJpbmcgdXNlcm5hbWUpIHsKICAgICAgdGhpcy51c2VybmFtZSA9IHVzZXJuYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0UGFzc3dvcmQoKSB7CiAgICAgIHJldHVybiBwYXNzd29yZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQYXNzd29yZChmaW5hbCBTdHJpbmcgcGFzc3dvcmQpIHsKICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldE1heFBvb2xTaXplKCkgewogICAgICByZXR1cm4gbWF4UG9vbFNpemU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWF4UG9vbFNpemUoZmluYWwgSW50ZWdlciBtYXhQb29sU2l6ZSkgewogICAgICB0aGlzLm1heFBvb2xTaXplID0gbWF4UG9vbFNpemU7CiAgICB9CgogICAgcHVibGljIEludGVnZXIgZ2V0TWF4SWRsZSgpIHsKICAgICAgcmV0dXJuIG1heElkbGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWF4SWRsZShmaW5hbCBJbnRlZ2VyIG1heElkbGUpIHsKICAgICAgdGhpcy5tYXhJZGxlID0gbWF4SWRsZTsKICAgIH0KCiAgICBwdWJsaWMgSW50ZWdlciBnZXRNaW5JZGxlKCkgewogICAgICByZXR1cm4gbWluSWRsZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRNaW5JZGxlKGZpbmFsIEludGVnZXIgbWluSWRsZSkgewogICAgICB0aGlzLm1pbklkbGUgPSBtaW5JZGxlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VmFsaWRhdGlvblF1ZXJ5KCkgewogICAgICByZXR1cm4gdmFsaWRhdGlvblF1ZXJ5OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFZhbGlkYXRpb25RdWVyeShmaW5hbCBTdHJpbmcgdmFsaWRhdGlvblF1ZXJ5KSB7CiAgICAgIHRoaXMudmFsaWRhdGlvblF1ZXJ5ID0gdmFsaWRhdGlvblF1ZXJ5OwogICAgfQogIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAVmlzaWJsZUZvclRlc3RpbmcK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGRhdGFTb3VyY2Uuc2V0RHJpdmVyQ2xhc3NOYW1lKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKGRyaXZlckNsYXNzTmFtZSkpOwogICAgZGF0YVNvdXJjZS5zZXRKZGJjVXJsKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKGpkYmNVcmwpKTsKICAgIGRhdGFTb3VyY2Uuc2V0VXNlcm5hbWUoUHJlY29uZGl0aW9ucy5jaGVja05vdE51bGwodXNlcm5hbWUpKTsKICAgIGRhdGFTb3VyY2Uuc2V0UGFzc3dvcmQoUHJlY29uZGl0aW9ucy5jaGVja05vdE51bGwocGFzc3dvcmQpKTsKICAgIGRhdGFTb3VyY2Uuc2V0TWF4aW11bVBvb2xTaXplKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKG1heFBvb2xTaXplKSk7CiAgICBkYXRhU291cmNlLnNldElkbGVUaW1lb3V0KFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKG1heElkbGVUaW1lKSk7CiAgICBkYXRhU291cmNlLnNldE1pbmltdW1JZGxlKFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKG1pbklkbGVDb25uZWN0aW9ucykpOwogICAgZGF0YVNvdXJjZS5zZXRDb25uZWN0aW9uVGVzdFF1ZXJ5KFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHRlc3RDb25uZWN0aW9uUXVlcnkpKTsKCiAgICByZXR1cm4gZGF0YVNvdXJjZTs=</text>
       </register>
       <register name="9" type="4">
-        <text># Logging
-#logging.config=classpath:logback.xml</text>
+        <text encoding="base64">CiAgICAgIEBWYWx1ZSgiJHtyZW5ld2FsLmVsaWdpYmlsaXR5LmRhdGFzb3VyY2UuZHJpdmVyLWNsYXNzLW5hbWV9IikgU3RyaW5nIGRyaXZlckNsYXNzTmFtZSwKICAgICAgQFZhbHVlKCIke3JlbmV3YWwuZWxpZ2liaWxpdHkuZGF0YXNvdXJjZS51cmx9IikgU3RyaW5nIGpkYmNVcmwsCiAgICAgIEBWYWx1ZSgiJHtyZW5ld2FsLmVsaWdpYmlsaXR5LmRhdGFzb3VyY2UudXNlcm5hbWV9IikgU3RyaW5nIHVzZXJuYW1lLAogICAgICBAVmFsdWUoIiR7cmVuZXdhbC5lbGlnaWJpbGl0eS5kYXRhc291cmNlLnBhc3N3b3JkfSIpIFN0cmluZyBwYXNzd29yZCwKICAgICAgQFZhbHVlKCIke3JlbmV3YWwuZWxpZ2liaWxpdHkuZGF0YXNvdXJjZS5tYXgtcG9vbC1zaXplfSIpIEludGVnZXIgbWF4UG9vbFNpemUsCiAgICAgIEBWYWx1ZSgiJHtyZW5ld2FsLmVsaWdpYmlsaXR5LmRhdGFzb3VyY2UubWF4LWlkbGV9IikgSW50ZWdlciBtYXhJZGxlVGltZSwKICAgICAgQFZhbHVlKCIke3JlbmV3YWwuZWxpZ2liaWxpdHkuZGF0YXNvdXJjZS5taW4taWRsZX0iKSBJbnRlZ2VyIG1pbklkbGVDb25uZWN0aW9ucywKICAgICAgQFZhbHVlKCIke3JlbmV3YWwuZWxpZ2liaWxpdHkuZGF0YXNvdXJjZS52YWxpZGF0aW9uLXF1ZXJ5fSIpIFN0cmluZyB0ZXN0Q29ubmVjdGlvblF1ZXJ5</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
