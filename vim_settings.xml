@@ -519,6 +519,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/test/java/com/odc/webconnect/odas/api/web/controller/OdasChaseApplicationControllerIT.java" timestamp="1491858014149">
         <mark key="[" line="317" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/deploy/group_vars/devglobalproducts.yml" timestamp="1491920529279">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/resources/StatusResourceFT.java" timestamp="1485272374172">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -559,6 +564,7 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/deploy/group_vars/qai01.yml" timestamp="1491919768292" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/common/veda/VedaAsyncReportFetcherTask.java" timestamp="1484585421935">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="10" column="0" />
@@ -584,7 +590,7 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/dev01.connect.properties" timestamp="1484067351792">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/dev01.connect.properties" timestamp="1491919215405">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -1320,11 +1326,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/core/handler/AbstractCachingReportHandler.java" timestamp="1491842492045">
-        <mark key="[" line="274" column="3" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/businessid/lexisnexis/v183/LexisNexisBusinessIDCachingReportHandlerV183Test.java" timestamp="1484330439392">
         <mark key="[" line="61" column="96" />
         <mark key="]" line="61" column="96" />
@@ -1393,7 +1394,7 @@
         <mark key="]" line="22" column="2" />
         <mark key="." line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1489002140892">
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1491919283840">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
@@ -1662,11 +1663,6 @@
         <mark key="[" line="35" column="2" />
         <mark key="]" line="35" column="2" />
         <mark key="." line="35" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/core/handler/AbstractCachingReportHandlerTest.java" timestamp="1491843765472">
-        <mark key="[" line="99" column="19" />
-        <mark key="]" line="99" column="19" />
-        <mark key="." line="99" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot-service/src/main/java/com/ondeck/parrot/authentication/UserServiceAuthenticator.java" timestamp="1485891979574">
         <mark key="[" line="12" column="0" />
@@ -2029,6 +2025,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/deploy/inventory/devglobalproducts.inventory" timestamp="1491918861458">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/service/merchantapi/MerchantApiManager.java" timestamp="1490120616215">
         <mark key="[" line="39" column="16" />
         <mark key="]" line="30" column="2" />
@@ -2039,6 +2040,7 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/deploy/group_vars/odas.yml" timestamp="1491920518183" />
       <file name="$USER_HOME$/Projects/OnDeck/mobileapi/app/com/ondeck/mobileapi/json/StatusHeader.java" timestamp="1482334596179">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="33" />
@@ -2607,7 +2609,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SalesforceRestClient</text>
+        <text>connect_database_mongodb_servers : 'devgp7mdb01.ondeck.systems:27017,devgp7mdb02.ondeck.systems:27017'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -2618,29 +2620,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkJPGV4Y2x1c2lvbnM+CgkJCQk8ZXhjbHVzaW9uPgoJCQkJCTxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU8L2dyb3VwSWQ+CgkJCQkJPGFydGlmYWN0SWQ+amFja3Nvbi1tb2R1bGUtc2NhbGFfMi4xMDwvYXJ0aWZhY3RJZD4KCQkJCTwvZXhjbHVzaW9uPgoJCQk8L2V4Y2x1c2lvbnM+</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJPHZlcnNpb24+Mi43LjU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1BUFBFUi5yZWdpc3Rlck1vZHVsZShuZXcgRGVmYXVsdFNjYWxhTW9kdWxlKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIE1BUFBFUi5yZWdpc3Rlck1vZHVsZShuZXcgRGVmYXVsdFNjYWxhTW9kdWxlKCkpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CQkJPGV4Y2x1c2lvbnM+CgkJCQk8ZXhjbHVzaW9uPgoJCQkJCTxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU8L2dyb3VwSWQ+CgkJCQkJPGFydGlmYWN0SWQ+amFja3Nvbi1tb2R1bGUtc2NhbGFfMi4xMDwvYXJ0aWZhY3RJZD4KCQkJCTwvZXhjbHVzaW9uPgoJCQk8L2V4Y2x1c2lvbnM+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGUuc2NhbGEuRGVmYXVsdFNjYWxhTW9kdWxlOwo=</text>
+        <text encoding="base64">CQkJCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQk8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
