@@ -288,6 +288,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/velocity/email/forgotPasswordEmail.vm" timestamp="1492012831036">
+        <mark key="[" line="8" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/deploy/group_vars/production_co/vars.yml" timestamp="1485968824812">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="25" />
@@ -588,6 +591,11 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/user/PasswordManagement.java" timestamp="1492013061027">
+        <mark key="[" line="95" column="46" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/enrollmentservice/enrollment-api/src/main/java/com/odc/enrollment/api/model/mx/MXEnrollment.java" timestamp="1486154710359">
         <mark key="[" line="47" column="0" />
@@ -2343,8 +2351,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/email/AutomatedEmailService.java" timestamp="1492011347714">
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/email/AutomatedEmailService.java" timestamp="1492012562605">
         <mark key="[" line="225" column="90" />
+        <mark key="]" line="267" column="0" />
+        <mark key="^" line="267" column="0" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserService.java" timestamp="1489588790199">
         <mark key="[" line="42" column="6" />
@@ -2641,7 +2652,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1c2luZXNzTWFuYWdlbWVudC5nZXRCdXNpbmVzc1JlcG9zaXRvcnkoKS5maW5kQnlVc2VySWQodXNlcklkKS5nZXQoMCkK</text>
       </register>
       <register name="-" type="4">
         <text>java</text>
@@ -2653,7 +2664,7 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1c2luZXNzTWFuYWdlbWVudC5nZXRCdXNpbmVzc1JlcG9zaXRvcnkoKS5maW5kQnlVc2VySWQodXNlcklkKS5nZXQoMCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -2676,8 +2687,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQkJPGV4Y2x1c2lvbnM+CgkJCQk8ZXhjbHVzaW9uPgoJCQkJCTxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU8L2dyb3VwSWQ+CgkJCQkJPGFydGlmYWN0SWQ+amFja3Nvbi1tb2R1bGUtc2NhbGFfMi4xMDwvYXJ0aWZhY3RJZD4KCQkJCTwvZXhjbHVzaW9uPgoJCQk8L2V4Y2x1c2lvbnM+</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
