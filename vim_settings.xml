@@ -1280,11 +1280,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/payoff.js" timestamp="1492024142607">
-        <mark key="[" line="157" column="29" />
-        <mark key="]" line="155" column="65" />
-        <mark key="." line="155" column="65" />
-        <mark key="^" line="155" column="65" />
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/payoff.js" timestamp="1492024873160">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/auth/AuthConfig.java" timestamp="1489585940814">
         <mark key="[" line="42" column="0" />
@@ -1677,8 +1676,10 @@
         <mark key="]" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/payoff.spec.js" timestamp="1492023471224">
-        <mark key="[" line="133" column="44" />
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/client/src/app/term/payoff.spec.js" timestamp="1492025112815">
+        <mark key="[" line="929" column="8" />
+        <mark key="]" line="908" column="0" />
+        <mark key="." line="908" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/term-loan/core/src/main/java/com/ondeck/termloan/service/inject/ServiceModule.java" timestamp="1487082023535">
         <mark key="[" line="49" column="0" />
@@ -2667,11 +2668,11 @@
       <jump line="38" column="138" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSACachingReportHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gc3B5T24oYXBpU2VydmljZSwgJ2dldEJ1c2luZXNzSW5mb0J5TG9hbklkJykuYW5kLmNhbGxUaHJvdWdoKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -2680,31 +2681,31 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gc3B5T24oYXBpU2VydmljZSwgJ2dldEJ1c2luZXNzSW5mb0J5TG9hbklkJykuYW5kLmNhbGxUaHJvdWdoKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRk9PJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5vbkRlY2tOYW1lID0gCg==</text>
+        <text encoding="base64">ICAgICAgLy8gICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5vbkRlY2tOYW1lID0gCg==</text>
+        <text encoding="base64">ICAgICAgLy8gICBkZWZlcnJlZC5yZXNvbHZlKHsnY291bnRyeSc6ICdVU0EnfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGQgbmctaWY9ImJ1c2luZXNzTG9hbkluZm8uY291bnRyeT09PSdDQU4iPklzc3VlZCB0bzogT24gRGVjayBDYXBpdGFsIENhbmFkYSwgVUxDPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgLy8gICB2YXIgZGVmZXJyZWQgPSAkcS5kZWZlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gYXBpU2VydmljZS5nZXRCdXNpbmVzc0luZm9CeUxvYW5JZCA9IGZ1bmN0aW9uKCkgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICA8cCBuZy1pZj0iYnVzaW5lc3NMb2FuSW5mby5jb3VudHJ5PT09J0NBTicgJiYgcHJlcGF5bWVudERhdGEuZGlzY291bnRUeXBlPT09J1BSRVBBWU1FTlQgUkVGVU5EJyI+VGhpcyBCdXNpbmVzcyBMb2FuIFBheW9mZiBBZ3JlZW1lbnQgaXMgc3VibWl0dGVkIHRvCiAgICAgIHRoZSBCb3Jyb3dlciBpbiBnb29kIGZhaXRoIHRoYXQgaXQgd2lsbCBiZSBleGVjdXRlZC4gVGhlIFBheW9mZiBBbW91bnQgbGlzdGVkIGJlbG93IGFzc3VtZXMgdGhhdCBhbGwgdHJhbnNhY3Rpb25zIGhhdmUgY2xlYXJlZCwgYnV0IHdpbGwgY2hhbmdlIGlmCiAgICAgIGFueSBwYXltZW50IGlzIG1pc3NlZC4gQXMgYWdyZWVkLCB7e2dldExlZ2FsQnVzaW5lc3NFbnRpdHl9fSB3aWxsIHJlZnVuZCB7e3ByZXBheW1lbnREYXRhLmRpc2NvdW50UGVyY2VudGFnZX19JSBvZiB0aGUgcmVtYWluaW5nIGludGVyZXN0IG9uIHlvdXIKICAgICAgbG9hbiBhcyBvZiB0aGUgZGF5IHdlIHJlY2VpdmUKICAgICAgdGhlIGZ1bGwgcGF5b2ZmIGluIG91ciBhY2NvdW50LiA8c3BhbiBzdHlsZT0iY29sb3I6bmF2eTtmb250LXdlaWdodDpib2xkIj5VcG9uIHJlY2VpcHQgYW5kIGNsZWFyYW5jZSBvZiB0aGUgcGF5b2ZmIGFtb3VudCwgYW55IG92ZXJwYXltZW50IGFuZCB0aGUKICAgICAgICAgICAgICAgIHt7cHJlcGF5bWVudERhdGEuZGlzY291bnRQZXJjZW50YWdlfX0lIHJlbWFpbmluZyBpbnRlcmVzdCByZWZ1bmQgd2lsbCBiZSByZWxlYXNlZCB3aXRoaW4gMTAgYnVzaW5lc3MgZGF5cy4gVXBvbiB3cml0dGVuIHJlcXVlc3QsIHRoZSBsaWVuIGhlbGQgYnkgT25EZWNrIHdpbGwgYmUgcmVsZWFzZWQgd2l0aGluIGEKICAgICAgICAgICAgICAgIHJlYXNvbmFibGUgdGltZSBwZXJpb2QgaW4gdGhlIGNvdXJzZSBvZiBvdXIgbm9ybWFsIGJ1c2luZXNzIG9wZXJhdGlvbnMuICAgPC9zcGFuPiBCb3Jyb3dlciBzaG91bGQga2VlcCB0aGlzIGltcG9ydGFudCBsZWdhbCBkb2N1bWVudCBmb3IKICAgICAgQm9ycm93ZXLigJlzIHJlY29yZHMuPC9wPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vICdjb3VudHJ5JzogICAgICdDQU4nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+PiAnICsgJHNjb3BlLm9uRGVja05hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+PiAnICsgJHNjb3BlLmJ1c2luZXNzTG9hbkluZm8uY291bnRyeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
