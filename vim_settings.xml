@@ -850,6 +850,9 @@
         <mark key="]" line="31" column="11" />
         <mark key="." line="31" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/velocity/email/drawEmail.vm" timestamp="1492010779916">
+        <mark key="[" line="13" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/service/ContextProvider.java" timestamp="1484095284347">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -1619,6 +1622,11 @@
         <mark key="]" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/velocity/email/signature.vm" timestamp="1492010643971">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LoanReaderConfig.java" timestamp="1491940336624">
         <mark key="[" line="51" column="11" />
         <mark key="]" line="51" column="11" />
@@ -2045,6 +2053,9 @@
         <mark key="]" line="30" column="2" />
         <mark key="." line="30" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/velocity/email/footer.vm" timestamp="1492010755370">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/parrot/parrot/src/main/java/com/ondeck/parrot/audit/AuditEntry.java" timestamp="1482441651023">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
@@ -2322,6 +2333,9 @@
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/service/email/AutomatedEmailService.java" timestamp="1492010192679">
+        <mark key="[" line="225" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice-client/src/main/java/com/ondeck/userservice/client/v2/UserService.java" timestamp="1489588790199">
         <mark key="[" line="42" column="6" />
@@ -2617,8 +2631,8 @@
       <jump line="38" column="138" filename="$USER_HOME$/Projects/OnDeck/connect/server/src/main/java/com/odc/connect/ucc/eservicecorp/ESCPPSACachingReportHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>java</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>java</text>
@@ -2647,14 +2661,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQkJPGV4Y2x1c2lvbnM+CgkJCQk8ZXhjbHVzaW9uPgoJCQkJCTxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU8L2dyb3VwSWQ+CgkJCQkJPGFydGlmYWN0SWQ+amFja3Nvbi1tb2R1bGUtc2NhbGFfMi4xMDwvYXJ0aWZhY3RJZD4KCQkJCTwvZXhjbHVzaW9uPgoJCQk8L2V4Y2x1c2lvbnM+</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQk8ZGVwZW5kZW5jeT4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">CQkJPGV4Y2x1c2lvbnM+CgkJCQk8ZXhjbHVzaW9uPgoJCQkJCTxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU8L2dyb3VwSWQ+CgkJCQkJPGFydGlmYWN0SWQ+amFja3Nvbi1tb2R1bGUtc2NhbGFfMi4xMDwvYXJ0aWZhY3RJZD4KCQkJCTwvZXhjbHVzaW9uPgoJCQk8L2V4Y2x1c2lvbnM+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
