@@ -846,10 +846,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/test/unit/src/java/com/odc/useradmin/controller/ResetPasswordControllerTest.java" timestamp="1489519269897">
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/test/unit/src/java/com/odc/useradmin/controller/ResetPasswordControllerTest.java" timestamp="1492093490276">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/cashflowservice/cashflow-service/src/main/java/com/ondeck/cfs/service/conversions/mx/MxTransactionCreateRequestConverter.java" timestamp="1485279067901">
         <mark key="[" line="4" column="0" />
@@ -1923,7 +1923,7 @@
         <mark key="]" line="122" column="95" />
         <mark key="." line="122" column="95" />
       </file>
-      <file name="/fragment.java" timestamp="1491832816262">
+      <file name="/fragment.java" timestamp="1492093454199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -2096,6 +2096,9 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/build.gradle" timestamp="1492093349702">
+        <mark key="[" line="104" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/service/merchantapi/MerchantApiManager.java" timestamp="1490120616215">
         <mark key="[" line="39" column="16" />
         <mark key="]" line="30" column="2" />
@@ -2157,8 +2160,8 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/controller/ResetPasswordController.java" timestamp="1489519336425">
-        <mark key="[" line="48" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/src/main/java/com/odc/useradmin/controller/ResetPasswordController.java" timestamp="1492093027404">
+        <mark key="[" line="102" column="56" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
@@ -2686,7 +2689,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -2698,31 +2701,31 @@
         <text encoding="base64">aW5jbHVkZS5jb3VudHJpZXM9VVNBLENBTixBVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBibG91eSBvbiA0LzEzLzE3Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gc3B5T24oYXBpU2VydmljZSwgJ2dldEJ1c2luZXNzSW5mb0J5TG9hbklkJykuYW5kLmNhbGxUaHJvdWdoKCk7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gICBkZWZlcnJlZC5yZXNvbHZlKHsnY291bnRyeSc6ICdVU0EnfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gc3B5T24oYXBpU2VydmljZSwgJ2dldEJ1c2luZXNzSW5mb0J5TG9hbklkJykuYW5kLmNhbGxUaHJvdWdoKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gICB2YXIgZGVmZXJyZWQgPSAkcS5kZWZlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXBpU2VydmljZS5nZXRCdXNpbmVzc0luZm9CeUxvYW5JZCA9IGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgICAgLy8gICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vICdjb3VudHJ5JzogICAgICdDQU4nCg==</text>
+        <text encoding="base64">ICAgICAgLy8gICBkZWZlcnJlZC5yZXNvbHZlKHsnY291bnRyeSc6ICdVU0EnfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
