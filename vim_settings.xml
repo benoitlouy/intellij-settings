@@ -42,6 +42,9 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/contracts/term_loan/ondeckcapital/_loandetails.html.erb" timestamp="1492192195015">
+        <mark key="[" line="116" column="75" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/config/JacksonCustomServerProvider.java" timestamp="1492183850928">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -71,6 +74,12 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/loan_offer.rb" timestamp="1492192121880">
+        <mark key="[" line="101" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/contract.rb" timestamp="1492192106917">
+        <mark key="[" line="156" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LSPMapper.xml" timestamp="1492112642343">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="8" />
@@ -80,6 +89,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/models/contract_spec.rb" timestamp="1492192294680">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="53" column="48" />
+        <mark key="^" line="53" column="48" />
+        <mark key="." line="53" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/java/com/ondeck/job/lsp/renewal/eligibility/control/set/RenewalEligibilityControlSetJobIT.java" timestamp="1492179949905">
         <mark key="[" line="95" column="72" />
@@ -103,6 +118,9 @@
         <mark key="]" line="2" column="7" />
         <mark key="^" line="28" column="76" />
         <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/contracts/term_loan/_contract.html.erb" timestamp="1492192243192">
+        <mark key="[" line="9" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/RenewalEligibilityControlSetJobConfig.java" timestamp="1492112802032">
         <mark key="[" line="21" column="0" />
@@ -270,7 +288,7 @@
         <text encoding="base64">ICAgIGZpbmFsIEpvYkV4ZWN1dG9yUGFyYW1ldGVycyBqb2JFeGVjdXRvclBhcmFtZXRlcnMgPSBKb2JFeGVjdXRvclBhcmFtZXRlcnMuZ2V0QnVpbGRlcigpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>216</text>
+        <text>157</text>
       </register>
     </registers>
     <search>
@@ -304,7 +322,6 @@
         <entry encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>0</entry>
         <entry>757</entry>
         <entry>367</entry>
         <entry>200</entry>
@@ -324,6 +341,7 @@
         <entry>w</entry>
         <entry>300</entry>
         <entry>216</entry>
+        <entry>157</entry>
       </history-cmd>
       <history-expr />
       <history-input />
