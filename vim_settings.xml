@@ -113,6 +113,7 @@
         <mark key="]" line="10" column="68" />
         <mark key="." line="10" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/contracts_controller.rb" timestamp="1492547045126" />
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/resources/com/ondeck/job/lsp/renewal/eligibility/control/set/writer/ResMapper.xml" timestamp="1492181943551">
         <mark key="[" line="6" column="61" />
         <mark key="]" line="5" column="65" />
@@ -124,10 +125,10 @@
         <mark key="." line="203" column="96" />
         <mark key="^" line="203" column="96" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/controllers/owners_controller_spec.rb" timestamp="1492540016889">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/controllers/owners_controller_spec.rb" timestamp="1492546996595">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/locales/en-CA.yml" timestamp="1492465008752">
         <mark key="[" line="26" column="21" />
@@ -226,7 +227,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/helpers/contracts_helper.rb" timestamp="1492541182553">
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/helpers/contracts_helper.rb" timestamp="1492546980026">
         <mark key="[" line="28" column="48" />
         <mark key="]" line="28" column="33" />
         <mark key="^" line="28" column="33" />
@@ -347,8 +348,8 @@
       <jump line="11" column="31" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LSPMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>empty</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnRyb2xsZXIuc3R1Yig6c2V0X2xvY2FsZSkK</text>
       </register>
       <register name="-" type="4">
         <text>empty</text>
@@ -360,31 +361,31 @@
         <text encoding="base64">ICB2YWxpZGF0ZXNfZm9ybWF0X29mIDpsZWdhbF9pZGVudGlmaWVyLCA6d2l0aCA9PiAvXEEoWzAtOV17M30tP1swLTldezN9LT9bMC05XXszfXwpXFovLCA6bWVzc2FnZSA9PiAiU0lOIG11c3QgYmUgOSBkaWdpdHMiLCBpZjogbG9jYWxlX2luKFs6J2VuLUNBJ10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRyb2xsZXIuc3R1Yig6c2V0X2xvY2FsZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRyb2xsZXIuc3R1Yig6dXBkYXRlX2xvY2FsZV9mb3JfdXNfYnVzaW5lc3MpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgIyBpdCAiZm9yIENhbmFkYSBmdWxsX3Nzbl9yZXF1aXJlZCBpcyBmYWxzZSIgZG8KICAgICAgIyAgIEkxOG4ud2l0aF9sb2NhbGUoOidlbi1DQScpIHsKICAgICAgIyAgICAgT3duZXIuYW55X2luc3RhbmNlLnN0dWIoOmFkZF9vd25lcikuYW5kX3JldHVybih0cnVlKQogICAgICAjICAgICBjb250cm9sbGVyLnN0dWIoOm1lcmdlX2R1cGxpY2F0ZSkuYW5kX3JldHVybihmYWxzZSkKICAgICAgIyAgICAgY29udHJvbGxlci5zdHViKDpjdXJyZW50X3VzZXIpLmFuZF9yZXR1cm4oVXNlci5uZXcpCiAgICAgICMgICAgIGNvbnRyb2xsZXIuc3R1Yig6dXBkYXRlX2xvY2FsZV9mb3JfdXNfYnVzaW5lc3MpCiAgICAgICMgICAgIGNvbnRyb2xsZXIuc3R1Yig6c2V0X2xvY2FsZSkKICAgICAgIyAgICAgY29udHJvbGxlci5zaG91bGRfcmVjZWl2ZSg6c2VuZF9sZWFkKQogICAgICAjICAgICBjb250cm9sbGVyLnNob3VsZF9ub3RfcmVjZWl2ZSg6c2F2ZV9xdWVzdGlvbm5haXJlX2Fuc3dlcnMpCiAgICAgICMgICAgIHBvc3QgOmNyZWF0ZSwgb3duZXI6IHZhbGlkX293bmVyX2NhCiAgICAgICMgICAgIHJlc3BvbnNlLnNob3VsZCByZWRpcmVjdF90byAic29tZS9wYXRoIgogICAgICAjICAgICBhc3NpZ25zKDpvd25lcikuZnVsbF9zc25fcmVxdWlyZWQuc2hvdWxkID09IGZhbHNlCiAgICAgICMgICB9CiAgICAgICMgZW5k</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJMThuLmxvY2FsZSA9IDonZW4tQ0EnCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICMgZGVzY3JpYmUgIndpdGggQ2FuYWRhIGxvY2FsZSIgZG8KICAgICMgICBiZWZvcmUoOmVhY2gpIGRvCiAgICAjICAgICBJMThuLmRlZmF1bHRfbG9jYWxlID0gOidlbi1DQScKICAgICMgICAgIGNvbnRyb2xsZXIuc3R1Yig6c2VuZF9sZWFkKQogICAgIyAgICAgY29udHJvbGxlci5zdHViKDpjdXJyZW50X2hvbWVfcGF0aCkuYW5kX3JldHVybigic29tZS9wYXRoIikKICAgICMgICAgIE93bmVyLmFueV9pbnN0YW5jZS5zdHViKDp2YWxpZD8pLmFuZF9yZXR1cm4odHJ1ZSkKICAgICMgICBlbmQKICAgICMgICBpdCAibXVzdCBjcmVhdGUgb3duZXIgd2l0aCBmdWxsX3Nzbl9yZXF1aXJlZCBmYWxzZSIgZG8KICAgICMKICAgICMgICBlbmQKICAgICMgZW5k</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgIyBpdCAiZm9yIENhbmFkYSBmdWxsX3Nzbl9yZXF1aXJlZCBpcyBmYWxzZSIgZG8KICAgICAgIyAgIEkxOG4ud2l0aF9sb2NhbGUoOidlbi1DQScpIHsKICAgICAgIyAgICAgT3duZXIuYW55X2luc3RhbmNlLnN0dWIoOmFkZF9vd25lcikuYW5kX3JldHVybih0cnVlKQogICAgICAjICAgICBjb250cm9sbGVyLnN0dWIoOm1lcmdlX2R1cGxpY2F0ZSkuYW5kX3JldHVybihmYWxzZSkKICAgICAgIyAgICAgY29udHJvbGxlci5zdHViKDpjdXJyZW50X3VzZXIpLmFuZF9yZXR1cm4oVXNlci5uZXcpCiAgICAgICMgICAgIGNvbnRyb2xsZXIuc3R1Yig6dXBkYXRlX2xvY2FsZV9mb3JfdXNfYnVzaW5lc3MpCiAgICAgICMgICAgIGNvbnRyb2xsZXIuc3R1Yig6c2V0X2xvY2FsZSkKICAgICAgIyAgICAgY29udHJvbGxlci5zaG91bGRfcmVjZWl2ZSg6c2VuZF9sZWFkKQogICAgICAjICAgICBjb250cm9sbGVyLnNob3VsZF9ub3RfcmVjZWl2ZSg6c2F2ZV9xdWVzdGlvbm5haXJlX2Fuc3dlcnMpCiAgICAgICMgICAgIHBvc3QgOmNyZWF0ZSwgb3duZXI6IHZhbGlkX293bmVyX2NhCiAgICAgICMgICAgIHJlc3BvbnNlLnNob3VsZCByZWRpcmVjdF90byAic29tZS9wYXRoIgogICAgICAjICAgICBhc3NpZ25zKDpvd25lcikuZnVsbF9zc25fcmVxdWlyZWQuc2hvdWxkID09IGZhbHNlCiAgICAgICMgICB9CiAgICAgICMgZW5k</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBJMThuLmxvY2FsZSA9IDonZW4tQ0EnCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICMgZGVzY3JpYmUgIndpdGggQ2FuYWRhIGxvY2FsZSIgZG8KICAgICMgICBiZWZvcmUoOmVhY2gpIGRvCiAgICAjICAgICBJMThuLmRlZmF1bHRfbG9jYWxlID0gOidlbi1DQScKICAgICMgICAgIGNvbnRyb2xsZXIuc3R1Yig6c2VuZF9sZWFkKQogICAgIyAgICAgY29udHJvbGxlci5zdHViKDpjdXJyZW50X2hvbWVfcGF0aCkuYW5kX3JldHVybigic29tZS9wYXRoIikKICAgICMgICAgIE93bmVyLmFueV9pbnN0YW5jZS5zdHViKDp2YWxpZD8pLmFuZF9yZXR1cm4odHJ1ZSkKICAgICMgICBlbmQKICAgICMgICBpdCAibXVzdCBjcmVhdGUgb3duZXIgd2l0aCBmdWxsX3Nzbl9yZXF1aXJlZCBmYWxzZSIgZG8KICAgICMKICAgICMgICBlbmQKICAgICMgZW5k</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgQEJlYW4KICBwdWJsaWMgU2FsZXNmb3JjZUNsaWVudENvbmZpZyBzYWxlc2ZvcmNlQ2xpZW50Q29uZmlnKCkgewogICAgT2JqZWN0TWFwcGVyIG1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKQogICAgICAgIC5yZWdpc3Rlck1vZHVsZShuZXcgSm9kYU1vZHVsZSgpKQogICAgICAgIC5yZWdpc3Rlck1vZHVsZShuZXcgSmRrOE1vZHVsZSgpKTsKICAgIEF1dGhlbnRpY2F0aW9uIGF1dGhlbnRpY2F0aW9uID0gRGVmYXVsdFBhc3N3b3JkQXV0aGVudGljYXRpb24uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVybChwcm9wZXJ0aWVzLmdldExvZ2luVXJsKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNsaWVudElkKHByb3BlcnRpZXMuZ2V0Q2xpZW50SWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY2xpZW50U2VjcmV0KHByb3BlcnRpZXMuZ2V0Q2xpZW50U2VjcmV0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVzZXJuYW1lKHByb3BlcnRpZXMuZ2V0VXNlcm5hbWUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucGFzc3dvcmQocHJvcGVydGllcy5nZXRQYXNzd29yZCgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpOwoKICAgIHJldHVybiBEZWZhdWx0U2FsZXNmb3JjZUNsaWVudENvbmZpZy5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hdXRoZW50aWNhdGlvbihhdXRoZW50aWNhdGlvbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXBwZXIobWFwcGVyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
