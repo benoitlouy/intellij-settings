@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/owners_controller.rb" timestamp="1492537606352">
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/owners_controller.rb" timestamp="1492539721758">
         <mark key="[" line="22" column="38" />
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="37" />
@@ -25,6 +25,7 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/application_controller.rb" timestamp="1492539736343" />
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/config/DataSourceConfig.java" timestamp="1492178736613">
         <mark key="[" line="41" column="28" />
         <mark key="]" line="37" column="0" />
@@ -94,6 +95,7 @@
         <mark key="^" line="28" column="76" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/controllers/businesses_controller_spec.rb" timestamp="1492539616791" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/helper/salesforce/OpportunityHelper.java" timestamp="1492522857478">
         <mark key="[" line="385" column="0" />
         <mark key="]" line="385" column="50" />
@@ -122,11 +124,10 @@
         <mark key="." line="203" column="96" />
         <mark key="^" line="203" column="96" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/controllers/owners_controller_spec.rb" timestamp="1492537771110">
-        <mark key="[" line="102" column="6" />
-        <mark key="]" line="101" column="59" />
-        <mark key="^" line="101" column="59" />
-        <mark key="." line="101" column="59" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/controllers/owners_controller_spec.rb" timestamp="1492540016889">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/locales/en-CA.yml" timestamp="1492465008752">
         <mark key="[" line="26" column="21" />
@@ -166,6 +167,12 @@
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/deploy/group_vars/devglobalproducts.yml" timestamp="1492199339402">
         <mark key="[" line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/models/additional_info_spec.rb" timestamp="1492540715570">
+        <mark key="[" line="46" column="83" />
+        <mark key="]" line="51" column="18" />
+        <mark key="." line="51" column="18" />
+        <mark key="^" line="51" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/salesforce/Opportunity.java" timestamp="1492522977507">
         <mark key="[" line="342" column="44" />
       </file>
@@ -202,6 +209,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/spec/helpers/contract_helper_spec.rb" timestamp="1492541088083">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/additional_info.rb" timestamp="1492462632130">
         <mark key="[" line="31" column="53" />
         <mark key="]" line="13" column="28" />
@@ -216,7 +226,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/helpers/contracts_helper.rb" timestamp="1492463232656">
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/helpers/contracts_helper.rb" timestamp="1492541182553">
         <mark key="[" line="28" column="48" />
         <mark key="]" line="28" column="33" />
         <mark key="^" line="28" column="33" />
@@ -338,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Id</text>
+        <text>empty</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text>empty</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -350,31 +360,31 @@
         <text encoding="base64">ICB2YWxpZGF0ZXNfZm9ybWF0X29mIDpsZWdhbF9pZGVudGlmaWVyLCA6d2l0aCA9PiAvXEEoWzAtOV17M30tP1swLTldezN9LT9bMC05XXszfXwpXFovLCA6bWVzc2FnZSA9PiAiU0lOIG11c3QgYmUgOSBkaWdpdHMiLCBpZjogbG9jYWxlX2luKFs6J2VuLUNBJ10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgQEJlYW4KICBwdWJsaWMgU2FsZXNmb3JjZUNsaWVudENvbmZpZyBzYWxlc2ZvcmNlQ2xpZW50Q29uZmlnKCkgewogICAgT2JqZWN0TWFwcGVyIG1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKQogICAgICAgIC5yZWdpc3Rlck1vZHVsZShuZXcgSm9kYU1vZHVsZSgpKQogICAgICAgIC5yZWdpc3Rlck1vZHVsZShuZXcgSmRrOE1vZHVsZSgpKTsKICAgIEF1dGhlbnRpY2F0aW9uIGF1dGhlbnRpY2F0aW9uID0gRGVmYXVsdFBhc3N3b3JkQXV0aGVudGljYXRpb24uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVybChwcm9wZXJ0aWVzLmdldExvZ2luVXJsKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNsaWVudElkKHByb3BlcnRpZXMuZ2V0Q2xpZW50SWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY2xpZW50U2VjcmV0KHByb3BlcnRpZXMuZ2V0Q2xpZW50U2VjcmV0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVzZXJuYW1lKHByb3BlcnRpZXMuZ2V0VXNlcm5hbWUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucGFzc3dvcmQocHJvcGVydGllcy5nZXRQYXNzd29yZCgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpOwoKICAgIHJldHVybiBEZWZhdWx0U2FsZXNmb3JjZUNsaWVudENvbmZpZy5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hdXRoZW50aWNhdGlvbihhdXRoZW50aWNhdGlvbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXBwZXIobWFwcGVyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgfQ==</text>
+        <text encoding="base64">ICAgICAgIyBpdCAiZm9yIENhbmFkYSBmdWxsX3Nzbl9yZXF1aXJlZCBpcyBmYWxzZSIgZG8KICAgICAgIyAgIEkxOG4ud2l0aF9sb2NhbGUoOidlbi1DQScpIHsKICAgICAgIyAgICAgT3duZXIuYW55X2luc3RhbmNlLnN0dWIoOmFkZF9vd25lcikuYW5kX3JldHVybih0cnVlKQogICAgICAjICAgICBjb250cm9sbGVyLnN0dWIoOm1lcmdlX2R1cGxpY2F0ZSkuYW5kX3JldHVybihmYWxzZSkKICAgICAgIyAgICAgY29udHJvbGxlci5zdHViKDpjdXJyZW50X3VzZXIpLmFuZF9yZXR1cm4oVXNlci5uZXcpCiAgICAgICMgICAgIGNvbnRyb2xsZXIuc3R1Yig6dXBkYXRlX2xvY2FsZV9mb3JfdXNfYnVzaW5lc3MpCiAgICAgICMgICAgIGNvbnRyb2xsZXIuc3R1Yig6c2V0X2xvY2FsZSkKICAgICAgIyAgICAgY29udHJvbGxlci5zaG91bGRfcmVjZWl2ZSg6c2VuZF9sZWFkKQogICAgICAjICAgICBjb250cm9sbGVyLnNob3VsZF9ub3RfcmVjZWl2ZSg6c2F2ZV9xdWVzdGlvbm5haXJlX2Fuc3dlcnMpCiAgICAgICMgICAgIHBvc3QgOmNyZWF0ZSwgb3duZXI6IHZhbGlkX293bmVyX2NhCiAgICAgICMgICAgIHJlc3BvbnNlLnNob3VsZCByZWRpcmVjdF90byAic29tZS9wYXRoIgogICAgICAjICAgICBhc3NpZ25zKDpvd25lcikuZnVsbF9zc25fcmVxdWlyZWQuc2hvdWxkID09IGZhbHNlCiAgICAgICMgICB9CiAgICAgICMgZW5k</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJMThuLmxvY2FsZSA9IDonZW4tQ0EnCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIC8vIG5lZWQgdG8gY2xvc2UgU0ZDbGllbnQgYXN5bmMgaHR0cCBjbGllbnQgZm9yIHRoZSBqb2IgdG8gdGVybWluYXRlIGdyYWNlZnVsbHkuCiAgICBTYWxlc2ZvcmNlQ2xpZW50Q29uZmlnIHNhbGVzZm9yY2VDbGllbnRDb25maWcgPSBjb250ZXh0LmdldEJlYW4oU2FsZXNmb3JjZUNsaWVudENvbmZpZy5jbGFzcyk7CiAgICBzYWxlc2ZvcmNlQ2xpZW50Q29uZmlnLmFzeW5jSHR0cENsaWVudCgpLmNsb3NlKCk7</text>
+        <text encoding="base64">ICAgICMgZGVzY3JpYmUgIndpdGggQ2FuYWRhIGxvY2FsZSIgZG8KICAgICMgICBiZWZvcmUoOmVhY2gpIGRvCiAgICAjICAgICBJMThuLmRlZmF1bHRfbG9jYWxlID0gOidlbi1DQScKICAgICMgICAgIGNvbnRyb2xsZXIuc3R1Yig6c2VuZF9sZWFkKQogICAgIyAgICAgY29udHJvbGxlci5zdHViKDpjdXJyZW50X2hvbWVfcGF0aCkuYW5kX3JldHVybigic29tZS9wYXRoIikKICAgICMgICAgIE93bmVyLmFueV9pbnN0YW5jZS5zdHViKDp2YWxpZD8pLmFuZF9yZXR1cm4odHJ1ZSkKICAgICMgICBlbmQKICAgICMgICBpdCAibXVzdCBjcmVhdGUgb3duZXIgd2l0aCBmdWxsX3Nzbl9yZXF1aXJlZCBmYWxzZSIgZG8KICAgICMKICAgICMgICBlbmQKICAgICMgZW5k</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb3Bwb3J0dW5pdHkuc2V0UGF5b2ZmVG9FeGlzdGluZ0xlbmRlcih0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTwlIGlmIAkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXNfZm9ybWF0X29mIDpsZWdhbF9pZGVudGlmaWVyLCA6d2l0aCA9PiAvXEFbMC05XXszfS0/WzAtOV17M30tP1swLTldezN9XFovLCA6bWVzc2FnZSA9PiAiU0lOIG11c3QgYmUgOSBkaWdpdHMiLCBpZjogbG9jYWxlX2luKFs6J2VuLUNBJ10pCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgQEJlYW4KICBwdWJsaWMgU2FsZXNmb3JjZUNsaWVudENvbmZpZyBzYWxlc2ZvcmNlQ2xpZW50Q29uZmlnKCkgewogICAgT2JqZWN0TWFwcGVyIG1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKQogICAgICAgIC5yZWdpc3Rlck1vZHVsZShuZXcgSm9kYU1vZHVsZSgpKQogICAgICAgIC5yZWdpc3Rlck1vZHVsZShuZXcgSmRrOE1vZHVsZSgpKTsKICAgIEF1dGhlbnRpY2F0aW9uIGF1dGhlbnRpY2F0aW9uID0gRGVmYXVsdFBhc3N3b3JkQXV0aGVudGljYXRpb24uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVybChwcm9wZXJ0aWVzLmdldExvZ2luVXJsKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNsaWVudElkKHByb3BlcnRpZXMuZ2V0Q2xpZW50SWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY2xpZW50U2VjcmV0KHByb3BlcnRpZXMuZ2V0Q2xpZW50U2VjcmV0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVzZXJuYW1lKHByb3BlcnRpZXMuZ2V0VXNlcm5hbWUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucGFzc3dvcmQocHJvcGVydGllcy5nZXRQYXNzd29yZCgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpOwoKICAgIHJldHVybiBEZWZhdWx0U2FsZXNmb3JjZUNsaWVudENvbmZpZy5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hdXRoZW50aWNhdGlvbihhdXRoZW50aWNhdGlvbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXBwZXIobWFwcGVyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
