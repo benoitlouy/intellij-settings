@@ -56,10 +56,11 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/demomode/DecisionDemoAspect.java" timestamp="1492628676330" />
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/src/services/localeFactory.coffee" timestamp="1492637197633">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/src/services/localeFactory.coffee" timestamp="1492695238396">
+        <mark key="[" line="19" column="65" />
+        <mark key="]" line="20" column="41" />
+        <mark key="." line="20" column="41" />
+        <mark key="^" line="20" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/SalesforceConfig.java" timestamp="1492524280629">
         <mark key="[" line="39" column="40" />
@@ -76,10 +77,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/src/app/app.coffee" timestamp="1492635527862">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="22" />
-        <mark key="." line="25" column="22" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/src/app/app.coffee" timestamp="1492695195766">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="43" />
+        <mark key="." line="25" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/vendor/angular-translate/angular-translate.js" timestamp="1492637346936" />
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/owners/_legal_identifier.html.erb" timestamp="1492463027559">
@@ -345,11 +346,11 @@
       <jump line="11" column="31" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LSPMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCI+Pj4+Pj4+Pj4+PiBTRVQgTE9DQUxFICIgKyAkcm9vdFNjb3BlLiRsb2NhbGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>bcp47</text>
       </register>
       <register name="-" type="4">
-        <text>).replace(&quot;_&quot;, &quot;-&quot;)</text>
+        <text>bcp47</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
