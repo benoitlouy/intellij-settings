@@ -67,7 +67,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/demomode/DecisionDemoAspect.java" timestamp="1492628676330" />
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/src/services/localeFactory.coffee" timestamp="1492699621181">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -103,7 +102,6 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/vendor/angular-translate/angular-translate.js" timestamp="1492637346936" />
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/test/loc_card.spec.coffee" timestamp="1492697443079">
         <mark key="[" line="24" column="36" />
         <mark key="]" line="24" column="35" />
@@ -137,10 +135,10 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/decision/_form_owner.html.erb" timestamp="1492525429466">
-        <mark key="[" line="10" column="68" />
-        <mark key="]" line="10" column="68" />
-        <mark key="." line="10" column="68" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/decision/_form_owner.html.erb" timestamp="1492701381539">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/velocity/email/forgotUsernameEmail.vm" timestamp="1492612705232">
         <mark key="[" line="12" column="2" />
@@ -202,7 +200,6 @@
         <mark key="." line="203" column="96" />
         <mark key="^" line="203" column="96" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/vendor/assets/components/angular-translate/angular-translate.js" timestamp="1492633136286" />
       <file name="$USER_HOME$/Projects/OnDeck/console-common/console-authnZ/pom.xml" timestamp="1492625560263">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="26" />
@@ -219,8 +216,8 @@
         <mark key="]" line="104" column="34" />
         <mark key="." line="104" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/locales/en-CA.yml" timestamp="1492465008752">
-        <mark key="[" line="26" column="21" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/locales/en-CA.yml" timestamp="1492701250136">
+        <mark key="[" line="26" column="154" />
         <mark key="]" line="26" column="21" />
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="21" />
@@ -230,6 +227,11 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/locales/en-AU.yml" timestamp="1492701337408">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/test/java/com/odc/merchantapi/service/decision/UnderwritingHelperTest.java" timestamp="1492185011634">
         <mark key="[" line="87" column="83" />
@@ -280,7 +282,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/decision/_editowner.html.erb" timestamp="1492627560290" />
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/velocity/email/forgotPasswordEmail.vm" timestamp="1492612694452">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="2" />
@@ -314,6 +315,12 @@
         <mark key="]" line="74" column="35" />
         <mark key="." line="74" column="35" />
         <mark key="^" line="74" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/config/locales/en.yml" timestamp="1492701293625">
+        <mark key="[" line="89" column="111" />
+        <mark key="]" line="90" column="64" />
+        <mark key="^" line="90" column="64" />
+        <mark key="." line="90" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/resources/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LspMapper.xml" timestamp="1492189919222">
         <mark key="[" line="5" column="92" />
@@ -430,11 +437,11 @@
       <jump line="11" column="31" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LSPMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ2VuX0FVJzogJ2VuLWF1JywK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">V2UgcmVxdWlyZSB5b3VyIGZ1bGwg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2hlbiBsb2NhbGUgaXMgdW5kZWZpbmVkLCA=</text>
+        <text encoding="base64">V2UgcmVxdWlyZSB5b3VyIGZ1bGwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -443,31 +450,31 @@
         <text encoding="base64">ICB2YWxpZGF0ZXNfZm9ybWF0X29mIDpsZWdhbF9pZGVudGlmaWVyLCA6d2l0aCA9PiAvXEEoWzAtOV17M30tP1swLTldezN9LT9bMC05XXszfXwpXFovLCA6bWVzc2FnZSA9PiAiU0lOIG11c3QgYmUgOSBkaWdpdHMiLCBpZjogbG9jYWxlX2luKFs6J2VuLUNBJ10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ2VuX0FVJzogJ2VuLWF1JywK</text>
+        <text encoding="base64">CQkJCTwlIGlmIEkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ2VuLUFVJzogJ2VuLWF1JywK</text>
+        <text encoding="base64">ICAgICAgJ2VuX0FVJzogJ2VuLWF1JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ2VuX0NBJzogJ2VuLWNhJwo=</text>
+        <text encoding="base64">ICAgICAgJ2VuLUFVJzogJ2VuLWF1JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ2VuLUNBJzogJ2VuLWNhJywK</text>
+        <text encoding="base64">ICAgICAgJ2VuX0NBJzogJ2VuLWNhJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ2VuLUNBJzogJ2VuLWNhJywK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IyAgICBtb2R1bGUgIm9kbyIsICgkcHJvdmlkZSkgLT4KIwojICAgICAgJHByb3ZpZGUudmFsdWUgImFjY291bnRBUEkiLCBhY2NvdW50QVBJTW9jayA9CiMgICAgICAgIHVzZXI6IC0+CiMgICAgICAgICAgewojICAgICAgICAgICAgdGhlbjogKGNhbGxiYWNrKSAtPgojICAgICAgICAgICAgICBjYWxsYmFjayh1c2VyUmVzdWx0KQojICAgICAgICAgIH0KIwojICAgICAgc3B5T24oYWNjb3VudEFQSU1vY2ssICd1c2VyJykuYW5kQ2FsbFRocm91Z2goKQojCiMgICAgICAkcHJvdmlkZS52YWx1ZSAidG1oRHluYW1pY0xvY2FsZSIsIHRtaER5bmFtaWNMb2NhbGVNb2NrID0KIyAgICAgICAgc2V0OiAtPgojICAgICAgc3B5T24odG1oRHluYW1pY0xvY2FsZU1vY2ssICdzZXQnKS5hbmRDYWxsVGhyb3VnaCgpCiMKIyAgICAgIHJldHVybgoKIyAgICBpbmplY3QgKF8kcm9vdFNjb3BlXywgXyRsb2NhdGlvbl8sIF8kbG9jYWxlXywgX2FjY291bnRBUElfLCB0bWhEeW5hbWljTG9jYWxlLCBfJHRyYW5zbGF0ZV8sX2xvY2FsZUZhY3RvcnlfLCBfJHFfKSAtPgojICAgICAgJHJvb3RTY29wZSA9IF8kcm9vdFNjb3BlXwojICAgICAgJHRyYW5zbGF0ZSA9IF8kdHJhbnNsYXRlXwojICAgICAgJGxvY2F0aW9uID0gXyRsb2NhdGlvbl8KIyAgICAgICRzY29wZSA9IF8kcm9vdFNjb3BlXy4kbmV3KCkKIyAgICAgIGxvY2FsZUZhY3RvcnkgPSBfbG9jYWxlRmFjdG9yeV8KIyAgICAgICRxID0gXyRxXw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ2VuLUFVJzogJ2VuLWF1JywK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ2VuLUNBJzogJ2VuLWNhJwo=</text>
+        <text encoding="base64">ICAgICAgJ2VuLUFVJzogJ2VuLWF1JywK</text>
       </register>
       <register name=":" type="4">
         <text>2445</text>
