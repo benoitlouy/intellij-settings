@@ -286,7 +286,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/signup_controller.rb" timestamp="1492805197597" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/signup_controller.rb" timestamp="1492806729075">
+        <mark key="[" line="70" column="57" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/resources/velocity/email/forgotPasswordEmail.vm" timestamp="1492612694452">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="2" />
@@ -442,20 +446,20 @@
       <jump line="11" column="31" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LSPMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlAdXNlciA9IHBhcnRpYWxfdXNlcihwYXJhbXMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IDogZnVsbF91c2VyKHBhcmFtcyk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXNfZm9ybWF0X29mIDpsZWdhbF9pZGVudGlmaWVyLCA6d2l0aCA9PiAvXEEoWzAtOV17M30tP1swLTldezN9LT9bMC05XXszfXwpXFovLCA6bWVzc2FnZSA9PiAiU0lOIG11c3QgYmUgOSBkaWdpdHMiLCBpZjogbG9jYWxlX2luKFs6J2VuLUNBJ10pCg==</text>
+        <text encoding="base64">CQlAdXNlciA9IHNpZ251cF90ZXN0ID09IDpvbGRfc3R5bGUgPyBwYXJ0aWFsX3VzZXIocGFyYW1zKSA6IGZ1bGxfdXNlcihwYXJhbXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlAdXNlciA9IHBhcnRpYWxfdXNlcihwYXJhbXMpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -463,26 +467,26 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHdyYXBwZXIgPSAoKSAtPgogICAgICBhID0gZ2V0Rmlyc3RCcm93c2VyTGFuZ3VhZ2UoKQogICAgICBjb25zb2xlLmxvZygiPj4+Pj4+Pj4+Pj4+IExBTkcgIiArIGEpCiAgICAgIHJldHVybiBh</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4gTEFORzIgIiArIGxhbmd1YWdlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiPj4+Pj4+Pj4+PiBMQU5HMSAiICsgbGFuZ3VhZ2UpCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHdyYXBwZXIgPSAoKSAtPgogICAgICBhID0gZ2V0Rmlyc3RCcm93c2VyTGFuZ3VhZ2UoKQogICAgICBjb25zb2xlLmxvZygiPj4+Pj4+Pj4+Pj4+IExBTkcgIiArIGEpCiAgICAgIHJldHVybiBh</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4gTEFORzIgIiArIGxhbmd1YWdlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiPj4+Pj4+Pj4+PiBMQU5HMSAiICsgbGFuZ3VhZ2UpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgbGFuZ3VhZ2UK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICIiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>2445</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -533,9 +537,9 @@
         <entry>118</entry>
         <entry>642</entry>
         <entry>204</entry>
-        <entry>w</entry>
         <entry>191</entry>
         <entry>2445</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
