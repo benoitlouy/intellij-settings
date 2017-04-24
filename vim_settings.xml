@@ -287,6 +287,12 @@
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/resources/bootstrap.sql" timestamp="1493067046907">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice/src/main/java/com/odc/userservice/UserServiceModule.java" timestamp="1493061830966">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -407,10 +413,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TIMESTAMP</text>
+        <text>TIMESTAMP WITH TIME ZONE</text>
       </register>
       <register name="-" type="4">
-        <text>TIMESTAMP</text>
+        <text>TIMESTAMP WITH TIME ZONE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
