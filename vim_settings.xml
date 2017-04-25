@@ -99,6 +99,11 @@
         <mark key="^" line="103" column="47" />
         <mark key="." line="103" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/src/test/resources/schema.sql" timestamp="1493147057136">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/src/app/app.coffee" timestamp="1493053332485">
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="32" />
@@ -152,9 +157,9 @@
         <mark key="^" line="30" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/pom.xml" timestamp="1492705579514">
-        <mark key="[" line="70" column="24" />
-        <mark key="]" line="70" column="24" />
-        <mark key="." line="70" column="24" />
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/OutputFilesConfig.java" timestamp="1493049700820">
         <mark key="[" line="22" column="36" />
@@ -240,6 +245,7 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/db/release/release_3.15.sql" timestamp="1493146626723" />
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/eservicecorp/ESCPPSACachingReportHandlerIT.java" timestamp="1493133191711">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -265,6 +271,7 @@
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/db/release/release_3.14.sql" timestamp="1493146594431" />
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/itest/java/com/ondeck/job/lsp/renewal/eligibility/control/set/RenewalEligibilityControlSetJobIT.java" timestamp="1493134091459">
         <mark key="[" line="92" column="72" />
         <mark key="]" line="92" column="72" />
@@ -311,6 +318,7 @@
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/db/release/release_3.20.sql" timestamp="1493146738270" />
       <file name="$USER_HOME$/Projects/OnDeck/userservice/src/main/resources/beans.xml" timestamp="1493060078686">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
@@ -442,11 +450,11 @@
       <jump line="11" column="31" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LSPMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>replace</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -455,31 +463,104 @@
         <text encoding="base64">ICAgIC8vIHVzZSBzZWxlY3QgZGlzdGluY3QgdG8gcHJldmVudCBnZXR0aW5nIGR1cGxpY2F0ZSBsb2FuX2lkIGJlY2F1c2UgdGhhdCBjb3VsZCBoYXZlIGJlZW4gaW5zZXJ0ZWQgaW4gdGhlIAogICAgLy8gY29udHJvbF9zZXQgYnkgbXVsdGlwbGUgcmVydW5zIG9mIHRoZSB0aWVyIDEgam9iIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suam9iLmxzcC5yZW5ld2FsLmVsaWdpYmlsaXR5LmNvbnRyb2wuc2V0LmNvbmZpZy5Mb2NhbERhdGVUeXBlSGFuZGxlcjsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Rk9SIEVBQ0ggUk9XIEVYRUNVVEUgUFJPQ0VEVVJFIGluc2VydF93b3Jrb3V0X2hpc3RvcnkoKTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Q1JFQVRFIFRSSUdHRVIgd29ya291dF9oaXN0b3J5X3RyaWdnZXIgQUZURVIgSU5TRVJUIE9SIFVQREFURSBPTiB3b3Jrb3V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ZAo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgaWYgKGJ1c2luZXNzUmVzcG9uc2UuZ2V0RXJyb3JzKCkgIT0gbnVsbCAmJiBidXNpbmVzc1Jlc3BvbnNlLmdldEVycm9ycygpLmxlbmd0aCAhPSAwCiAgICAgICAgfHwgRVJST1JfU1RBVFVTRVMuY29udGFpbnMoYnVzaW5lc3NSZXNwb25zZS5nZXRPcmRlclN0YXR1cygpKQogICAgICAgIHx8IGJ1c2luZXNzUmVzcG9uc2UuZ2V0T3JkZXJOdW1iZXIoKSA9PSBudWxsKQogICAgICB7CiAgICAgICAgcmVzcG9uc2Uuc2V0U3RhdHVzKFJlc3BvbnNlU3RhdHVzLkVSUk9SKTsKICAgICAgICByZXNwb25zZS5zZXRTdGF0dXNNZXNzYWdlKEVTQ1V0aWxzLmNyZWF0ZUVycm9yTWVzc2FnZSgicHJvY2Vzc1NlYXJjaE9yZGVyIGZhaWxlZCIsCiAgICAgICAgICBidXNpbmVzc1Jlc3BvbnNlLmdldEVycm9ycygpKSk7CiAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwogICAgICB9CgogICAgICByZXNwb25zZS5zZXRTdGF0dXMoUmVzcG9uc2VTdGF0dXMuUEVORElORyk7CiAgICAgIHJlc3BvbnNlLnNldFN0YXR1c01lc3NhZ2UoIlBlbmRpbmciKTs=</text>
+        <text>create FUNCTION insert_workout_history() returns trigger as
+$$
+BEGIN
+  INSERT INTO WORKOUT_HISTORY(
+    workout_id ,
+    guid,
+    created_by,
+    created_date,
+    updated_by,
+    updated_date,
+    loan_id,
+    loan_type,
+    case_url,
+    status,
+    status_updated_date,
+    requested_documents,
+    owner,
+    start_date,
+    end_date,
+    payment_frequency,
+    monthly_payment_schedule,
+    monthly_payment_day,
+    monthly_payment_week_day,
+    monthly_payment_week_ordinal,
+    monthly_payment_amount,
+    monday_amount,
+    tuesday_amount,
+    wednesday_amount,
+    thursday_amount,
+    friday_amount,
+    notes,
+    submitted_by,
+    accepted_by_merchant,
+    decline_reason,
+    proactive_offer,
+    country
+  )
+    SELECT
+      NEW.id,
+      NEW.guid,
+      NEW.created_by,
+      NEW.created_date,
+      NEW.updated_by,
+      NEW.updated_date,
+      NEW.loan_id,
+      NEW.loan_type,
+      NEW.case_url,
+      NEW.status,
+      NEW.status_updated_date,
+      NEW.requested_documents,
+      NEW.owner,
+      NEW.start_date,
+      NEW.end_date,
+      NEW.payment_frequency,
+      NEW.monthly_payment_schedule,
+      NEW.monthly_payment_day,
+      NEW.monthly_payment_week_day,
+      NEW.monthly_payment_week_ordinal,
+      NEW.monthly_payment_amount,
+      NEW.monday_amount,
+      NEW.tuesday_amount,
+      NEW.wednesday_amount,
+      NEW.thursday_amount,
+      NEW.friday_amount,
+      NEW.notes,
+      NEW.submitted_by,
+      NEW.accepted_by_merchant,
+      NEW.decline_reason,
+      NEW.proactive_offer,
+      NEW.country;
+  RETURN NEW;
+END;
+$$
+LANGUAGE plpgsql;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHMuc2V0VGltZXN0YW1wKGksIHRzKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suam9iLmxzcC5yZW5ld2FsLmVsaWdpYmlsaXR5LmNvbnRyb2wuc2V0LmNvbmZpZy5Mb2NhbERhdGVUeXBlSGFuZGxlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVGltZXN0YW1wIHRzID0gbmV3IFRpbWVzdGFtcChwYXJhbWV0ZXIudG9EYXRlKCkuZ2V0VGltZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
