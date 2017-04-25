@@ -50,11 +50,11 @@
         <mark key="]" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/MerchantIdReaderConfig.java" timestamp="1493067239361">
-        <mark key="[" line="34" column="76" />
-        <mark key="]" line="34" column="76" />
-        <mark key="." line="34" column="76" />
-        <mark key="^" line="25" column="44" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/MerchantIdReaderConfig.java" timestamp="1493129120508">
+        <mark key="[" line="30" column="56" />
+        <mark key="]" line="30" column="56" />
+        <mark key="." line="30" column="56" />
+        <mark key="^" line="30" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/pom.xml" timestamp="1492705579514">
         <mark key="[" line="70" column="24" />
@@ -273,10 +273,11 @@
         <mark key="]" line="87" column="83" />
         <mark key="." line="87" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/LoanIdReaderConfig.java" timestamp="1493067206837">
-        <mark key="[" line="33" column="58" />
-        <mark key="]" line="33" column="57" />
-        <mark key="." line="33" column="57" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/reader/LoanIdReaderConfig.java" timestamp="1493129167007">
+        <mark key="[" line="30" column="64" />
+        <mark key="]" line="30" column="64" />
+        <mark key="." line="30" column="64" />
+        <mark key="^" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/SalesforceDateClauseConfigTest.java" timestamp="1493067189699">
         <mark key="[" line="13" column="24" />
@@ -419,16 +420,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TIMESTAMP WITH TIME ZONE</text>
+        <text encoding="base64">YmVjYXVzZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>TIMESTAMP WITH TIME ZONE</text>
+        <text encoding="base64">YmVjYXVzZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlAdXNlciA9IHNpZ251cF90ZXN0ID09IDpvbGRfc3R5bGUgPyBwYXJ0aWFsX3VzZXIocGFyYW1zKSA6IGZ1bGxfdXNlcihwYXJhbXMpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIC8vIHVzZSBzZWxlY3QgZGlzdGluY3QgdG8gcHJldmVudCBnZXR0aW5nIGR1cGxpY2F0ZSBsb2FuX2lkIGJlY2F1c2UgdGhhdCBjb3VsZCBoYXZlIGJlZW4gaW5zZXJ0ZWQgaW4gdGhlIAogICAgLy8gY29udHJvbF9zZXQgYnkgbXVsdGlwbGUgcmVydW5zIG9mIHRoZSB0aWVyIDEgam9iIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcHMuc2V0VGltZXN0YW1wKGksIHRzKTsK</text>
