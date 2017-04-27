@@ -351,6 +351,11 @@
         <mark key="]" line="39" column="42" />
         <mark key="." line="39" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/userservice-client/pom.xml" timestamp="1493325485238">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/eservicecorp/ESCPPSAReportFetcherUnitTest.java" timestamp="1493226203546">
         <mark key="[" line="70" column="36" />
         <mark key="]" line="70" column="36" />
@@ -552,27 +557,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8IS0tPC9kZXBlbmRlbmN5Pi0tPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dGFzayBkZXBsb3lMb2NhbCh0eXBlOiBDb3B5LCBkZXBlbmRzT246IHdhcikgewogICAgZnJvbSAoIiR7YnVpbGREaXJ9L2xpYnMiKSB7CiAgICAgICAgaW5jbHVkZSB7IGRldGFpbHMgLT4KICAgICAgICAgICAgZGV0YWlscy5maWxlLm5hbWUuZW5kc1dpdGgoJy53YXInKQogICAgICAgIH0KICAgIH0KICAgIGludG8oU3lzdGVtLmdldGVudigpWydKQk9TU19IT01FJ10gKyAnXFxzZXJ2ZXJcXHNoYXJlZFxcZGVwbG95JykKfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJPCEtLTx2ZXJzaW9uPiR7dmVyc2lvbi51c2Vyc2VydmljZS1jbGllbnR9PC92ZXJzaW9uPi0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPCEtLTxhcnRpZmFjdElkPnVzZXJzZXJ2aWNlLWNsaWVudDwvYXJ0aWZhY3RJZD4tLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPCEtLTxncm91cElkPmNvbS5vZGMudXNlcnNlcnZpY2U8L2dyb3VwSWQ+LS0+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>task userServiceClientJar(type: Jar) {
-    appendix = 'client'
-    from (sourceSets.main.output) {
-        include('com/odc/userservice/enumtype/**', 'com/odc/userservice/client/**', 'com/odc/userservice/exception/UserServiceClientException*')
-    }
-    from (&quot;${buildDir}/classes/xmlbeans&quot;) {
-        exclude '**/*.java'
-    }
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -581,13 +578,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>task userServiceJobJar(type: Jar) {
-    appendix = 'job'
-    from sourceSets.main.output
-    from ('src/main/resources') {
-        include ('beans.xml')
-    }
-}</text>
+        <text encoding="base64">dGFzayBkZXBsb3lMb2NhbCh0eXBlOiBDb3B5LCBkZXBlbmRzT246IHdhcikgewogICAgZnJvbSAoIiR7YnVpbGREaXJ9L2xpYnMiKSB7CiAgICAgICAgaW5jbHVkZSB7IGRldGFpbHMgLT4KICAgICAgICAgICAgZGV0YWlscy5maWxlLm5hbWUuZW5kc1dpdGgoJy53YXInKQogICAgICAgIH0KICAgIH0KICAgIGludG8oU3lzdGVtLmdldGVudigpWydKQk9TU19IT01FJ10gKyAnXFxzZXJ2ZXJcXHNoYXJlZFxcZGVwbG95JykKfQ==</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
