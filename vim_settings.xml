@@ -215,6 +215,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/src/main/schemas/AuthenticateRequest.xsd" timestamp="1493322105869" />
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/resources/com/ondeck/job/lsp/renewal/eligibility/control/set/writer/ResMapper.xml" timestamp="1493217878024">
         <mark key="[" line="9" column="118" />
         <mark key="]" line="9" column="15" />
@@ -246,6 +247,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/src/test/java/com/odc/userservice/util/TestCommon.java" timestamp="1493322647033">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/model/Loan.java" timestamp="1493217374723">
         <mark key="[" line="12" column="14" />
@@ -356,6 +362,9 @@
         <mark key="]" line="47" column="2" />
         <mark key="." line="47" column="2" />
       </file>
+      <file name="/Dummy.txt" timestamp="1493322954474">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/signup_controller.rb" timestamp="1493321446209">
         <mark key="[" line="65" column="12" />
         <mark key="]" line="65" column="40" />
@@ -372,12 +381,22 @@
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/build.gradle" timestamp="1493323115125">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/db/release/release_3.20.sql" timestamp="1493146738270" />
       <file name="$USER_HOME$/Projects/OnDeck/flow/src/main/java/com/github/benoitlouy/ProviderStep.java" timestamp="1493240690641">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/src/main/java/com/odc/userservice/model/UserSubType.java" timestamp="1493323012728">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice/src/main/resources/beans.xml" timestamp="1493060078686">
         <mark key="[" line="146" column="0" />
@@ -401,6 +420,7 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/src/main/java/com/odc/userservice/job/EmailNotificationJob.java" timestamp="1493322470568" />
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/SalesforceDateClauseConfig.java" timestamp="1493051793004">
         <mark key="[" line="15" column="82" />
         <mark key="]" line="12" column="36" />
@@ -516,8 +536,8 @@
       <jump line="33" column="76" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/JobRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>partial_user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>partial_user</text>
@@ -529,31 +549,52 @@
         <text encoding="base64">ICAgIC8vIHVzZSBzZWxlY3QgZGlzdGluY3QgdG8gcHJldmVudCBnZXR0aW5nIGR1cGxpY2F0ZSBsb2FuX2lkIGJlY2F1c2UgdGhhdCBjb3VsZCBoYXZlIGJlZW4gaW5zZXJ0ZWQgaW4gdGhlIAogICAgLy8gY29udHJvbF9zZXQgYnkgbXVsdGlwbGUgcmVydW5zIG9mIHRoZSB0aWVyIDEgam9iIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiPj4+Pj4+Pj4+Pj4+IEZJTkFMTFkgIiArICRyb290U2NvcGUuJGxvY2FsZSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAgICAgICAgICAkdHJhbnNsYXRlLnVzZSgkcm9vdFNjb3BlLiRsb2NhbGUpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgICB0bWhEeW5hbWljTG9jYWxlLnNldCgkcm9vdFNjb3BlLiRsb2NhbGUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCI+Pj4+Pj4+Pj4+Pj4gRVJST1IiKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAgICAgICAgICAkdHJhbnNsYXRlLnVzZSgkcm9vdFNjb3BlLiRsb2NhbGUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgICB0bWhEeW5hbWljTG9jYWxlLnNldCgkcm9vdFNjb3BlLiRsb2NhbGUpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+PiBTVUNDRVNTInNkZGRkCg==</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>sonarAnalyze.dependsOn 'classes'
+sonarAnalyze.dependsOn 'testClasses'
+
+sonar {
+
+    server {
+        url = &quot;http://10.252.102.25:9000&quot;
+    }
+
+    database {
+        url = &quot;jdbc:oracle:thin:@10.252.102.25/Orcl&quot;
+        driverClassName = &quot;oracle.jdbc.driver.OracleDriver&quot;
+        username = &quot;SONAR&quot;
+        password = &quot;sonar&quot;
+    }
+
+    project {
+        key=&quot;com.ondeckcapital:UserService-${releaseName}&quot;
+        version=&quot;${releaseName}&quot;
+        name=&quot;User Service&quot;
+    }
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBmaWxlcygiJHtidWlsZERpcn0vbGlicy91c2Vyc2VydmljZS14bWxiZWFucy0ke3ZlcnNpb259LmphciIpIHsgYnVpbHRCeSAndXNlcnNlcnZpY2VYbWxiZWFuc0phcicgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vY29tcGlsZSAnb3JnLnNwcmluZ2ZyYW1ld29yazpzcHJpbmctd2ViOjIuNS42Jwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly99Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpvYkxhdW5jaGVyVGVzdFV0aWxzLmxhdW5jaEpvYihuZXcgSm9iUGFyYW1ldGVyc0J1aWxkZXIpCg==</text>
+        <text encoding="base64">Ly8gICAgZXhjbHVkZSAnKiovKi5qYXZhJwo=</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
