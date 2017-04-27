@@ -381,10 +381,10 @@
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice/build.gradle" timestamp="1493323115125">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/build.gradle" timestamp="1493324638024">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/servicingconsole/db/release/release_3.20.sql" timestamp="1493146738270" />
       <file name="$USER_HOME$/Projects/OnDeck/flow/src/main/java/com/github/benoitlouy/ProviderStep.java" timestamp="1493240690641">
@@ -555,6 +555,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text>task userServiceJobJar(type: Jar) {
+    appendix = 'job'
+    from sourceSets.main.output
+    from ('src/main/resources') {
+        include ('beans.xml')
+    }
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>sonarAnalyze.dependsOn 'classes'
 sonarAnalyze.dependsOn 'testClasses'
 
@@ -578,23 +593,14 @@ sonar {
     }
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBmaWxlcygiJHtidWlsZERpcn0vbGlicy91c2Vyc2VydmljZS14bWxiZWFucy0ke3ZlcnNpb259LmphciIpIHsgYnVpbHRCeSAndXNlcnNlcnZpY2VYbWxiZWFuc0phcicgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSAnb3JnLnNwcmluZ2ZyYW1ld29yazpzcHJpbmctd2ViOjIuNS42Jwo=</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBmaWxlcygiJHtidWlsZERpcn0vbGlicy91c2Vyc2VydmljZS14bWxiZWFucy0ke3ZlcnNpb259LmphciIpIHsgYnVpbHRCeSAndXNlcnNlcnZpY2VYbWxiZWFuc0phcicgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgZXhjbHVkZSAnKiovKi5qYXZhJwo=</text>
+        <text encoding="base64">ICAgIC8vY29tcGlsZSAnb3JnLnNwcmluZ2ZyYW1ld29yazpzcHJpbmctd2ViOjIuNS42Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
