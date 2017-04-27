@@ -193,6 +193,12 @@
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/signup/new_style/_form.html.erb" timestamp="1493319142117">
+        <mark key="[" line="53" column="102" />
+        <mark key="]" line="53" column="126" />
+        <mark key="^" line="53" column="126" />
+        <mark key="." line="53" column="126" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/Application.java" timestamp="1492620188208">
         <mark key="[" line="817" column="67" />
         <mark key="]" line="817" column="67" />
@@ -350,8 +356,8 @@
         <mark key="]" line="47" column="2" />
         <mark key="." line="47" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/signup_controller.rb" timestamp="1493317791750">
-        <mark key="[" line="65" column="41" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/signup_controller.rb" timestamp="1493319810832">
+        <mark key="[" line="65" column="12" />
         <mark key="]" line="65" column="40" />
         <mark key="." line="65" column="40" />
         <mark key="^" line="65" column="40" />
@@ -388,6 +394,12 @@
         <mark key="]" line="133" column="59" />
         <mark key="^" line="133" column="59" />
         <mark key="." line="133" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/users/_form.html.erb" timestamp="1493318859167">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/SalesforceDateClauseConfig.java" timestamp="1493051793004">
         <mark key="[" line="15" column="82" />
@@ -504,11 +516,11 @@
       <jump line="33" column="76" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/JobRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiPj4+Pj4+Pj4+Pj4+IEZJTkFMTFkgIiArICRyb290U2NvcGUuJGxvY2FsZSkK</text>
+      <register name="&quot;" type="4">
+        <text>partial_user</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>partial_user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -544,7 +556,7 @@
         <text encoding="base64">ICAgIGpvYkxhdW5jaGVyVGVzdFV0aWxzLmxhdW5jaEpvYihuZXcgSm9iUGFyYW1ldGVyc0J1aWxkZXIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>150</text>
+        <text>71</text>
       </register>
     </registers>
     <search>
@@ -578,7 +590,6 @@
         <entry encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>40</entry>
         <entry>9</entry>
         <entry>199</entry>
         <entry>87</entry>
@@ -598,6 +609,7 @@
         <entry>2445</entry>
         <entry>w</entry>
         <entry>150</entry>
+        <entry>71</entry>
       </history-cmd>
       <history-expr />
       <history-input />
