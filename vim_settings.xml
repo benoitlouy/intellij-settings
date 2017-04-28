@@ -128,6 +128,12 @@
         <mark key="]" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/signup/owners/_form.html.erb" timestamp="1493401740613">
+        <mark key="[" line="29" column="119" />
+        <mark key="]" line="29" column="142" />
+        <mark key="^" line="29" column="142" />
+        <mark key="." line="29" column="142" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/step/FetchSFOpportunityStepConfig.java" timestamp="1493042989196">
         <mark key="[" line="94" column="79" />
         <mark key="]" line="94" column="79" />
@@ -154,6 +160,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/signup/old_style/_form.html.erb" timestamp="1493401195677" />
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/reader/LSPMapper.xml" timestamp="1492112642343">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="8" />
@@ -179,7 +186,7 @@
         <mark key="]" line="47" column="2" />
         <mark key="." line="47" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/signup_controller.rb" timestamp="1493326272350">
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/signup_controller.rb" timestamp="1493401549199">
         <mark key="[" line="70" column="8" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
@@ -362,11 +369,11 @@
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/signup/new_style/_form.html.erb" timestamp="1493327062998">
-        <mark key="[" line="53" column="102" />
-        <mark key="]" line="53" column="126" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/signup/new_style/_form.html.erb" timestamp="1493401208305">
+        <mark key="[" line="6" column="83" />
+        <mark key="]" line="6" column="83" />
         <mark key="^" line="53" column="126" />
-        <mark key="." line="53" column="126" />
+        <mark key="." line="6" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/Application.java" timestamp="1492620188208">
         <mark key="[" line="817" column="67" />
@@ -613,10 +620,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DomContent</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>DomContent</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -652,7 +659,7 @@
         <text encoding="base64">ICAgIHRhZy5yZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>71</text>
+        <text>78</text>
       </register>
     </registers>
     <search>
@@ -686,7 +693,6 @@
         <entry encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>9</entry>
         <entry>199</entry>
         <entry>87</entry>
         <entry>106</entry>
@@ -706,6 +712,7 @@
         <entry>w</entry>
         <entry>150</entry>
         <entry>71</entry>
+        <entry>78</entry>
       </history-cmd>
       <history-expr />
       <history-input />
