@@ -39,6 +39,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/web/profile/ProfileService.java" timestamp="1493653203637">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="41" column="10" />
+        <mark key="." line="41" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/domain/decision/Offer.java" timestamp="1492184992950">
         <mark key="[" line="774" column="11" />
         <mark key="]" line="774" column="11" />
@@ -212,6 +217,12 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/web/managed/ManagedUserService.java" timestamp="1493653331761">
+        <mark key="[" line="137" column="12" />
+        <mark key="]" line="139" column="60" />
+        <mark key="^" line="139" column="60" />
+        <mark key="." line="139" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/fields/src/main/java/com/github/benoitlouy/model/TextElement.java" timestamp="1493387993333">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="5" />
@@ -242,6 +253,12 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/user.rb" timestamp="1493326365478">
         <mark key="[" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/ApiProxyClientConfig.java" timestamp="1493653660651">
+        <mark key="[" line="52" column="43" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="52" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/fields/src/main/java/com/github/benoitlouy/model/Form.java" timestamp="1493395787404">
         <mark key="[" line="10" column="47" />
@@ -368,6 +385,11 @@
         <mark key="]" line="6" column="81" />
         <mark key="^" line="6" column="81" />
         <mark key="." line="6" column="81" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/ApiProxyClient.java" timestamp="1493654239956">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/Application.java" timestamp="1492620188208">
         <mark key="[" line="817" column="67" />
@@ -613,11 +635,11 @@
       <jump line="33" column="76" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/JobRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>signup</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLm1ldGhvZChtZXRob2QubmFtZSgpLCBSZXNwb25zZS5jbGFzcywgaW5wdXRTdHJlYW0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>signup</text>
+        <text>!Strings.isNullOrEmpty(resetToken)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -626,31 +648,31 @@
         <text>org.immutables.value.Value;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1ldGhvZChtZXRob2QubmFtZSgpLCBSZXNwb25zZS5jbGFzcywgaW5wdXRTdHJlYW0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHZhbGlkYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmhlYWRlcihIZWFkZXIuUEFSVE5FUl9BQ0NPVU5UX0lELCBwYXJ0bmVyQWNjb3VudElEKS5oZWFkZXIoQVBJX0NMSUVOVCwgaW5ib3VuZENvbW11bmljYXRpb25DaGFubmVsLnZhbHVlKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvICI+Pj4+PiAje3BhcmFtc30iCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQucmVzb3VyY2UocmVxdWVzdFVybCkudHlwZShPYmplY3RzLmZpcnN0Tm9uTnVsbChtZWRpYVR5cGUsIE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpKS5hY2NlcHQoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVFlQRSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvICI+Pj4+Pj4+Pj4gdmFsaWRhdGlvbl9lcnJvciAje3ZhbGlkYXRpb25fZXJyb3J9Igo=</text>
+        <text encoding="base64">ICAgIGNsaWVudENvbmZpZy5nZXRTaW5nbGV0b25zKCkuYWRkKGphY2tzb25Qcm92aWRlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRpb25fZXJyb3IgPSB1cGRhdGVfYXBwX2J1c2luZXNzKHNpZ251cF9oYXNoWzpidXNpbmVzc10pICB8fCB2YWxpZGF0aW9uX2Vycm9yCg==</text>
+        <text encoding="base64">ICAgIENsaWVudENvbmZpZyBjbGllbnRDb25maWcgPSBuZXcgRGVmYXVsdENsaWVudENvbmZpZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvICI+Pj4+Pj4+Pj4gdmFsaWRhdGlvbl9lcnJvciAje3ZhbGlkYXRpb25fZXJyb3J9Igo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHZhbGlkYXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvICI+Pj4+PiAje3BhcmFtc30iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvICI+Pj4+Pj4+Pj4gdmFsaWRhdGlvbl9lcnJvciAje3ZhbGlkYXRpb25fZXJyb3J9Igo=</text>
       </register>
       <register name=":" type="4">
         <text>78</text>
