@@ -23,6 +23,17 @@
         <mark key="]" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/UriFilter.java" timestamp="1493655037858">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/ApiAuthFilter.java" timestamp="1493655297384">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/useradministrationportal/test/unit/src/java/com/odc/useradmin/controller/UpdateAccountControllerTest.java" timestamp="1493234118571">
         <mark key="[" line="60" column="3" />
       </file>
@@ -254,11 +265,10 @@
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/models/user.rb" timestamp="1493326365478">
         <mark key="[" line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/ApiProxyClientConfig.java" timestamp="1493653660651">
-        <mark key="[" line="52" column="43" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="52" column="42" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/ApiProxyClientConfig.java" timestamp="1493655305784">
+        <mark key="[" line="55" column="43" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fields/src/main/java/com/github/benoitlouy/model/Form.java" timestamp="1493395787404">
         <mark key="[" line="10" column="47" />
@@ -386,10 +396,10 @@
         <mark key="^" line="6" column="81" />
         <mark key="." line="6" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/ApiProxyClient.java" timestamp="1493654239956">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/ApiProxyClient.java" timestamp="1493654827404">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/Application.java" timestamp="1492620188208">
         <mark key="[" line="817" column="67" />
@@ -636,10 +646,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1ldGhvZChtZXRob2QubmFtZSgpLCBSZXNwb25zZS5jbGFzcywgaW5wdXRTdHJlYW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>!Strings.isNullOrEmpty(resetToken)</text>
+        <text>ClientFilter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -648,31 +658,31 @@
         <text>org.immutables.value.Value;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1ldGhvZChtZXRob2QubmFtZSgpLCBSZXNwb25zZS5jbGFzcywgaW5wdXRTdHJlYW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmhlYWRlcihIZWFkZXIuUEFSVE5FUl9BQ0NPVU5UX0lELCBwYXJ0bmVyQWNjb3VudElEKS5oZWFkZXIoQVBJX0NMSUVOVCwgaW5ib3VuZENvbW11bmljYXRpb25DaGFubmVsLnZhbHVlKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQucmVzb3VyY2UocmVxdWVzdFVybCkudHlwZShPYmplY3RzLmZpcnN0Tm9uTnVsbChtZWRpYVR5cGUsIE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpKS5hY2NlcHQoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVFlQRSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsaWVudENvbmZpZy5nZXRTaW5nbGV0b25zKCkuYWRkKGphY2tzb25Qcm92aWRlcik7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBnZXROZXh0KCkuaGFuZGxlKHJlcXVlc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENsaWVudENvbmZpZyBjbGllbnRDb25maWcgPSBuZXcgRGVmYXVsdENsaWVudENvbmZpZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMucHV0KEFQSV9LRVksIHZhbHVlTGlzdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHZhbGlkYXRlCg==</text>
+        <text encoding="base64">ICAgIHZhbHVlTGlzdC5hZGQoYXBpS2V5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvICI+Pj4+PiAje3BhcmFtc30iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvICI+Pj4+Pj4+Pj4gdmFsaWRhdGlvbl9lcnJvciAje3ZhbGlkYXRpb25fZXJyb3J9Igo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8T2JqZWN0PiB2YWx1ZUxpc3QgPSBuZXcgQXJyYXlMaXN0PE9iamVjdD4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>78</text>
