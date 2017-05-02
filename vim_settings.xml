@@ -13,8 +13,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/test/java/com/odc/partner/portal/web/offeremail/OfferEmailServiceTest.java" timestamp="1493662952012">
-        <mark key="[" line="95" column="24" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/test/java/com/odc/partner/portal/web/offeremail/OfferEmailServiceTest.java" timestamp="1493734306817">
+        <mark key="[" line="98" column="32" />
         <mark key="]" line="95" column="24" />
         <mark key="." line="95" column="24" />
       </file>
@@ -490,10 +490,10 @@
         <mark key="^" line="6" column="81" />
         <mark key="." line="6" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/ApiProxyClient.java" timestamp="1493733117334">
-        <mark key="[" line="81" column="40" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/client/ApiProxyClient.java" timestamp="1493735310941">
+        <mark key="[" line="87" column="42" />
+        <mark key="]" line="87" column="42" />
+        <mark key="." line="87" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-common/src/main/java/com/odc/partner/common/salesforce/model/Application.java" timestamp="1492620188208">
         <mark key="[" line="817" column="67" />
@@ -542,8 +542,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/test/java/com/odc/partner/portal/web/api/PublicApiProxyControllerIT.java" timestamp="1493672863863">
-        <mark key="[" line="41" column="13" />
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/test/java/com/odc/partner/portal/web/api/PublicApiProxyControllerIT.java" timestamp="1493735103220">
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="30" />
+        <mark key="." line="66" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/test/java/com/odc/connect/ucc/eservicecorp/ESCPPSAReportFetcherUnitTest.java" timestamp="1493226203546">
         <mark key="[" line="70" column="36" />
@@ -779,10 +781,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>qc2full01:8080/webconnect</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>qc2full01:8080/webconnect</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -791,28 +793,28 @@
         <text>org.immutables.value.Value;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUHJveHlFeGNlcHRpb24oKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIFdlYlRhcmdldCB0YXJnZXQgPSBjbGllbnQudGFyZ2V0KHJlcXVlc3RVcmwpOwogICAgSW52b2NhdGlvbi5CdWlsZGVyIGJ1aWxkZXIgPSB0YXJnZXQucmVxdWVzdChPYmplY3RzLmZpcnN0Tm9uTnVsbChtZWRpYVR5cGUsIE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpKTsKICAgIGJ1aWxkZXIgPSBidWlsZGVyLmhlYWRlcihIZWFkZXIuUEFSVE5FUl9BQ0NPVU5UX0lELCBwYXJ0bmVyQWNjb3VudElEKTsKICAgIGJ1aWxkZXIgPSBidWlsZGVyLmhlYWRlcihBUElfQ0xJRU5ULCBpbmJvdW5kQ29tbXVuaWNhdGlvbkNoYW5uZWwudmFsdWUoKSk7CiAgICByZXR1cm4gYnVpbGRlci5tZXRob2QobWV0aG9kLm5hbWUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgIEVudGl0eS5lbnRpdHkoaW5wdXRTdHJlYW0sIE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpLAogICAgICAgICAgICAgICAgICAgICAgICAgUmVzcG9uc2UuY2xhc3MpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjb250ZW50VHlwZSA9IE1lZGlhVHlwZS5BUFBMSUNBVElPTl9YTUw7Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjb250ZW50VHlwZSA9IE1lZGlhVHlwZS5BUFBMSUNBVElPTl9YTUw7Cg==</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdC5nZXRJbnB1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoZW4oYnVpbGRlci5oZWFkZXIoYW55U3RyaW5nKCksIGFueVN0cmluZygpKSkudGhlblJldHVybihidWlsZGVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoZW4oYnVpbGRlci5oZWFkZXIoYW55U3RyaW5nKCksICkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoZW4oYnVpbGRlci5hY2NlcHQoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVFlQRSkpLnRoZW5SZXR1cm4oYnVpbGRlcik7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIFdlYlRhcmdldCB0YXJnZXQgPSBjbGllbnQudGFyZ2V0KHJlcXVlc3RVcmwpOwogICAgSW52b2NhdGlvbi5CdWlsZGVyIGJ1aWxkZXIgPSB0YXJnZXQucmVxdWVzdChPYmplY3RzLmZpcnN0Tm9uTnVsbChtZWRpYVR5cGUsIE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpKTsKICAgIGJ1aWxkZXIgPSBidWlsZGVyLmhlYWRlcihIZWFkZXIuUEFSVE5FUl9BQ0NPVU5UX0lELCBwYXJ0bmVyQWNjb3VudElEKTsKICAgIGJ1aWxkZXIgPSBidWlsZGVyLmhlYWRlcihBUElfQ0xJRU5ULCBpbmJvdW5kQ29tbXVuaWNhdGlvbkNoYW5uZWwudmFsdWUoKSk7CiAgICByZXR1cm4gYnVpbGRlci5tZXRob2QobWV0aG9kLm5hbWUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgIEVudGl0eS5lbnRpdHkoaW5wdXRTdHJlYW0sIE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpLAogICAgICAgICAgICAgICAgICAgICAgICAgUmVzcG9uc2UuY2xhc3MpOw==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIFN0cmluZyBjb250ZW50VHlwZSA9IE1lZGlhVHlwZS5BUFBMSUNBVElPTl9YTUw7Cg==</text>
