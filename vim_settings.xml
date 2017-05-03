@@ -257,6 +257,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/test/java/com/odc/partner/portal/client/ApiProxyClientTest.java" timestamp="1493744067371">
+        <mark key="[" line="62" column="39" />
+        <mark key="]" line="62" column="39" />
+        <mark key="." line="62" column="39" />
+        <mark key="^" line="54" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice/deploy/group_vars/firefly-int.yml" timestamp="1493744940832">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -420,8 +426,11 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/loan_offers/_loan_offer.html.erb" timestamp="1493824883117">
-        <mark key="[" line="98" column="25" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/loan_offers/_loan_offer.html.erb" timestamp="1493832076329">
+        <mark key="[" line="98" column="6" />
+        <mark key="]" line="98" column="27" />
+        <mark key="." line="98" column="27" />
+        <mark key="^" line="98" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/merchantapi/src/main/java/com/odc/merchantapi/config/JacksonCustomServerProvider.java" timestamp="1492183850928">
         <mark key="[" line="42" column="0" />
@@ -878,11 +887,11 @@
       <jump line="33" column="76" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/JobRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>I18n.locale == :en or I18n.locale == :'en-CA'</text>
       </register>
       <register name="-" type="4">
-        <text>paymentsupport@ondeck.com</text>
+        <text>I18n.locale == :en or I18n.locale == :'en-CA'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
