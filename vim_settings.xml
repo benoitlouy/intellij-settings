@@ -267,7 +267,7 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice/deploy/group_vars/dev01.yml" timestamp="1493744930715">
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/deploy/group_vars/dev01.yml" timestamp="1493995283360">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -328,7 +328,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice/deploy/group_vars/devglobalproducts.yml" timestamp="1493744934926">
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/deploy/group_vars/devglobalproducts.yml" timestamp="1493995330924">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -509,11 +509,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/userservice/build.gradle" timestamp="1493991334168">
-        <mark key="[" line="179" column="31" />
-        <mark key="]" line="179" column="46" />
-        <mark key="." line="179" column="46" />
-        <mark key="^" line="179" column="46" />
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/build.gradle" timestamp="1493995336435">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice/deploy/group_vars/vagrant.yml" timestamp="1493744967214">
         <mark key="[" line="12" column="0" />
@@ -539,6 +538,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/userservice/gradle/VersionTask.gradle" timestamp="1493994062563">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="11" column="2" />
+        <mark key="^" line="11" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/test/java/com/odc/partner/portal/web/signUp/SignUpControllerTest.java" timestamp="1493661832384">
         <mark key="[" line="31" column="78" />
@@ -659,10 +664,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgc2NoZW1hcyA9IFsnc2NoZW1hMScsICdzY2hlbWEyJywgJ3NjaGVtYTMnXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -671,34 +676,34 @@
         <text>org.immutables.value.Value;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgc2NoZW1hcyA9IFsnc2NoZW1hMScsICdzY2hlbWEyJywgJ3NjaGVtYTMnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmZQcm9wZXJ0aWVzIHsgcmVzb3VyY2VzIHsgc3JjRGlyICdjb25mJyB9IH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGdyYWRsZVZlcnNpb24gPSAnMS45Jwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHBsYWNlaG9sZGVycyA9IFsKICAgICAgICAgICAgJ2tleUFCQyc6ICd2YWx1ZVhZWicsCiAgICAgICAgICAgICdvdGhlcnBsYWNlaG9sZGVyJzogJ3ZhbHVlMTIzJwogICAgXQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBkZWYgYXV0aE1hdmVuID0geyBodHRwdXJsIC0+CiAgICAgICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgICAgIHVybCBodHRwdXJsCiAgICAgICAgICAgICAgICBjcmVkZW50aWFscyB7CiAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWUgdXNlcgogICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkIHBhc3MKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBhdXRoTWF2ZW4oJ2h0dHBzOi8vYnVpbGQub25kZWNrLnRvb2xzL2FydGlmYWN0b3J5L3JlcG8nKQogICAgfQogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggJ29yZy5ncmFkbGUuYXBpLnBsdWdpbnM6Z3JhZGxlLXRvbWNhdC1wbHVnaW46MC45LjknCiAgICAgICAgY2xhc3NwYXRoIGZpbGVzKCJjb25mL3Byb3BlcnRpZXMvIikKICAgICAgICBjbGFzc3BhdGggJ2NvbS5ibXVzY2hrbzpncmFkbGUtdG9tY2F0LXBsdWdpbjoyLjIuNScKICAgIH0KfQoKcGx1Z2lucyB7CiAgICBpZCAib3JnLmZseXdheWRiLmZseXdheSIgdmVyc2lvbiAiNC4yLjAiCn0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgZmluYWxpemVkQnkgaW50ZWdyYXRpb25Ub21jYXRTdG9wCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICAgZGVwZW5kc09uIGludGVncmF0aW9uVG9tY2F0UnVuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>188</text>
+        <text>174</text>
       </register>
     </registers>
     <search>
@@ -732,7 +737,6 @@
         <entry encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>300</entry>
         <entry>216</entry>
         <entry>157</entry>
         <entry>118</entry>
@@ -752,6 +756,7 @@
         <entry>219</entry>
         <entry>164</entry>
         <entry>188</entry>
+        <entry>174</entry>
       </history-cmd>
       <history-expr />
       <history-input />
