@@ -70,8 +70,8 @@
         <mark key="]" line="774" column="11" />
         <mark key="." line="774" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/JobRunner.java" timestamp="1492523804871">
-        <mark key="[" line="37" column="0" />
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/JobRunner.java" timestamp="1494447798156">
+        <mark key="[" line="31" column="58" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
@@ -147,6 +147,12 @@
         <mark key="]" line="327" column="0" />
         <mark key="." line="327" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/group_vars/staging.yml" timestamp="1494447046547">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/main/java/com/ondeck/job/renewal/eligibility/sf/data/export/config/OutputFilesConfig.java" timestamp="1493049700820">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="36" />
@@ -177,6 +183,12 @@
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/web/managed/ManagedUserController.java" timestamp="1493661103003">
         <mark key="[" line="34" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/templates/application.properties.j2" timestamp="1494447499916">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="31" column="100" />
+        <mark key="^" line="31" column="100" />
+        <mark key="." line="31" column="100" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/main/java/com/odc/partner/portal/web/managed/ManagedAccountController.java" timestamp="1493659980037">
         <mark key="[" line="160" column="54" />
@@ -411,10 +423,16 @@
         <mark key="]" line="33" column="36" />
         <mark key="." line="33" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/group_vars/production/vars.yml" timestamp="1494447539406">
+        <mark key="[" line="3" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/src/test/java/com/ondeck/job/renewal/eligibility/sf/data/export/SFDataExportJobSingleFlowIT.java" timestamp="1493049895429">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/group_vars/dev01.yml" timestamp="1494447543688">
+        <mark key="[" line="4" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/views/decision/_form_owner.html.erb" timestamp="1492701381539">
         <mark key="[" line="10" column="8" />
@@ -603,6 +621,12 @@
         <mark key="]" line="49" column="6" />
         <mark key="." line="49" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/group_vars/devglobalproducts.yml" timestamp="1494447548295">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/test/java/com/odc/partner/portal/web/profile/PasswordControllerIT.java" timestamp="1493662052438">
         <mark key="[" line="38" column="21" />
       </file>
@@ -713,11 +737,11 @@
       <jump line="33" column="76" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/JobRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>https://login.salesforce.com</text>
       </register>
       <register name="-" type="4">
-        <text>, LocalDate.class</text>
+        <text>https://login.salesforce.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
@@ -726,31 +750,31 @@
         <text>org.immutables.value.Value;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c2ZjbGllbnRfbG9naW5fdXJsOiBodHRwczovL2xvZ2luLnNhbGVzZm9yY2UuY29tCnNmY2xpZW50X2NsaWVudF9pZDogM01WRzk4UnFWZXN4UmdRN3lpckt0cUFUeml2UWxYdm5yekRKcEN1R3Y1OG5saEZ1aFRHM0ZSQ3dJQm04aUZmMldNNmFpOU16VTE4TTFBeFVPaDhrcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuZ2V0RW52aXJvbm1lbnQoKS5nZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnRleHQuZ2V0RW52aXJvbm1lbnQoKS5nZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoU3RyaW5nIHM6IGNvbnRleHQuZ2V0QmVhbkRlZmluaXRpb25OYW1lcygpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuZ2V0RW52aXJvbm1lbnQoKS5nZXRQcm9wZXJ0eSgpCg==</text>
+        <text encoding="base64">ICAgIGZvciAoU3RyaW5nIHM6IGNvbnRleHQuZ2V0QmVhbkRlZmluaXRpb25OYW1lcygpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVmIG1heElubmVyKHhzOiBMaXN0W0ludF0sIG1heDogT3B0aW9uW0ludF0pOiBPcHRpb25bSW50XSA9IAo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQuZ2V0RW52aXJvbm1lbnQoKS5nZXRQcm9wZXJ0eSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIG1heElubmVyKHhzOiBMaXN0W0ludF0sIG1heDogT3B0aW9uW0ludF0pOiBPcHRpb25bSW50XSA9IAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXhlY3V0aW9ucz4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPGV4ZWN1dGlvbj4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxnb2Fscz4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08Z29hbD5jbGVhbjwvZ29hbD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08Z29hbD5taWdyYXRlPC9nb2FsPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC9nb2Fscz4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPC9leGVjdXRpb24+LS0+CiAgICAgICAgICAgICAgICA8IS0tPC9leGVjdXRpb25zPi0tPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>174</text>
