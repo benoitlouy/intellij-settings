@@ -178,6 +178,12 @@
         <mark key="]" line="22" column="36" />
         <mark key="." line="22" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/allenvs.connect.properties" timestamp="1495114165086">
+        <mark key="[" line="235" column="16" />
+        <mark key="]" line="235" column="20" />
+        <mark key="." line="235" column="20" />
+        <mark key="^" line="235" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/userservice/deploy/group_vars/staging.yml" timestamp="1493744963997">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -883,11 +889,11 @@
       <jump line="33" column="76" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/JobRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>testModeEmail</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
