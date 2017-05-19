@@ -99,7 +99,11 @@
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/test/java/com/odc/partner/portal/test/PartnerPortalUserBuilder.java" timestamp="1493661607349">
         <mark key="[" line="43" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1495209923202" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/server/src/main/resources/qd.connect.properties" timestamp="1495214780184">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/deploy/group_vars/qsal.yml" timestamp="1495209985653" />
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/pom.xml" timestamp="1494528123154">
         <mark key="[" line="39" column="34" />
@@ -155,6 +159,11 @@
         <mark key="^" line="31" column="100" />
         <mark key="." line="31" column="100" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/deploy/roles/app/templates/server-override.connect.properties.j2" timestamp="1495214737632">
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
+        <mark key="." line="305" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/site.yml" timestamp="1494451579794">
         <mark key="[" line="6" column="55" />
         <mark key="]" line="6" column="51" />
@@ -176,6 +185,11 @@
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
         <mark key="^" line="205" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/OnDeck/connect/client/build.gradle" timestamp="1495214703501">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/partner-portal/src/test/java/com/odc/partner/portal/security/PartnerPortalUserServiceAuthenticationProviderTest.java" timestamp="1493661841425">
         <mark key="[" line="31" column="13" />
@@ -256,6 +270,11 @@
         <mark key="." line="105" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/connect/deploy/group_vars/qai01.yml" timestamp="1495209974035" />
+      <file name="$USER_HOME$/Projects/OnDeck/connect/build.gradle" timestamp="1495214660495">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/RenewalEligibilityControlSetJobConfig.java" timestamp="1495205499006">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -410,8 +429,8 @@
       <jump line="33" column="76" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/JobRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rbjeYo9CcdwW8txaV3XX</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgZjU0ZGRiNjA1Li4uIE1lcmdlIGJyYW5jaCAnZmVhdHVyZS9BU1QtMTA1NycgaW50byBkZXZlbG9wCg==</text>
       </register>
       <register name="-" type="4">
         <text>rbjeYo9CcdwW8txaV3XX</text>
@@ -423,31 +442,31 @@
         <text>org.immutables.value.Value;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vcGUK</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgZjU0ZGRiNjA1Li4uIE1lcmdlIGJyYW5jaCAnZmVhdHVyZS9BU1QtMTA1NycgaW50byBkZXZlbG9wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnJva2VyLnVybCA9IHRjcDovL3FzMmFtcTAxOjYxNjE2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgaW5zZXJ0VGVzdERvY3MoZmFsc2UpOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydE5vdE51bGwocmVzdWx0LmdldFJlc3BvbnNlU3RhdHVzKCkpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhSZXNwb25zZVN0YXR1cy5OT19ISVQsIHJlc3VsdC5nZXRSZXNwb25zZVN0YXR1cygpKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgZjU0ZGRiNjA1Li4uIE1lcmdlIGJyYW5jaCAnZmVhdHVyZS9BU1QtMTA1NycgaW50byBkZXZlbG9wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEZpbGwgaW4gdGhlIG5ld01lYW5zIGFycmF5Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXdNZWFucyA9IG1lYW5zLmNsb25lKCkgLy8geW91IG5lZWQgdG8gY29tcHV0ZSBuZXdNZWFucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0ucGVyc2lzdCgpCg==</text>
+        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAocG9zdGluZywgc2NvcmUpID0+IChmaXJzdExhbmdJblRhZyhwb3N0aW5nLnRhZ3MsIGxhbmdzKS5nZXRPckVsc2UoMCkgKiBsYW5nU3ByZWFkLCBzY29yZSkK</text>
+        <text encoding="base64">am1zLnJlcG9ydC5wdWJsaXNoZXIuZW5hYmxlZD17e2ptc19yZXBvcnRfcHVibGlzaGVyX2VuYWJsZWR9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
