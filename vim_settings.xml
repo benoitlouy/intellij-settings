@@ -320,6 +320,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/webconnect/src/main/java/com/odc/webconnect/api/security/SecurityConfig.java" timestamp="1496263340645">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OnDeck/renewal-eligibility-sf-producer-job/deploy/roles/artifact/tasks/main.yml" timestamp="1494508463085">
         <mark key="[" line="43" column="4" />
         <mark key="]" line="42" column="3" />
@@ -422,6 +427,7 @@
         <mark key="." line="31" column="7" />
         <mark key="^" line="31" column="7" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/odc/partner/partner-common/2.2.0-SNAPSHOT/partner-common-2.2.0-SNAPSHOT.jar!/com/odc/partner/common/security/userservice/UserServiceAuthenticationProvider.class" timestamp="1496263322079" />
       <file name="$USER_HOME$/Projects/OnDeck/modelexecutionservice/modelexecution-service/build.gradle" timestamp="1495228353442">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -680,7 +686,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIyBmb3JtYXQuanNvbiB7IHJlbmRlciA6anNvbiA9PiB7OmVycm9yID0+ICJ0ZXN0IGVycm9yIn0udG9fanNvbiwgOnN0YXR1cyA9PiA1MDAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24uc2VjdXJpdHkudXNlcnNlcnZpY2UuTWlncmF0aW5nVXNlclNlcnZpY2VBdXRoZW50aWNhdGlvblByb3ZpZGVyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>@user.desensitize</text>
@@ -692,31 +698,31 @@
         <text encoding="base64">YnJva2VyLnVybCA9IHZtOi8vZHMtYnJva2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBmb3JtYXQuanNvbiB7IHJlbmRlciA6anNvbiA9PiB7OmVycm9yID0+ICJ0ZXN0IGVycm9yIn0udG9fanNvbiwgOnN0YXR1cyA9PiA1MDAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGMucGFydG5lci5jb21tb24uc2VjdXJpdHkudXNlcnNlcnZpY2UuTWlncmF0aW5nVXNlclNlcnZpY2VBdXRoZW50aWNhdGlvblByb3ZpZGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbG9jYWxlRmFjdG9yeSBjb25maWcnKQo=</text>
+        <text encoding="base64">ICAgICAgIyBmb3JtYXQuanNvbiB7IHJlbmRlciA6anNvbiA9PiB7OmVycm9yID0+ICJ0ZXN0IGVycm9yIn0udG9fanNvbiwgOnN0YXR1cyA9PiA1MDAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCI+Pj4+Pj4+IEZPTyIpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbG9jYWxlRmFjdG9yeSBjb25maWcnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Pj4gZXJyb3InKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCI+Pj4+Pj4+IEZPTyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Pj4gc3VjY2VzcycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Pj4gZXJyb3InKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAocmVzdWx0KS0+CiAgICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+IHN1Y2Nlc3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Pj4gc3VjY2VzcycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4gc2V0IGxvY2FsZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAocmVzdWx0KS0+CiAgICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+IHN1Y2Nlc3MnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4gc2V0IGxvY2FsZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vbmRlY2suY29tbW9uLm1vZGVsLkNvdW50cnlDb2RlSXNvMzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>140</text>
