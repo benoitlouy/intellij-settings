@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/users_controller.rb" timestamp="1496250618421">
-        <mark key="[" line="96" column="24" />
-        <mark key="]" line="99" column="84" />
-        <mark key="." line="99" column="84" />
-        <mark key="^" line="99" column="84" />
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/controllers/users_controller.rb" timestamp="1496251991997">
+        <mark key="[" line="100" column="33" />
+        <mark key="]" line="100" column="37" />
+        <mark key="." line="100" column="37" />
+        <mark key="^" line="100" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OnDeck/decisionservice/src/test/java/com/odc/decision/underwriting/UnderwritingHandlerIntegrationTest.java" timestamp="1495550746199">
         <mark key="[" line="104" column="0" />
@@ -349,6 +349,12 @@
         <mark key="^" line="11" column="56" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/OnDeck/ondeckonline/app/angular_client/src/services/localeFactory.coffee" timestamp="1496252848570">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="49" column="37" />
+        <mark key="^" line="49" column="37" />
+        <mark key="." line="49" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/fields/src/test/java/com/github/benoitlouy/form/model/TextElementTest.java" timestamp="1494016610195">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="83" />
@@ -669,11 +675,11 @@
       <jump line="33" column="76" filename="$USER_HOME$/Projects/OnDeck/renewal-eligibity-control-set-job/src/main/java/com/ondeck/job/lsp/renewal/eligibility/control/set/JobRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>@user.desensitize</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>@user.desensitize</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwQnVpbGRlckZhY3RvcnlcPg==</text>
