@@ -21,6 +21,11 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequestSpec.scala" timestamp="1547043412329">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppSpec.scala" timestamp="1546542662645">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -54,6 +59,11 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/src/universal/conf/environment/dev/application.conf" timestamp="1546618833462" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequest.scala" timestamp="1547043421084">
+        <mark key="[" line="37" column="105" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/handler/HandleStartJob.scala" timestamp="1546874771366">
         <mark key="[" line="45" column="49" />
         <mark key="]" line="45" column="49" />
@@ -369,8 +379,8 @@
       <jump line="23" column="4" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/CreateFramework.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -430,7 +440,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>fwId</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
