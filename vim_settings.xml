@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/CreateRequest.scala" timestamp="1546464174348">
-        <mark key="[" line="13" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/cd/js-chronos-submitter-service.json" timestamp="1546877413371">
-        <mark key="[" line="1" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/DatabaseProfile.scala" timestamp="1546889281668">
         <mark key="[" line="12" column="53" />
         <mark key="]" line="12" column="53" />
@@ -21,10 +15,10 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequestSpec.scala" timestamp="1547043412329">
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="42" column="30" />
-        <mark key="." line="42" column="30" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequestSpec.scala" timestamp="1547045371048">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppSpec.scala" timestamp="1546542662645">
         <mark key="[" line="14" column="0" />
@@ -49,9 +43,6 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/Logger.scala" timestamp="1546889396981">
-        <mark key="[" line="4" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/src/main/scala/com/nbcuas/jobscheduler/chronossubmitter/chronos/api/Auth.scala" timestamp="1546627814240" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/it/scala/com/nbcuas/jobscheduler/dao/FrameworksSpec.scala" timestamp="1546611658992">
         <mark key="[" line="48" column="6" />
@@ -59,10 +50,11 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/src/universal/conf/environment/dev/application.conf" timestamp="1546618833462" />
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequest.scala" timestamp="1547043421084">
-        <mark key="[" line="37" column="105" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="36" column="12" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequest.scala" timestamp="1547045392183">
+        <mark key="[" line="41" column="72" />
+        <mark key="]" line="41" column="72" />
+        <mark key="." line="41" column="72" />
+        <mark key="^" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/handler/HandleStartJob.scala" timestamp="1546874771366">
         <mark key="[" line="45" column="49" />
@@ -147,11 +139,11 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/ConfigProvider.scala" timestamp="1546879206192">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="50" column="64" />
-        <mark key="^" line="50" column="64" />
-        <mark key="." line="50" column="64" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/ConfigProvider.scala" timestamp="1547045910299">
+        <mark key="[" line="52" column="54" />
+        <mark key="]" line="52" column="54" />
+        <mark key="^" line="54" column="45" />
+        <mark key="." line="52" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobSuccessSpec.scala" timestamp="1546893849726" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/it/scala/com/nbcuas/jobscheduler/dao/PostgresJSDAOSpec.scala" timestamp="1546544958451">
@@ -195,6 +187,11 @@
         <mark key="." line="183" column="33" />
         <mark key="^" line="183" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MultiException.scala" timestamp="1547045282515">
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="4" column="65" />
+        <mark key="." line="4" column="65" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/cd/deploy.sh" timestamp="1546620528158">
         <mark key="[" line="47" column="26" />
         <mark key="]" line="47" column="45" />
@@ -224,17 +221,18 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/KafkaTest.scala" timestamp="1547045999827" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/handler/HandleJobStarted.scala" timestamp="1546635030762">
         <mark key="[" line="24" column="78" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/src/main/resources/reference.conf" timestamp="1546628062724" />
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1546890142167">
-        <mark key="[" line="104" column="109" />
-        <mark key="]" line="104" column="100" />
-        <mark key="^" line="104" column="100" />
-        <mark key="." line="104" column="100" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1547045800950">
+        <mark key="[" line="118" column="23" />
+        <mark key="]" line="118" column="23" />
+        <mark key="^" line="118" column="38" />
+        <mark key="." line="118" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/RecoverState.scala" timestamp="1546888706051">
         <mark key="[" line="43" column="8" />
@@ -242,20 +240,17 @@
         <mark key="." line="43" column="8" />
         <mark key="^" line="44" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-java-bridge/src/test/scala/com/nokia/mesos/proxy/TestData.scala" timestamp="1546529049294">
-        <mark key="[" line="41" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/test/scala/com/nokia/mesos/test/ResourceProcessorSpec.scala" timestamp="1546529012815">
         <mark key="[" line="39" column="20" />
         <mark key="]" line="38" column="59" />
         <mark key="^" line="38" column="59" />
         <mark key="." line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/resources/reference.conf" timestamp="1546887403509">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="27" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/resources/reference.conf" timestamp="1547045996444">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/handler/HandleError.scala" timestamp="1546875156908">
         <mark key="[" line="23" column="43" />
@@ -269,9 +264,6 @@
         <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobStartedSpec.scala" timestamp="1546897214966" />
-      <file name="$USER_HOME$/Projects/mesos-scala-api/version.sbt" timestamp="1546545354839">
-        <mark key="[" line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/TaskLauncherProvider.scala" timestamp="1546889586027">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -295,8 +287,11 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MoreIO.scala" timestamp="1546457381087">
-        <mark key="[" line="7" column="30" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MoreIO.scala" timestamp="1547045216767">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/handler/HandleJobSuccessSpec.scala" timestamp="1546875268015">
         <mark key="[" line="43" column="28" />
@@ -315,7 +310,7 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/CreateFrameworkSpec.scala" timestamp="1546899724321">
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/CreateFrameworkSpec.scala" timestamp="1547044351788">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="^" line="133" column="39" />
@@ -380,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>getString</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -440,7 +435,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>getString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -452,25 +447,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBtZXNvc0ZXID0gbW9ja1tNZXNvc0ZyYW1ld29ya1dpdGhUYXNrTGF1bmNoZXJdCg==</text>
+        <text encoding="base64">ICAgIHZhbCBleGNlcHRpb24gPSB0aGUgW011bHRpRXhjZXB0aW9uXSB0aHJvd25CeSBpby51bnNhZmVSdW5TeW5jKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGpvYnMuZm9sZCgKICAgICAgZXhzID0+IElPLnJhaXNlRXJyb3IoTXVsdGlFeGNlcHRpb24ocyJDb3VsZCBub3QgY29udmVydCAkam9iUmVxdWVzdCIsIGV4cykpLAogICAgICBqb2JzID0+IElPLnB1cmUoam9icykKICAgICk=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgaW5zdGFuY2UuY29ubmVjdCgqLCAqKSBzaG91bGRBbnN3ZXIgeyAoZndJbmZvOiBGcmFtZXdvcmtJbmZvLCBfOiBTdHJpbmcpID0+CiAgICAgIElPLnB1cmUoZndJbmZvLmlkLm1hcChfLnZhbHVlKS5nZXRPckVsc2UoImZ3SWQiKSAtPiBtZXNvc0ZXKQogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNob3VsZEJlIFNlcShFcnJvcigiQ291bGQgbm90IHByb2Nlc3MgSm9iUmVxdWVzdCIsICkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVycm9yLmxlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyYW1ld29ya0luZm8udmFsdWUuaWQgc2hvdWxkQmUgTm9uZQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHZhbCBpbnN0YW5jZSA9IGJ1aWxkSW5zdGFuY2UoU3ViamVjdFtKb2JSZXF1ZXN0XSwgU3ViamVjdFtFdmVudF0pCiAgICAKICAgIGluc3RhbmNlLg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBmcmFtZXdvcmtJbmZvID0gQXJnQ2FwdG9yW0ZyYW1ld29ya0luZm9dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
