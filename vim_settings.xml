@@ -110,11 +110,10 @@
         <mark key="]" line="77" column="81" />
         <mark key="." line="77" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" timestamp="1546889241118">
-        <mark key="[" line="23" column="99" />
-        <mark key="]" line="23" column="99" />
-        <mark key="." line="23" column="99" />
-        <mark key="^" line="63" column="52" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" timestamp="1547061603818">
+        <mark key="[" line="35" column="138" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/CreateFrameworkIT.scala" timestamp="1546896926058">
         <mark key="[" line="21" column="30" />
@@ -491,8 +490,8 @@
       <jump line="29" column="130" filename="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobRuns.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Option</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBhOiBGaXhlZFNxbFN0cmVhbWluZ0FjdGlvbltTZXFbSm9iUnVuXSwgSm9iUnVuLCBFZmZlY3QuUmVhZF0gPSBKb2JSdW5EQU8uZmlsdGVyKF8udXVpZC5pblNldChkZXBlbmRlbmNpZXMpKS5yZXN1bHQK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -552,7 +551,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Option</text>
+        <text>Nil</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -561,31 +560,31 @@
         <text encoding="base64">ICAgIGluc3RhbmNlLmluc2VydEpvYkV2ZW50KGpvYlJ1bjEuaWQuZ2V0LCBKb2JFdmVudFR5cGVzLlNjaGVkdWxlZCwgKikgd2FzIGNhbGxlZAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbCBhOiBGaXhlZFNxbFN0cmVhbWluZ0FjdGlvbltTZXFbSm9iUnVuXSwgSm9iUnVuLCBFZmZlY3QuUmVhZF0gPSBKb2JSdW5EQU8uZmlsdGVyKF8udXVpZC5pblNldChkZXBlbmRlbmNpZXMpKS5yZXN1bHQK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHYK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">YWwgam9icyA9IGpvYlJlcXVlc3Quam9icy5tYXAgeyBqb2IgPT4KICAgICAgVmFsaWRhdGVkLmNhdGNoTm9uRmF0YWwoSm9iVHlwZXMud2l0aE5hbWUoam9iLmB0eXBlYC5zcGxpdCgiLSIpLm1hcChfLmNhcGl0YWxpemUpLm1rU3RyaW5nKSkKICAgICAgICAubWFwKF8gLT4gam9iLmFyZ3VtZW50cykKICAgICAgICAudG9WYWxpZGF0ZWROZWMKICAgIH0udG9MaXN0LnNlcXVlbmNlCiAgICBqb2JzLmZvbGQoCiAgICAgIGV4cyA9PiBNdWx0aUV4Y2VwdGlvbihzIkNvdWxkIG5vdCBjb252ZXJ0ICRqb2JSZXF1ZXN0IiwgZXhzKS5pbnZhbGlkLAogICAgICBqb2JzID0+IGpvYnMudmFsaWQKICAgICk=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZmluYWwgY2FzZSBjbGFzcyBKb2IoYHR5cGVgOiBTdHJpbmcsIGFyZ3VtZW50czogT3B0aW9uW0xpc3RbU3RyaW5nXV0gPSBOb25lKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIElPKE9wdGlvbihUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldENvbnRleHRDbGFzc0xvYWRlcikuZm9sZChUaHJlYWQuY3VycmVudFRocmVhZCgpLnNldENvbnRleHRDbGFzc0xvYWRlcihDbGFzc0xvYWRlci5nZXRTeXN0ZW1DbGFzc0xvYWRlcikpKF8gPT4gKCkpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBkZWYgc2V0Q29udGV4dENsYXNzTG9hZGVyOiBJT1tVbml0XSA9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gIHByaXZhdGUgdmFsIGNvbnN1bWVyID0gS2Fma2FDb25zdW1lcih0b3BpYywgcmVxdWVzdENvbnN1bWVyQ29uZmlnKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGthZmthLmNvbnN1bWVyLkNvbnN1bWVyQ29uZmlnCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wQ29tcG9uZW50cyA9IGNvbXBvbmVudHMubWFwKF8uc3RhcnQoKSkucmV2ZXJzZS50cmF2ZXJzZSh4ID0+IHgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGthZmthLmNvbnN1bWVyLkNvbnN1bWVyQ29uZmlnCg==</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
