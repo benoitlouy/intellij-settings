@@ -110,10 +110,10 @@
         <mark key="]" line="77" column="81" />
         <mark key="." line="77" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" timestamp="1547061603818">
-        <mark key="[" line="35" column="138" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" timestamp="1547062973090">
+        <mark key="[" line="51" column="70" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/CreateFrameworkIT.scala" timestamp="1546896926058">
         <mark key="[" line="21" column="30" />
@@ -305,6 +305,11 @@
         <mark key="." line="40" column="113" />
         <mark key="^" line="40" column="113" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleFailDependentJobsSpec.scala" timestamp="1547049710579">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/Frameworks.scala" timestamp="1546612156055">
         <mark key="[" line="26" column="21" />
         <mark key="]" line="26" column="21" />
@@ -340,6 +345,11 @@
         <mark key="]" line="16" column="62" />
         <mark key="^" line="21" column="41" />
         <mark key="." line="16" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleFailDependentJobs.scala" timestamp="1547055222934">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartJobSpec.scala" timestamp="1546889883653">
         <mark key="[" line="183" column="28" />
@@ -413,6 +423,11 @@
         <mark key="[" line="19" column="57" />
         <mark key="]" line="19" column="57" />
         <mark key="." line="19" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/EmitStartJob.scala" timestamp="1547052207921">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MoreIO.scala" timestamp="1547060024052">
         <mark key="[" line="10" column="0" />
@@ -491,7 +506,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBhOiBGaXhlZFNxbFN0cmVhbWluZ0FjdGlvbltTZXFbSm9iUnVuXSwgSm9iUnVuLCBFZmZlY3QuUmVhZF0gPSBKb2JSdW5EQU8uZmlsdGVyKF8udXVpZC5pblNldChkZXBlbmRlbmNpZXMpKS5yZXN1bHQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -551,7 +566,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Nil</text>
+        <text encoding="base64">dmFsaWRhdGVkLm1hcCB7IGNhc2UgKGpvYiwgc3RhdGUpID0+IEpvYkRlcGVuZGVuY3lEQU8uaW5zZXJ0KGpvYlJ1bi5pZC5nZXQpfQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -560,31 +575,31 @@
         <text encoding="base64">ICAgIGluc3RhbmNlLmluc2VydEpvYkV2ZW50KGpvYlJ1bjEuaWQuZ2V0LCBKb2JFdmVudFR5cGVzLlNjaGVkdWxlZCwgKikgd2FzIGNhbGxlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhOiBGaXhlZFNxbFN0cmVhbWluZ0FjdGlvbltTZXFbSm9iUnVuXSwgSm9iUnVuLCBFZmZlY3QuUmVhZF0gPSBKb2JSdW5EQU8uZmlsdGVyKF8udXVpZC5pblNldChkZXBlbmRlbmNpZXMpKS5yZXN1bHQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHYK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">YWwgam9icyA9IGpvYlJlcXVlc3Quam9icy5tYXAgeyBqb2IgPT4KICAgICAgVmFsaWRhdGVkLmNhdGNoTm9uRmF0YWwoSm9iVHlwZXMud2l0aE5hbWUoam9iLmB0eXBlYC5zcGxpdCgiLSIpLm1hcChfLmNhcGl0YWxpemUpLm1rU3RyaW5nKSkKICAgICAgICAubWFwKF8gLT4gam9iLmFyZ3VtZW50cykKICAgICAgICAudG9WYWxpZGF0ZWROZWMKICAgIH0udG9MaXN0LnNlcXVlbmNlCiAgICBqb2JzLmZvbGQoCiAgICAgIGV4cyA9PiBNdWx0aUV4Y2VwdGlvbihzIkNvdWxkIG5vdCBjb252ZXJ0ICRqb2JSZXF1ZXN0IiwgZXhzKS5pbnZhbGlkLAogICAgICBqb2JzID0+IGpvYnMudmFsaWQKICAgICk=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZmluYWwgY2FzZSBjbGFzcyBKb2IoYHR5cGVgOiBTdHJpbmcsIGFyZ3VtZW50czogT3B0aW9uW0xpc3RbU3RyaW5nXV0gPSBOb25lKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIElPKE9wdGlvbihUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldENvbnRleHRDbGFzc0xvYWRlcikuZm9sZChUaHJlYWQuY3VycmVudFRocmVhZCgpLnNldENvbnRleHRDbGFzc0xvYWRlcihDbGFzc0xvYWRlci5nZXRTeXN0ZW1DbGFzc0xvYWRlcikpKF8gPT4gKCkpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgc2V0Q29udGV4dENsYXNzTG9hZGVyOiBJT1tVbml0XSA9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHZhbCBkZXBlbmRlbmNpZXNXaXRoU3RhdGUgPSBmb3IgewogICAgICBqb2JSdW4gPC0gSm9iUnVuREFPLmZpbHRlcihfLnV1aWQuaW5TZXQoZGVwZW5kZW5jaWVzKSkKICAgICAgKGpvYlJ1bklkLCBqb2JFdmVudCkgPC0gSm9iRXZlbnREQU8ubGFzdFN0YXRlQnlKb2JSdW5JZCgpLmZpbHRlcihfLl8yLmlzRGVmaW5lZCkubWFwKGUgPT4gZS5fMSAtPiBlLl8yLmdldCkgaWYgam9iUnVuLmlkID09PSBqb2JSdW5JZAogICAgfSB5aWVsZCAgKGpvYlJ1biwgam9iRXZlbnQp</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgam9iUnVuRGVwZW5kZW5jaWVzIDwtIGlmIChkZXBlbmRlbmNpZXMubm9uRW1wdHkpIGRlcGVuZGVuY2llc1dpdGhTdGF0ZS5yZXN1bHQgZWxzZSBEQklPLnN1Y2Nlc3NmdWwoU2VxLmVtcHR5KQogICAgICBtaXNzaW5nID0gZGVwZW5kZW5jaWVzLmRpZmYoam9iUnVuRGVwZW5kZW5jaWVzLmdyb3VwQnkoXy51dWlkKS5rZXlzLmZsYXR0ZW4udG9TZXQpCiAgICAgIHZhbGlkYXRlZEpvYlJ1bkRlcGVuZGVuY2llcyA8LQogICAgICAgIGlmIChtaXNzaW5nLm5vbkVtcHR5KSBEQklPLmZhaWxlZChuZXcgUnVudGltZUV4Y2VwdGlvbihzIkNvdWxkIG5vdCBmaW5kIGpvYiB3aXRoIHRoZSBmb2xsb3dpbmcgdXVpZCAke21pc3NpbmcubWtTdHJpbmcoIiwgIil9IikpCiAgICAgICAgZWxzZSBEQklPLnN1Y2Nlc3NmdWwoam9iUnVuRGVwZW5kZW5jaWVzKQogICAgICBfIDwtIEpvYkRlcGVuZGVuY3lEQU8uaW5zZXJ0KGpvYlJ1bikgdmFsaWRhdGVkSm9iUnVuRGVwZW5kZW5jaWVzLm1hcChqb2JSdW4gLT4gSm9iRGVwZW5kZW5jeURBTy5pbnNlcnQoKSk=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHF1ZXJ5LmZpbHRlcihfLl8yLmlzRGVmaW5lZCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHF1ZXJ5LmZpbHRlcihfLl8yLmlzRGVmaW5lZCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIHByaXZhdGUgdmFsIGNvbnN1bWVyID0gS2Fma2FDb25zdW1lcih0b3BpYywgcmVxdWVzdENvbnN1bWVyQ29uZmlnKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhOiBGaXhlZFNxbFN0cmVhbWluZ0FjdGlvbltTZXFbSm9iUnVuXSwgSm9iUnVuLCBFZmZlY3QuUmVhZF0gPSBKb2JSdW5EQU8uZmlsdGVyKF8udXVpZC5pblNldChkZXBlbmRlbmNpZXMpKS5yZXN1bHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGthZmthLmNvbnN1bWVyLkNvbnN1bWVyQ29uZmlnCg==</text>
+        <text encoding="base64">ICAgIHYK</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
