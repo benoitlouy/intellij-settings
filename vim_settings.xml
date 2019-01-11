@@ -185,10 +185,10 @@
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/HttpMesosAPIIT.scala" timestamp="1547222704205">
-        <mark key="[" line="19" column="80" />
-        <mark key="]" line="19" column="85" />
-        <mark key="." line="19" column="85" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/HttpMesosAPIIT.scala" timestamp="1547229206349">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="19" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/CreateFramework.scala" timestamp="1547056002611">
@@ -252,11 +252,11 @@
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobEvents.scala" timestamp="1547069697370">
         <mark key="[" line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547227434808">
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="39" column="68" />
-        <mark key="." line="39" column="68" />
-        <mark key="^" line="39" column="68" />
+      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547229803285">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="16" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleError.scala" timestamp="1547064701802">
         <mark key="[" line="31" column="43" />
@@ -551,8 +551,8 @@
       <jump line="29" column="130" filename="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobRuns.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcuQ29uZmlnRmFjdG9yeQo=</text>
+      <register name="&quot;" type="4">
+        <text>0.11.0-1-r1</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -612,7 +612,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>-Djs-dao.db.url=${DB_URL} -Djs-chronos-submitter.db.url=${DB_URL} -Djs-mesos-scheduler.db.url=${DB_URL}</text>
+        <text>0.11.0-1-r1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -621,31 +621,31 @@
         <text encoding="base64">ICAgIGluc3RhbmNlLmluc2VydEpvYkV2ZW50KGpvYlJ1bjEuaWQuZ2V0LCBKb2JFdmVudFR5cGVzLlNjaGVkdWxlZCwgKikgd2FzIGNhbGxlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcuQ29uZmlnRmFjdG9yeQo=</text>
+        <text encoding="base64">ICAgIGZyYW1ld29ya3MuY29tcGxldGVkRnJhbWV3b3JrcyBzaG91bGQgbm90IGJlIGVtcHR5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcuQ29uZmlnRmFjdG9yeQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBpdCBzaG91bGQgInRlc3QyIiBpbiB7CiAgICB2YWwgY29uZmlnID0gQ29uZmlnRmFjdG9yeS5sb2FkKCkuZ2V0U3RyaW5nKCJqcy1tZXNvcy1zY2hlZHVsZXIuZGIudXJsIikKICAgIHByaW50bG4oY29uZmlnKQogIH0=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
+        <text encoding="base64">ICBpdCBzaG91bGQgInRlc3QyIiBpbiB7CiAgICB2YWwgY29uZmlnID0gQ29uZmlnRmFjdG9yeS5sb2FkKCkuZ2V0U3RyaW5nKCJqcy1tZXNvcy1zY2hlZHVsZXIuZGIudXJsIikKICAgIHByaW50bG4oY29uZmlnKQogIH0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">Igo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGVwcyB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGVwcyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
