@@ -252,11 +252,11 @@
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobEvents.scala" timestamp="1547069697370">
         <mark key="[" line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547229803285">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
-        <mark key="^" line="16" column="49" />
+      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547236196495">
+        <mark key="[" line="47" column="103" />
+        <mark key="]" line="47" column="103" />
+        <mark key="." line="47" column="103" />
+        <mark key="^" line="47" column="103" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleError.scala" timestamp="1547064701802">
         <mark key="[" line="31" column="43" />
@@ -343,10 +343,11 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/KafkaTest.scala" timestamp="1547227052949">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/KafkaTest.scala" timestamp="1547236496420">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/handler/HandleJobStarted.scala" timestamp="1546635030762">
         <mark key="[" line="24" column="78" />
@@ -379,7 +380,7 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/resources/reference.conf" timestamp="1547227075171">
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/resources/reference.conf" timestamp="1547235937416">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
@@ -552,7 +553,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.11.0-1-r1</text>
+        <text>ignore</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -612,13 +613,13 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0.11.0-1-r1</text>
+        <text>ignore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLmluc2VydEpvYkV2ZW50KGpvYlJ1bjEuaWQuZ2V0LCBKb2JFdmVudFR5cGVzLlNjaGVkdWxlZCwgKikgd2FzIGNhbGxlZAo=</text>
+      <register name="0" type="4">
+        <text>-p 2181:2181 -e ALLOW_ANONYMOUS_LOGIN=yes</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZyYW1ld29ya3MuY29tcGxldGVkRnJhbWV3b3JrcyBzaG91bGQgbm90IGJlIGVtcHR5Cg==</text>
