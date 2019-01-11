@@ -104,11 +104,11 @@
         <mark key="]" line="77" column="81" />
         <mark key="." line="77" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547219907854">
-        <mark key="[" line="66" column="5" />
-        <mark key="]" line="67" column="3" />
-        <mark key="." line="67" column="3" />
-        <mark key="^" line="67" column="3" />
+      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547222503005">
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="69" column="35" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" timestamp="1547070557184">
         <mark key="[" line="107" column="0" />
@@ -158,10 +158,11 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/resources/reference.conf" timestamp="1547218802001">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/resources/reference.conf" timestamp="1547222210428">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="5" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/RecoverState.scala" timestamp="1546888706051">
         <mark key="[" line="43" column="8" />
@@ -169,7 +170,7 @@
         <mark key="." line="43" column="8" />
         <mark key="^" line="44" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/src/it/resources/reference.conf" timestamp="1547218693411">
+      <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/src/it/resources/reference.conf" timestamp="1547222222804">
         <mark key="[" line="3" column="49" />
         <mark key="]" line="3" column="56" />
         <mark key="." line="3" column="56" />
@@ -281,7 +282,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/it/resources/reference.conf" timestamp="1547218782986">
+      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/it/resources/reference.conf" timestamp="1547222238963">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -411,6 +412,12 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/KafkaTest.scala" timestamp="1547221566595">
+        <mark key="[" line="49" column="65" />
+        <mark key="]" line="49" column="65" />
+        <mark key="." line="49" column="65" />
+        <mark key="^" line="50" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/handler/HandleJobStarted.scala" timestamp="1546635030762">
         <mark key="[" line="24" column="78" />
         <mark key="]" line="25" column="0" />
@@ -526,8 +533,8 @@
       <jump line="29" column="130" filename="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobRuns.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdW5pdCAnKiovdGFyZ2V0L3Rlc3QtcmVwb3J0cy9URVNULSoueG1sJwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -587,7 +594,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>Publish Test Results</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -596,33 +603,31 @@
         <text encoding="base64">ICAgIGluc3RhbmNlLmluc2VydEpvYkV2ZW50KGpvYlJ1bjEuaWQuZ2V0LCBKb2JFdmVudFR5cGVzLlNjaGVkdWxlZCwgKikgd2FzIGNhbGxlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICJqZGJjOnBvc3RncmVzcWw6Ly9wb3N0Z3Jlcy5tYXJhdGhvbi5tZXNvczo1NDMyL2NpdGVzdD91c2VyPWNpdGVzdCZwYXNzd29yZD1jaXRlc3QiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdW5pdCAnKiovdGFyZ2V0L3Rlc3QtcmVwb3J0cy9URVNULSoueG1sJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1cmwgPSAiamRiYzpwb3N0Z3Jlc3FsOi8vcG9zdGdyZXMubWFyYXRob24ubWVzb3M6NTQzMi9jaXRlc3Q/dXNlcj1jaXRlc3QmcGFzc3dvcmQ9Y2l0ZXN0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGVwKFskY2xhc3M6ICdTY292ZXJhZ2VQdWJsaXNoZXInLCByZXBvcnREaXI6ICd0YXJnZXQvc2NhbGEtMi4xMS9zY292ZXJhZ2UtcmVwb3J0JywgcmVwb3J0RmlsZTogJ3Njb3ZlcmFnZS54bWwnXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdW5pdCAnKiovdGFyZ2V0L3Rlc3QtcmVwb3J0cy9URVNULSoueG1sJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbGFja1NlbmQoY2hhbm5lbDogIiNqZW5raW5zIiwgY29sb3I6ICcjMzZBNjRGJywgbWVzc2FnZTogIkJ1aWxkIFN0YXJ0ZWQgLSAke2Vudi5KT0JfTkFNRX0gJHtlbnYuQlVJTERfTlVNQkVSfSAoPCR7ZW52LkJVSUxEX1VSTH18T3Blbj4pIikK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBkb2NrZXIuaW1hZ2UoJ3Bvc3RncmVzOjknKS5pbnNpZGUoIi0tbGluayAke2MuaWR9OmRiIikgewoKICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbGFja1NlbmQoY2hhbm5lbDogIiNqZW5raW5zIiwgY29sb3I6ICcjMzZBNjRGJywgbWVzc2FnZTogIkJ1aWxkIFN0YXJ0ZWQgLSAke2Vudi5KT0JfTkFNRX0gJHtlbnYuQlVJTERfTlVNQkVSfSAoPCR7ZW52LkJVSUxEX1VSTH18T3Blbj4pIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybCA9ICJqZGJjOnBvc3RncmVzcWw6Ly9wb3N0Z3Jlcy5tYXJhdGhvbi5tZXNvczo1NDMyL2NpdGVzdD91c2VyPWNpdGVzdCZwYXNzd29yZD1jaXRlc3QiCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>//flywayUrl in Test := &quot;jdbc:hsqldb:file:target/flyway_sample;shutdown=true&quot;
-//flywayUser in Test := &quot;SA&quot;
-//flywayPassword in Test := &quot;&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB1cmwgPSAiamRiYzpwb3N0Z3Jlc3FsOi8vcG9zdGdyZXMubWFyYXRob24ubWVzb3M6NTQzMi9jaXRlc3Q/dXNlcj1jaXRlc3QmcGFzc3dvcmQ9Y2l0ZXN0Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBSeEthZmthICAgICAgICAgICAgPSAiMC4yLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
