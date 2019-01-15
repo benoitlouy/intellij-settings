@@ -72,11 +72,11 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JobRequestBus.scala" timestamp="1547563824189">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="154" column="6" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JobRequestBus.scala" timestamp="1547565560758">
+        <mark key="[" line="138" column="11" />
+        <mark key="]" line="137" column="37" />
+        <mark key="." line="137" column="37" />
+        <mark key="^" line="137" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/more-json-strings/src/test/scala/com/nbcuas/more/json/strings/JsonToStringSpec.scala" timestamp="1547481072707">
         <mark key="[" line="7" column="82" />
@@ -521,11 +521,11 @@
       <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/src/main/scala/com/nbcuas/jobscheduler/chronossubmitter/DatabaseProfile.scala" timestamp="1547479880134">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/KafkaJobRequestBusIT.scala" timestamp="1547561765259">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="^" line="166" column="15" />
-        <mark key="." line="170" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/KafkaJobRequestBusIT.scala" timestamp="1547565086240">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="172" column="37" />
+        <mark key="^" line="172" column="37" />
+        <mark key="." line="172" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/TaskLauncherProvider.scala" timestamp="1546889586027">
         <mark key="[" line="4" column="18" />
@@ -630,7 +630,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY2F0cy5zeW50YXguZWl0aGVyLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -690,7 +690,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -699,25 +699,30 @@
         <text encoding="base64">ICAgIHZhbCBwcm9kdWNlciA9IG5ldyBLYWZrYVByb2R1Y2VyW1N0cmluZywgU3RyaW5nXShwcm9wcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY2F0cy5zeW50YXguZWl0aGVyLl8K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gICAgICAgIF8gPC0gaWYgKGNvdW50ID09IDApIHsKLy8gICAgICAgICAgbG9nLmluZm8ocyJDb25uZWN0aW5nIHRvIGthZmthIHRvcGljICRyZXF1ZXN0c1RvcGljIHdpdGggYXBwbGljYXRpb24gaWQgJGthZmthQXBwbGljYXRpb25JZCIpCi8vICAgICAgICAgIHZhbCBidWlsZGVyID0gbmV3IEtTdHJlYW1CdWlsZGVyKCkKLy8KLy8gICAgICAgICAgYnVpbGRlci5zdHJlYW0oU2VyZGVzLlN0cmluZygpLCBqb2JSZXF1ZXN0U2VyZGUsIHJlcXVlc3RzVG9waWMpLmZvcmVhY2gobmV3IEZvcmVhY2hBY3Rpb25bU3RyaW5nLCBWYWxpZGF0ZWRbKEV4Y2VwdGlvbiwgQXJyYXlbQnl0ZV0pLCBKb2JSZXF1ZXN0XV0gewovLyAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBhcHBseShrZXk6IFN0cmluZywgdmFsdWU6IFZhbGlkYXRlZFsoRXhjZXB0aW9uLCBBcnJheVtCeXRlXSksIEpvYlJlcXVlc3RdKTogVW5pdCA9IHZhbHVlLmZvbGQoCi8vICAgICAgICAgICAgICBlID0+IGxvZy5lcnJvcihzIkJhZCByZXF1ZXN0OiAke25ldyBTdHJpbmcoZS5fMil9IiwgZS5fMSksCi8vICAgICAgICAgICAgICBqb2IgPT4gcmVxdWVzdHNTdWJqZWN0Lm9uTmV4dChqb2IpCi8vICAgICAgICAgICAgKQovLyAgICAgICAgICB9KQovLyAgICAgICAgICBxLnB1dChuZXcgS2Fma2FTdHJlYW1zKGJ1aWxkZXIsIHByb3BzKSkuZmxhdE1hcChfID0+IHEucmVhZC5tYXAoXy5zdGFydCgpKSkKLy8gICAgICAgICAgICAubWFwKF8gPT4gbG9nLmluZm8ocyJDb25uZWN0ZWQgdG8ga2Fma2EgdG9waWMgJHJlcXVlc3RzVG9waWMgd2l0aCBhcHBsaWNhdGlvbiBpZCAka2Fma2FBcHBsaWNhdGlvbklkIikpCi8vICAgICAgICB9IGVsc2UgSU8udW5pdA==</text>
+      <register name="2" type="4">
+        <text>//    if (subCount.addAndGet(-1) == 0) {
+//      log.info(&quot;Disconnecting from kafka&quot;)
+//      val disconnected = streams.peek().close(KafkaCloseTimeout.toMillis, TimeUnit.MILLISECONDS)
+//      streams.clear()
+//      log.info(s&quot;Disconnected from kafka gracefully=$disconnected&quot;)
+//    }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">YS5tYXAgewogICAgICAgICAgY2FzZSBTb21lKGtzYikgPT4KICAgICAgICAgIGNhc2UgTm9uZSA9PgogICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHMgPC0gU2VtYXBob3JlW0lPXSgxKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbC5ncmVlbkxpZ2h0KGlvKS51bnNhZmVSdW5TeW5jKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBxID0gTVZhci5lbXB0eVtJTywgS2Fma2FTdHJlYW1zXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBtID0gTVZhci5vZltJTywgSW50XSgwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyI+Pj4+Pj4+Pj4+PiBzdWJDb3VudCAkc3ViQ291bnQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
