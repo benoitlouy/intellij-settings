@@ -168,11 +168,11 @@
         <mark key="]" line="77" column="81" />
         <mark key="." line="77" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547749241792">
-        <mark key="[" line="28" column="384" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
+      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547752228402">
+        <mark key="[" line="28" column="175" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/project/TestSettings.scala" timestamp="1547488526882">
         <mark key="[" line="47" column="52" />
@@ -775,8 +775,8 @@
       <jump line="121" column="31" filename="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>kafka</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNoICIoZWNobyB3YXJtdXAgfCBkb2NrZXIgcnVuIC1pIC0tcm0gLS1saW5rICR7a2Fma2EuaWR9OiR7S0FGS0FfSE9TVE5BTUV9IC0tbGluayAke3pvb2tlZXBlci5pZH06JHtaT09LRUVQRVJfSE9TVE5BTUV9IHJlZ2lzdHJ5Lm1hcmF0aG9uLm1lc29zOjUwMDAva2Fma2Eva2Fma2E6MC4xMS4wLjAgdGltZW91dCBiaW4va2Fma2EtY29uc29sZS1wcm9kdWNlci5zaCAtLWJyb2tlci1saXN0ICR7S0FGS0FfSE9TVE5BTUV9OjkwOTIgLS10b3BpYyB3YXJtdXApICYmIChkb2NrZXIgcnVuIC1pdCAtLXJtIC0tbGluayAke2thZmthLmlkfToke0tBRktBX0hPU1ROQU1FfSAtLWxpbmsgJHt6b29rZWVwZXIuaWR9OiR7Wk9PS0VFUEVSX0hPU1ROQU1FfSByZWdpc3RyeS5tYXJhdGhvbi5tZXNvczo1MDAwL2thZmthL2thZmthOjAuMTEuMC4wIGJpbi9rYWZrYS1jb25zb2xlLWNvbnN1bWVyLnNoIC0tYm9vdHN0cmFwLXNlcnZlciAke0tBRktBX0hPU1ROQU1FfTo5MDkyIC0tdG9waWMgd2FybXVwIC0tZnJvbS1iZWdpbm5pbmcgLS10aW1lb3V0LW1zIDUwMDApIgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -836,7 +836,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>kafka</text>
+        <text>zookeeper</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -845,31 +845,31 @@
         <text>while ! nc -z localhost 2181; do sleep 0.1; done</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNoICIoZWNobyB3YXJtdXAgfCBkb2NrZXIgcnVuIC1pIC0tcm0gLS1saW5rICR7a2Fma2EuaWR9OiR7S0FGS0FfSE9TVE5BTUV9IC0tbGluayAke3pvb2tlZXBlci5pZH06JHtaT09LRUVQRVJfSE9TVE5BTUV9IHJlZ2lzdHJ5Lm1hcmF0aG9uLm1lc29zOjUwMDAva2Fma2Eva2Fma2E6MC4xMS4wLjAgdGltZW91dCBiaW4va2Fma2EtY29uc29sZS1wcm9kdWNlci5zaCAtLWJyb2tlci1saXN0ICR7S0FGS0FfSE9TVE5BTUV9OjkwOTIgLS10b3BpYyB3YXJtdXApICYmIChkb2NrZXIgcnVuIC1pdCAtLXJtIC0tbGluayAke2thZmthLmlkfToke0tBRktBX0hPU1ROQU1FfSAtLWxpbmsgJHt6b29rZWVwZXIuaWR9OiR7Wk9PS0VFUEVSX0hPU1ROQU1FfSByZWdpc3RyeS5tYXJhdGhvbi5tZXNvczo1MDAwL2thZmthL2thZmthOjAuMTEuMC4wIGJpbi9rYWZrYS1jb25zb2xlLWNvbnN1bWVyLnNoIC0tYm9vdHN0cmFwLXNlcnZlciAke0tBRktBX0hPU1ROQU1FfTo5MDkyIC0tdG9waWMgd2FybXVwIC0tZnJvbS1iZWdpbm5pbmcgLS10aW1lb3V0LW1zIDUwMDApIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNoICJkb2NrZXIgbG9ncyAke2thZmthLmlkfSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImZvbyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLmluc2VydEpvYkV2ZW50KGpvYklkLCBKb2JFdmVudFR5cGVzLkZhaWx1cmUsIFNvbWUobWVzc2FnZSkpIHNob3VsZFJldHVybiBEQklPLnN1Y2Nlc3NmdWwobW9ja1ttb2RlbC5Kb2JFdmVudF0pCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImZvbyIpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW5zdGFuY2UuaW5zZXJ0Sm9iRXZlbnQoam9iSWQsIEpvYkV2ZW50VHlwZXMuRmFpbHVyZSwgU29tZShtZXNzYWdlKSkgc2hvdWxkUmV0dXJuIERCSU8uc3VjY2Vzc2Z1bChtb2NrW21vZGVsLkpvYkV2ZW50XSkK</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLmluc2VydEpvYkV2ZW50KGpvYklkLCBKb2JFdmVudFR5cGVzLkZhaWx1cmUsIFNvbWUobWVzc2FnZSkpIHNob3VsZFJldHVybiBEQklPLnN1Y2Nlc3NmdWwobW9ja1ttb2RlbC5Kb2JFdmVudF0pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5zdGFuY2UuaW5zZXJ0Sm9iRXZlbnQoam9iSWQsIEpvYkV2ZW50VHlwZXMuRmFpbHVyZSwgU29tZShtZXNzYWdlKSkgc2hvdWxkUmV0dXJuIERCSU8uc3VjY2Vzc2Z1bChtb2NrW21vZGVsLkpvYkV2ZW50XSkK</text>
       </register>
       <register name=":" type="4">
         <text>16</text>
