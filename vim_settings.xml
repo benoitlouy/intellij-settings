@@ -578,6 +578,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/js-promo-daemon/js-chronos-submitter/src/it/scala/com/nbcuas/jobscheduler/chronossubmitter/ChronosSubmitterAppSpec.scala" timestamp="1547739566069">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobStarted.scala" timestamp="1547673048778">
         <mark key="[" line="38" column="88" />
         <mark key="]" line="38" column="95" />
@@ -761,7 +766,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -830,31 +835,31 @@
         <text>while ! nc -z localhost 2181; do sleep 0.1; done</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7IG5hbWUgPSAiTE9fRk9SRUNBU1RFUl9FTlZJUk9OTUVOVCIsIHZhbHVlID0gImRldiIgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW52aXJvbm1lbnRWYXJpYWJsZXMgPSBbCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBwcm9tbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYS5zcGFjZXMyKQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMuam9ic2NoZWR1bGVyLmNocm9ub3NzdWJtaXR0ZXIuY2hyb25vcy5hcGkue0Vudmlyb25tZW50VmFyaWFibGUgPT4gRW52fQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFbnZpcm9ubWVudFZhcmlhYmxlKCJhIiwgImIiKQo=</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaHJvbm9zSm9iLmxlZnRNYXAoXy5wcmludFN0YWNrVHJhY2UoKSkK</text>
+        <text encoding="base64">ICAgICAgICB7IG5hbWUgPSAiTE9fRk9SRUNBU1RFUl9FTlZJUk9OTUVOVCIsIHZhbHVlID0gImRldiIgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZW52aXJvbm1lbnRWYXJpYWJsZXMgPSBbCg==</text>
       </register>
       <register name=":" type="4">
         <text>16</text>
