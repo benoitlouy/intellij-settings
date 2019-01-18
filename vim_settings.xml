@@ -174,10 +174,11 @@
         <mark key="]" line="77" column="81" />
         <mark key="." line="77" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547824490232">
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="36" column="21" />
-        <mark key="." line="36" column="21" />
+      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1547825152107">
+        <mark key="'" line="30" column="71" />
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="44" column="30" />
+        <mark key="." line="44" column="30" />
         <mark key="^" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/project/TestSettings.scala" timestamp="1547488526882">
@@ -779,10 +780,14 @@
       <jump line="29" column="130" filename="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobRuns.scala" />
       <jump line="9" column="35" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/SendNotification.scala" />
       <jump line="121" column="31" filename="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" />
+      <jump line="39" column="26" filename="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" />
+      <jump line="43" column="71" filename="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" />
+      <jump line="23" column="67" filename="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" />
+      <jump line="30" column="71" filename="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJzbGVlcCAzMCIK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -842,10 +847,10 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN1bHRcPg==</text>
+        <text>0.11.0.0</text>
       </register>
       <register name="0" type="4">
         <text>while ! nc -z localhost 2181; do sleep 0.1; done</text>
@@ -882,9 +887,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
+      <last-search>0.11.0.0</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
+      <last-pattern>0.11.0.0</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -897,6 +902,7 @@
         <entry encoding="base64">XDxtYXBHcm91cHNcPg==</entry>
         <entry encoding="base64">XDxIVFRQX1NUQVRVU1w+</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry>0.11.0.0</entry>
       </history-search>
       <history-cmd>
         <entry>332</entry>
