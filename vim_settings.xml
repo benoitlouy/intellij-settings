@@ -182,12 +182,12 @@
         <mark key="]" line="77" column="81" />
         <mark key="." line="77" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1548171824203">
+      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1548174590114">
         <mark key="'" line="30" column="71" />
-        <mark key="[" line="67" column="78" />
-        <mark key="]" line="67" column="105" />
-        <mark key="^" line="67" column="105" />
-        <mark key="." line="67" column="105" />
+        <mark key="[" line="38" column="181" />
+        <mark key="]" line="38" column="181" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="38" column="181" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/project/TestSettings.scala" timestamp="1547488526882">
         <mark key="[" line="47" column="52" />
@@ -473,12 +473,11 @@
         <mark key="." line="205" column="95" />
         <mark key="^" line="205" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1548170867356">
-        <mark key="'" line="114" column="63" />
-        <mark key="[" line="62" column="64" />
-        <mark key="]" line="8" column="58" />
-        <mark key="." line="8" column="58" />
-        <mark key="^" line="8" column="58" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1548173746201">
+        <mark key="'" line="102" column="63" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0007_promo_jobs.sql" timestamp="1546876376445">
         <mark key="[" line="0" column="32" />
@@ -812,7 +811,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ttp://datacluster.nbcuas.com/mesos</text>
+        <text>zookeeper</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -872,7 +871,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>ttp://datacluster.nbcuas.com/mesos</text>
+        <text>zookeeper</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -884,28 +883,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIGltcGxpY2l0IHZhbCBleGVjdXRpb25Db250ZXh0OiBFeGVjdXRpb25Db250ZXh0ID0gc2NhbGEuY29uY3VycmVudC5FeGVjdXRpb25Db250ZXh0LmZyb21FeGVjdXRvclNlcnZpY2UoRXhlY3V0b3JzLm5ld0NhY2hlZFRocmVhZFBvb2woKSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9ycwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAiTWVzb3NTY2hlZHVsZXJBcHAiIHNob3VsZCAicnVuIiB0YWdnZWRBcyAoTWVzb3MsIEthZmthKSBpbiB7CgogICAgZGVmIGxvb3AoKTogSU9bVW5pdF0gPQogICAgICBmb3IgewogICAgICAgIF8gPC0gSU8uc2xlZXAoNSBzZWNvbmRzKQogICAgICAgIF8gPC0gbG9vcCgpCiAgICAgIH0geWllbGQgKCkKCiAgICBNZXNvc1NjaGVkdWxlckFwcC5ydW4oY29uZmlnLCBkYiwgSU8uc2xlZXAoMjAgc2Vjb25kcykpLnVuc2FmZVJ1blRpbWVkKDUgbWludXRlcykKICB9</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIGltcGxpY2l0IHZhbCBjb250ZXh0U2hpZnQ6IENvbnRleHRTaGlmdFtJT10gPSBJTy5jb250ZXh0U2hpZnQoRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBjb250ZXh0U2hpZnQ6IENvbnRleHRTaGlmdFtJT10gPSBJTy5jb250ZXh0U2hpZnQoRXhlY3V0aW9uQ29udGV4dC5nbG9iYWwpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAiTWVzb3NTY2hlZHVsZXJBcHAiIHNob3VsZCAicnVuIiB0YWdnZWRBcyAoTWVzb3MsIEthZmthKSBpbiB7CgogICAgZGVmIGxvb3AoKTogSU9bVW5pdF0gPQogICAgICBmb3IgewogICAgICAgIF8gPC0gSU8uc2xlZXAoNSBzZWNvbmRzKQogICAgICAgIF8gPC0gbG9vcCgpCiAgICAgIH0geWllbGQgKCkKCiAgICBNZXNvc1NjaGVkdWxlckFwcC5ydW4oY29uZmlnLCBkYiwgSU8uc2xlZXAoMjAgc2Vjb25kcykpLnVuc2FmZVJ1blRpbWVkKDUgbWludXRlcykKICB9CgogIHByaXZhdGUgZGVmIGNyZWF0ZVRvcGljKHRvcGljOiBTdHJpbmcpOiBVbml0ID0gewogICAgdmFsIHByb3BzID0gewogICAgICB2YWwgcCA9IG5ldyBQcm9wZXJ0aWVzKCkKICAgICAgcC5wdXQoQ29uc3VtZXJDb25maWcuQk9PVFNUUkFQX1NFUlZFUlNfQ09ORklHLCBjb25maWcuZ2V0U3RyaW5nKCJrYWZrYS5ib290c3RyYXAtc2VydmVycyIpKQogICAgICBwCiAgICB9CiAgICBBZG1pbkNsaWVudC5jcmVhdGUocHJvcHMpLmNyZWF0ZVRvcGljcyhTZXEobmV3IE5ld1RvcGljKHRvcGljLCAxLCAxKSkuYXNKYXZhKQogICAgICAudmFsdWVzLmFzU2NhbGEudmFsdWVzLnRvVmVjdG9yLnRyYXZlcnNlKF8uYXNJTykudW5zYWZlUnVuVGltZWQoMjAgc2Vjb25kcykKICB9</text>
       </register>
       <register name=":" type="4">
         <text>370</text>
