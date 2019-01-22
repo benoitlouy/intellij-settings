@@ -365,10 +365,11 @@
         <mark key="." line="21" column="30" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" timestamp="1548179505063">
-        <mark key="[" line="96" column="113" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" timestamp="1548180516336">
+        <mark key="[" line="104" column="13" />
+        <mark key="]" line="104" column="12" />
+        <mark key="." line="104" column="12" />
+        <mark key="^" line="104" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobStarted.scala" timestamp="1548175201508">
         <mark key="[" line="35" column="14" />
@@ -614,8 +615,8 @@
       <jump line="103" column="63" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgam9iUnVuIDwtIEpvYlJ1bkRBTwo=</text>
+      <register name="&quot;" type="4">
+        <text>jobDependency</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -675,7 +676,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>jobDependency</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
