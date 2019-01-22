@@ -380,11 +380,12 @@
         <mark key="." line="205" column="95" />
         <mark key="^" line="205" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1548178900670">
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1548183437708">
         <mark key="'" line="112" column="63" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="119" column="50" />
+        <mark key="]" line="119" column="56" />
+        <mark key="." line="119" column="56" />
+        <mark key="^" line="119" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0007_promo_jobs.sql" timestamp="1546876376445">
         <mark key="[" line="0" column="32" />
@@ -636,8 +637,8 @@
       <jump line="103" column="63" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Success</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -697,7 +698,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>Success</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
