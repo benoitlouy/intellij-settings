@@ -159,11 +159,11 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="23" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/project/Dependencies.scala" timestamp="1548192632653">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/project/Dependencies.scala" timestamp="1548273485451">
+        <mark key="[" line="108" column="8" />
+        <mark key="]" line="111" column="8" />
+        <mark key="^" line="111" column="8" />
+        <mark key="." line="111" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/cd/deploy-service.sh" timestamp="1546877935246">
         <mark key="[" line="47" column="26" />
@@ -415,11 +415,12 @@
         <mark key="." line="205" column="95" />
         <mark key="^" line="205" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1548269480643">
-        <mark key="'" line="100" column="63" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1548272928712">
+        <mark key="'" line="104" column="63" />
+        <mark key="[" line="163" column="23" />
+        <mark key="]" line="163" column="46" />
+        <mark key="." line="163" column="46" />
+        <mark key="^" line="163" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0007_promo_jobs.sql" timestamp="1546876376445">
         <mark key="[" line="0" column="32" />
@@ -535,11 +536,11 @@
         <mark key="^" line="38" column="95" />
         <mark key="." line="38" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/build.sbt" timestamp="1548192524074">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="35" column="27" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/build.sbt" timestamp="1548273492283">
+        <mark key="[" line="66" column="52" />
+        <mark key="]" line="68" column="20" />
+        <mark key="^" line="68" column="20" />
+        <mark key="." line="68" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/src/it/scala/com/nbcuas/jobscheduler/chronossubmitter/ChronosSubmitterAppSpec.scala" timestamp="1546543575574">
         <mark key="[" line="5" column="0" />
@@ -661,8 +662,8 @@
       <jump line="103" column="63" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_.right</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -722,7 +723,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>(_.toString)</text>
+        <text>_.right</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -731,31 +732,31 @@
         <text encoding="base64">ICAgICAgdmFsIG5vdGlmaWNhdGlvblRvcGljID0gcyJub3RpZmljYXRpb25zLSR7VVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmd9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2EuY2xpZW50cy5hZG1pbi57QWRtaW5DbGllbnQsIE5ld1RvcGljfQo=</text>
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbnMuZmluZChuID0+IG4udXVpZCA9PSByZXF1ZXN0MS51dWlkICYmIG4uc3RhdHVzID09IE5vdGlmaWNhdGlvblN0YXR1c2VzLlN1Y2Nlc3MpLmdldC50aW1lIHNob3VsZEJlIDwgbm8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB0b3BpY0lkID0gVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB0b3BpY0lkID0gVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2EuY2xpZW50cy5hZG1pbi57QWRtaW5DbGllbnQsIE5ld1RvcGljfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0b3BpY0lkID0gVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBjcmVhdGVUb3BpYyh0b3BpYzogU3RyaW5nKTogVW5pdCA9IHsKICAgIHZhbCBwcm9wcyA9IHsKICAgICAgdmFsIHAgPSBuZXcgUHJvcGVydGllcygpCiAgICAgIHAucHV0KENvbnN1bWVyQ29uZmlnLkJPT1RTVFJBUF9TRVJWRVJTX0NPTkZJRywgY29uZmlnLmdldFN0cmluZygia2Fma2EuYm9vdHN0cmFwLXNlcnZlcnMiKSkKICAgICAgcAogICAgfQogICAgQWRtaW5DbGllbnQuY3JlYXRlKHByb3BzKS5jcmVhdGVUb3BpY3MoU2VxKG5ldyBOZXdUb3BpYyh0b3BpYywgMSwgMSkpLmFzSmF2YSkKICAgICAgLnZhbHVlcy5hc1NjYWxhLnZhbHVlcy50b1ZlY3Rvci50cmF2ZXJzZShfLmFzSU8pLnVuc2FmZVJ1blRpbWVkKDIwIHNlY29uZHMpCiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>370</text>
