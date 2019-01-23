@@ -175,10 +175,10 @@
         <mark key="." line="43" column="19" />
         <mark key="^" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1548256719798">
+      <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1548258829241">
         <mark key="'" line="30" column="71" />
-        <mark key="[" line="46" column="79" />
-        <mark key="]" line="46" column="79" />
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="151" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="46" column="79" />
       </file>
@@ -650,7 +650,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YmUgc2V0IHRvIHRoZSBwYXRoIA==</text>
+        <text>/kafka/bin/kafka-console-consumer.sh --bootstrap-server ${KAFKA_HOSTNAME}:9092 --topic warmup --from-beginning --timeout-ms 5000</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -715,8 +715,8 @@
       <register name="/" type="4">
         <text>0.11.0.0</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBJTyhwcmludGxuKHMiPj4+Pj4+Pj4+Pj4gJHtUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWV9ICR7VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXRDb250ZXh0Q2xhc3NMb2FkZXJ9IikpCg==</text>
+      <register name="0" type="4">
+        <text>/kafka/bin/kafka-console-consumer.sh --bootstrap-server ${KAFKA_HOSTNAME}:9092 --topic warmup --from-beginning --timeout-ms 5000</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IyMganMtZGFvIGxpYnJhcnkgdXNhZ2UKCkFkZCB0aGUgbGlicmFyeSBhcyBhIGRlcGVuZGVuY3kgdG8geW91ciBwcm9qZWN0IAoKYGBgc2NhbGEKbGlicmFyeURlcGVuZGVuY2llcyArPSAiY29tLm5iY3Vhcy5qb2JzY2hlZHVsZXIiICUlICJqcy1kYW8iICUgPHZlcnNpb24+CmBgYAogICAgCgpDcmVhdGUgYSBkYXRhYmFzZSBwcm9maWxlIHRoYXQgZXh0ZW5kcyBgSlNQb3N0Z3Jlc1Byb2ZpbGVgIGFuZCB5b3VyIHNsaWNrIHBvc3RncmVzIGRyaXZlci4gCkhhdmUgdGhpcyB0cmFpdCBvdmVycmlkZSBgYXBpYCwgdGhlIG5ldyBgYXBpYCBzaG91bGQgZXh0ZW5kcyBgQVBJYCBhbmQgYEpTUG9zdGdyZXNBUElgOiAKCmBgYHNjYWxhCnRyYWl0IERhdGFiYXNlUHJvZmlsZSBleHRlbmRzIEpTUG9zdGdyZXNQcm9maWxlIHdpdGggUG9zdGdyZXNEcml2ZXIgewoKICBvYmplY3QgUG9zdGdyZXNBUEkgZXh0ZW5kcyBBUEkgd2l0aCBKU1Bvc3RncmVzQVBJCgogIG92ZXJyaWRlIHZhbCBhcGkgPSBQb3N0Z3Jlc0FQSQp9CgpvYmplY3QgRGF0YWJhc2VQcm9maWxlIGV4dGVuZHMgRGF0YWJhc2VQcm9maWxlCmBgYAoKCk1peGluIGBEYXRhYmFzZVByb2ZpbGVgIHdpdGggYEpTREFPYCB3aGVyZXZlciB5b3UgbmVlZCB0byBjcmVhdGUgYSBkYXRhYmFzZSBxdWVyeSB1c2luZyBzbGljay4KCmBgYHNjYWxhCmNsYXNzIFNhbXBsZSBleHRlbmRzIERhdGFiYXNlUHJvZmlsZSB3aXRoIEpTREFPIHsKICAKICBpbXBvcnQgYXBpLl8KICAKICB2YWwgcXVlcnkgPSBmb3IgewogICAgam9iUnVuIDwtIEpvYlJ1bkRBTwogICAgam9iRXZlbnQgPC0gSm9iRXZlbnREQU8gaWYgam9iUnVuLmlkID09PSBqb2JFdmVudC5qb2JSdW5JZCAmJiBqb2JFdmVudC5gdHlwZWAgPT09IEpvYkV2ZW50VHlwZXMuUnVubmluZwogIH0geWllbGQgam9iUnVuIC0+IGpvYkV2ZW50CiAgCiAgdmFsIGRiID0gRGF0YWJhc2UuZm9yQ29uZmlnKGNvbmZpZykKICB2YWwgcXVlcnlSZXN1bHQgPSBBd2FpdC5yZXN1bHQoZGIucnVuKHF1ZXJ5LnJlc3VsdCksIER1cmF0aW9uLkluZikKCn0KYGBgCiAgICAKWW91IGNhbiBhbHNvIGRpcmVjdGx5IHVzZSB0aGUgYEpTREFPYCBzaW5nbGV0b24gb2JqZWN0LgoKYGBgc2NhbGEKY2xhc3MgU2FtcGxlIHsKCiAgaW1wb3J0IGNvbS5uYmN1YXMuam9ic2NoZWR1bGVyLmRhby5KU0RBTy5fCiAgaW1wb3J0IGNvbS5uYmN1YXMuam9ic2NoZWR1bGVyLmRhby5KU0RBTy5hcGkuXwogIAogIHZhbCBxdWVyeSA9IGZvciB7CiAgICBqb2JSdW4gPC0gSm9iUnVuREFPCiAgICBqb2JFdmVudCA8LSBKb2JFdmVudERBTyBpZiBqb2JSdW4uaWQgPT09IGpvYkV2ZW50LmpvYlJ1bklkICYmIGpvYkV2ZW50LmB0eXBlYCA9PT0gSm9iRXZlbnRUeXBlcy5SdW5uaW5nCiAgfSB5aWVsZCBqb2JSdW4gLT4gam9iRXZlbnQKCiAgdmFsIGRiID0gRGF0YWJhc2UuZm9yQ29uZmlnKGNvbmZpZykKICB2YWwgcXVlcnlSZXN1bHQgPSBBd2FpdC5yZXN1bHQoZGIucnVuKHF1ZXJ5LnJlc3VsdCksIER1cmF0aW9uLkluZikKfQpgYGA=</text>
