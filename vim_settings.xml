@@ -41,6 +41,12 @@
         <mark key="." line="11" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/Jenkinsfile" timestamp="1548429237249" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobRuns.scala" timestamp="1548436158245">
+        <mark key="[" line="30" column="123" />
+        <mark key="]" line="30" column="102" />
+        <mark key="." line="30" column="102" />
+        <mark key="^" line="29" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/TaskCallBacks.scala" timestamp="1547570061356">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="2" />
@@ -154,6 +160,11 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobRun.scala" timestamp="1548436131251">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleErrorSpec.scala" timestamp="1548191305083">
         <mark key="[" line="45" column="29" />
         <mark key="]" line="45" column="35" />
@@ -183,9 +194,6 @@
         <mark key="]" line="21" column="45" />
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-client/src/it/resources/reference.conf" timestamp="1548357854169">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/Jenkinsfile" timestamp="1548428886923">
         <mark key="'" line="30" column="71" />
@@ -380,6 +388,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobConfig.scala" timestamp="1548435232752">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-chronos-submitter/src/main/scala/com/nbcuas/jobscheduler/chronossubmitter/chronos/api/Contraints.scala" timestamp="1547480008411">
         <mark key="[" line="26" column="48" />
         <mark key="]" line="5" column="39" />
@@ -483,14 +497,20 @@
         <mark key="^" line="56" column="104" />
         <mark key="." line="56" column="104" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobConfigs.scala" timestamp="1548435319335">
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/it/scala/com/nbcuas/jobscheduler/dao/PostgresJSDAOSpec.scala" timestamp="1548280163027">
         <mark key="[" line="66" column="104" />
         <mark key="]" line="66" column="104" />
         <mark key="." line="66" column="104" />
         <mark key="^" line="128" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobEvents.scala" timestamp="1548177407614">
-        <mark key="[" line="37" column="53" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobEvents.scala" timestamp="1548435284125">
+        <mark key="[" line="19" column="89" />
         <mark key="]" line="10" column="38" />
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
@@ -533,9 +553,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="42" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/more-utils/more-java-compat/src/main/scala/com/nbcuas/more/java/concurrent/JavaConverters.scala" timestamp="1548344800452">
-        <mark key="[" line="23" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/MesosAPI.scala" timestamp="1546890101448">
         <mark key="[" line="18" column="6" />
@@ -668,7 +685,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1.15.0.5a003ad</text>
+        <text encoding="base64">YHR5cGVgLCA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -728,7 +745,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1.15.0.5a003ad</text>
+        <text encoding="base64">YHR5cGVgLCA=</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -737,31 +754,42 @@
         <text encoding="base64">ICAgIGltcG9ydCBjb20ubmJjdWFzLm1vcmUuY2F0cy5lZmZlY3QuSU9Db252ZXJ0ZXJzLl8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcmFsbGVsRXhlY3V0aW9uIGluIEludGVncmF0aW9uVGVzdCA6PSBmYWxzZSwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMuam9ic2NoZWR1bGVyLm1vZGVsLkpvYlR5cGVzLkpvYlR5cGUK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYHR5cGVgOiBKb2JUeXBlcy5Kb2JUeXBlLAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCiAgdmFsIGpzQ2hyb25vc1N1Ym1pdHRlciA9CiAgICBsb2dnaW5nICsrCiAgICB0ZXN0ICsrCiAgICBtZXNvcyArKwogICAgY2lyY2UgKysKICAgIGBzY2FsYWotaHR0cGAgKysKICAgIG1vcmVTdWdhcgo+Pj4+Pj4+IHVwZGF0ZSBjaXJjZSB0byAwLjExLjE=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECgogIHZhbCByeEthZmthID0gU2VxKAogICAgImlvLmJmaWwiICAgICAgICAgICAgICAgICAlJSAicngta2Fma2EtY29yZSIgICAgICAgICAgICAlIFYuUnhLYWZrYQogICkKICAKPT09PT09PQogIAogIHZhbCBqc0Nocm9ub3NTdWJtaXR0ZXIgPQogICAgbG9nZ2luZyArKwogICAgdGVzdCArKwogICAgbWVzb3MgKysKICAgIGNpcmNlICsrCiAgICBgc2NhbGFqLWh0dHBgICsrCiAgICBtb3JlU3VnYXIKCj4+Pj4+Pj4gc2VuZCBqb2IgdXBkYXRlIG5vdGlmaWNhdGlvbiBvbiBhIGthZmthIHRvcGljIGFuZCByZWZhY3RvciBjb2RlIG1hcmsgam9iIGFzIGZhaWxlZCB1c2luZyBKb2JGYWlsdXJlIGV2ZW50</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PT09PT09PQogIHZhbCBqc0Nocm9ub3NTdWJtaXR0ZXIgPQogICAgbG9nZ2luZyArKwogICAgdGVzdCArKwogICAgbWVzb3MgKysKICAgIGNpcmNlICsrCiAgICBgc2NhbGFqLWh0dHBgICsrCiAgICBtb3JlU3VnYXIKCj4+Pj4+Pj4gdXNlIGthZmthLXN0cmVhbXM=</text>
+      <register name="6" type="4">
+        <text>object JobTypes extends Enumeration {
+  type JobType = Value
+  val Forecaster,
+      ForecasterComcast,
+      AudienceExporter,
+      AudienceExporterComcast,
+      AudienceIdTranslation,
+      AudienceIdTranslationComcast,
+      IngestComscore,
+      LinkAudienceComscore,
+      AggregateViewership = Value
+}</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgdmFsIHJ4S2Fma2EgPSBTZXEoCiAgICAiaW8uYmZpbCIgICAgICAgICAgICAgICAgICUlICJyeC1rYWZrYS1jb3JlIiAgICAgICAgICAgICUgVi5SeEthZmthCiAgKQogIAo9PT09PT09CiAgdmFsIGpzQ2hyb25vc1N1Ym1pdHRlciA9CiAgICBsb2dnaW5nICsrCiAgICB0ZXN0ICsrCiAgICBtZXNvcyArKwogICAgY2lyY2UgKysKICAgIGBzY2FsYWotaHR0cGAgKysKICAgIG1vcmVTdWdhcgoKPj4+Pj4+PiB1c2Uga2Fma2Etc3RyZWFtcw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhcmFsbGVsRXhlY3V0aW9uIGluIEludGVncmF0aW9uVGVzdCA6PSBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>81</text>
