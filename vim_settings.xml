@@ -70,11 +70,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JobRequestBus.scala" timestamp="1548700669564">
-        <mark key="[" line="35" column="1" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="34" column="37" />
-        <mark key="^" line="34" column="37" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JobRequestBus.scala" timestamp="1548701829688">
+        <mark key="'" line="98" column="52" />
+        <mark key="[" line="97" column="38" />
+        <mark key="]" line="98" column="46" />
+        <mark key="." line="98" column="46" />
+        <mark key="^" line="98" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JsonProfile.scala" timestamp="1548346628205">
         <mark key="[" line="36" column="108" />
@@ -338,10 +339,11 @@
       <jump line="103" column="63" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" />
       <jump line="53" column="37" filename="$USER_HOME$/Projects/more-utils/more-cats-effect/src/test/scala/com/nbcuas/more/cats/effect/IOConvertersSpec.scala" />
       <jump line="50" column="4" filename="$USER_HOME$/Projects/more-utils/more-cats-effect/src/test/scala/com/nbcuas/more/cats/effect/IOConvertersSpec.scala" />
+      <jump line="98" column="52" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JobRequestBus.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Only -- -l Mesos' 'it:testOnly -- -n Mesos'&quot;</text>
+        <text>, topic</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -401,7 +403,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Only -- -l Mesos' 'it:testOnly -- -n Mesos'&quot;</text>
+        <text>, topic</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -409,32 +411,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgam9iQ29uZmlnIDwtIGluc2VydEpvYkNvbmZpZwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBidWlsZFN0cmVhbTogS1N0cmVhbUJ1aWxkZXIgPSB7CiAgICB2YWwgYnVpbGRlciA9IG5ldyBLU3RyZWFtQnVpbGRlcigpCiAgICBidWlsZGVyLnN0cmVhbShTZXJkZXMuU3RyaW5nKCksIGpvYlJlcXVlc3RTZXJkZSwgcmVxdWVzdHNUb3BpYykuZm9yZWFjaChuZXcgRm9yZWFjaEFjdGlvbltTdHJpbmcsIFZhbGlkYXRlZFsoRXhjZXB0aW9uLCBBcnJheVtCeXRlXSksIEpvYlJlcXVlc3RdXSB7CiAgICAgIG92ZXJyaWRlIGRlZiBhcHBseShrZXk6IFN0cmluZywgdmFsdWU6IFZhbGlkYXRlZFsoRXhjZXB0aW9uLCBBcnJheVtCeXRlXSksIEpvYlJlcXVlc3RdKTogVW5pdCA9IHZhbHVlLmZvbGQoCiAgICAgICAgZSA9PiBsb2cuZXJyb3IocyJCYWQgcmVxdWVzdDogJHtuZXcgU3RyaW5nKGUuXzIpfSIsIGUuXzEpLAogICAgICAgIGpvYiA9PiByZXF1ZXN0c1N1YmplY3Qub25OZXh0KGpvYikKICAgICAgKQogICAgfSkKICAgIGJ1aWxkZXIKICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIEpvYlJ1bihTb21lKDEpLCAidXVpZDEiLCBKb2JUeXBlcy5Gb3JlY2FzdGVyLCBTb21lKCJqb2IxIikpIC0+IEpvYkV2ZW50KFNvbWUoMTApLCBKb2JFdmVudFR5cGVzLlJ1bm5pbmcsIE5vbmUsIE5vbmUsIDEpLAogICAgICBKb2JSdW4oU29tZSgyKSwgInV1aWQyIiwgSm9iVHlwZXMuRm9yZWNhc3RlciwgU29tZSgiam9iMiIpKSAtPiBKb2JFdmVudChTb21lKDIwKSwgSm9iRXZlbnRUeXBlcy5SdW5uaW5nLCBOb25lLCBOb25lLCAyKSwKICAgICAgSm9iUnVuKFNvbWUoMyksICJ1dWlkMyIsIEpvYlR5cGVzLkZvcmVjYXN0ZXIsIFNvbWUoImpvYjMiKSkgLT4gSm9iRXZlbnQoU29tZSgzMCksIEpvYkV2ZW50VHlwZXMuUnVubmluZywgTm9uZSwgTm9uZSwgMyksCiAgICAgIEpvYlJ1bihTb21lKDQpLCAidXVpZDQiLCBKb2JUeXBlcy5Gb3JlY2FzdGVyLCBTb21lKCJqb2I0IikpIC0+IEpvYkV2ZW50KFNvbWUoNDApLCBKb2JFdmVudFR5cGVzLlJ1bm5pbmcsIE5vbmUsIE5vbmUsIDQpCj09PT09PT0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIEpvYlJ1bihTb21lKDEpLCAidXVpZDEiLCBKb2JUeXBlcy5Gb3JlY2FzdGVyLCBTb21lKCJqb2IxIikpIC0+IEpvYkV2ZW50KFNvbWUoMTApLCBKb2JFdmVudFR5cGVzLlJ1bm5pbmcsIE5vbmUsIE5vbmUsIDEpLAogICAgICBKb2JSdW4oU29tZSgyKSwgInV1aWQyIiwgSm9iVHlwZXMuRm9yZWNhc3RlciwgU29tZSgiam9iMiIpKSAtPiBKb2JFdmVudChTb21lKDIwKSwgSm9iRXZlbnRUeXBlcy5SdW5uaW5nLCBOb25lLCBOb25lLCAyKSwKICAgICAgSm9iUnVuKFNvbWUoMyksICJ1dWlkMyIsIEpvYlR5cGVzLkZvcmVjYXN0ZXIsIFNvbWUoImpvYjMiKSkgLT4gSm9iRXZlbnQoU29tZSgzMCksIEpvYkV2ZW50VHlwZXMuUnVubmluZywgTm9uZSwgTm9uZSwgMyksCiAgICAgIEpvYlJ1bihTb21lKDQpLCAidXVpZDQiLCBKb2JUeXBlcy5Gb3JlY2FzdGVyLCBTb21lKCJqb2I0IikpIC0+IEpvYkV2ZW50KFNvbWUoNDApLCBKb2JFdmVudFR5cGVzLlJ1bm5pbmcsIE5vbmUsIE5vbmUsIDQpCj09PT09PT0=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBhY3RpdmVKb2JzSW5EQiA9IFNlcShKb2JSdW4oU29tZSgxKSwgInV1aWQiLCBKb2JUeXBlcy5Gb3JlY2FzdGVyLCBTb21lKCJqb2JOYW1lIikpIC0+IEpvYkV2ZW50KFNvbWUoMTEpLCBKb2JFdmVudFR5cGVzLlJ1bm5pbmcsIE5vbmUsIE5vbmUsIDEpKQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>78</text>
