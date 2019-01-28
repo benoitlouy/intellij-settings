@@ -8,12 +8,6 @@
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequestSpec.scala" timestamp="1548695939703">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="69" column="29" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobRuns.scala" timestamp="1548694770782">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -70,11 +64,11 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JobRequestBus.scala" timestamp="1548702762242">
-        <mark key="'" line="122" column="52" />
-        <mark key="[" line="115" column="7" />
-        <mark key="]" line="115" column="7" />
-        <mark key="." line="115" column="7" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JobRequestBus.scala" timestamp="1548704932446">
+        <mark key="'" line="129" column="52" />
+        <mark key="[" line="178" column="46" />
+        <mark key="]" line="178" column="46" />
+        <mark key="." line="178" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JsonProfile.scala" timestamp="1548346628205">
         <mark key="[" line="36" column="108" />
@@ -111,11 +105,11 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJob.scala" timestamp="1548443690284">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="43" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJob.scala" timestamp="1548706344276">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
         <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="43" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleErrorSpec.scala" timestamp="1548695497521">
         <mark key="[" line="116" column="0" />
@@ -341,8 +335,8 @@
       <jump line="98" column="52" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JobRequestBus.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>valueDeserializer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -402,13 +396,13 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>valueDeserializer</text>
+        <text>.unit</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgam9iQ29uZmlnIDwtIGluc2VydEpvYkNvbmZpZwo=</text>
+        <text encoding="base64">ICB0eXBlIFZhbGlkYXRlZEsgPSBWYWxpZGF0ZWRbKFRocm93YWJsZSwgQXJyYXlbQnl0ZV0pLCBLXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -417,25 +411,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCByZXF1ZXN0cyA9IFN1YmplY3RbSm9iUmVxdWVzdF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBhOiBJT1tKb2JSZXF1ZXN0XSA9IGpvYlJlcXVlc3QuYXNJTwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBidWlsZFN0cmVhbTogS1N0cmVhbUJ1aWxkZXIgPSB7CiAgICB2YWwgYnVpbGRlciA9IG5ldyBLU3RyZWFtQnVpbGRlcigpCiAgICBidWlsZGVyLnN0cmVhbShTZXJkZXMuU3RyaW5nKCksIGpvYlJlcXVlc3RTZXJkZSwgcmVxdWVzdHNUb3BpYykuZm9yZWFjaChuZXcgRm9yZWFjaEFjdGlvbltTdHJpbmcsIFZhbGlkYXRlZFsoRXhjZXB0aW9uLCBBcnJheVtCeXRlXSksIEpvYlJlcXVlc3RdXSB7CiAgICAgIG92ZXJyaWRlIGRlZiBhcHBseShrZXk6IFN0cmluZywgdmFsdWU6IFZhbGlkYXRlZFsoRXhjZXB0aW9uLCBBcnJheVtCeXRlXSksIEpvYlJlcXVlc3RdKTogVW5pdCA9IHZhbHVlLmZvbGQoCiAgICAgICAgZSA9PiBsb2cuZXJyb3IocyJCYWQgcmVxdWVzdDogJHtuZXcgU3RyaW5nKGUuXzIpfSIsIGUuXzEpLAogICAgICAgIGpvYiA9PiByZXF1ZXN0c1N1YmplY3Qub25OZXh0KGpvYikKICAgICAgKQogICAgfSkKICAgIGJ1aWxkZXIKICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubW9yZS5jYXRzLmVmZmVjdC5JT0NvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuZGF0YS5WYWxpZGF0ZWQuVmFsaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgY2F0cy5zeW50YXguZWl0aGVyLl8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIGpvYlJlcXVlc3QuYXNJTwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>78</text>
