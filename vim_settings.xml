@@ -112,7 +112,6 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-requests/src/main/scala/com/nbcuas/jobscheduler/requests/Notification.scala" timestamp="1548783518737" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleErrorSpec.scala" timestamp="1548713440859">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="116" column="0" />
@@ -234,10 +233,11 @@
         <mark key="^" line="30" column="56" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/promo-optimizer/po-optimizer/src/main/scala/com/nbcuas/promo/optimizer/OptimizerApp.scala" timestamp="1548798938073">
-        <mark key="[" line="115" column="40" />
-        <mark key="]" line="115" column="39" />
-        <mark key="." line="115" column="39" />
+      <file name="$USER_HOME$/Projects/promo-optimizer/po-optimizer/src/main/scala/com/nbcuas/promo/optimizer/OptimizerApp.scala" timestamp="1548799655030">
+        <mark key="[" line="135" column="61" />
+        <mark key="]" line="135" column="61" />
+        <mark key="." line="135" column="61" />
+        <mark key="^" line="135" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/TypeSupport.scala" timestamp="1548440043701">
         <mark key="[" line="3" column="50" />
@@ -371,7 +371,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>[String]</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -431,7 +431,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>[String]</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
