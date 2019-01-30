@@ -60,6 +60,11 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/more-utils/project/plugins.sbt" timestamp="1548864983075">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/more-utils/project/build.properties" timestamp="1548430305638">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="16" />
@@ -197,8 +202,8 @@
       <file name="/sbtShell" timestamp="1548863670671">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/more-utils/build.sbt" timestamp="1548449420981">
-        <mark key="[" line="3" column="39" />
+      <file name="$USER_HOME$/Projects/more-utils/build.sbt" timestamp="1548864961711">
+        <mark key="[" line="15" column="25" />
         <mark key="]" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
@@ -376,8 +381,8 @@
       <jump line="32" column="88" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/KStream.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -446,34 +451,34 @@
         <text encoding="base64">ICB0eXBlIFZhbGlkYXRlZEsgPSBWYWxpZGF0ZWRbKFRocm93YWJsZSwgQXJyYXlbQnl0ZV0pLCBLXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAtMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CmFkZFNidFBsdWdpbigib3JnLmx5cmFudGhlLnNidCIgJSAicGFydGlhbC11bmlmaWNhdGlvbiIgJSAiMS4xLjIiKQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAtMQo=</text>
+      </register>
+      <register name="4" type="4">
         <text>[INFO] 19/01/18 20:41:23 [db-2]  ConsumerCoordinator: Revoking previously assigned partitions [] for group f45ca50a-e3de-4f38-b36e-fe5cff5c5b9d
 [INFO] 19/01/18 20:41:23 [db-2]  AbstractCoordinator: (Re-)joining group f45ca50a-e3de-4f38-b36e-fe5cff5c5b9d
 [INFO] 19/01/18 20:41:23 [db-2]  AbstractCoordinator: Successfully joined group f45ca50a-e3de-4f38-b36e-fe5cff5c5b9d with generation 1
 [INFO] 19/01/18 20:41:23 [db-2]  ConsumerCoordinator: Setting newly assigned partitions [notifications-7c157dd3-842b-40ef-b629-56c62e9152a7-0] for group f45ca50a-e3de-4f38-b36e-fe5cff5c5b9d</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y2VpdmVKb2JSZXF1ZXN0OiBSZWNlaXZlZCBKb2JSZXF1ZXN0KGM2ODk5NGUwLTEzZTQtNDg5YS1hZTg4LWM2MmE3ODcxNDBmMCxmb3JlY2FzdGVyLE5vbmUsU2V0KCkpCltJTkZPXSAxOS8wMS8xOCAyMDo0MToyMyBbZGItMl0gIEFic3RyYWN0Q29vcmRpbmF0b3I6IERpc2NvdmVyZWQgY29vcmRpbmF0b3Iga2Fma2E6OTA5MiAoaWQ6IDIxNDc0ODM2NDcgcmFjazogbnVsbCkgZm9yIGdyb3VwIGY0NWNhNTBhLWUzZGUtNGYzOC1iMzZlLWZlNWNmZjVjNWI5ZC4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0LklPCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIFN0YXJ0Sm9iKDEsICJ1dWlkMSIsICJmb3JlY2FzdGVyIiwgImpzLWRldi1mb3JlY2FzdGVyLTEiKSwKICAgICAgU3VibWl0Sm9iKCksCiAgICAgIFN0YXJ0Sm9iKDIsICJ1dWlkMiIsICJmb3JlY2FzdGVyIiwgImpzLWRldi1mb3JlY2FzdGVyLTIiKSwKPT09PT09PQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdG9yZSBqb2IgY29uZmlndXJhdGlvbiBpbiBEQgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIFN0YXJ0Sm9iKDEsICJ1dWlkMSIsICJmb3JlY2FzdGVyIiwgImpzLWRldi1mb3JlY2FzdGVyLTEiKSwKICAgICAgU3VibWl0Sm9iKCksCiAgICAgIFN0YXJ0Sm9iKDIsICJ1dWlkMiIsICJmb3JlY2FzdGVyIiwgImpzLWRldi1mb3JlY2FzdGVyLTIiKSwKPT09PT09PQ==</text>
       </register>
       <register name=":" type="4">
         <text>131</text>
