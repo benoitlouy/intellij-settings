@@ -120,6 +120,12 @@
         <mark key="." line="296" column="31" />
         <mark key="^" line="296" column="89" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/js-mesos-scheduler-service.json" timestamp="1548885754580">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/.js-mesos-scheduler-service-local.json" timestamp="1548883805416">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="11" />
@@ -433,7 +439,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>8192</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -493,7 +499,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>8192</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
