@@ -239,11 +239,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/ZKIT.scala" timestamp="1548870337361">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="20" column="47" />
-        <mark key="." line="20" column="47" />
-        <mark key="^" line="20" column="47" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/ZKIT.scala" timestamp="1548872028192">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+        <mark key="^" line="22" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobSuccess.scala" timestamp="1548692679983">
         <mark key="[" line="30" column="8" />
@@ -389,8 +389,8 @@
       <jump line="32" column="88" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/KStream.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiLVlwYXJ0aWFsLXVuaWZpY2F0aW9uIgo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -450,7 +450,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>.create()</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -459,34 +459,34 @@
         <text encoding="base64">b3JnLmFwYWNoZS56b29rZWVwZXIuS2VlcGVyRXhjZXB0aW9uJEludmFsaWRBQ0xFeGNlcHRpb246IEtlZXBlckVycm9yQ29kZSA9IEludmFsaWRBQ0wgZm9yIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiLVlwYXJ0aWFsLXVuaWZpY2F0aW9uIgo=</text>
+        <text encoding="base64">ICAgIG5vZGUuYXBwbHkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuQXdhaXQK</text>
+        <text encoding="base64">ICAiLVlwYXJ0aWFsLXVuaWZpY2F0aW9uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5JMEl0ZWMuemtjbGllbnQuWmtDbGllbnQK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuQXdhaXQK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5JMEl0ZWMuemtjbGllbnQuWmtDbGllbnQK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmFkZFNidFBsdWdpbigib3JnLmx5cmFudGhlLnNidCIgJSAicGFydGlhbC11bmlmaWNhdGlvbiIgJSAiMS4xLjIiKQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAtMQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>[INFO] 19/01/18 20:41:23 [db-2]  ConsumerCoordinator: Revoking previously assigned partitions [] for group f45ca50a-e3de-4f38-b36e-fe5cff5c5b9d
 [INFO] 19/01/18 20:41:23 [db-2]  AbstractCoordinator: (Re-)joining group f45ca50a-e3de-4f38-b36e-fe5cff5c5b9d
 [INFO] 19/01/18 20:41:23 [db-2]  AbstractCoordinator: Successfully joined group f45ca50a-e3de-4f38-b36e-fe5cff5c5b9d with generation 1
 [INFO] 19/01/18 20:41:23 [db-2]  ConsumerCoordinator: Setting newly assigned partitions [notifications-7c157dd3-842b-40ef-b629-56c62e9152a7-0] for group f45ca50a-e3de-4f38-b36e-fe5cff5c5b9d</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y2VpdmVKb2JSZXF1ZXN0OiBSZWNlaXZlZCBKb2JSZXF1ZXN0KGM2ODk5NGUwLTEzZTQtNDg5YS1hZTg4LWM2MmE3ODcxNDBmMCxmb3JlY2FzdGVyLE5vbmUsU2V0KCkpCltJTkZPXSAxOS8wMS8xOCAyMDo0MToyMyBbZGItMl0gIEFic3RyYWN0Q29vcmRpbmF0b3I6IERpc2NvdmVyZWQgY29vcmRpbmF0b3Iga2Fma2E6OTA5MiAoaWQ6IDIxNDc0ODM2NDcgcmFjazogbnVsbCkgZm9yIGdyb3VwIGY0NWNhNTBhLWUzZGUtNGYzOC1iMzZlLWZlNWNmZjVjNWI5ZC4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0LklPCg==</text>
+        <text encoding="base64">Y2VpdmVKb2JSZXF1ZXN0OiBSZWNlaXZlZCBKb2JSZXF1ZXN0KGM2ODk5NGUwLTEzZTQtNDg5YS1hZTg4LWM2MmE3ODcxNDBmMCxmb3JlY2FzdGVyLE5vbmUsU2V0KCkpCltJTkZPXSAxOS8wMS8xOCAyMDo0MToyMyBbZGItMl0gIEFic3RyYWN0Q29vcmRpbmF0b3I6IERpc2NvdmVyZWQgY29vcmRpbmF0b3Iga2Fma2E6OTA5MiAoaWQ6IDIxNDc0ODM2NDcgcmFjazogbnVsbCkgZm9yIGdyb3VwIGY0NWNhNTBhLWUzZGUtNGYzOC1iMzZlLWZlNWNmZjVjNWI5ZC4K</text>
       </register>
       <register name=":" type="4">
         <text>131</text>
