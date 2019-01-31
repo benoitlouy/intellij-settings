@@ -55,11 +55,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/universal/conf/environment/local/application.conf" timestamp="1548883187129">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/universal/conf/environment/local/application.conf" timestamp="1548946267720">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/it/scala/com/nbcuas/jobscheduler/dao/JobRunsSpec.scala" timestamp="1548695114439">
         <mark key="[" line="112" column="0" />
@@ -327,7 +327,7 @@
         <mark key="^" line="64" column="109" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/resources/reference.conf" timestamp="1548879223702">
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/resources/reference.conf" timestamp="1548946237161">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -439,7 +439,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>registry.marathon.mesos:5000/js-mesos-scheduler/js-mesos-scheduler:${VERSION}</text>
+        <text>datacluster.nbcuas.com/mesos</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -499,7 +499,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>datacluster.nbcuas.com/mesos</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
