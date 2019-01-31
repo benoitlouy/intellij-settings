@@ -120,11 +120,11 @@
         <mark key="." line="296" column="31" />
         <mark key="^" line="296" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/js-mesos-scheduler-service.json" timestamp="1548885754580">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/js-mesos-scheduler-service.json" timestamp="1548945380345">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="92" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/.js-mesos-scheduler-service-local.json" timestamp="1548883805416">
         <mark key="[" line="3" column="9" />
@@ -439,7 +439,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8192</text>
+        <text>registry.marathon.mesos:5000/js-mesos-scheduler/js-mesos-scheduler:${VERSION}</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -499,13 +499,13 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>8192</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">b3JnLmFwYWNoZS56b29rZWVwZXIuS2VlcGVyRXhjZXB0aW9uJEludmFsaWRBQ0xFeGNlcHRpb246IEtlZXBlckVycm9yQ29kZSA9IEludmFsaWRBQ0wgZm9yIA==</text>
+        <text>registry.marathon.mesos:5000/js-mesos-scheduler/js-mesos-scheduler:${VERSION}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
