@@ -101,6 +101,12 @@
         <mark key="." line="24" column="3" />
         <mark key="^" line="12" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JobRequestBus.scala" timestamp="1549043149239">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="32" column="121" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MigrateDatabase.scala" timestamp="1548880820521">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="25" column="26" />
@@ -184,7 +190,7 @@
       </file>
       <file name="$USER_HOME$/Projects/js-promo-daemon/js-dao/src/main/resources/sql/js0001__init.sql" timestamp="1549032921459" />
       <file name="$USER_HOME$/Projects/job-scheduler/project/Dependencies.scala" timestamp="1549040367698">
-        <mark key="^" line="121" column="11" />
+        <mark key="^" line="125" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JobEvents.scala" timestamp="1549035171192">
         <mark key="[" line="7" column="0" />
@@ -432,7 +438,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuZGF0YS5WYWxpZGF0ZWQuVmFsaWQK</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -441,7 +447,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>PostgresDriver</text>
+        <text>.map {</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -450,31 +456,31 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuZGF0YS5WYWxpZGF0ZWQuVmFsaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
+        <text encoding="base64">ICAgIGNhc2UgKGtleSwgcmVxdWVzdCkgPT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
+        <text encoding="base64">ICAgIGNhc2UgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5zZXR0aW5ncyhwdWJsaXNoTG9jYWwgLyBza2lwIDo9IHRydWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5zZXR0aW5ncyhwdWJsaXNoIC8gc2tpcCA6PSB0cnVlKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnB1Ymxpc2ggOj0gTmlsCnB1Ymxpc2hMb2NhbCA6PSBOaWw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>194</text>
