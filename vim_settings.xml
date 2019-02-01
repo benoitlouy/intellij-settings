@@ -183,6 +183,12 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/js-promo-daemon/js-dao/src/main/resources/sql/js0001__init.sql" timestamp="1549032921459" />
+      <file name="$USER_HOME$/Projects/job-scheduler/project/Dependencies.scala" timestamp="1549040367698">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="125" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/it/scala/com/nbcuas/jobscheduler/dao/PostgresJSDAOSpec.scala" timestamp="1548963640440">
         <mark key="[" line="173" column="6" />
         <mark key="]" line="173" column="6" />
@@ -452,8 +458,8 @@
       <jump line="32" column="88" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/KStream.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLmRyaXZlci5Qb3N0Z3Jlc0RyaXZlcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -462,7 +468,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>PostgresDriver</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
