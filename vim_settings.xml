@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-example/src/it/scala/com/example/mesos/FrameworkSpec.scala" timestamp="1549305867471">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="120" column="34" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-example/src/it/scala/com/example/mesos/FrameworkSpec.scala" timestamp="1549309556955">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="103" />
+        <mark key="^" line="60" column="103" />
+        <mark key="." line="60" column="103" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequestSpec.scala" timestamp="1549294540049">
         <mark key="[" line="160" column="28" />
@@ -139,6 +139,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/api/async/TaskLauncher.scala" timestamp="1549308938562" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/DatabaseProfile.scala" timestamp="1549035487230">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="36" />
@@ -172,10 +173,12 @@
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/cd/deploy.sh" timestamp="1549031807206">
         <mark key="[" line="47" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/launcher/TaskLauncherImpl.scala" timestamp="1549304285013">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
+      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/launcher/TaskLauncherImpl.scala" timestamp="1549310275796">
+        <mark key="'" line="64" column="20" />
+        <mark key="[" line="184" column="41" />
+        <mark key="]" line="184" column="70" />
+        <mark key="^" line="184" column="70" />
+        <mark key="." line="184" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-example/src/main/scala/com/example/mesos/Examples.scala" timestamp="1549306129365">
         <mark key="[" line="45" column="0" />
@@ -277,8 +280,8 @@
         <mark key="^" line="156" column="25" />
         <mark key="." line="156" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartJob.scala" timestamp="1549292827535">
-        <mark key="[" line="52" column="95" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartJob.scala" timestamp="1549310816388">
+        <mark key="[" line="88" column="143" />
         <mark key="]" line="52" column="95" />
         <mark key="^" line="52" column="38" />
         <mark key="." line="52" column="95" />
@@ -356,10 +359,11 @@
       <jump line="32" column="88" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/KStream.scala" />
       <jump line="125" column="64" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJobSpec.scala" />
       <jump line="124" column="4" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJobSpec.scala" />
+      <jump line="65" column="20" filename="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/launcher/TaskLauncherImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BRIDGE</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -368,7 +372,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>(PatienceConfig(5.seconds), implicitly)</text>
+        <text>BRIDGE</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -404,7 +408,7 @@
         <text encoding="base64">ICAgIGFzc2VydChzdC5mdXR1cmUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>438</text>
+        <text>184</text>
       </register>
     </registers>
     <search>
@@ -426,7 +430,6 @@
         <entry>0.11.0.0</entry>
       </history-search>
       <history-cmd>
-        <entry>56</entry>
         <entry>98</entry>
         <entry>305</entry>
         <entry>61</entry>
@@ -446,6 +449,7 @@
         <entry>194</entry>
         <entry>438</entry>
         <entry>0</entry>
+        <entry>184</entry>
       </history-cmd>
       <history-expr />
       <history-input />
