@@ -108,10 +108,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mesos-scala-api/build.sbt" timestamp="1549305494313">
-        <mark key="]" line="77" column="42" />
-        <mark key="." line="77" column="42" />
-        <mark key="^" line="77" column="42" />
+      <file name="$USER_HOME$/Projects/mesos-scala-api/build.sbt" timestamp="1549316716926">
+        <mark key="[" line="169" column="1" />
+        <mark key="]" line="83" column="42" />
+        <mark key="." line="83" column="42" />
+        <mark key="^" line="83" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1549301038536">
         <mark key="[" line="31" column="48" />
@@ -274,6 +275,11 @@
       <file name="$USER_HOME$/Projects/more-utils/more-java-compat/src/main/scala/com/nbcuas/more/java/concurrent/JavaConverters.scala" timestamp="1548344800452">
         <mark key="[" line="23" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/mesos-scala-api/project/TestSettings.scala" timestamp="1549316643627">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobSuccess.scala" timestamp="1549292803005">
         <mark key="[" line="33" column="90" />
         <mark key="]" line="33" column="90" />
@@ -308,7 +314,7 @@
         <mark key="^" line="52" column="38" />
         <mark key="." line="52" column="95" />
       </file>
-      <file name="/fragment.java" timestamp="1548879305199">
+      <file name="/fragment.java" timestamp="1549316601929">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -384,8 +390,8 @@
       <jump line="65" column="20" filename="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/launcher/TaskLauncherImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXN0eWxlLnNidC5TY2FsYXN0eWxlUGx1Z2luLmF1dG9JbXBvcnQuXwo=</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -403,31 +409,31 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ub2tpYS5tZXNvcy5hcGkuc3RyZWFtLk1lc29zRXZlbnRzLnsgLCBUYXNrRXZlbnQgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXN0eWxlLnNidC5TY2FsYXN0eWxlUGx1Z2luLmF1dG9JbXBvcnQuXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4Lmxhbmcuc2NhbGEuU3Vic2NyaWJlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLlByb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgc2NhbGEuY29uY3VycmVudC5kdXJhdGlvbi5fCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIC8vIERpc2FibGUgbG9nZ2luZyBpbiBhbGwgdGVzdHMKICAgIGphdmFPcHRpb25zIGluIEludGVncmF0aW9uVGVzdCArPSAiLURsb2c0ai5jb25maWd1cmF0aW9uPWxvZzRqLXR1cm5lZC1vZmYucHJvcGVydGllcyIs</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLlByb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGljaXQgdmFsIGNvbmZpZzogUGF0aWVuY2VDb25maWcgPSBQYXRpZW5jZUNvbmZpZyg1LnNlY29uZHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCh0YXNrSW5mby5jb21tYW5kLmdldC52YWx1ZS5nZXQgPT0gInNsZWVwIDEiKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8vIERpc2FibGUgbG9nZ2luZyBpbiBhbGwgdGVzdHMKICAgIGphdmFPcHRpb25zIGluIFRlc3QgKz0gIi1EbG9nNGouY29uZmlndXJhdGlvbj1sb2c0ai10dXJuZWQtb2ZmLnByb3BlcnRpZXMiLA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB0YXNrSW5mbyA9IGZ1dC5mdXR1cmVWYWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3QgaW4gSW50ZWdyYXRpb25UZXN0IDo9ICgodGVzdCBpbiBJbnRlZ3JhdGlvblRlc3QpIGRlcGVuZHNPbiBjaGVja1NjYWxhc3R5bGUpLnZhbHVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
