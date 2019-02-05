@@ -70,6 +70,7 @@
         <mark key="]" line="115" column="82" />
         <mark key="." line="115" column="82" />
       </file>
+      <file name="$USER_HOME$/Projects/promo-optimizer/po-optimizer/src/test/scala/com/nbcuas/promo/optimizer/FillInTheBlanksPromoOptimizerSpec.scala" timestamp="1549381921615" />
       <file name="$USER_HOME$/Projects/js-promo-daemon/js-dao/src/main/resources/sql/js0001__init.sql" timestamp="1549032921459" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSendNotification.scala" timestamp="1549292808455">
         <mark key="[" line="22" column="98" />
@@ -81,6 +82,9 @@
         <mark key="^" line="125" column="11" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.12/srcs/scalatest_2.12-3.0.5-sources.jar!/org/scalatest/concurrent/ScalaFutures.scala" timestamp="1549304739926" />
+      <file name="$USER_HOME$/Projects/promo-optimizer/po-optimizer/src/main/scala/com/nbcuas/promo/ProgramInfo.scala" timestamp="1549380484435">
+        <mark key="[" line="16" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-client/src/it/resources/reference.conf" timestamp="1548357854169">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,6 +121,9 @@
         <mark key="." line="73" column="103" />
         <mark key="^" line="161" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/promo-optimizer/po-optimizer/src/main/scala/com/nbcuas/promo/optimizer/FillInTheBlanksPromoOptimizer.scala" timestamp="1549380739939">
+        <mark key="[" line="29" column="91" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1549301038536">
         <mark key="[" line="31" column="48" />
       </file>
@@ -147,6 +154,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/promo-optimizer/po-optimizer/src/main/scala/com/nbcuas/promo/optimizer/PromoOptimizer.scala" timestamp="1549382960732">
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/api/async/TaskLauncher.scala" timestamp="1549308938562" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/DatabaseProfile.scala" timestamp="1549035487230">
@@ -393,8 +405,8 @@
       <jump line="65" column="20" filename="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/launcher/TaskLauncherImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8vIGV4Y2x1ZGluZyBqYXZhIHNvdXJjZXMgZnJvbSBjb21waWxhdGlvbg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -412,19 +424,19 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gIHNjYWxhVmVyc2lvbiA6PSAiMi4xMS44IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXN0eWxlLnNidC5TY2FsYXN0eWxlUGx1Z2luLmF1dG9JbXBvcnQuXwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICB2YWwgbG9jYWxEYXRlVGltZU9yZGVyaW5nOiBPcmRlcmluZ1tMb2NhbERhdGVUaW1lXSA9IE9yZGVyaW5nLmZyb21MZXNzVGhhbihfIGlzQmVmb3JlIF8pCiAgaW1wb3J0IGxvY2FsRGF0ZVRpbWVPcmRlcmluZy5f</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHNjYWxhVmVyc2lvbiA6PSAiMi4xMS44IiwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC8vIERpc2FibGUgbG9nZ2luZyBpbiBhbGwgdGVzdHMKICAgIGphdmFPcHRpb25zIGluIEludGVncmF0aW9uVGVzdCArPSAiLURsb2c0ai5jb25maWd1cmF0aW9uPWxvZzRqLXR1cm5lZC1vZmYucHJvcGVydGllcyIs</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXN0eWxlLnNidC5TY2FsYXN0eWxlUGx1Z2luLmF1dG9JbXBvcnQuXwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -433,7 +445,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIC8vIERpc2FibGUgbG9nZ2luZyBpbiBhbGwgdGVzdHMKICAgIGphdmFPcHRpb25zIGluIFRlc3QgKz0gIi1EbG9nNGouY29uZmlndXJhdGlvbj1sb2c0ai10dXJuZWQtb2ZmLnByb3BlcnRpZXMiLA==</text>
+        <text encoding="base64">ICAgIC8vIERpc2FibGUgbG9nZ2luZyBpbiBhbGwgdGVzdHMKICAgIGphdmFPcHRpb25zIGluIEludGVncmF0aW9uVGVzdCArPSAiLURsb2c0ai5jb25maWd1cmF0aW9uPWxvZzRqLXR1cm5lZC1vZmYucHJvcGVydGllcyIs</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
