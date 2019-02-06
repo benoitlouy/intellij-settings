@@ -114,11 +114,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-client/src/it/scala/com/nbcuas/jobscheduler/client/JobSchedulerClientIT.scala" timestamp="1549295728369">
-        <mark key="[" line="87" column="64" />
-        <mark key="]" line="87" column="64" />
-        <mark key="." line="87" column="64" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-client/src/it/scala/com/nbcuas/jobscheduler/client/JobSchedulerClientIT.scala" timestamp="1549470979352">
+        <mark key="[" line="105" column="13" />
+        <mark key="]" line="105" column="13" />
         <mark key="^" line="87" column="62" />
+        <mark key="." line="105" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobConfig.scala" timestamp="1548446871959">
         <mark key="[" line="10" column="49" />
@@ -507,7 +507,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -516,7 +516,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -525,31 +525,32 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYiA8LSBjbGllbnQuc2NoZWR1bGVKb2IoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgXyA8LSBGdXR1cmUoVGhyZWFkLnNsZWVwKDUwMDApCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICB2YWwgb3JkOiBPcmRlcmluZ1tMb2NhbERhdGVUaW1lXSA9IE9yZGVyaW5nLmZyb21MZXNzVGhhbihfIGlzQmVmb3JlIF8pCiAgaW1wb3J0IG9yZC5fCiAgdmFsIG9yZDI6IE9yZGVyaW5nW0xvY2FsRGF0ZV0gPSBPcmRlcmluZy5mcm9tTGVzc1RoYW4oXyBpc0JlZm9yZSBfKQogIGltcG9ydCBvcmQyLl8=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oam9iMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oam9iMikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICB2YWwgbG9jYWxEYXRlVGltZU9yZGVyaW5nOiBPcmRlcmluZ1tMb2NhbERhdGVUaW1lXSA9IE9yZGVyaW5nLmZyb21MZXNzVGhhbihfIGlzQmVmb3JlIF8pCiAgaW1wb3J0IGxvY2FsRGF0ZVRpbWVPcmRlcmluZy5f</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gIHNjYWxhVmVyc2lvbiA6PSAiMi4xMS44IiwK</text>
+      <register name="8" type="4">
+        <text>val job2 = requestSuccess.copy(name = &quot;test-bad&quot;)
+    val job1 = requestSuccess.copy(dependencyUUIDs = Set(job2.uuid))</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXN0eWxlLnNidC5TY2FsYXN0eWxlUGx1Z2luLmF1dG9JbXBvcnQuXwo=</text>
+        <text encoding="base64">ICAgIGRlZiByZXF1ZXN0RmFpbHVyZTogSm9iUmVxdWVzdCA9IEpvYlJlcXVlc3QoVVVJRC5yYW5kb21VVUlELnRvU3RyaW5nLCAidGVzdC1mYWlsdXJlIiwgIjEuMCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
