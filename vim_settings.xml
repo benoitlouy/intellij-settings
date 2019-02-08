@@ -93,11 +93,11 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/main/scala/com/nbcuas/nielsen/capping/CappingApp.scala" timestamp="1549644833302">
-        <mark key="[" line="65" column="51" />
-        <mark key="]" line="73" column="38" />
-        <mark key="." line="73" column="38" />
-        <mark key="^" line="73" column="38" />
+      <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/main/scala/com/nbcuas/nielsen/capping/CappingApp.scala" timestamp="1549648259809">
+        <mark key="[" line="88" column="34" />
+        <mark key="]" line="88" column="34" />
+        <mark key="^" line="88" column="17" />
+        <mark key="." line="88" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/viewership/ViewershipInventoryMatchRate.scala" timestamp="1549465286594">
         <mark key="[" line="114" column="40" />
@@ -215,6 +215,7 @@
         <mark key="^" line="47" column="53" />
         <mark key="." line="47" column="53" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.nbcuas.more/more-spark-dataframes_2.11/srcs/more-spark-dataframes_2.11-1.15.0-sources.jar!/com/nbcuas/more/spark/dataframes/syntax/MoreSparkRowsSyntax.scala" timestamp="1549646513838" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/deploy-service.sh" timestamp="1548952616009">
         <mark key="[" line="60" column="4" />
         <mark key="]" line="60" column="4" />
@@ -227,11 +228,11 @@
         <mark key="^" line="15" column="4" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/ns-capping/project/Dependencies.scala" timestamp="1549644885927">
-        <mark key="[" line="118" column="10" />
-        <mark key="]" line="118" column="10" />
-        <mark key="^" line="118" column="15" />
-        <mark key="." line="118" column="10" />
+      <file name="$USER_HOME$/Projects/ns-capping/project/Dependencies.scala" timestamp="1549647115549">
+        <mark key="[" line="122" column="15" />
+        <mark key="]" line="84" column="35" />
+        <mark key="^" line="84" column="35" />
+        <mark key="." line="84" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/mesos-scala-api/project/plugins.sbt" timestamp="1549303956507">
         <mark key="[" line="28" column="0" />
@@ -431,7 +432,7 @@
         <mark key="." line="91" column="71" />
         <mark key="^" line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-capping/src/main/scala/com/nbcuas/audiencegraph/capping/Session.scala" timestamp="1549644801689" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-capping/src/main/scala/com/nbcuas/audiencegraph/capping/Session.scala" timestamp="1549647635064" />
       <file name="$USER_HOME$/Projects/audience-graph/project/Dependencies.scala" timestamp="1549645827146" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/universal/conf/environment/prod/application.conf" timestamp="1548953031841">
         <mark key="[" line="10" column="25" />
@@ -525,7 +526,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">eyByb3c6IFJvdyA9PgogICAgICB2YWwgc3RhcnQgPSByb3cuZ2V0QXNbVGltZXN0YW1wXSgic3RhcnQiKS50b0luc3RhbnQuYXRab25lKHpvbmUpCiAgICAgIHZhbCBlbmQgPSByb3cuZ2V0QXNbVGltZXN0YW1wXSgiZW5kIikudG9JbnN0YW50LmF0Wm9uZSh6b25lKQogICAgICByb3cud2hlbigoc3RhcnQgdG8gZW5kKS5kdXJhdGlvbiA+IHN0YWxlbmVzc0R1cmF0aW9uKShjYXApCiAgICB9</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -534,7 +535,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>spark-dataframes</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -542,32 +543,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">eyByb3c6IFJvdyA9PgogICAgICB2YWwgc3RhcnQgPSByb3cuZ2V0QXNbVGltZXN0YW1wXSgic3RhcnQiKS50b0luc3RhbnQuYXRab25lKHpvbmUpCiAgICAgIHZhbCBlbmQgPSByb3cuZ2V0QXNbVGltZXN0YW1wXSgiZW5kIikudG9JbnN0YW50LmF0Wm9uZSh6b25lKQogICAgICByb3cud2hlbigoc3RhcnQgdG8gZW5kKS5kdXJhdGlvbiA+IHN0YWxlbmVzc0R1cmF0aW9uKShjYXApCiAgICB9</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgaW1wbGljaXQgdmFsIHM6IFNwYXJrU2Vzc2lvbiA9IHNwYXJrCiAgICAgIElPKHNwYXJrKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICB2YWwgZHVyYXRpb24gPSBjYXBwaW5nRHVyYXRpb25zLmZpbmQgewogICAgICAgICAgY2FzZSAocmFuZ2UsIF8pID0+IHJhbmdlLmNvbnRhaW5zKHN0YXJ0LmdldEhvdXIpCiAgICAgICAgfS5tYXAoXy5fMikuZ2V0CiAgICAgICAgcm93LnBhdGNoKCJlbmQiLCBUaW1lc3RhbXAuZnJvbSgoc3RhcnQgKyBkdXJhdGlvbikudG9JbnN0YW50KSk=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuaW1wbGljaXRzLl8K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuaW1wbGljaXRzLl8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydC5nZXRIb3VyCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LnZhbGlkYXRlZC5fCg==</text>
+        <text encoding="base64">ICAgICAgcm93Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
