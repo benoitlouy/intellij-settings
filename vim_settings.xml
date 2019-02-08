@@ -57,10 +57,11 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="122" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/it/scala/com/nbcuas/nielsen/capping/CappingAppTest.scala" timestamp="1549652664098">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
+      <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/it/scala/com/nbcuas/nielsen/capping/CappingAppTest.scala" timestamp="1549658359396">
+        <mark key="[" line="104" column="26" />
+        <mark key="]" line="104" column="26" />
+        <mark key="." line="104" column="26" />
+        <mark key="^" line="34" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/project/build.properties" timestamp="1548430305638">
         <mark key="[" line="0" column="14" />
@@ -98,7 +99,7 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/main/scala/com/nbcuas/nielsen/capping/CappingApp.scala" timestamp="1549653694915">
+      <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/main/scala/com/nbcuas/nielsen/capping/CappingApp.scala" timestamp="1549657731794">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="39" />
         <mark key="." line="5" column="39" />
@@ -547,7 +548,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Resource</text>
+        <text>from</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -556,7 +557,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Resource</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -565,31 +566,36 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LnRyYXZlcnNlLl8K</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlID0gTG9jYWxEYXRlLm5vdwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlID0gTG9jYWxEYXRlLm5vdwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuVHJ5Cg==</text>
+      <register name="3" type="4">
+        <text>Timestamp.from(date.atTime(1, 0).atZone(zone).toInstant),
+        Timestamp.from(date.atTime(1, 30).atZone(zone).toInstant)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuaW5zdGFuY2VzLnRyeV8uXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJlc291cmNlLmxpZnRGKFRyeShDb25maWdGYWN0b3J5LmxvYWQuZ2V0Q29uZmlnKCJucy1jYXBwaW5nIikpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHZhbCBpbzogSU9bRXhpdENvZGVdID0gZm9yIHsKICAgICAgcGFyYW1zIDwtIElPKG9wdGlvblBhcnNlci5wYXJzZShhcmdzLCBQYXJhbXMoKSkuZ2V0T3JFbHNlKHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIkluY29ycmVjdCBhcmd1bWVudHMgcGFzc2VkIHRvIGpvYiIpKSkKICAgICAgXyA8LSBydW4ocGFyYW1zKQogICAgfSB5aWVsZCBFeGl0Q29kZS5TdWNjZXNzCiAgICBpby5yZWNvdmVyV2l0aCB7CiAgICAgIGNhc2UgZSA9PgogICAgICAgIGxvZ2dlci5lcnJvcigiQ2FwcGluZyBmYWlsZWQiLCBlKQogICAgICAgIElPLnJhaXNlRXJyb3IoZSkKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRlc3QoZGlyLCB2aWV3ZXJzaGlwKS5zaG93KDEwMCwgZmFsc2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJlc291cmNlKENvbmZpZ0ZhY3RvcnkubG9hZC5nZXRDb25maWcoIm5zLWNhcHBpbmciKSkK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlc291cmNlLmxpZnRGKENvbmZpZ0ZhY3RvcnkubG9hZC5nZXRDb25maWcoIm5zLWNhcHBpbmciKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="9" type="4">
+        <text>//
+//    val config = ConfigFactory.load.getConfig(&quot;ns-capping&quot;)
+//    val updatedConfig = config
+//      .withValue(&quot;viewership.path&quot;, ConfigValueFactory.fromAnyRef(viewershipPath.toString))
+//      .withValue(&quot;destination.path&quot;, ConfigValueFactory.fromAnyRef(destinationPath.toString))</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
