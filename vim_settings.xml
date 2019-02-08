@@ -93,10 +93,11 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/main/scala/com/nbcuas/nielsen/capping/CappingApp.scala" timestamp="1549648764457">
-        <mark key="[" line="51" column="57" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/main/scala/com/nbcuas/nielsen/capping/CappingApp.scala" timestamp="1549651050817">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/viewership/ViewershipInventoryMatchRate.scala" timestamp="1549465286594">
         <mark key="[" line="114" column="40" />
@@ -524,8 +525,8 @@
       <jump line="65" column="20" filename="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/launcher/TaskLauncherImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZpZXdlcnNoaXAuc3BhcmtTZXNzaW9uLmNyZWF0ZURhdGFGcmFtZShyb3dzLCB2aWV3ZXJzaGlwLnNjaGVtYSkK</text>
+      <register name="&quot;" type="4">
+        <text>spark</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -534,7 +535,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>spark-dataframes</text>
+        <text>spark</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
