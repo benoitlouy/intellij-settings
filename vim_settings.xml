@@ -206,11 +206,11 @@
         <mark key="^" line="4" column="53" />
         <mark key="." line="33" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1549912337208">
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="67" column="10" />
-        <mark key="." line="67" column="10" />
-        <mark key="^" line="67" column="10" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1549913287813">
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="25" />
+        <mark key="." line="62" column="25" />
+        <mark key="^" line="62" column="111" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/resources/reference.conf" timestamp="1548955619529">
         <mark key="[" line="18" column="9" />
@@ -591,7 +591,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWFwKF8gPT4gSU8obG9nLmluZm8oIkV4aXRpbmciKSkp</text>
+        <text encoding="base64">UmVzb3VyY2UubWFrZShpbnN0YW50aWF0ZShjb25maWcsIGRiLCBmdykudHJhdmVyc2UoYyA9PiBJTyhjLnN0YXJ0KCkpKSkgeyBjb21wb25lbnRzID0+CiAgICAgICAgY29tcG9uZW50cy5yZXZlcnNlLnRyYXZlcnNlKCkKICAgICAgfQ==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -609,31 +609,31 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">UmVzb3VyY2UubWFrZShpbnN0YW50aWF0ZShjb25maWcsIGRiLCBmdykudHJhdmVyc2UoYyA9PiBJTyhjLnN0YXJ0KCkpKSkgeyBjb21wb25lbnRzID0+CiAgICAgICAgY29tcG9uZW50cy5yZXZlcnNlLnRyYXZlcnNlKCkKICAgICAgfQ==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Zm9yIHsKICAgICAgICAgIF8gPC0gaWYg</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHZhbCBpbnZlbnRvcnlQYXRoID0gY29uZmlnLmludmVudG9yeS5wYXRoCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aWV3ZXJzaGlwUGF0aCA9IAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIElPIHsK</text>
+        <text encoding="base64">ICAgIHZhbCB2aWV3ZXJzaGlwUGF0aCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIElPIHsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aWV3ZXJzaGlwUGF0aCA9IGNvbmZpZy52aWV3ZXJzaGlwLnBhdGggLyBwYXJhbXMuZGF0ZS50b1N0cmluZwo=</text>
+        <text encoding="base64">ICAgIElPIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCB2aWV3ZXJzaGlwUGF0aCA9IGNvbmZpZy52aWV3ZXJzaGlwLnBhdGggLyBwYXJhbXMuZGF0ZS50b1N0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
