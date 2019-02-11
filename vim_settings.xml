@@ -45,8 +45,11 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequest.scala" timestamp="1549294216108">
-        <mark key="[" line="58" column="134" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartDependentJobs.scala" timestamp="1549917942432">
+        <mark key="[" line="12" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequest.scala" timestamp="1549917975169">
+        <mark key="[" line="14" column="42" />
         <mark key="]" line="58" column="138" />
         <mark key="." line="58" column="138" />
         <mark key="^" line="58" column="150" />
@@ -100,6 +103,9 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleCheckDependencies.scala" timestamp="1549917885094">
+        <mark key="[" line="10" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/main/scala/com/nbcuas/nielsen/capping/CappingApp.scala" timestamp="1549906622630">
         <mark key="[" line="70" column="98" />
         <mark key="]" line="72" column="0" />
@@ -136,8 +142,8 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSendNotification.scala" timestamp="1549292808455">
-        <mark key="[" line="22" column="98" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSendNotification.scala" timestamp="1549917930044">
+        <mark key="[" line="7" column="47" />
         <mark key="]" line="22" column="98" />
         <mark key="^" line="3" column="53" />
         <mark key="." line="22" column="98" />
@@ -160,6 +166,11 @@
         <mark key="^" line="75" column="14" />
         <mark key="." line="75" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/scala/com/nbcuas/jobscheduler/dao/JSDAO.scala" timestamp="1549917259078">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/DefaultSpec.scala" timestamp="1548358514541">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="17" column="0" />
@@ -171,6 +182,9 @@
         <mark key="]" line="8" column="54" />
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/Startable.scala" timestamp="1549917810498">
+        <mark key="[" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/mesos-scala-api/build.sbt" timestamp="1549377784218">
         <mark key="[" line="73" column="103" />
@@ -201,17 +215,16 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobFailure.scala" timestamp="1549292788042">
-        <mark key="[" line="33" column="90" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobFailure.scala" timestamp="1549917906448">
+        <mark key="[" line="10" column="40" />
         <mark key="]" line="33" column="90" />
         <mark key="^" line="4" column="53" />
         <mark key="." line="33" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1549914531954">
-        <mark key="[" line="53" column="7" />
-        <mark key="]" line="53" column="11" />
-        <mark key="." line="53" column="11" />
-        <mark key="^" line="53" column="11" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1549919044159">
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="38" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/resources/reference.conf" timestamp="1548955619529">
         <mark key="[" line="18" column="9" />
@@ -254,6 +267,11 @@
         <mark key="]" line="12" column="55" />
         <mark key="^" line="15" column="4" />
         <mark key="." line="12" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/DatabaseProfile.scala" timestamp="1549916267549">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ns-capping/project/Dependencies.scala" timestamp="1549905650606">
         <mark key="[" line="101" column="3" />
@@ -377,8 +395,8 @@
         <mark key="." line="84" column="78" />
         <mark key="^" line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJob.scala" timestamp="1549577161963">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJob.scala" timestamp="1549917959838">
+        <mark key="[" line="16" column="40" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="3" column="0" />
@@ -400,6 +418,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleError.scala" timestamp="1549917892683">
+        <mark key="[" line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleFailDependentJobs.scala" timestamp="1549917900509">
+        <mark key="[" line="10" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartJobSpec.scala" timestamp="1548713758987">
         <mark key="[" line="195" column="0" />
         <mark key="]" line="195" column="0" />
@@ -412,8 +436,8 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobStarted.scala" timestamp="1549292795480">
-        <mark key="[" line="35" column="88" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobStarted.scala" timestamp="1549917911746">
+        <mark key="[" line="10" column="40" />
         <mark key="]" line="35" column="88" />
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="88" />
@@ -466,8 +490,8 @@
         <mark key="^" line="5" column="138" />
         <mark key="." line="5" column="138" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobSuccess.scala" timestamp="1549292803005">
-        <mark key="[" line="33" column="90" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobSuccess.scala" timestamp="1549917934572">
+        <mark key="[" line="10" column="40" />
         <mark key="]" line="33" column="90" />
         <mark key="^" line="4" column="53" />
         <mark key="." line="33" column="90" />
@@ -501,6 +525,9 @@
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartJob.scala" timestamp="1549917952828">
+        <mark key="[" line="27" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/mesos-scala-api/project/build.properties" timestamp="1548969391588">
         <mark key="[" line="0" column="12" />
@@ -592,7 +619,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>previousFW, _, fw</text>
+        <text>b</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -601,7 +628,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>previousFW, _, fw</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -610,13 +637,13 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgXyA8LSAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgYiA8LSBSZXNvdXJjZShJTyB7CiAgICAgICAgdmFsIGEgPSBoYW5kbGVFcnJvcihkYikKICAgICAgICBhIC0+IGEuc3RhcnQoKQogICAgICB9KQ==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMuam9ic2NoZWR1bGVyLm1lc29zc2NoZWR1bGVyLk1lc29zU2NoZWR1bGVyQXBwLmNyZWF0ZUZyYW1ld29yawo=</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuaW1wbGljaXRzLl8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -624,17 +651,17 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIFJlc291cmNlLm1ha2UoY3JlYXRlRnJhbWV3b3JrKGNvbmZpZywgZGIpLmNyZWF0ZUZyYW1ld29yayhyZWNvdmVyKSkgewogICAgICBjYXNlIChfLCBfLCBmdykgPT4gaWYgKHRlcm1pbmF0ZSkgZncudGVybWluYXRlKCkuYXNJTy52b2lkIGVsc2UgSU8udW5pdAogICAgfS5mbGF0TWFwIHsKICAgICAgY2FzZSAoXywgXywgZncpID0+IGluc3RhbnRpYXRlKGNvbmZpZywgZGIsIGZ3KQogICAgfQoKICAgIFJlc291cmNlLm1ha2UoY3JlYXRlRnJhbWV3b3JrKGNvbmZpZywgZGIpLmNyZWF0ZUZyYW1ld29yayhyZWNvdmVyKSkgewogICAgICBjYXNlIChfLCBfLCBmdykgPT4gaWYgKHRlcm1pbmF0ZSkgZncudGVybWluYXRlKCkuYXNJTy52b2lkIGVsc2UgSU8udW5pdAogICAgfS51c2UgewogICAgICBjYXNlIChwcmV2aW91c0ZXLCBfLCBmdykgPT4gZm9yIHsKICAgICAgICBjb21wb25lbnRzIDwtIElPKGluc3RhbnRpYXRlKGNvbmZpZywgZGIsIGZ3KSkKICAgICAgICBzdG9wQ29tcG9uZW50cyA8LSBjb21wb25lbnRzLnRyYXZlcnNlKGMgPT4gSU8oYy5zdGFydCgpKSkKICAgICAgICBfIDwtIHByZXZpb3VzRlcudHJhdmVyc2UocHJldmlvdXNGVyA9PiByZWNvdmVyU3RhdGUoY29uZmlnLCBkYikucmVjb3ZlcihwcmV2aW91c0ZXLmlkLCBmdykpCiAgICAgICAgXyA8LSBJTyhHbG9iYWxFdmVudEJ1cy5ldmVudHMub25OZXh0KFN1Ym1pdEpvYigpKSkKICAgICAgICByZWNlaXZlUmVxdWVzdENvbXBvbmVudCA8LSBJTyhyZWNlaXZlSm9iUmVxdWVzdChjb25maWcsIGRiKSkKICAgICAgICBzdG9wUmVjZWl2ZVJlcXVlc3QgPSByZWNlaXZlUmVxdWVzdENvbXBvbmVudC5zdGFydCgpCiAgICAgICAgc3RvcEFsbENvbXBvbmVudHMgPSBzdG9wUmVjZWl2ZVJlcXVlc3QgKj4gc3RvcENvbXBvbmVudHMucmV2ZXJzZS50cmF2ZXJzZSh4ID0+IHgpCiAgICAgICAgXyA8LSBJTyhsb2cuaW5mbygiQWxsIGNvbXBvbmVudHMgaW5pdGlhbGl6ZWQiKSkKICAgICAgICB3YWl0UmVzdWx0IDwtIHdhaXQKICAgICAgICBfIDwtIElPKGxvZy5pbmZvKCJTaHV0dGluZyBkb3duIikpCiAgICAgICAgXyA8LSBzdG9wQWxsQ29tcG9uZW50cwogICAgICB9IHlpZWxkIHdhaXRSZXN1bHQKICAgIH0uZmxhdE1hcChyID0+IElPKGxvZy5pbmZvKCJFeGl0aW5nIikpICo+IElPLnB1cmUocikp</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">UmVzb3VyY2UubWFrZShpbnN0YW50aWF0ZShjb25maWcsIGRiLCBmdykudHJhdmVyc2UoYyA9PiBJTyhjLnN0YXJ0KCkpKSkgeyBjb21wb25lbnRzID0+CiAgICAgICAgY29tcG9uZW50cy5yZXZlcnNlLnRyYXZlcnNlKCkKICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Zm9yIHsKICAgICAgICAgIF8gPC0gaWYg</text>
+        <text encoding="base64">ICAgIHZhbCBhYTogUmVzb3VyY2VbSU8sIFVuaXRdID0gIGZvciB7CiAgICAgIGZ3SW5mbyA8LSBSZXNvdXJjZS5tYWtlKGNyZWF0ZUZyYW1ld29yayhjb25maWcsIGRiKS5jcmVhdGVGcmFtZXdvcmsocmVjb3ZlcikpIHsKICAgICAgICBjYXNlIChfLCBfLCBmdykgPT4gaWYgKHRlcm1pbmF0ZSkgZncudGVybWluYXRlKCkuYXNJTy52b2lkIGVsc2UgSU8udW5pdAogICAgICB9CiAgICAgIChwcmV2aW91c0ZXLCBfLCBmdykgPSBmd0luZm8KICAgICAgXyA8LSBpbnN0YW50aWF0ZShjb25maWcsIGRiLCBmdykKICAgICAgXyA8LSBwcmV2aW91c0ZXLnRyYXZlcnNlKHByZXZpb3VzRlcgPT4gUmVzb3VyY2UubGlmdEYocmVjb3ZlclN0YXRlKGNvbmZpZywgZGIpLnJlY292ZXIocHJldmlvdXNGVy5pZCwgZncpKSkKICAgIH0geWllbGQgKCk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbnZlbnRvcnlQYXRoID0gY29uZmlnLmludmVudG9yeS5wYXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
