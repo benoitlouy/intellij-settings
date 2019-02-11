@@ -93,6 +93,7 @@
         <mark key="." line="61" column="20" />
         <mark key="^" line="61" column="20" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.typelevel/cats-effect_2.12/srcs/cats-effect_2.12-1.1.0-sources.jar!/cats/effect/Resource.scala" timestamp="1549914179478" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/.js-mesos-scheduler-service-local.json" timestamp="1548883805416">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="11" />
@@ -206,11 +207,11 @@
         <mark key="^" line="4" column="53" />
         <mark key="." line="33" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1549913287813">
-        <mark key="[" line="62" column="25" />
-        <mark key="]" line="62" column="25" />
-        <mark key="." line="62" column="25" />
-        <mark key="^" line="62" column="111" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1549914531954">
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="53" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/resources/reference.conf" timestamp="1548955619529">
         <mark key="[" line="18" column="9" />
@@ -346,7 +347,7 @@
         <mark key="^" line="181" column="35" />
         <mark key="." line="181" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1549577906926">
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1549914428868">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="7" column="25" />
         <mark key="." line="7" column="25" />
@@ -591,7 +592,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UmVzb3VyY2UubWFrZShpbnN0YW50aWF0ZShjb25maWcsIGRiLCBmdykudHJhdmVyc2UoYyA9PiBJTyhjLnN0YXJ0KCkpKSkgeyBjb21wb25lbnRzID0+CiAgICAgICAgY29tcG9uZW50cy5yZXZlcnNlLnRyYXZlcnNlKCkKICAgICAgfQ==</text>
+        <text>previousFW, _, fw</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -600,7 +601,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFwKF8gPT4gSU8obG9nLmluZm8oIkV4aXRpbmciKSkp</text>
+        <text>previousFW, _, fw</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -608,32 +609,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">UmVzb3VyY2UubWFrZShpbnN0YW50aWF0ZShjb25maWcsIGRiLCBmdykudHJhdmVyc2UoYyA9PiBJTyhjLnN0YXJ0KCkpKSkgeyBjb21wb25lbnRzID0+CiAgICAgICAgY29tcG9uZW50cy5yZXZlcnNlLnRyYXZlcnNlKCkKICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Zm9yIHsKICAgICAgICAgIF8gPC0gaWYg</text>
+        <text encoding="base64">ICAgICAgYiA8LSBSZXNvdXJjZShJTyB7CiAgICAgICAgdmFsIGEgPSBoYW5kbGVFcnJvcihkYikKICAgICAgICBhIC0+IGEuc3RhcnQoKQogICAgICB9KQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbnZlbnRvcnlQYXRoID0gY29uZmlnLmludmVudG9yeS5wYXRoCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMuam9ic2NoZWR1bGVyLm1lc29zc2NoZWR1bGVyLk1lc29zU2NoZWR1bGVyQXBwLmNyZWF0ZUZyYW1ld29yawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aWV3ZXJzaGlwUGF0aCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIElPIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIFJlc291cmNlLm1ha2UoY3JlYXRlRnJhbWV3b3JrKGNvbmZpZywgZGIpLmNyZWF0ZUZyYW1ld29yayhyZWNvdmVyKSkgewogICAgICBjYXNlIChfLCBfLCBmdykgPT4gaWYgKHRlcm1pbmF0ZSkgZncudGVybWluYXRlKCkuYXNJTy52b2lkIGVsc2UgSU8udW5pdAogICAgfS5mbGF0TWFwIHsKICAgICAgY2FzZSAoXywgXywgZncpID0+IGluc3RhbnRpYXRlKGNvbmZpZywgZGIsIGZ3KQogICAgfQoKICAgIFJlc291cmNlLm1ha2UoY3JlYXRlRnJhbWV3b3JrKGNvbmZpZywgZGIpLmNyZWF0ZUZyYW1ld29yayhyZWNvdmVyKSkgewogICAgICBjYXNlIChfLCBfLCBmdykgPT4gaWYgKHRlcm1pbmF0ZSkgZncudGVybWluYXRlKCkuYXNJTy52b2lkIGVsc2UgSU8udW5pdAogICAgfS51c2UgewogICAgICBjYXNlIChwcmV2aW91c0ZXLCBfLCBmdykgPT4gZm9yIHsKICAgICAgICBjb21wb25lbnRzIDwtIElPKGluc3RhbnRpYXRlKGNvbmZpZywgZGIsIGZ3KSkKICAgICAgICBzdG9wQ29tcG9uZW50cyA8LSBjb21wb25lbnRzLnRyYXZlcnNlKGMgPT4gSU8oYy5zdGFydCgpKSkKICAgICAgICBfIDwtIHByZXZpb3VzRlcudHJhdmVyc2UocHJldmlvdXNGVyA9PiByZWNvdmVyU3RhdGUoY29uZmlnLCBkYikucmVjb3ZlcihwcmV2aW91c0ZXLmlkLCBmdykpCiAgICAgICAgXyA8LSBJTyhHbG9iYWxFdmVudEJ1cy5ldmVudHMub25OZXh0KFN1Ym1pdEpvYigpKSkKICAgICAgICByZWNlaXZlUmVxdWVzdENvbXBvbmVudCA8LSBJTyhyZWNlaXZlSm9iUmVxdWVzdChjb25maWcsIGRiKSkKICAgICAgICBzdG9wUmVjZWl2ZVJlcXVlc3QgPSByZWNlaXZlUmVxdWVzdENvbXBvbmVudC5zdGFydCgpCiAgICAgICAgc3RvcEFsbENvbXBvbmVudHMgPSBzdG9wUmVjZWl2ZVJlcXVlc3QgKj4gc3RvcENvbXBvbmVudHMucmV2ZXJzZS50cmF2ZXJzZSh4ID0+IHgpCiAgICAgICAgXyA8LSBJTyhsb2cuaW5mbygiQWxsIGNvbXBvbmVudHMgaW5pdGlhbGl6ZWQiKSkKICAgICAgICB3YWl0UmVzdWx0IDwtIHdhaXQKICAgICAgICBfIDwtIElPKGxvZy5pbmZvKCJTaHV0dGluZyBkb3duIikpCiAgICAgICAgXyA8LSBzdG9wQWxsQ29tcG9uZW50cwogICAgICB9IHlpZWxkIHdhaXRSZXN1bHQKICAgIH0uZmxhdE1hcChyID0+IElPKGxvZy5pbmZvKCJFeGl0aW5nIikpICo+IElPLnB1cmUocikp</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">UmVzb3VyY2UubWFrZShpbnN0YW50aWF0ZShjb25maWcsIGRiLCBmdykudHJhdmVyc2UoYyA9PiBJTyhjLnN0YXJ0KCkpKSkgeyBjb21wb25lbnRzID0+CiAgICAgICAgY29tcG9uZW50cy5yZXZlcnNlLnRyYXZlcnNlKCkKICAgICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIElPIHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Zm9yIHsKICAgICAgICAgIF8gPC0gaWYg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aWV3ZXJzaGlwUGF0aCA9IGNvbmZpZy52aWV3ZXJzaGlwLnBhdGggLyBwYXJhbXMuZGF0ZS50b1N0cmluZwo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbnZlbnRvcnlQYXRoID0gY29uZmlnLmludmVudG9yeS5wYXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
