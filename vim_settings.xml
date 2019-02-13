@@ -571,10 +571,10 @@
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/scala/com/nbcuas/nielsen/link/inventory/LinkInventoryApp.scala" timestamp="1549909149987">
-        <mark key="[" line="88" column="30" />
-        <mark key="]" line="67" column="36" />
-        <mark key="." line="67" column="36" />
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/scala/com/nbcuas/nielsen/link/inventory/LinkInventoryApp.scala" timestamp="1550077927741">
+        <mark key="[" line="92" column="178" />
+        <mark key="]" line="92" column="178" />
+        <mark key="." line="92" column="178" />
         <mark key="^" line="67" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobFailureSpec.scala" timestamp="1550001527260">
@@ -696,8 +696,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHR5cGUgT3B0aW9uVElPW1RdID0gT3B0aW9uVFtJTywgVF0K</text>
+      <register name="&quot;" type="4">
+        <text>start_timestamp_utc</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -706,7 +706,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>OptionTIO</text>
+        <text>start_timestamp_utc</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
