@@ -552,10 +552,11 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="25" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/MesosAPI.scala" timestamp="1550085722535">
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/MesosAPI.scala" timestamp="1550087173215">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="48" />
+        <mark key="." line="39" column="48" />
+        <mark key="^" line="39" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/cd/ns-capping.json" timestamp="1549638209829">
         <mark key="[" line="19" column="18" />
@@ -713,7 +714,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>handle errors</text>
+        <text>global</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -722,7 +723,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>handle errors</text>
+        <text>global</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -731,7 +732,7 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgNDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -739,8 +740,8 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gICAgdmFsIHJlcXVlc3QgPSBIdHRwKHMiJG1lc29zVXJsL2ZyYW1ld29ya3MiKS5oZWFkZXIoIkF1dGhvcml6YXRpb24iLCBzInRva2VuPSR0b2tlbiIpCi8vCi8vICAgIGZvciB7Ci8vICAgICAgcmVzcG9uc2UgPC0gU3luY1tGXS5kZWxheShyZXF1ZXN0LmV4ZWN1dGVbU3RyaW5nXSgpKQovLyAgICAgIGJvZHkgPC0gaWYgKHJlc3BvbnNlLmlzU3VjY2VzcykgU3luY1tGXS5wdXJlKHJlc3BvbnNlLmJvZHkpCi8vICAgICAgICAgICAgICBlbHNlIFN5bmNbRl0ucmFpc2VFcnJvcihuZXcgUnVudGltZUV4Y2VwdGlvbihzIkZhaWxlZCByZXRyaWV2aW5nIGZyYW1ld29yayBpbmZvOiBjb2RlPSR7cmVzcG9uc2UuY29kZX0gYm9keT0ke3Jlc3BvbnNlLmJvZHl9IikpCi8vICAgICAganNvbiA8LSBTeW5jW0ZdLmZyb21FaXRoZXIoZGVjb2RlW0ZyYW1ld29ya3NdKGJvZHkpKQovLyAgICB9IHlpZWxkIGpzb24=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -749,13 +750,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBgU2NhbGFKLUh0dHBgICAgICAgPSAiMi4zLjAiCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gICAgdmFsIHJlcXVlc3QgPSBIdHRwKG1lc29zQXV0aFVSTCkucG9zdERhdGEoYXV0aFJlcXVlc3QuYXNKc29uLm5vU3BhY2VzKS5oZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKLy8KLy8gICBmb3IgewovLyAgICAgIHJlc3BvbnNlIDwtIFN5bmNbRl0uZGVsYXkocmVxdWVzdC5leGVjdXRlW1N0cmluZ10oKSkKLy8gICAgICBib2R5IDwtIGlmIChyZXNwb25zZS5pc1N1Y2Nlc3MpIFN5bmNbRl0ucHVyZShyZXNwb25zZS5ib2R5KQovLyAgICAgIGVsc2UgU3luY1tGXS5yYWlzZUVycm9yKG5ldyBSdW50aW1lRXhjZXB0aW9uKHMiQXV0aGVudGljYXRpb24gZmFpbGVkOiBjb2RlPSR7cmVzcG9uc2UuY29kZX0gYm9keT0ke3Jlc3BvbnNlLmJvZHl9IikpCi8vICAgICAgYXV0aFJlc3BvbnNlIDwtIFN5bmNbRl0uZnJvbUVpdGhlcihkZWNvZGVbQXV0aFJlc3BvbnNlXShib2R5KSkKLy8gICAgfSB5aWVsZCBhdXRoUmVzcG9uc2UudG9rZW4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgNDIK</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
