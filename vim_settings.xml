@@ -248,12 +248,6 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="10" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/mesos-scala-api/build.sbt" timestamp="1550243960160">
-        <mark key="[" line="145" column="22" />
-        <mark key="]" line="86" column="47" />
-        <mark key="." line="86" column="47" />
-        <mark key="^" line="86" column="47" />
-      </file>
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/scala/com/nbcuas/nielsen/link/inventory/config/package.scala" timestamp="1549905791414">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -457,6 +451,11 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/test/scala/com/nokia/mesos/test/Ttest.scala" timestamp="1550247531340">
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/it/resources/reference.conf" timestamp="1550164661722">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="1" column="0" />
@@ -647,11 +646,10 @@
         <mark key="." line="17" column="107" />
         <mark key="^" line="17" column="107" />
       </file>
-      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/async/MesosFrameworkImpl.scala" timestamp="1550246314580">
-        <mark key="[" line="126" column="66" />
-        <mark key="]" line="125" column="21" />
-        <mark key="." line="125" column="21" />
-        <mark key="^" line="125" column="21" />
+      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/async/MesosFrameworkImpl.scala" timestamp="1550247731999">
+        <mark key="[" line="132" column="8" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/universal/conf/environment/prod/application.conf" timestamp="1548953031841">
         <mark key="[" line="10" column="25" />
@@ -664,6 +662,12 @@
         <mark key="]" line="10" column="35" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/api/async/test.sc" timestamp="1550247285179">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartJob.scala" timestamp="1549995082652">
         <mark key="[" line="32" column="37" />
@@ -700,10 +704,10 @@
         <mark key="^" line="12" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/api/async/MesosFramework.scala" timestamp="1550244042588">
-        <mark key="[" line="84" column="28" />
-        <mark key="]" line="84" column="28" />
-        <mark key="." line="84" column="28" />
-        <mark key="^" line="84" column="28" />
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="38" column="28" />
+        <mark key="." line="38" column="28" />
+        <mark key="^" line="38" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -784,8 +788,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Unit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -803,31 +807,31 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFzeW5jW0ZdLmFzeW5jIHsgY2IgPT4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ly8gICAgICAgICAgICAucnVuQXN5bmMgewovLyAgICAgICAgICAgIGNhc2UgTGVmdChlKSA9PiBTeW5jW0ZdLnVuaXQKLy8gICAgICAgICAgICBjYXNlIFJpZ2h0KHYpID0+IFN5bmNbRl0udW5pdAovLyAgICAgICAgICB9CiAgICAgICAgICBoYW5kbGUobykucmVjb3ZlciB7CiAgICAgICAgICAgIGNhc2UgZXg6IEFueSA9PgogICAgICAgICAgICAgIGxvZ2dlci53YXJuKHMiRXhjZXB0aW9uIHdoaWxlIGhhbmRsaW5nIG9mZmVyICh3aWxsIGRlY2xpbmUpIiwgZXgpCiAgICAgICAgICAgICAgZm9yIChvZmYgPC0gbykgdGhpcy5kZWNsaW5lKG9mZi5pZCkKICAgICAgICAgIH0gKGRyaXZlci5leGVjdXRvcik=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgIHZhbCBhOiBGW0ludF0gPSBBc3luY1tGXS5hc3luY1tJbnRdIHsgY2IgPT4KICAgICAgICAgICAgY29uY3VycmVudEVmZmVjdC5zdGFydChoYW5kbGUobykubWFwKF8gPT4gY2IoUmlnaHQoMikpKS5yZWNvdmVyIHsKICAgICAgICAgICAgICBjYXNlIGV4ID0+CiAgICAgICAgICAgICAgICBsb2dnZXIud2FybihzIkV4Y2VwdGlvbiB3aGlsZSBoYW5kbGluZyBvZmZlciAod2lsbCBkZWNsaW5lKSIsIGV4KQogICAgICAgICAgICAgICAgby5mb3JlYWNoKG9mZiA9PiBkZWNsaW5lKG9mZi5pZCkpCiAgICAgICAgICAgICAgICBjYihMZWZ0KGV4KSkKICAgICAgICAgICAgfSkKICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlKG8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGZvciB7CiAgICAgIGRyaXZlciA8LSBta0RyaXZlcgogICAgfSB5aWVsZCAoKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFRocmVhZC5zbGVlcCgxMDAwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0LmltcGxpY2l0cy5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0LnN5bnRheC5hbGwuXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0Ll8K</text>
+        <text encoding="base64">ICAgICAgICAgIEFzeW5jW0ZdLmFzeW5jIHsgY2IgPT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlKG8pCg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
