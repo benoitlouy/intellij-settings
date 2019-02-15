@@ -248,11 +248,11 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="10" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/mesos-scala-api/build.sbt" timestamp="1549377784218">
-        <mark key="[" line="73" column="103" />
-        <mark key="]" line="73" column="103" />
-        <mark key="." line="73" column="103" />
-        <mark key="^" line="161" column="57" />
+      <file name="$USER_HOME$/Projects/mesos-scala-api/build.sbt" timestamp="1550243960160">
+        <mark key="[" line="145" column="22" />
+        <mark key="]" line="86" column="47" />
+        <mark key="." line="86" column="47" />
+        <mark key="^" line="86" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/scala/com/nbcuas/nielsen/link/inventory/config/package.scala" timestamp="1549905791414">
         <mark key="[" line="3" column="0" />
@@ -566,7 +566,7 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="/sbtShell" timestamp="1550169915047">
+      <file name="/sbtShell" timestamp="1550245351854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -626,6 +626,9 @@
         <mark key="^" line="39" column="29" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/launcher/frameworkImpl.scala" timestamp="1550244053753">
+        <mark key="[" line="45" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0011__job_run_does_not_require_job_config.sql" timestamp="1548963322690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="63" />
@@ -643,6 +646,12 @@
         <mark key="]" line="17" column="107" />
         <mark key="." line="17" column="107" />
         <mark key="^" line="17" column="107" />
+      </file>
+      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/async/MesosFrameworkImpl.scala" timestamp="1550245586561">
+        <mark key="[" line="125" column="35" />
+        <mark key="]" line="125" column="35" />
+        <mark key="^" line="130" column="13" />
+        <mark key="." line="125" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/universal/conf/environment/prod/application.conf" timestamp="1548953031841">
         <mark key="[" line="10" column="25" />
@@ -678,6 +687,7 @@
         <mark key="]" line="12" column="90" />
         <mark key="." line="12" column="90" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.nbcuas.more/more-cats-effect_2.12/srcs/more-cats-effect_2.12-2.0.0.50e069d-sources.jar!/com/nbcuas/more/cats/effect/syntax/EffectSyntax.scala" timestamp="1550245447609" />
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/main/scala/com/nbcuas/nielsen/capping/config/package.scala" timestamp="1549905183732">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -688,6 +698,12 @@
         <mark key="]" line="12" column="56" />
         <mark key="." line="12" column="56" />
         <mark key="^" line="12" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/api/async/MesosFramework.scala" timestamp="1550244042588">
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="84" column="28" />
+        <mark key="." line="84" column="28" />
+        <mark key="^" line="84" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -768,8 +784,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0LmltcGxpY2l0cy5fCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OiBFaXRoZXJbVGhyb3dhYmxlLCBJbnRdID0+IFVuaXQ=</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -778,7 +794,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text encoding="base64">OiBFaXRoZXJbVGhyb3dhYmxlLCBJbnRdID0+IFVuaXQ=</text>
       </register>
       <register name="/" type="4">
         <text>0.11.0.0</text>
@@ -787,31 +803,31 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0LmltcGxpY2l0cy5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlKG8pCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0LnN5bnRheC5hbGwuXwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGZvciB7CiAgICAgIGRyaXZlciA8LSBta0RyaXZlcgogICAgfSB5aWVsZCAoKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0Ll8K</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0LmltcGxpY2l0cy5fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0LnN5bnRheC5hbGwuXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuZWZmZWN0Ll8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0gYS50b0lPW1RdCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LmZ1bmN0b3IuXwo=</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IHlpZWxkIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gYS50b0lPW1RdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LmZsYXRNYXAuXwo=</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LmZ1bmN0b3IuXwo=</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
