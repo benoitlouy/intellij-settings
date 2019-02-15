@@ -348,10 +348,10 @@
         <mark key="." line="32" column="22" />
         <mark key="^" line="32" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/test/scala/com/nbcuas/more/cats/effect/syntax/EffectSyntaxSpec.scala" timestamp="1550086813374">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
+      <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/test/scala/com/nbcuas/more/cats/effect/syntax/EffectSyntaxSpec.scala" timestamp="1550268469775">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mesos-scala-api/project/plugins.sbt" timestamp="1549303956507">
         <mark key="[" line="28" column="0" />
@@ -480,10 +480,11 @@
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/CreateFramework.scala" timestamp="1550252874880">
         <mark key="[" line="56" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/main/scala/com/nbcuas/more/cats/effect/syntax/EffectSyntax.scala" timestamp="1549992352791">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/main/scala/com/nbcuas/more/cats/effect/syntax/EffectSyntax.scala" timestamp="1550264497625">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJob.scala" timestamp="1550262787309">
         <mark key="[" line="4" column="44" />
@@ -578,6 +579,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/test/scala/com/nbcuas/more/cats/effect/MLockSpec.scala" timestamp="1550268527174">
+        <mark key="[" line="40" column="105" />
+        <mark key="]" line="40" column="105" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="40" column="105" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0008__job_run_uuid_column.sql" timestamp="1548692817154">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="47" />
@@ -632,9 +639,6 @@
         <mark key="^" line="39" column="29" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/launcher/frameworkImpl.scala" timestamp="1550244053753">
-        <mark key="[" line="45" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0011__job_run_does_not_require_job_config.sql" timestamp="1548963322690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="63" />
@@ -683,6 +687,12 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/main/scala/com/nbcuas/more/cats/effect/MLock.scala" timestamp="1550268092812">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1550158975394">
         <mark key="[" line="0" column="0" />
@@ -791,8 +801,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -801,10 +811,10 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>, Resource,</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>0.11.0.0</text>
+        <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
@@ -813,37 +823,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgwIHRvIDEwKS5tYXAoXyA9PiByZXF1ZXN0U3VjY2VzcykK</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZGQgdW5pdCB0ZXN0IGZvciBlcnJvciBjYXNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBzZW1hcGhvcmUuYWNxdWlyZQo=</text>
+        <text encoding="base64">ICAiRWZmZWN0T3BzIiBzaG91bGQgInByb3ZpZGUgcnVuQXN5bmMgZXh0ZW5zaW9uIG1ldGhvZCBmb3IgYW55IFN5bmNbRl0gd2l0aCBhbiBFZmZlY3RbRl0iIGluIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBzZW1hcGhvcmUgPSBSZXNvdXJjZS5tYWtlIHsKICAgIAogIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiByZWZhY3RvciBJTyBjb252ZXJ0ZXIgdG8gYWJzdHJhY3QgdGhlIGVmZmVjdCB0eXBlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1WYXIub2ZbRiwgVW5pdF0oKCkpLm1hcChuZXcgTUxvY2soXykpLnRvSU8udW5zYWZlUnVuU3luYygpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjYXRzLmVmZmVjdC5zeW50YXguZWZmZWN0Ll8K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjYXRzLmVmZmVjdC5zeW50YXguZWZmZWN0Ll8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
       </register>
     </registers>
     <search>
-      <last-search>0.11.0.0</last-search>
+      <last-search encoding="base64">XDx7XD4=</last-search>
       <last-offset />
-      <last-pattern>0.11.0.0</last-pattern>
+      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -857,6 +867,7 @@
         <entry encoding="base64">XDxIVFRQX1NUQVRVU1w+</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry>0.11.0.0</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>98</entry>
