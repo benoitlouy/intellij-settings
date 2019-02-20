@@ -36,6 +36,11 @@
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJobSpec.scala" timestamp="1550589415743">
         <mark key="[" line="97" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/deploy.sh" timestamp="1550682186219">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/KStreamIT.scala" timestamp="1550598594176">
         <mark key="[" line="23" column="13" />
       </file>
@@ -263,6 +268,12 @@
         <mark key="]" line="17" column="101" />
         <mark key="^" line="17" column="100" />
         <mark key="." line="17" column="101" />
+      </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/ag-viewership-link-inventory-fourthwall.json" timestamp="1550682345343">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobStartedSpec.scala" timestamp="1550001599775">
         <mark key="[" line="18" column="109" />
@@ -577,6 +588,7 @@
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/ag-viewership-link-inventory-backlog.json" timestamp="1550682320447" />
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/scala/com/nbcuas/nielsen/link/inventory/LinkInventoryApp.scala" timestamp="1550164838047">
         <mark key="[" line="94" column="53" />
         <mark key="]" line="92" column="178" />
@@ -727,7 +739,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dates.map(LocalDate.parse)))</text>
+        <text>8</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -736,7 +748,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>dates.map(LocalDate.parse)))</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -745,31 +757,33 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGltZV9wZXJpb2Q9IjEgZGF5cyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VkIC1pIC1lICJzL1wke1RJTUVfUEVSSU9EfS8ke3RpbWVfcGVyaW9kfS9nIiAke2NvbmZpZ19wcm9jZXNzZWR9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VkIC1pIC1lICdzLyR7TkFNRV9TVUZGSVh9Lycke25hbWVfc3VmZml4fScvZycgJHtjb25maWdfcHJvY2Vzc2VkfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZV9zdWZmaXg9IiIK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGxvYWRWaWV3ZXJzaGlwKHZpZXdlcnNoaXBQYXRoLCBwYXJhbXMuZGF0ZSApLnRvVmFsaWRhdGVkTmVsIGFuZFRoZW4geyB2aWV3ZXJzaGlwOiBEYXRhRnJhbWUgPT4KICAgICAgdmFsIChzdGFydERhdGUsIGVuZERhdGUpID0gdmlld2Vyc2hpcERhdGVSYW5nZSh2aWV3ZXJzaGlwKQogICAgICBsb2FkSW52ZW50b3J5Rm9yRGF0ZVJhbmdlKHN0YXJ0RGF0ZSwgZW5kRGF0ZSwgaW52ZW50b3J5UGF0aCkgbWFwIHsgaW52ZW50b3J5ID0+CiAgICAgICAgbGluayh2aWV3ZXJzaGlwLnJlcGFydGl0aW9uKG1hdGguY2VpbCh2aWV3ZXJzaGlwLnJkZC5nZXROdW1QYXJ0aXRpb25zICogdmlld2Vyc2hpcFBhcnRpdGlvbkZhY3RvcikudG9JbnQpLCBpbnZlbnRvcnksIHV1aWRHcm91cEJ5UGFydGl0aW9uRmFjdG9yKQogICAgICB9CiAgICB9IG1hcCB7IGRmID0+CiAgICAgIHZhbCBkYXRlUGF0aCA9IHNvdXJjZUNvbmZpZy5nZXRTdHJpbmcoImRlc3RpbmF0aW9uLnBhdGgiKS50b0hhZG9vcFBhdGggLyBwYXJhbXMuZGF0ZS50b1N0cmluZwogICAgICB2YWwgcGF0aCA9IHBhcmFtcy5wYXJ0aXRpb24uZm9sZChkYXRlUGF0aCkoZGF0ZVBhdGggLyBfLnRvU3RyaW5nKQogICAgICBkZi5yZXBhcnRpdGlvbihzb3VyY2VDb25maWcuZ2V0SW50KCJkZXN0aW5hdGlvbi5wYXJ0aXRpb25zIikpLnNhdmVBc1BhcnF1ZXQocGF0aCkKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">c2VkIC1pIC1lICdzLyR7REVQRU5ERU5DWV9TVUZGSVh9Lycke2RlcGVuZGVuY3lfc3VmZml4fScvZycgJHtjb25maWdfcHJvY2Vzc2VkfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LnZhbGlkYXRlZC5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4Lgo=</text>
+      <register name="8" type="4">
+        <text>if [ -z ${dependency_suffix} ]; then
+  dependency_suffix=&quot;${name_suffix}&quot;
+fi</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHBhdGggPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
