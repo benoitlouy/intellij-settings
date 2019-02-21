@@ -33,10 +33,10 @@
         <mark key="^" line="36" column="38" />
         <mark key="." line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/src/it/scala/com/nbcuas/audiencegraph/viewership/link/inventory/LinkInventorySpec.scala" timestamp="1550768772765">
-        <mark key="[" line="484" column="0" />
-        <mark key="]" line="484" column="0" />
-        <mark key="." line="484" column="0" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/src/it/scala/com/nbcuas/audiencegraph/viewership/link/inventory/LinkInventorySpec.scala" timestamp="1550768806834">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJobSpec.scala" timestamp="1550589415743">
         <mark key="[" line="97" column="29" />
@@ -199,10 +199,8 @@
         <mark key="." line="51" column="100" />
         <mark key="^" line="51" column="100" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-capping/src/main/scala/com/nbcuas/audiencegraph/capping/Capping.scala" timestamp="1550768219645">
-        <mark key="[" line="129" column="11" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-capping/src/main/scala/com/nbcuas/audiencegraph/capping/Capping.scala" timestamp="1550769219161">
+        <mark key="[" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MoreIOSpec.scala" timestamp="1548345296849">
         <mark key="[" line="78" column="75" />
@@ -328,6 +326,11 @@
         <mark key="." line="32" column="22" />
         <mark key="^" line="32" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/ag-viewership-link-inventory-comcast.json" timestamp="1550769379660">
+        <mark key="[" line="5" column="71" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+      </file>
       <file name="$USER_HOME$/Projects/more-utils/more-hadoop-paths/src/test/scala/com/nbcuas/more/hadoop/paths/MoreHadoopPathsSpec.scala" timestamp="1550680870649">
         <mark key="[" line="590" column="32" />
         <mark key="]" line="590" column="33" />
@@ -348,10 +351,10 @@
       <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/src/universal/conf/environment/dev/application.conf" timestamp="1550683123487">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/ag-viewership-link-inventory-vizio.json" timestamp="1550767392600">
-        <mark key="[" line="6" column="71" />
-        <mark key="]" line="6" column="71" />
-        <mark key="." line="6" column="71" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/ag-viewership-link-inventory-vizio.json" timestamp="1550769421504">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="70" />
+        <mark key="." line="5" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/comscore/cs-ingest/src/main/scala/com/nbcuas/comscore/ingest/IngestComscore.scala" timestamp="1549466863410">
         <mark key="[" line="39" column="57" />
@@ -775,8 +778,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>${NAME_SUFFIX}</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -785,7 +788,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Valid(result)</text>
+        <text>${NAME_SUFFIX}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -793,17 +796,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHZhbCBzZXNzaW9uVGltZW91dCA9IER1cmF0aW9uLnBhcnNlKGNvbmZpZy5nZXRTdHJpbmcoInNlc3Npb24tdGltZW91dCIpKQogICAgdmFsIGxpbmVhclNlc3Npb25NaW5EdXJhdGlvbiA9IER1cmF0aW9uLnBhcnNlKGNvbmZpZy5nZXRTdHJpbmcoImxpbmVhci1zZXNzaW9uLW1pbi1kdXJhdGlvbiIpKQoKICAgIHZhbCBzb3VyY2VDb25maWcgPSBjb25maWcuZ2V0Q29uZmlnKHBhcmFtcy5zb3VyY2UpCiAgICB2YWwgc291cmNlUGF0aCA9IHNvdXJjZUNvbmZpZy5nZXRTdHJpbmcoInNvdXJjZSIpCiAgICB2YWwgZGVzdGluYXRpb25QYXRoID0gc291cmNlQ29uZmlnLmdldFN0cmluZygiZGVzdGluYXRpb24ucGF0aCIpCiAgICB2YWwgZGVzdGluYXRpb25QYXJ0aXRpb25zID0gc291cmNlQ29uZmlnLmdldEludCgiZGVzdGluYXRpb24ucGFydGl0aW9ucyIpCiAgICB2YWwgaWdub3JlRFZSID0gc291cmNlQ29uZmlnLmdldEJvb2xlYW4oImlnbm9yZS1kdnIiKQogICAgdmFsIGdyb3VwQnlQYXJ0aXRpb25zID0gc291cmNlQ29uZmlnLmdldEludCgiZ3JvdXAtYnktcGFydGl0aW9ucyIpCiAgICB2YWwgYWRkQ29sdW1ucyA9IHNvdXJjZUNvbmZpZy5nZXRDb25maWdMaXN0KCJhZGQtY29sdW1ucyIpLm1hcCB7IGNvbHVtbkNvbmY6IENvbmZpZyA9PgogICAgICB2YWwgbmFtZSA9IGNvbHVtbkNvbmYuZ2V0U3RyaW5nKCJuYW1lIikKICAgICAgdmFsIGRhdGFUeXBlID0gRGF0YVR5cGUuZnJvbUpzb24ocyIiIiIke2NvbHVtbkNvbmYuZ2V0U3RyaW5nKCJ0eXBlIil9IiIiIikKICAgICAgbmFtZSAtPiBkYXRhVHlwZQogICAgfQoKICAgIHZhbCByYW5nZXMgPSBwYXJhbXMgbWF0Y2ggewogICAgICBjYXNlIFBhcmFtcyhfLCBTb21lKGZyb20pLCBTb21lKHRvKSkgaWYgZnJvbSA8IHRvID0+IFNlcShmcm9tIHJhbmdlVW50aWwgdG8pLnZhbGlkCiAgICAgIGNhc2UgUGFyYW1zKF8sIE5vbmUsIE5vbmUpID0+IFZhbGlkYXRlZC5mcm9tVHJ5KE1vcmVIYWRvb3BQYXRocy5taXNzaW5nRGF0ZXMoc291cmNlUGF0aCwgZGVzdGluYXRpb25QYXRoKSkKICAgICAgY2FzZSBfID0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJJbGxlZ2FsIGNvbWJpbmF0aW9uIG9mIGRhdGVzIGluIHBhcmFtZXRlcnMgJHBhcmFtcyIpLmludmFsaWQKICAgIH0KCiAgICB2YWwgcmVzdWx0ID0gcmFuZ2VzLm1hcChfLmZsYXR0ZW4pLnRvVmFsaWRhdGVkTmVsLmFuZFRoZW4geyBkYXRlcyA9PgogICAgICBkYXRlcy5mb2xkTGVmdCgoKS52YWxpZE5lbFtFeGNlcHRpb25dKSB7CiAgICAgICAgY2FzZSAoVmFsaWQoKCkpLCBkYXRlKSA9PgogICAgICAgICAgdmFsIHBhdGhzID0gVmVjdG9yKGRhdGUubWludXNEYXlzKDEpLCBkYXRlLCBkYXRlLnBsdXNEYXlzKDEpKS5tYXAgeyBkYXRlID0+CiAgICAgICAgICAgIFZhbGlkYXRlZC5jYXRjaE9ubHlbRXhjZXB0aW9uXShNb3JlSGFkb29wUGF0aHMuZ2V0RGF0ZUZpbGUoc291cmNlUGF0aCwgZGF0ZSkpLnRvVmFsaWRhdGVkTmVsCiAgICAgICAgICB9LnNlcXVlbmNlVQogICAgICAgICAgdmFsIGRhdGEgPSBwYXRocy5hbmRUaGVuKF8ubWFwKE1vcmVTcGFya0RhdGFGcmFtZXMucmVhZFBhcnF1ZXQoXykudG9WYWxpZGF0ZWROZWwpLnNlcXVlbmNlVSkKICAgICAgICAgIGRhdGEubWFwIHsgZGF0YSA9PgogICAgICAgICAgICBwcm9jZXNzRGF5KGRhdGEoMCksIGRhdGEoMSksIGRhdGEoMiksIHNlc3Npb25UaW1lb3V0LCBsaW5lYXJTZXNzaW9uTWluRHVyYXRpb24sIGlnbm9yZURWUiwgZ3JvdXBCeVBhcnRpdGlvbnMsIGFkZENvbHVtbnMpCiAgICAgICAgICB9Lm1hcChfLnJlcGFydGl0aW9uKGRlc3RpbmF0aW9uUGFydGl0aW9ucykuc2F2ZUFzUGFycXVldChkZXN0aW5hdGlvblBhdGgudG9IYWRvb3BQYXRoIC8gZGF0ZS50b1N0cmluZykpLnZvaWQKICAgICAgICBjYXNlIChjb250aW51ZSwgXykgPT4gY29udGludWUKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCBzaG91bGRCZSBleHBlY3RlZERhdGVzLm1hcChMb2NhbERhdGUucGFyc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCBzaG91bGRCZSBleHBlY3RlZERhdGVzLm1hcChMb2NhbERhdGUucGFyc2UpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHZhbCBwYXRocyA9IFZlY3RvcihwYXJhbXMuZGF0ZS5taW51c0RheXMoMSksIHBhcmFtcy5kYXRlLCBwYXJhbXMuZGF0ZS5wbHVzRGF5cygxKSkubWFwIHsgZGF0ZSA9PgogICAgICBWYWxpZGF0ZWQuY2F0Y2hPbmx5W0V4Y2VwdGlvbl0oTW9yZUhhZG9vcFBhdGhzLmdldERhdGVGaWxlKHNvdXJjZVBhdGgsIGRhdGUpKS50b1ZhbGlkYXRlZE5lbAogICAgfS5zZXF1ZW5jZVUKICAgIHZhbCBkYXRhID0gcGF0aHMuYW5kVGhlbihfLm1hcChNb3JlU3BhcmtEYXRhRnJhbWVzLnJlYWRQYXJxdWV0KF8pLnRvVmFsaWRhdGVkTmVsKS5zZXF1ZW5jZVUpCiAgICB2YWwgY2FwcGVkRGF0YSA9IGRhdGEubWFwIHsgZGF0YSA9PgogICAgICBwcm9jZXNzKGRhdGEoMCksIGRhdGEoMSksIGRhdGEoMiksIHNlc3Npb25UaW1lb3V0LCBsaW5lYXJTZXNzaW9uTWluRHVyYXRpb24sIGlnbm9yZURWUiwgZ3JvdXBCeVBhcnRpdGlvbnMsIGFkZENvbHVtbnMpCiAgICB9Lm1hcChfLnJlcGFydGl0aW9uKGRlc3RpbmF0aW9uUGFydGl0aW9ucykuc2F2ZUFzUGFycXVldChkZXN0aW5hdGlvblBhdGgudG9IYWRvb3BQYXRoIC8gcGFyYW1zLmRhdGUudG9TdHJpbmcpKQ==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -815,10 +818,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCBzaG91bGRCZSBleHBlY3RlZERhdGVzLm1hcChMb2NhbERhdGUucGFyc2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
