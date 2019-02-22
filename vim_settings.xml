@@ -50,6 +50,12 @@
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/ComcastViewership.scala" timestamp="1550858463895">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="21" column="46" />
+        <mark key="^" line="21" column="46" />
+        <mark key="." line="21" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequest.scala" timestamp="1550589043352">
         <mark key="[" line="59" column="15" />
         <mark key="]" line="59" column="15" />
@@ -472,7 +478,11 @@
         <mark key="." line="157" column="114" />
         <mark key="^" line="157" column="114" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/Viewership.scala" timestamp="1550849949812" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/Viewership.scala" timestamp="1550858587315">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/log4j.executor.properties" timestamp="1549490226895">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="52" />
@@ -533,16 +543,21 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/ViewershipBuilder.scala" timestamp="1550858243150">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/test/scala/com/nbcuas/more/cats/effect/MLockSpec.scala" timestamp="1550587901985">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="38" />
         <mark key="^" line="32" column="31" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewership.scala" timestamp="1550857294373">
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="10" />
-        <mark key="." line="26" column="10" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewership.scala" timestamp="1550858231957">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
         <mark key="^" line="26" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0008__job_run_uuid_column.sql" timestamp="1548692817154">
@@ -550,6 +565,11 @@
         <mark key="]" line="1" column="47" />
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/VizioViewership.scala" timestamp="1550858389049">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-requests/src/main/scala/com/nbcuas/jobscheduler/requests/JobRequest.scala" timestamp="1548782476196">
         <mark key="[" line="2" column="56" />
@@ -764,8 +784,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, callSignRename: Map[String, String]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -774,7 +794,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>, callSignRename: Map[String, String]</text>
+        <text>NonEmptyList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -789,25 +809,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBoYWRvb3BDb25maWc6IENvbmZpZ3VyYXRpb24gPSBzcGFyay5zcGFya0NvbnRleHQuaGFkb29wQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB6aXBjb2RlUGF0aCA9IGNvbmZpZy5nZXRTdHJpbmcoInNvdXJjZS56aXBjb2RlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWZMb29rYWhlYWQgPSBtYXRoLm1heCgwLCBjb25maWcuZ2V0SW50KCJzb3VyY2UucmVmLmxvb2thaGVhZCIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb3V0cHV0UGF0aAo=</text>
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBoYWRvb3BDb25maWc6IENvbmZpZ3VyYXRpb24gPSBzcGFyay5zcGFya0NvbnRleHQuaGFkb29wQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb252ZXJ0ID0gKHA6IEhQYXRoKSA9PiBMb2NhbERhdGUucGFyc2UocC5nZXROYW1lKQo=</text>
+        <text encoding="base64">ICAgIHZhbCB6aXBjb2RlUGF0aCA9IGNvbmZpZy5nZXRTdHJpbmcoInNvdXJjZS56aXBjb2RlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb252ZXJ0ID0gKHA6IEhQYXRoKSA9PiBMb2NhbERhdGUucGFyc2UocC5nZXROYW1lKQo=</text>
+        <text encoding="base64">ICAgIHZhbCByZWZMb29rYWhlYWQgPSBtYXRoLm1heCgwLCBjb25maWcuZ2V0SW50KCJzb3VyY2UucmVmLmxvb2thaGVhZCIpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb252ZXJ0ID0gKHA6IEhQYXRoKSA9PiBMb2NhbERhdGUucGFyc2UocC5nZXROYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgb3V0cHV0UGF0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
