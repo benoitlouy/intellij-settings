@@ -330,8 +330,10 @@
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-data-ingest/src/main/scala/com/nbcuas/audiencegraph/dataingest/XMLProcessor.scala" timestamp="1550854489483">
-        <mark key="[" line="59" column="20" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-data-ingest/src/main/scala/com/nbcuas/audiencegraph/dataingest/XMLProcessor.scala" timestamp="1550855319449">
+        <mark key="[" line="68" column="10" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/comscore/cs-ingest/src/main/scala/com/nbcuas/comscore/ingest/IngestComscore.scala" timestamp="1549466863410">
         <mark key="[" line="39" column="57" />
@@ -537,11 +539,8 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewership.scala" timestamp="1550854310044">
-        <mark key="[" line="43" column="72" />
-        <mark key="]" line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-        <mark key="." line="41" column="14" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewership.scala" timestamp="1550855572886">
+        <mark key="^" line="43" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0008__job_run_uuid_column.sql" timestamp="1548692817154">
         <mark key="[" line="1" column="32" />
@@ -763,7 +762,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1.15.0.9289224</text>
+        <text>Period</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -772,7 +771,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1.15.0.9289224</text>
+        <text>Period</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -781,7 +780,7 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb252ZXJ0ID0gKHA6IEhQYXRoKSA9PiBMb2NhbERhdGUucGFyc2UocC5nZXROYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgb3V0cHV0UGF0aAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHZhbCBjb252ZXJ0ID0gKHA6IEhQYXRoKSA9PiBMb2NhbERhdGUucGFyc2UocC5nZXROYW1lKQo=</text>
@@ -796,16 +795,16 @@
         <text encoding="base64">ICAgIHZhbCBjb252ZXJ0ID0gKHA6IEhQYXRoKSA9PiBMb2NhbERhdGUucGFyc2UocC5nZXROYW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGRpZmYgPSByZWNlaXZlZERhdGUudW50aWwoZGF0YURhdGUpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb252ZXJ0ID0gKHA6IEhQYXRoKSA9PiBMb2NhbERhdGUucGFyc2UocC5nZXROYW1lKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGRpZmYgPSByZWNlaXZlZERhdGUudW50aWwoZGF0YURhdGUpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">c2VkIC1pIC1lICdzLyR7REVQRU5ERU5DWV9TVUZGSVh9Lycke2RlcGVuZGVuY3lfc3VmZml4fScvZycgJHtjb25maWdfcHJvY2Vzc2VkfQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAicGFyZW50cyI6IFsKICAgICJhZyR7RU5WSVJPTk1FTlRfU1VGRklYfS12aWV3ZXJzaGlwLSR7U09VUkNFfSIKICBdLA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2VkIC1pIC1lICdzLyR7TkFNRV9TVUZGSVh9Lycke25hbWVfc3VmZml4fScvZycgJHtjb25maWdfcHJvY2Vzc2VkfQo=</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
