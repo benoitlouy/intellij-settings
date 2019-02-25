@@ -134,6 +134,12 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/deploy.sh" timestamp="1551106029063">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/templates/bash-template" timestamp="1550182641353">
         <mark key="[" line="29" column="29" />
         <mark key="]" line="29" column="46" />
@@ -170,7 +176,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-capping/src/templates/bash-template" timestamp="1550846524200" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-common/src/main/scala/com/nbcuas/linearoptimizer/common/MediaPlan.scala" timestamp="1551107370021">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/universal/conf/environment/dev/application.conf" timestamp="1549638337890">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="9" />
@@ -302,10 +312,22 @@
         <mark key="." line="32" column="22" />
         <mark key="^" line="32" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/it/scala/com/nbcuas/linearoptimizer/reporting/ReportingAppSpec.scala" timestamp="1551107075149">
+        <mark key="[" line="132" column="30" />
+        <mark key="]" line="132" column="30" />
+        <mark key="." line="132" column="30" />
+        <mark key="^" line="134" column="122" />
+      </file>
       <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/ag-viewership-link-inventory-comcast.json" timestamp="1550769379660">
         <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="71" />
         <mark key="." line="5" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/cd/deploy.sh" timestamp="1551105938474">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/audience-graph/ag-capping/cd/ag-capping.json" timestamp="1550785252339">
         <mark key="[" line="1" column="19" />
@@ -356,6 +378,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="^" line="14" column="25" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/cd/deploy-backlog.sh" timestamp="1551105986745">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobConfig.scala" timestamp="1548446871959">
         <mark key="[" line="10" column="49" />
@@ -528,7 +556,12 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="/sbtShell" timestamp="1550852856170">
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1551107099608">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
+      <file name="/sbtShell" timestamp="1551106484539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -560,6 +593,12 @@
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/deploy-backlog.sh" timestamp="1551106045916">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-requests/src/main/scala/com/nbcuas/jobscheduler/requests/JobRequest.scala" timestamp="1548782476196">
         <mark key="[" line="2" column="56" />
@@ -784,7 +823,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>an error</text>
+        <text>(InflightPlanIds)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -796,28 +835,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBJbmZsaWdodFBsYW5JZHMgPSAiSW5mbGlnaHRQbGFuSWRzIgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHJlc3VsdCBtYXRjaCB7CiAgICAgIGNhc2UgVmFsaWQoXykgPT4gZmFpbCgpCiAgICAgIGNhc2UgSW52YWxpZChlcnJvcnMpID0+CiAgICAgICAgZXJyb3JzLnRvTGlzdC5zaXplIHNob3VsZEJlIDEKICAgICAgICBlcnJvcnMudG9MaXN0LmhlYWQgc2hvdWxkQmUgYSBbRmlsZU5vdEZvdW5kRXhjZXB0aW9uXQogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBPbmFpclBvcnRmb2xpb0lkcyA9ICJPbmFpclBvcnRmb2xpb0lkcyIK</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHZhbCBpZENvbHVtbiA9IGlkTmFtZSBtYXRjaCB7CiAgICAgIGNhc2UgT25haXJQb3J0Zm9saW9JZHMgPT4gInAub25haXJfcG9ydGZvbGlvX2xpbmtfaWQiCiAgICAgIGNhc2UgSW5mbGlnaHRQbGFuSWRzID0+ICJwLmluZmxpZ2h0X3BsYW5faWQiCiAgICB9</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHByaW50bG4ocmVzdWx0KQoKICAgIHJlc3VsdCBtYXRjaCB7CiAgICAgIGNhc2UgVmFsaWQoXykgPT4gZmFpbCgpCiAgICAgIGNhc2UgSW52YWxpZChlKSA9PgogICAgICAgIGUudG9MaXN0Lmxlbmd0aCBzaG91bGRCZSAxCiAgICAgICAgZS50b0xpc3QuaGVhZCBzaG91bGRCZSBhIFtGaWxlTm90Rm91bmRFeGNlcHRpb25dCiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZU5vdEZvdW5kRXhjZXB0aW9uCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICBkZWYgZ2V0Rm9yT25haXJQb3J0Zm9saW9JZHMoY29uZmlnOiBDb25maWcsIG9uYWlyUG9ydGZvbGlvSWRzOiBTZXRbXyA8OiBBbnlWYWxdKShpbXBsaWNpdCBzcGFyazogU3BhcmtTZXNzaW9uKTogRGF0YUZyYW1lID0KICAgIGdldEZvcihPbmFpclBvcnRmb2xpb0lkcykoCiAgICAgIGNvbmZpZy5nZXRTdHJpbmcoInVybCIpLAogICAgICBjb25maWcuZ2V0U3RyaW5nKCJkcml2ZXIiKSwKICAgICAgY29uZmlnLmdldFN0cmluZygidXNlciIpLAogICAgICBjb25maWcuZ2V0U3RyaW5nKCJwYXNzd29yZCIpLAogICAgICBjb25maWcuZ2V0SW50KCJmZXRjaC1zaXplIiksCiAgICAgIG9uYWlyUG9ydGZvbGlvSWRzCiAgICAp</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBpdCBzaG91bGQgInJldHVybiBkYXRlcyB0aGF0IGhhdmUgYWxsIDMgc291cmNlcyBhdmFpbGFibGUgYW5kIGFyZSBtaXNzaW5nIGZyb20gZGVzdGluYXRpb24iIGluIHdpdGhUZW1wRGlyZWN0b3J5IHsgZGlyID0+CgogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
