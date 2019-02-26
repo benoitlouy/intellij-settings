@@ -528,6 +528,11 @@
         <mark key="^" line="44" column="33" />
         <mark key="." line="44" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/it/scala/com/nbcuas/audiencegraph/viewership/VizioViewershipSpec.scala" timestamp="1551211216680">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/dev/application.conf" timestamp="1551191422000">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="47" />
@@ -606,7 +611,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/it/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewershipSpec.scala" timestamp="1550868034682">
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/it/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewershipSpec.scala" timestamp="1551211066267">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -628,11 +633,11 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/VizioViewership.scala" timestamp="1551120582556">
-        <mark key="[" line="28" column="97" />
-        <mark key="]" line="28" column="95" />
-        <mark key="." line="28" column="95" />
-        <mark key="^" line="28" column="95" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/VizioViewership.scala" timestamp="1551210627494">
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/deploy-backlog.sh" timestamp="1551106045916">
         <mark key="[" line="21" column="0" />
@@ -865,8 +870,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>distinct</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -875,7 +880,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>distinct</text>
+        <text encoding="base64">IC8gIjIwMTktMDItMjYiIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -884,31 +889,31 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcuQ29uZmlnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChyZWZQYXRoIC8gIjIwMTktMDItMjIiIC8gTW9yZUhhZG9vcFBhdGhzLnN1Y2Nlc3NGaWxlTmFtZSkudG91Y2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChkdnJWaWV3UGF0aCAvICIyMDE5LTAyLTIyIiAvICIyMDE5LTAyLTI2IiAvIE1vcmVIYWRvb3BQYXRocy5zdWNjZXNzRmlsZU5hbWUpLnRvdWNoCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBzYnMgPSBuZXcgUHJvY2Vzc2luZ1R5cGUgewogICAgb3ZlcnJpZGUgZGVmIHBsYW5Vbml0RGV0YWlsQ29sdW1uTmFtZTogU3RyaW5nID0gU0JTLnBsYW5Vbml0RGV0YWlsQ29sdW1uTmFtZQogICAgb3ZlcnJpZGUgZGVmIG1lZGlhUGxhbkNvbHVtbk5hbWU6IFN0cmluZyA9IFNCUy5tZWRpYVBsYW5Db2x1bW5OYW1lCiAgICBvdmVycmlkZSBkZWYgbWVkaWFQbGFuRmllbGRBY2Nlc3NvcjogTWVkaWFQbGFuID0+IEludCA9IFNCUy5tZWRpYVBsYW5GaWVsZEFjY2Vzc29yCiAgICBvdmVycmlkZSBkZWYgZ2V0SWQocjogUm93KTogT3B0aW9uW0FueVZhbF0gPSBTQlMuZ2V0SWQocikKICAgIG92ZXJyaWRlIGRlZiByZWRzaGlmdFRhYmxlKGNvbmZpZzogQ29uZmlnKTogT3B0aW9uW1N0cmluZ10gPSBTQlMucmVkc2hpZnRUYWJsZShjb25maWcpCiAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCByZWZQYXRoID0gZGlyLnRvSGFkb29wUGF0aCAvICJyZWYiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkdnJWaWV3UGF0aCA9IGRpci50b0hhZG9vcFBhdGggLyAiZHZyIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCByZWd1bGFyID0gbmV3IFByb2Nlc3NpbmdUeXBlIHsKICAgIG92ZXJyaWRlIGRlZiBwbGFuVW5pdERldGFpbENvbHVtbk5hbWU6IFN0cmluZyA9IFJlZ3VsYXIucGxhblVuaXREZXRhaWxDb2x1bW5OYW1lCiAgICBvdmVycmlkZSBkZWYgbWVkaWFQbGFuQ29sdW1uTmFtZTogU3RyaW5nID0gUmVndWxhci5tZWRpYVBsYW5Db2x1bW5OYW1lCiAgICBvdmVycmlkZSBkZWYgbWVkaWFQbGFuRmllbGRBY2Nlc3NvcjogTWVkaWFQbGFuID0+IEludCA9IFJlZ3VsYXIubWVkaWFQbGFuRmllbGRBY2Nlc3NvcgogICAgb3ZlcnJpZGUgZGVmIGdldElkKHI6IFJvdyk6IE9wdGlvbltBbnlWYWxdID0gUmVndWxhci5nZXRJZChyKQogICAgb3ZlcnJpZGUgZGVmIHJlZHNoaWZ0VGFibGUoY29uZmlnOiBDb25maWcpOiBPcHRpb25bU3RyaW5nXSA9IFJlZ3VsYXIucmVkc2hpZnRUYWJsZShjb25maWcpCiAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIChyZWZQYXRoIC8gIjIwMTktMDItMjIiIC8gTW9yZUhhZG9vcFBhdGhzLnN1Y2Nlc3NGaWxlTmFtZSkudG91Y2gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChkdnJWaWV3UGF0aCAvICIyMDE5LTAyLTIyIiAvICIyMDE5LTAyLTI2IiAvIE1vcmVIYWRvb3BQYXRocy5zdWNjZXNzRmlsZU5hbWUpLnRvdWNoCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBtZWRpYVBsYW5zLmpvaW4ocGxhbklkV2l0aFF1YXJ0ZXIsIFNlcSgicXVhciksIG1lZGlhUGxhbnMoInF1YXJ0ZXIiKSA9PT0gcGxhbklkV2l0aFF1YXJ0ZXIoIl9xdWFydGVyIikgJiYKICAgICAgbWVkaWFQbGFucyhwcm9jZXNzaW5nVHlwZS5tZWRpYVBsYW5Db2x1bW5OYW1lKSA9PT0gcGxhbklkV2l0aFF1YXJ0ZXIoIl9pZCIpICYmCiAgICAgIG1lZGlhUGxhbnMoInZpZXdlcnNoaXBfc291cmNlX25hbWUiKS5pc2luKHZpZXdlcnNoaXBTb3VyY2VzOiBfKikKICAgICk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhbCByZWZQYXRoID0gZGlyLnRvSGFkb29wUGF0aCAvICJyZWYiCg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
