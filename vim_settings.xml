@@ -33,10 +33,10 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/README.md" timestamp="1551295312924">
-        <mark key="[" line="70" column="112" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/README.md" timestamp="1551296463700">
+        <mark key="[" line="78" column="40" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/build.sbt" timestamp="1549638074193">
         <mark key="[" line="0" column="6" />
@@ -681,11 +681,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-client/src/it/scala/com/nbcuas/jobscheduler/client/Test.scala" timestamp="1551294025151">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="26" column="36" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-client/src/it/scala/com/nbcuas/jobscheduler/client/Test.scala" timestamp="1551296854060">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartJob.scala" timestamp="1550589010404">
         <mark key="[" line="61" column="15" />
@@ -798,8 +798,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QSBub3RpZmljYXRpb24gbG9va3MgbGlrZSB0aGUgZm9sbG93aW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>in</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -808,7 +808,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -817,31 +817,34 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QSBub3RpZmljYXRpb24gbG9va3MgbGlrZSB0aGUgZm9sbG93aW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>```
+{&quot;uuid&quot;:&quot;8fc95555-acda-437b-8d3a-a1905367bc69&quot;,&quot;status&quot;:&quot;Scheduled&quot;,&quot;message&quot;:&quot;Request received&quot;,&quot;time&quot;:&quot;2019-02-27T19:35:09.738Z&quot;}
+{&quot;uuid&quot;:&quot;8fc95555-acda-437b-8d3a-a1905367bc69&quot;,&quot;status&quot;:&quot;Running&quot;,&quot;message&quot;:&quot;Job started&quot;,&quot;time&quot;:&quot;2019-02-27T19:35:11.779Z&quot;}
+{&quot;uuid&quot;:&quot;8fc95555-acda-437b-8d3a-a1905367bc69&quot;,&quot;status&quot;:&quot;Success&quot;,&quot;message&quot;:&quot;Job run succeeded: Container exited with status 0&quot;,&quot;time&quot;:&quot;2019-02-27T19:35:16.842Z&quot;}</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGNsaWVudC5zY2hlZHVsZURlcGVuZGVudEpvYnMocmVxdWVzdFN1Y2Nlc3MoMSksIHJlcXVlc3RTdWNjZXNzKDIpKS5tYXAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QSBub3RpZmljYXRpb24gbG9va3MgbGlrZSB0aGUgZm9sbG93aW5nCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CnZhbCBmID0gZm9yIHs=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">QWxsIHRoZXNlIHNlcnZpY2VzIGNhbiBlYXNpbHkgc3RhcnRlZCB2aWEgYGRvY2tlci1jb21wb3NlYCBmcm9tIHRoZSBwcm9qZWN0IHJvb3QgZGlyZWN0b3J5LgoKVGhlIGludGVncmF0aW9uIHRlc3RzIHdoaWNoIGludGVyYWN0IHdpdGggbWVzb3MgcmVxdWlyZSB0aGUgbWVzb3MgbmF0aXZlIGxpYnJhcnkgdG8gYmUgaW5zdGFsbGVkIGFuZCB0aGUgYE1FU09TX05BVElWRV9KQVZBX0xJQlJBUllgIGVudmlyb25tZW50IHZhcmlhYmxlIHNob3VsZCBob2xkIHRoZSBwYXRoIHRvIHRoYXQgbGlicmFyeS4KCk9uIG1hY09TLCBtZXNvcyBjYW4gYmUgaW5zdGFsbGVkIHZpYSBicmV3OgpgYGAKJCBicmV3IGluc3RhbGwgbWVzb3MKJCBleHBvcnQgTUVTT1NfTkFUSVZFX0pBVkFfTElCUkFSWT0vdXNyL2xvY2FsL2xpYi9saWJtZXNvcy5keWxpYgpgYGAgIA==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChtYXhBdHRlbXB0cyA9PSAwKQo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CnZhbCBmID0gZm9yIHs=</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
