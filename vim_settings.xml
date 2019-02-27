@@ -681,11 +681,10 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-client/src/it/scala/com/nbcuas/jobscheduler/client/Test.scala" timestamp="1551296854060">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="13" column="19" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-client/src/it/scala/com/nbcuas/jobscheduler/client/Test.scala" timestamp="1551298309308">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartJob.scala" timestamp="1550589010404">
         <mark key="[" line="61" column="15" />
@@ -798,8 +797,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>in</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -820,31 +819,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCBmID0gY2xpZW50LnNjaGVkdWxlSm9iKHJlcXVlc3RTdWNjZXNzKDEpKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>```
 {&quot;uuid&quot;:&quot;8fc95555-acda-437b-8d3a-a1905367bc69&quot;,&quot;status&quot;:&quot;Scheduled&quot;,&quot;message&quot;:&quot;Request received&quot;,&quot;time&quot;:&quot;2019-02-27T19:35:09.738Z&quot;}
 {&quot;uuid&quot;:&quot;8fc95555-acda-437b-8d3a-a1905367bc69&quot;,&quot;status&quot;:&quot;Running&quot;,&quot;message&quot;:&quot;Job started&quot;,&quot;time&quot;:&quot;2019-02-27T19:35:11.779Z&quot;}
 {&quot;uuid&quot;:&quot;8fc95555-acda-437b-8d3a-a1905367bc69&quot;,&quot;status&quot;:&quot;Success&quot;,&quot;message&quot;:&quot;Job run succeeded: Container exited with status 0&quot;,&quot;time&quot;:&quot;2019-02-27T19:35:16.842Z&quot;}</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNsaWVudC5zY2hlZHVsZURlcGVuZGVudEpvYnMocmVxdWVzdFN1Y2Nlc3MoMSksIHJlcXVlc3RTdWNjZXNzKDIpKS5tYXAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">QSBub3RpZmljYXRpb24gbG9va3MgbGlrZSB0aGUgZm9sbG93aW5nCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YGBgCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QSBub3RpZmljYXRpb24gbG9va3MgbGlrZSB0aGUgZm9sbG93aW5nCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnZhbCBmID0gZm9yIHs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
