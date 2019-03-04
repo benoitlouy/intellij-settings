@@ -62,6 +62,13 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/nielsen/ns-ingest/src/main/scala/com/nbcuas/nielsen/ingest/IngestApp.scala" timestamp="1551733266287">
+        <mark key="a" line="149" column="123" />
+        <mark key="[" line="145" column="11" />
+        <mark key="]" line="149" column="16" />
+        <mark key="." line="149" column="16" />
+        <mark key="^" line="149" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartDependentJobsSpec.scala" timestamp="1550001680785">
         <mark key="[" line="19" column="127" />
         <mark key="]" line="19" column="127" />
@@ -239,6 +246,9 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/nielsen/ns-ingest/src/it/scala/com/nbcuas/nielsen/ingest/IngestAppSpec.scala" timestamp="1551733470432">
+        <mark key="[" line="185" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobFailure.scala" timestamp="1550588974921">
         <mark key="[" line="37" column="16" />
         <mark key="]" line="37" column="15" />
@@ -335,6 +345,7 @@
         <mark key="." line="15" column="2" />
         <mark key="^" line="15" column="2" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.nbcuas.more/more-hadoop-paths_2.11/srcs/more-hadoop-paths_2.11-1.15.0.1961ba0-sources.jar!/com/nbcuas/more/hadoop/paths/MoreHadoopPaths.scala" timestamp="1551732332838" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/universal/conf/environment/local/application.conf" timestamp="1548948574442">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
@@ -557,7 +568,7 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="/sbtShell" timestamp="1551727027896">
+      <file name="/sbtShell" timestamp="1551731278749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -824,7 +835,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiCg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -833,7 +844,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>vizio</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -842,31 +853,31 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KDEwMCwgZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYyA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KDEwMCwgZmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHsK</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KDEwMCwgZmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgXyA8LSBydW4oaW5zZXJ0Sm9iRXZlbnQoam9iUnVuLmlkLmdldCwgSm9iRXZlbnRUeXBlcy5TdWJtaXR0ZWQsIFNvbWUoIkpvYiBzdWJtaXR0ZWQiKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IHlpZWxkIHByaW50bG4ocyI+Pj4+Pj4gaW5zZXJ0ZWQgJGpvYkV2ZW50IGZvciAkam9iUnVuIikK</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KDEwMCwgZmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igewo=</text>
+        <text encoding="base64">ICAgICAgZm9yIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgXyA8LSBydW4oaW5zZXJ0Sm9iRXZlbnQoam9iUnVuLmlkLmdldCwgSm9iRXZlbnRUeXBlcy5TdWJtaXR0ZWQsIFNvbWUoIkpvYiBzdWJtaXR0ZWQiKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
