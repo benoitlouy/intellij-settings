@@ -169,11 +169,11 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/project/Dependencies.scala" timestamp="1551122764914">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="30" />
+      <file name="$USER_HOME$/Projects/job-scheduler/project/Dependencies.scala" timestamp="1551718316271">
+        <mark key="[" line="40" column="88" />
+        <mark key="]" line="40" column="88" />
         <mark key="^" line="16" column="42" />
-        <mark key="." line="16" column="30" />
+        <mark key="." line="40" column="88" />
       </file>
       <file name="$USER_HOME$/Projects/audience-graph/ag-capping/cd/ag-capping-backlog.json" timestamp="1550784871019">
         <mark key="[" line="4" column="73" />
@@ -394,11 +394,12 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1551716813399">
-        <mark key="[" line="365" column="132" />
-        <mark key="]" line="368" column="46" />
-        <mark key="^" line="368" column="46" />
-        <mark key="." line="368" column="46" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1551718329980">
+        <mark key="'" line="369" column="4" />
+        <mark key="[" line="338" column="13" />
+        <mark key="]" line="338" column="13" />
+        <mark key="^" line="369" column="93" />
+        <mark key="." line="338" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/js-mesos-scheduler-service.json" timestamp="1548950298594">
         <mark key="[" line="2" column="10" />
@@ -803,6 +804,8 @@
       <jump line="65" column="20" filename="$USER_HOME$/Projects/mesos-scala-api/mesos-scala-framework/src/main/scala/com/nokia/mesos/impl/launcher/TaskLauncherImpl.scala" />
       <jump line="225" column="54" filename="$USER_HOME$/Projects/audience-graph/ag-capping/src/it/scala/com/nbcuas/audiencegraph/capping/CappingSpec.scala" />
       <jump line="125" column="8" filename="$USER_HOME$/Projects/audience-graph/ag-capping/src/main/scala/com/nbcuas/audiencegraph/capping/Capping.scala" />
+      <jump line="365" column="37" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" />
+      <jump line="369" column="4" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -812,7 +815,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, config = Some(localConfig))</text>
+        <text>cannot scheduled</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -821,7 +824,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>, config = Some(localConfig))</text>
+        <text>cannot scheduled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -830,31 +833,31 @@
         <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb25jdXJyZW50LkV4ZWN1dGlvbkNvbnRleHQuSW1wbGljaXRzLmdsb2JhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbnMuZm9yZWFjaChwcmludGxuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9ucy5mb3JlYWNoKHByaW50bG4pCg==</text>
+        <text encoding="base64">ICAgICJjb20ubmJjdWFzLm1vcmUiICAgICAgICAgJSUgIm1vcmUtdGVzdHMiICAgICAgICAgICAgICAgICUgVi5Nb3JlICAgICAgICAgJSAiaXQsdGVzdCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigid2FpdEZvck5vdGlmaWNhdGlvbnMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBJTy5zbGVlcCg1IHNlY29uZHMpCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGxvY2FsQ29uZmlnID0gdGhpcy5jb25maWcud2l0aFZhbHVlKCJqb2JzLWluLXBhcmFsbGVsLWxpbWl0IiwgQ29uZmlnVmFsdWVGYWN0b3J5LmZyb21BbnlSZWYoMykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfIDwtIElPLnNsZWVwKDEgc2Vjb25kKQo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QxQ29tcGxldGlvblRpbWUgc2hvdWxkQmUgPCAocmVxdWVzdDJTdGFydFRpbWUpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBmID0gY2xpZW50LnNjaGVkdWxlSm9iKHJlcXVlc3RTdWNjZXNzKDEpKQo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXF1ZXN0MlN0YXJ0VGltZSA9IG5vdGlmaWNhdGlvbnMuZmluZChuID0+IG4udXVpZCA9PSByZXF1ZXN0Mi51dWlkICYmIG4uc3RhdHVzID09IE5vdGlmaWNhdGlvblN0YXR1c2VzLlJ1bm5pbmcpLm1hcChfLnRpbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCByZXF1ZXN0MUNvbXBsZXRpb25UaW1lID0gbm90aWZpY2F0aW9ucy5maW5kKG4gPT4gbi51dWlkID09IHJlcXVlc3QxLnV1aWQgJiYgbi5zdGF0dXMgPT0gTm90aWZpY2F0aW9uU3RhdHVzZXMuU3VjY2VzcykubWFwKF8udGltZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QxQ29tcGxldGlvblRpbWUgc2hvdWxkQmUgPCAocmVxdWVzdDNTdGFydFRpbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
