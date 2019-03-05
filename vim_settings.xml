@@ -69,7 +69,7 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/environment/dev/application.conf" timestamp="1551813863295">
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/environment/dev/application.conf" timestamp="1551814266339">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
@@ -210,8 +210,8 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/resources/reference.conf" timestamp="1551813857455">
-        <mark key="[" line="9" column="3" />
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/resources/reference.conf" timestamp="1551814076734">
+        <mark key="[" line="16" column="58" />
         <mark key="]" line="12" column="54" />
         <mark key="^" line="12" column="54" />
         <mark key="." line="12" column="54" />
@@ -317,6 +317,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="38" column="52" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/universal/conf/environment/dev/application.conf" timestamp="1551814303869">
+        <mark key="[" line="72" column="87" />
+        <mark key="]" line="72" column="87" />
+        <mark key="." line="72" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/comscore/cs-ingest/src/main/scala/com/nbcuas/comscore/ingest/IngestComscore.scala" timestamp="1549466863410">
         <mark key="[" line="39" column="57" />
@@ -447,6 +452,9 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="62" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/main/resources/reference.conf" timestamp="1551814289553">
+        <mark key="[" line="96" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/it/scala/com/nbcuas/nielsen/link/inventory/LinkInventoryAppSpec.scala" timestamp="1551127719341">
         <mark key="[" line="54" column="44" />
         <mark key="]" line="54" column="41" />
@@ -534,12 +542,7 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1551796930094">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="/sbtShell" timestamp="1551813495605">
+      <file name="/sbtShell" timestamp="1551813990764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -782,8 +785,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>program</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -792,7 +795,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYgKHBhcmFtcy5zYnMpIA==</text>
+        <text>program</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
