@@ -260,11 +260,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/cd/deploy.sh" timestamp="1551890787877">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/cd/deploy.sh" timestamp="1551901944510">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
         <mark key="^" line="93" column="6" />
-        <mark key="." line="14" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/ZKIT.scala" timestamp="1548872028192">
         <mark key="[" line="22" column="41" />
@@ -606,6 +606,12 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/build.sbt" timestamp="1551902191799">
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="38" />
+        <mark key="^" line="41" column="38" />
+        <mark key="." line="41" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-requests/src/main/scala/com/nbcuas/jobscheduler/requests/JobRequest.scala" timestamp="1551295273999">
         <mark key="[" line="2" column="56" />
         <mark key="]" line="2" column="56" />
@@ -629,12 +635,6 @@
         <mark key="]" line="42" column="10" />
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/environment/qa/application.conf" timestamp="1551887187455">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="42" />
-        <mark key="." line="9" column="42" />
-        <mark key="^" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/cd/ns-capping.json" timestamp="1549638209829">
         <mark key="[" line="19" column="18" />
@@ -840,8 +840,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -850,7 +850,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
