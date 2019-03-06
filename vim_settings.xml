@@ -213,9 +213,6 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/comscore/cs-link-audience/src/main/scala/com/nbcuas/comscore/link/audience/LinkAudienceApp.scala" timestamp="1551370832842">
-        <mark key="[" line="127" column="117" />
-      </file>
       <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/src/main/scala/com/nbcuas/audiencegraph/inventory/SaleInventory.scala" timestamp="1551797861576">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="34" />
@@ -388,9 +385,6 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ProcessingType.scala" timestamp="1551796702873">
-        <mark key="[" line="13" column="51" />
-      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobConfig.scala" timestamp="1548446871959">
         <mark key="[" line="10" column="49" />
         <mark key="]" line="10" column="55" />
@@ -469,6 +463,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="20" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-capping/cd/deploy.sh" timestamp="1551891986454">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleFailDependentJobsSpec.scala" timestamp="1550001477204">
         <mark key="[" line="14" column="100" />
         <mark key="]" line="14" column="101" />
@@ -511,6 +510,7 @@
         <mark key="." line="11" column="52" />
         <mark key="^" line="11" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-capping/src/it/scala/com/nbcuas/audiencegraph/capping/CappingSpec.scala" timestamp="1551891545658" />
       <file name="$USER_HOME$/Projects/ns-capping/build.sbt" timestamp="1550160226387">
         <mark key="[" line="44" column="34" />
         <mark key="]" line="44" column="70" />
@@ -547,9 +547,6 @@
         <mark key="^" line="36" column="15" />
         <mark key="." line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/cd/lo-reporting-backlog.json" timestamp="1551198077303">
-        <mark key="[" line="3" column="52" />
-      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartJobSpec.scala" timestamp="1550001048158">
         <mark key="[" line="106" column="0" />
         <mark key="]" line="107" column="52" />
@@ -574,7 +571,7 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="/sbtShell" timestamp="1551887740052">
+      <file name="/sbtShell" timestamp="1551890873727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -675,14 +672,11 @@
         <mark key="." line="17" column="107" />
         <mark key="^" line="17" column="107" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/templates/bash-template" timestamp="1551195865254">
-        <mark key="[" line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/audience-graph/project/Dependencies.scala" timestamp="1550868424588">
+      <file name="$USER_HOME$/Projects/audience-graph/project/Dependencies.scala" timestamp="1551890871905">
         <mark key="[" line="68" column="30" />
-        <mark key="]" line="68" column="43" />
-        <mark key="." line="68" column="43" />
-        <mark key="^" line="68" column="43" />
+        <mark key="]" line="68" column="35" />
+        <mark key="." line="68" column="35" />
+        <mark key="^" line="68" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/audience-graph/ag-capping/src/universal/conf/environment/dev/application.conf" timestamp="1550784921475">
         <mark key="[" line="5" column="46" />
@@ -826,7 +820,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">b3B0aW9uYWxfYXJncz0iIgo=</text>
+        <text encoding="base64">ZGVwZW5kZW5jeV9zdWZmaXg9IjAgZGF5cyIK</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -835,7 +829,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>1.15.0.e0cae87</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -844,35 +838,31 @@
         <text encoding="base64">ICAgIGxpbmtlZC5zY2hlbWEgc2hvdWxkQmUgU3RydWN0VHlwZSh2aWV3ZXJzaGlwU2NoZW1hLmZpZWxkcy50b1ZlY3RvciA6KyBTdHJ1Y3RGaWVsZCgibmJjdSIsIGludmVudG9yeVNjaGVtYSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3B0aW9uYWxfYXJncz0iIgo=</text>
+        <text encoding="base64">ZGVwZW5kZW5jeV9zdWZmaXg9IjAgZGF5cyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVwZW5kZW5jeV9zdWZmaXg9IjAgZGF5cyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VkIC1pIC1lICJzL1wke1RSSUdHRVJ9LyR7dHJpZ2dlcn0vZyIgJHtjb25maWdfcHJvY2Vzc2VkfQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZGQgbG9naWMgdG8gZGV0ZWN0IGRhdGVzIHdoaWNoIG11c3QgYmUgcHJvY2Vzc2VkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAke3RyaWdnZXJ9Cg==</text>
+        <text encoding="base64">dXNhZ2UoKSB7IGVjaG8gIlVzYWdlOiAkMCAtZSA8ZW52aXJvbm1lbnQ+IFstcyA8c291cmNlPl0gWy12IDx2ZXJzaW9uPl0gWy1jIDxjZmc+XSBbLWQgPHRpbWUtcGVyaW9kPl0gWy1hIDxkZXBlbmRlbmN5LXN1ZmZpeD5dIFstbF0gWy1SXSIgMT4mMjsgZXhpdCAxOyB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZGQgbG9naWMgdG8gZGV0ZWN0IGRhdGVzIHdoaWNoIG11c3QgYmUgcHJvY2Vzc2VkCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>if [[ &quot;${backlog}&quot; = true ]]; then
-    trigger=&quot;\&quot;schedule\&quot;: \&quot;R/2040-02-01T06:00:00Z/PT24H\&quot;&quot;
-else
-    trigger=&quot;\&quot;parents\&quot;: [\&quot;ns${environment_suffix}-ingest\&quot;]&quot;
-fi</text>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNhZ2UoKSB7IGVjaG8gIlVzYWdlOiAkMCAtZSA8ZW52aXJvbm1lbnQ+IFstcyA8c291cmNlPl0gWy12IDx2ZXJzaW9uPl0gWy1jIDxjZmc+XSBbLWQgPHRpbWUtcGVyaW9kPl0gWy1hIDxkZXBlbmRlbmN5LXN1ZmZpeD5dIFstbF0gWy1SXSIgMT4mMjsgZXhpdCAxOyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
