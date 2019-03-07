@@ -27,6 +27,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/deploy.sh" timestamp="1551984986746">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/build.sbt" timestamp="1549638074193">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="13" />
@@ -187,6 +192,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/src/main/scala/com/nbcuas/audiencegraph/viewership/link/inventory/LinkInventory.scala" timestamp="1551985281506">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/universal/conf/environment/dev/application.conf" timestamp="1549638337890">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="9" />
@@ -252,6 +262,11 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/deploy-backlog.sh" timestamp="1551985014546">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/cd/deploy.sh" timestamp="1551901944510">
         <mark key="[" line="115" column="0" />
@@ -832,8 +847,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(config.viewership.path / date.toString)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -842,7 +857,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>(config.viewership.path / date.toString)</text>
+        <text>, errorOnMissingInventory: Boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -851,31 +866,31 @@
         <text encoding="base64">ICAgIGxpbmtlZC5zY2hlbWEgc2hvdWxkQmUgU3RydWN0VHlwZSh2aWV3ZXJzaGlwU2NoZW1hLmZpZWxkcy50b1ZlY3RvciA6KyBTdHJ1Y3RGaWVsZCgibmJjdSIsIGludmVudG9yeVNjaGVtYSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uRmluaXRlRHVyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBOb25lLnZhbGlkTmVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGUgbW9yZS11dGlscyB2ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhtc2cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBNb3JlICAgICAgICAgICAgICAgPSAiMS4xNS4wLmUwY2FlODciCg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGVycm9yT25NaXNzaW5nSW52ZW50b3J5KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgdmFsIG1zZyA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbQVVHLTI4NDVdIHVzZSBzb3VyY2UgYW5kIGRlc3RpbmF0aW9uIGRpcmVjdG9yaWVzIHRvIGNvbXB1dGUgZGF0ZXMgdGhhdCBtdXN0IGJlIHByb2Nlc3NlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBNb3JlICAgICAgICAgICAgICAgPSAiMS4xNS4wLjkyODkyMjQiCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uRmluaXRlRHVyYXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGUgbW9yZS11dGlscyB2ZXJzaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
