@@ -27,11 +27,6 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/deploy.sh" timestamp="1551905101810">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/build.sbt" timestamp="1549638074193">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="13" />
@@ -43,6 +38,9 @@
         <mark key="]" line="48" column="15" />
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/ComcastViewership.scala" timestamp="1551972027225">
+        <mark key="[" line="22" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequest.scala" timestamp="1550589043352">
         <mark key="[" line="59" column="15" />
@@ -145,7 +143,6 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/cd/.ns-link-inventory-prod.json" timestamp="1551889898335" />
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/templates/bash-template" timestamp="1550182641353">
         <mark key="[" line="29" column="29" />
         <mark key="]" line="29" column="46" />
@@ -193,7 +190,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/src/main/scala/com/nbcuas/audiencegraph/viewership/link/inventory/LinkInventory.scala" timestamp="1551906337026" />
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/universal/conf/environment/dev/application.conf" timestamp="1549638337890">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="9" />
@@ -259,11 +255,6 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership-link-inventory/cd/deploy-backlog.sh" timestamp="1551905158589">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/cd/deploy.sh" timestamp="1551901944510">
         <mark key="[" line="115" column="0" />
@@ -503,14 +494,13 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="62" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/main/resources/reference.conf" timestamp="1551892733841" />
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/it/scala/com/nbcuas/nielsen/link/inventory/LinkInventoryAppSpec.scala" timestamp="1551907425524">
         <mark key="[" line="123" column="64" />
         <mark key="]" line="123" column="64" />
         <mark key="." line="123" column="64" />
         <mark key="^" line="104" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/resources/reference.conf" timestamp="1550863246129">
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/resources/reference.conf" timestamp="1551971913429">
         <mark key="[" line="29" column="15" />
         <mark key="]" line="29" column="22" />
         <mark key="^" line="29" column="22" />
@@ -587,7 +577,7 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="/sbtShell" timestamp="1551892684466">
+      <file name="/sbtShell" timestamp="1551971801853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -599,11 +589,15 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="2" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewership.scala" timestamp="1551971903580" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0008__job_run_uuid_column.sql" timestamp="1548692817154">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="47" />
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/VizioViewership.scala" timestamp="1551972042985">
+        <mark key="[" line="27" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/deploy-backlog.sh" timestamp="1551106045916">
         <mark key="[" line="21" column="0" />
