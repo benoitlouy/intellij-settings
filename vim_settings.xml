@@ -410,6 +410,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/project/Dependencies.scala" timestamp="1552400248556">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobConfig.scala" timestamp="1548446871959">
         <mark key="[" line="10" column="49" />
         <mark key="]" line="10" column="55" />
@@ -601,7 +607,7 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="/sbtShell" timestamp="1551971801853">
+      <file name="/sbtShell" timestamp="1552400250598">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -747,10 +753,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/main/scala/com/nbcuas/linearoptimizer/viewershipaggregation/ViewershipAggregationApp.scala" timestamp="1552326843353">
-        <mark key="[" line="300" column="0" />
-        <mark key="]" line="300" column="0" />
-        <mark key="." line="300" column="0" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/main/scala/com/nbcuas/linearoptimizer/viewershipaggregation/ViewershipAggregationApp.scala" timestamp="1552400956503">
+        <mark key="[" line="373" column="21" />
+        <mark key="]" line="373" column="94" />
+        <mark key="^" line="373" column="94" />
+        <mark key="." line="373" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/main/scala/com/nbcuas/more/cats/effect/MLock.scala" timestamp="1550268092812">
         <mark key="[" line="7" column="22" />
@@ -859,8 +866,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpbmtlZC5zZWxlY3QobGlua2VkKCJpZCIpLCBsaW5rZWQoIm5iY3UuaWQiKSkuY29sbGVjdCBzaG91bGRCZSBTZXEoUm93KDEsIE5vbmUub3JOdWxsKSkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -869,7 +876,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -878,31 +885,31 @@
         <text encoding="base64">ICAgIGxpbmtlZC5zY2hlbWEgc2hvdWxkQmUgU3RydWN0VHlwZSh2aWV3ZXJzaGlwU2NoZW1hLmZpZWxkcy50b1ZlY3RvciA6KyBTdHJ1Y3RGaWVsZCgibmJjdSIsIGludmVudG9yeVNjaGVtYSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpbmtlZC5zZWxlY3QobGlua2VkKCJpZCIpLCBsaW5rZWQoIm5iY3UuaWQiKSkuY29sbGVjdCBzaG91bGRCZSBTZXEoUm93KDEsIE5vbmUub3JOdWxsKSkK</text>
+        <text encoding="base64">ICAgICAgdmFsIGIgPSBzcG90UmFuZ2UuZmxhdHRlbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcG90U3RhcnQyID0gVGltZXN0YW1wLmZyb20oZGF0ZS5hdFRpbWUoMTMsIDMwKS5hdFpvbmUoem9uZSkudG9JbnN0YW50KQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSBpbXByZXNzaW9uUmFuZ2UuZmxhdHRlbgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgUm93KDIsIFJvdygxMCksIFJvdygiOjMwIiwgUm93KHNwb3RTdGFydDIpKSksCiAgICAgIFJvdygzLCBSb3coMzApLCBSb3coIjozMCIsIFJvdyhzcG90U3RhcnQxKSkp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxpbmtlZC5zZWxlY3QobGlua2VkKCJpZCIpLCBsaW5rZWQoIm5iY3UuaWQiKSkuY29sbGVjdCBzaG91bGRCZSBTZXEoUm93KDEsIE5vbmUub3JOdWxsKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcG90U3RhcnQyID0gVGltZXN0YW1wLmZyb20oZGF0ZS5hdFRpbWUoMTMsIDMwKS5hdFpvbmUoem9uZSkudG9JbnN0YW50KQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICBiYWxhbmNlZEltcHJlc3Npb25zLnByaW50U2NoZW1hKCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgUm93KDIsIFJvdygxMCksIFJvdygiOjMwIiwgUm93KHNwb3RTdGFydDIpKSksCiAgICAgIFJvdygzLCBSb3coMzApLCBSb3coIjozMCIsIFJvdyhzcG90U3RhcnQxKSkp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICBwcmludGxuKCJiYWxhbmNlZEltcHJlc3Npb25zIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICBhZ2dyZWdhdGVkU3BvdHMucHJpbnRTY2hlbWEoKQo=</text>
+        <text encoding="base64">Ly8gICAgICBiYWxhbmNlZEltcHJlc3Npb25zLnByaW50U2NoZW1hKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICBwcmludGxuKCJhZ2dyZWdhdGVkU3BvdHMiKQo=</text>
+        <text encoding="base64">Ly8gICAgICBwcmludGxuKCJiYWxhbmNlZEltcHJlc3Npb25zIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBhZ2dyZWdhdGVkU3BvdHMucHJpbnRTY2hlbWEoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>869</text>
