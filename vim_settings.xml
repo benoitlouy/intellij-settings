@@ -352,11 +352,11 @@
         <mark key="^" line="15" column="4" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/cd/deploy.sh" timestamp="1552078359174">
-        <mark key="[" line="96" column="31" />
-        <mark key="]" line="99" column="45" />
-        <mark key="^" line="99" column="45" />
-        <mark key="." line="99" column="45" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/cd/deploy.sh" timestamp="1552412518078">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/ns-capping/project/Dependencies.scala" timestamp="1549905650606">
         <mark key="[" line="101" column="3" />
@@ -631,6 +631,12 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="2" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/templates/bash-template" timestamp="1552412487989">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="32" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0008__job_run_uuid_column.sql" timestamp="1548692817154">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="47" />
@@ -878,8 +884,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChkZXN0aW5hdGlvblBhdGgyIC8gIjIwMTgiIC8gIjA5IiAvICIyMSIgLyBNb3JlSGFkb29wUGF0aHMuc3VjY2Vzc0ZpbGVOYW1lKS50b3VjaAo=</text>
+      <register name="&quot;" type="4">
+        <text>4096</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -888,7 +894,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>4096</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
