@@ -202,7 +202,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/functions.scala" timestamp="1552496336412" />
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/universal/conf/environment/dev/application.conf" timestamp="1549638337890">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="9" />
@@ -227,10 +226,11 @@
         <mark key="^" line="58" column="142" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/universal/conf/environment/qa/application.conf" timestamp="1552503691556">
-        <mark key="]" line="64" column="96" />
-        <mark key="^" line="64" column="96" />
-        <mark key="." line="64" column="96" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/universal/conf/environment/qa/application.conf" timestamp="1552578386155">
+        <mark key="[" line="73" column="88" />
+        <mark key="]" line="77" column="92" />
+        <mark key="^" line="77" column="92" />
+        <mark key="." line="77" column="92" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/DefaultSpec.scala" timestamp="1550000581209">
         <mark key="[" line="17" column="0" />
@@ -776,11 +776,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/main/scala/com/nbcuas/linearoptimizer/viewershipaggregation/ViewershipAggregationApp.scala" timestamp="1552497151639">
-        <mark key="[" line="287" column="54" />
-        <mark key="]" line="229" column="42" />
-        <mark key="." line="229" column="42" />
-        <mark key="^" line="229" column="42" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/main/scala/com/nbcuas/linearoptimizer/viewershipaggregation/ViewershipAggregationApp.scala" timestamp="1552578411076">
+        <mark key="[" line="297" column="48" />
+        <mark key="]" line="297" column="48" />
+        <mark key="." line="297" column="48" />
+        <mark key="^" line="296" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/main/scala/com/nbcuas/more/cats/effect/MLock.scala" timestamp="1550268092812">
         <mark key="[" line="7" column="22" />
@@ -889,7 +889,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>.where(col(&quot;nielsen.Visitor_Status_Code&quot;) =!= &quot;S&quot;)</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -898,13 +898,13 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.where(col(&quot;nielsen.Visitor_Status_Code&quot;) =!= &quot;S&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxpbmtlZC5zY2hlbWEgc2hvdWxkQmUgU3RydWN0VHlwZSh2aWV3ZXJzaGlwU2NoZW1hLmZpZWxkcy50b1ZlY3RvciA6KyBTdHJ1Y3RGaWVsZCgibmJjdSIsIGludmVudG9yeVNjaGVtYSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcHJlcHBlZFZpZXdlcnNoaXAgPSBjaGFpbih2aWV3ZXJzaGlwLndoZXJlKGNvbCgibmllbHNlbi5WaXNpdG9yX1N0YXR1c19Db2RlIikgPSE9ICJTIikuc2VsZWN0KHNlbGVjdENvbHVtbnM6IF8qKSkud2hlbihjYWNoZWRQcmVwcGVkVmlld2Vyc2hpcCkoXy5wZXJzaXN0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZGF0ZVJhbmdlcy5mb3JlYWNoIHsgZGF0ZVJhbmdlID0+Cg==</text>
