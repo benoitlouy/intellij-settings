@@ -74,8 +74,8 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/environment/dev/application.conf" timestamp="1551818377700">
-        <mark key="[" line="2" column="21" />
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/environment/dev/application.conf" timestamp="1552591076958">
+        <mark key="[" line="9" column="40" />
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -244,11 +244,11 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/resources/reference.conf" timestamp="1551974644043">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="18" column="28" />
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/resources/reference.conf" timestamp="1552591042905">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="59" />
         <mark key="^" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+        <mark key="." line="17" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/Startable.scala" timestamp="1550171419213">
         <mark key="[" line="10" column="60" />
@@ -334,10 +334,10 @@
         <mark key="^" line="47" column="53" />
         <mark key="." line="47" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/environment/prod/application.conf" timestamp="1551887160239">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/environment/prod/application.conf" timestamp="1552591116406">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/deploy-service.sh" timestamp="1551117441924">
         <mark key="[" line="22" column="26" />
@@ -536,11 +536,11 @@
         <mark key="^" line="101" column="29" />
         <mark key="." line="101" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/it/scala/com/nbcuas/nielsen/link/inventory/LinkInventoryAppSpec.scala" timestamp="1552398433698">
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
-        <mark key="^" line="26" column="32" />
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/it/scala/com/nbcuas/nielsen/link/inventory/LinkInventoryAppSpec.scala" timestamp="1552591745918">
+        <mark key="[" line="240" column="18" />
+        <mark key="]" line="258" column="45" />
+        <mark key="." line="258" column="45" />
+        <mark key="^" line="258" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/resources/reference.conf" timestamp="1551971913429">
         <mark key="[" line="29" column="15" />
@@ -625,7 +625,7 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="/sbtShell" timestamp="1552496015498">
+      <file name="/sbtShell" timestamp="1552591138899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -686,6 +686,11 @@
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/environment/qa/application.conf" timestamp="1552591125540">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/cd/ns-capping.json" timestamp="1549638209829">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="19" column="24" />
@@ -722,7 +727,7 @@
         <mark key="." line="4" column="102" />
         <mark key="^" line="4" column="102" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/scala/com/nbcuas/nielsen/link/inventory/LinkInventoryApp.scala" timestamp="1552590980308">
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/scala/com/nbcuas/nielsen/link/inventory/LinkInventoryApp.scala" timestamp="1552591256634">
         <mark key="[" line="131" column="3" />
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
@@ -890,8 +895,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Timestamp.from(date.atTime(12, 0).atZone(zone).toInstant)</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -900,7 +905,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Timestamp.from(date.atTime(12, 0).atZone(zone).toInstant)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -911,29 +916,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIENvcHlUbyhyb290OiBBY3RvclJlZikK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICB2aWV3ZXJzaGlwIHsKICAgIHBhdGggPSAiczNhOi8vbmJjdWFzLWF1ZGllbmNlLWdyYXBoL25pZWxzZW4vcHJvZ3JhbV92aWV3ZXJzaGlwIgogIH0KCiAgZGVzdGluYXRpb24gewogICAgcGF0aCA9ICJzM2E6Ly9uYmN1YXMtYXVkaWVuY2UtZ3JhcGgvbmllbHNlbi92aWV3ZXJzaGlwX3Byb2dyYW1fbGlua19pbnZlbnRvcnlfZGF0YSIKICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2Ugb3A6IFJlbW92ZSA9PiByb290ICEgb3AK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2Ugb3A6IENvbnRhaW5zID0+IHJvb3QgISBvcAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhc2Ugb3A6IEluc2VydCA9PiByb290ICEgb3AK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjYXNlIGNsYXNzIENvcHlUbyhyb290OiBBY3RvclJlZikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNhc2Ugb3A6IFJlbW92ZSA9PiByb290ICEgb3AK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNhc2Ugb3A6IENvbnRhaW5zID0+IHJvb3QgISBvcAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhc2Ugb3AgQCBJbnNlcnQocmVxLCBpZCwgZSkgaWYgZSA+IGVsZW0gPT4K</text>
+        <text encoding="base64">ICAgIGNhc2Ugb3A6IEluc2VydCA9PiByb290ICEgb3AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGVuZGluZ1F1ZXVlICs9IG9wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGF0ZVJhbmdlcy5mb3JlYWNoIHsgZGF0ZVJhbmdlID0+Cg==</text>
+        <text encoding="base64">ICAgIGNhc2Ugb3AgQCBJbnNlcnQocmVxLCBpZCwgZSkgaWYgZSA+IGVsZW0gPT4K</text>
       </register>
       <register name=":" type="4">
         <text>869</text>
