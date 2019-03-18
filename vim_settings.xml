@@ -660,11 +660,10 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1552934971914">
-        <mark key="[" line="157" column="3" />
-        <mark key="]" line="112" column="10" />
-        <mark key="." line="112" column="10" />
-        <mark key="^" line="112" column="10" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1552937331004">
+        <mark key="[" line="118" column="100" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="/sbtShell" timestamp="1552661890655">
         <mark key="[" line="0" column="0" />
@@ -684,6 +683,7 @@
         <mark key="." line="32" column="18" />
         <mark key="^" line="32" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewership.scala" timestamp="1552937433823" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0008__job_run_uuid_column.sql" timestamp="1548692817154">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="47" />
@@ -932,8 +932,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>P</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -942,7 +942,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>allExternalUSNs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -951,31 +951,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgcHJlcHBlZFZpZXdlcnNoaXAgPSBjaGFpbih2aWV3ZXJzaGlwLndoZXJlKGNvbCgibmllbHNlbi5WaXNpdG9yX1N0YXR1c19Db2RlIikgPSE9ICJTIikuc2VsZWN0KHNlbGVjdENvbHVtbnM6IF8qKSkud2hlbihjYWNoZWRQcmVwcGVkVmlld2Vyc2hpcCkoXy5wZXJzaXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubGluZWFyb3B0aW1pemVyLmNvbW1vbi5NZWRpYVBsYW4uZ2V0QWxsCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfS5zZXF1ZW5jZVUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICBhbGxFeHRlcm5hbFVTTnMubWFwIHsgYWxsRXh0ZXJuYWxVU05zID0+CiAgICAgICAgYWxsRXh0ZXJuYWxVU05zLmpvaW4ocGxhbkRldGFpbHMud2l0aENvbHVtblJlbmFtZWQoIm9uYWlyX3Nwb3RfaWQiLCAiZXh0ZXJuYWxfdXNuIiksIFNlcSgiZXh0ZXJuYWxfdXNuIikpCiAgICAgIH0ubWFwIHsKICAgICAgICB2YWwgbWVkaWFQTGFucyA9IGdldE1lZGlhUGxhbnMyKGFsbE1lZGlhUGxhbnMsIF8sIHZpZXdlcnNoaXBTb3VyY2VzLCBwYXJhbXMuaW5mbGlnaHRQbGFuSWRzKQogICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubGluZWFyb3B0aW1pemVyLmNvbW1vbi5NZWRpYVBsYW4uZ2V0QWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfS5zZXF1ZW5jZVUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRocmVhZC5zbGVlcCgzMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdE1zZyhQcmludERvbmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvcE5vZGUgISBQcmludAo=</text>
+        <text encoding="base64">ICAgIFRocmVhZC5zbGVlcCgzMDAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdE1zZyhQcmludERvbmUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvcE5vZGUgISBQcmludAo=</text>
       </register>
       <register name=":" type="4">
         <text>869</text>
