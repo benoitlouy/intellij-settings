@@ -246,6 +246,11 @@
         <mark key="^" line="88" column="34" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/test/scala/com/nbcuas/more/cats/syntax/validated/flatmap/ValidatedFlatMapSyntaxSpec.scala" timestamp="1553022835127">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MoreIOSpec.scala" timestamp="1548345296849">
         <mark key="[" line="78" column="75" />
         <mark key="]" line="75" column="14" />
@@ -264,8 +269,8 @@
         <mark key="^" line="77" column="11" />
         <mark key="." line="77" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/more-utils/build.sbt" timestamp="1553019098824">
-        <mark key="[" line="105" column="0" />
+      <file name="$USER_HOME$/Projects/more-utils/build.sbt" timestamp="1553022267957">
+        <mark key="[" line="107" column="54" />
         <mark key="]" line="51" column="11" />
         <mark key="^" line="51" column="11" />
         <mark key="." line="51" column="11" />
@@ -440,6 +445,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/main/scala/com/nbcuas/more/cats/syntax/validated/flatmap/ValidatedFlatMapSync.scala" timestamp="1553022071659">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/audience-graph/ag-capping/cd/ag-capping.json" timestamp="1550785252339">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="19" />
@@ -515,10 +526,11 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/main/scala/com/nbcuas/more/cats/syntax/validated/flatmap/ValidatedFlatMap.scala" timestamp="1553020655767">
-        <mark key="]" line="5" column="58" />
-        <mark key="." line="5" column="58" />
-        <mark key="^" line="5" column="58" />
+      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/main/scala/com/nbcuas/more/cats/syntax/validated/flatmap/ValidatedFlatMap.scala" timestamp="1553021712709">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MigrateDatabaseIT.scala" timestamp="1550002559901">
         <mark key="[" line="17" column="43" />
@@ -668,6 +680,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/test/scala/com/nbcuas/more/cats/syntax/validated/ValidatedFlatMapSyntaxSpec.scala" timestamp="1553024777467">
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleError.scala" timestamp="1550588966604">
         <mark key="[" line="39" column="15" />
         <mark key="]" line="39" column="15" />
@@ -809,6 +825,11 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/main/scala/com/nbcuas/more/cats/syntax/validated/flatmap/package.scala" timestamp="1553022222205">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0011__job_run_does_not_require_job_config.sql" timestamp="1548963322690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="63" />
@@ -895,6 +916,9 @@
       </file>
       <file name="$USER_HOME$/Projects/slack-alert/src/main/resources/reference.conf" timestamp="1553015481611">
         <mark key="[" line="22" column="69" />
+      </file>
+      <file name="/fragment.java" timestamp="1553023136837">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/CreateFrameworkSpec.scala" timestamp="1550091884512">
         <mark key="[" line="10" column="54" />
@@ -991,8 +1015,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdyb3VwZWQuc2xpZGluZygzKS5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1001,7 +1025,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>Seq</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1010,31 +1034,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgcHJlcHBlZFZpZXdlcnNoaXAgPSBjaGFpbih2aWV3ZXJzaGlwLndoZXJlKGNvbCgibmllbHNlbi5WaXNpdG9yX1N0YXR1c19Db2RlIikgPSE9ICJTIikuc2VsZWN0KHNlbGVjdENvbHVtbnM6IF8qKSkud2hlbihjYWNoZWRQcmVwcGVkVmlld2Vyc2hpcCkoXy5wZXJzaXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyb3VwZWQuc2xpZGluZygzKS5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGdyb3VwZWQuZm9yZWFjaChwcmludGxuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUm93KDIsIDIsIDEsIDQsIDUuMCwgMjIuMCkK</text>
+        <text encoding="base64">ICAgIGdyb3VwZWQuc2xpZGluZygzKS5mb3JlYWNoKHByaW50bG4pCiAgICBncm91cGVkLmZvcmVhY2gocHJpbnRsbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgUm93KDEsIDIsIDIsIDMsIDQuMCwgNi4wKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGhlYWQgOjogYWNjLnRhaWwgLT4gbGFzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgInBsYW5Vbml0RGV0YWlsIiwK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBoZWFkOiBWZWN0b3JbU2xvdF0gPSBhY2MuaGVhZCA6KyBzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocikK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgUm93KDEsIDIsIDEsIDEuMCksCiAgICAgIFJvdygxLCAyLCAwLCAyLjApLAogICAgICBSb3coMSwgMiwgMSwgMy4wKSwKICAgICAgUm93KDIsIDIsIDAsIDQuMCksCiAgICAgIFJvdygyLCAyLCAxLCA1LjApLAogICAgICBSb3coMiwgMiwgMCwgNi4wKSwKICAgICAgUm93KDIsIDIsIDAsIDcuMCk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3RydWN0RmllbGQoInBsYW5Vbml0RGV0YWlsIiwgSW50ZWdlclR5cGUpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>869</text>
