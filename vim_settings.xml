@@ -57,6 +57,7 @@
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.typelevel/cats-effect_2.12/srcs/cats-effect_2.12-1.1.0-sources.jar!/cats/effect/IO.scala" timestamp="1553020609809" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/ReceiveJobRequest.scala" timestamp="1550589043352">
         <mark key="[" line="59" column="15" />
         <mark key="]" line="59" column="15" />
@@ -404,6 +405,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-1.5.0-sources.jar!/cats/FlatMap.scala" timestamp="1553020209822" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0010__add_job_config.sql" timestamp="1548963317090">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="12" column="55" />
@@ -512,6 +514,11 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/main/scala/com/nbcuas/more/cats/syntax/validated/flatmap/ValidatedFlatMap.scala" timestamp="1553020655767">
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+        <mark key="^" line="5" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MigrateDatabaseIT.scala" timestamp="1550002559901">
         <mark key="[" line="17" column="43" />
@@ -984,8 +991,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>object</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -994,7 +1001,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Viewership</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
