@@ -111,10 +111,11 @@
       <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/viewership/ComscoreViewershipInventoryMatchRate.scala" timestamp="1552671464689">
         <mark key="[" line="50" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/it/scala/com/nbcuas/linearoptimizer/reporting/CreateReportSpec.scala" timestamp="1553009563856">
-        <mark key="[" line="56" column="20" />
-        <mark key="]" line="56" column="20" />
-        <mark key="." line="56" column="20" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/it/scala/com/nbcuas/linearoptimizer/reporting/CreateReportSpec.scala" timestamp="1553011318257">
+        <mark key="[" line="385" column="0" />
+        <mark key="]" line="385" column="0" />
+        <mark key="^" line="431" column="18" />
+        <mark key="." line="385" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/cd/deploy.sh" timestamp="1549638154425">
         <mark key="[" line="61" column="14" />
@@ -371,10 +372,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/CreateReport.scala" timestamp="1553009057889">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/CreateReport.scala" timestamp="1553010448595">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/deploy-service.sh" timestamp="1551117441924">
         <mark key="[" line="22" column="26" />
@@ -479,6 +480,11 @@
         <mark key="]" line="32" column="36" />
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ProcessingType.scala" timestamp="1553011255507">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobConfig.scala" timestamp="1548446871959">
         <mark key="[" line="10" column="49" />
@@ -682,11 +688,11 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1553008897600">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1553010487979">
+        <mark key="[" line="123" column="59" />
+        <mark key="]" line="123" column="59" />
         <mark key="^" line="5" column="17" />
-        <mark key="." line="154" column="0" />
+        <mark key="." line="123" column="59" />
       </file>
       <file name="/sbtShell" timestamp="1552661890655">
         <mark key="[" line="0" column="0" />
@@ -956,8 +962,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3JpZ2luYWxQbGFuSWQ6IExvbmcsIHBvcnRmb2xpb0lkOiBMb25nLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -966,7 +972,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3JpZ2luYWxQbGFuSWQ6IExvbmcsIHBvcnRmb2xpb0lkOiBMb25nLCA=</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -975,28 +981,28 @@
         <text encoding="base64">ICAgICAgICB2YWwgcHJlcHBlZFZpZXdlcnNoaXAgPSBjaGFpbih2aWV3ZXJzaGlwLndoZXJlKGNvbCgibmllbHNlbi5WaXNpdG9yX1N0YXR1c19Db2RlIikgPSE9ICJTIikuc2VsZWN0KHNlbGVjdENvbHVtbnM6IF8qKSkud2hlbihjYWNoZWRQcmVwcGVkVmlld2Vyc2hpcCkoXy5wZXJzaXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBTdHJ1Y3RGaWVsZCgib25haXJfcGxhbl9wb3J0Zm9saW9faWQiLCBMb25nVHlwZSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICBTdHJ1Y3RGaWVsZCgib25haXJfcGxhbl9pZCIsIExvbmdUeXBlKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29sKCJwbGFuVW5pdERldGFpbC5wbGFuX3BvcnRmb2xpb19pZCIpLmFzKCJvbmFpcl9wbGFuX3BvcnRmb2xpb19pZCIpLAo=</text>
+        <text encoding="base64">ICAgIGNvdW50cy5zaG93KDEwMCwgZmFsc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29sKCJwbGFuVW5pdERldGFpbC5vcmlnaW5hbF9wbGFuX2lkIikuYXMoIm9uYWlyX3BsYW5faWQiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlJvdwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gIHByaXZhdGVbcmVwb3J0aW5nXSBkZWYgZ2V0TWVkaWFQbGFucyhwcm9jZXNzaW5nVHlwZTogUHJvY2Vzc2luZ1R5cGUsIG1lZGlhUGxhbnM6IERhdGFGcmFtZSwgcGxhblVuaXREZXRhaWw6IERhdGFGcmFtZSwKLy8gICAgdmlld2Vyc2hpcFNvdXJjZXM6IExpc3RbU3RyaW5nXSwgaW5mbGlnaHRQbGFuSWRMaW1pdGVyOiBTZXRbSW50XSkoaW1wbGljaXQgc3Bhcms6IFNwYXJrU2Vzc2lvbik6IExpc3RbTWVkaWFQbGFuXSA9IHsKLy8KLy8gICAgdmFsIHBsYW5JZFdpdGhRdWFydGVyID0gcGxhblVuaXREZXRhaWwuc2VsZWN0KAovLyAgICAgIHBsYW5Vbml0RGV0YWlsKCJwbGFuVW5pdERldGFpbC5zcG90X3F1YXJ0ZXIiKS5hcygicXVhcnRlciIpLAovLyAgICAgIHBsYW5Vbml0RGV0YWlsKHByb2Nlc3NpbmdUeXBlLnBsYW5Vbml0RGV0YWlsQ29sdW1uTmFtZSkuYXMocHJvY2Vzc2luZ1R5cGUubWVkaWFQbGFuQ29sdW1uTmFtZSkKLy8gICAgKS5kaXN0aW5jdAovLwovLyAgICBwbGFuSWRXaXRoUXVhcnRlci5jb2xsZWN0Lm1hcChyID0+IHIuZ2V0KDApIC0+IHIuZ2V0KDEpKS5mb3JlYWNoIHsKLy8gICAgICBjYXNlIChxdWFydGVyLCBpZCkgPT4gbG9nZ2VyLmluZm8ocyJQbGFuVW5pdERldGFpbCBRdWFydGVyOiAkcXVhcnRlciwgSWQ6ICRpZCIpCi8vICAgIH0KLy8KLy8gICAgbWVkaWFQbGFucy5qb2luKHBsYW5JZFdpdGhRdWFydGVyLCBTZXEoInF1YXJ0ZXIiLCBwcm9jZXNzaW5nVHlwZS5tZWRpYVBsYW5Db2x1bW5OYW1lKSkKLy8gICAgICAud2hlcmUobWVkaWFQbGFucygidmlld2Vyc2hpcF9zb3VyY2VfbmFtZSIpLmlzaW4odmlld2Vyc2hpcFNvdXJjZXM6IF8qKSkKLy8gICAgICAuY29sbGVjdC50b0xpc3QKLy8gICAgICAubWFwKE1lZGlhUGxhbi5mcm9tUm93KQovLyAgICAgIC5maWx0ZXIgeyBtcCA9PgovLyAgICAgICAgaW5mbGlnaHRQbGFuSWRMaW1pdGVyLmlzRW1wdHkgfHwgaW5mbGlnaHRQbGFuSWRMaW1pdGVyLmNvbnRhaW5zKG1wLmluZmxpZ2h0UGxhbklkKQovLyAgICAgIH0KLy8gIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubW9yZS5zcGFyay5kYXRhZnJhbWVzLnN5bnRheC5fCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubGluZWFyb3B0aW1pemVyLmNvbW1vbi5NZWRpYVBsYW4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
