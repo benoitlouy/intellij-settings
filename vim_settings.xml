@@ -39,6 +39,7 @@
         <mark key="." line="23" column="81" />
         <mark key="^" line="23" column="81" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/PlanDetails.scala" timestamp="1553018777537" />
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/cd/lo-viewership-aggregation-nielsen.json" timestamp="1552499225870">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="43" />
@@ -696,11 +697,10 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1553010487979">
-        <mark key="[" line="123" column="59" />
-        <mark key="]" line="123" column="59" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="123" column="59" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1553018947908">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="/sbtShell" timestamp="1552661890655">
         <mark key="[" line="0" column="0" />
@@ -978,8 +978,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Viewership</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -997,31 +997,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgcHJlcHBlZFZpZXdlcnNoaXAgPSBjaGFpbih2aWV3ZXJzaGlwLndoZXJlKGNvbCgibmllbHNlbi5WaXNpdG9yX1N0YXR1c19Db2RlIikgPSE9ICJTIikuc2VsZWN0KHNlbGVjdENvbHVtbnM6IF8qKSkud2hlbihjYWNoZWRQcmVwcGVkVmlld2Vyc2hpcCkoXy5wZXJzaXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUm93KDIsIDIsIDEsIDQsIDUuMCwgMjIuMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUm93KDEsIDIsIDIsIDMsIDQuMCwgNi4wKSwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInBsYW5Vbml0RGV0YWlsIiwK</text>
+        <text encoding="base64">ICAgICAgUm93KDIsIDIsIDEsIDQsIDUuMCwgMjIuMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUm93KDEsIDIsIDIsIDMsIDQuMCwgNi4wKSwK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgInBsYW5Vbml0RGV0YWlsIiwK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgUm93KDEsIDIsIDEsIDEuMCksCiAgICAgIFJvdygxLCAyLCAwLCAyLjApLAogICAgICBSb3coMSwgMiwgMSwgMy4wKSwKICAgICAgUm93KDIsIDIsIDAsIDQuMCksCiAgICAgIFJvdygyLCAyLCAxLCA1LjApLAogICAgICBSb3coMiwgMiwgMCwgNi4wKSwKICAgICAgUm93KDIsIDIsIDAsIDcuMCk=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3RydWN0RmllbGQoInBsYW5Vbml0RGV0YWlsIiwgSW50ZWdlclR5cGUpLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgInF1YXJ0ZXIiIC0+IFN0cmluZ1R5cGUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIm9uYWlyX3BvcnRmb2xpb19saW5rX2lkIiAtPiBJbnRlZ2VyVHlwZSwK</text>
+        <text encoding="base64">ICAgICAgU3RydWN0RmllbGQoInBsYW5Vbml0RGV0YWlsIiwgSW50ZWdlclR5cGUpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>869</text>
