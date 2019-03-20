@@ -378,6 +378,7 @@
         <mark key="^" line="47" column="53" />
         <mark key="." line="47" column="53" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-1.5.0-sources.jar!/cats/instances/either.scala" timestamp="1553099974541" />
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/environment/prod/application.conf" timestamp="1552591116406">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -395,6 +396,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-1.5.0-sources.jar!/cats/FlatMap.scala" timestamp="1553099922746" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0010__add_job_config.sql" timestamp="1548963317090">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="12" column="55" />
@@ -654,6 +656,11 @@
         <mark key="^" line="44" column="33" />
         <mark key="." line="44" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/main/scala/com/nbcuas/more/cats/syntax/validated/flatmap/ValidatedFlatMapSyntax.scala" timestamp="1553101874900">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/dev/application.conf" timestamp="1551191422000">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="47" />
@@ -666,10 +673,11 @@
         <mark key="." line="51" column="44" />
         <mark key="^" line="51" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/test/scala/com/nbcuas/more/cats/syntax/validated/ValidatedFlatMapSyntaxSpec.scala" timestamp="1553027445070">
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Projects/more-utils/more-cats/src/test/scala/com/nbcuas/more/cats/syntax/validated/ValidatedFlatMapSyntaxSpec.scala" timestamp="1553101897074">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleError.scala" timestamp="1550588966604">
         <mark key="[" line="39" column="15" />
@@ -713,7 +721,7 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="/sbtShell" timestamp="1553019053108">
+      <file name="/sbtShell" timestamp="1553100328622">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -996,8 +1004,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1006,7 +1014,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>.reverse</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1021,25 +1029,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNhdHMuZGF0YS5WYWxpZGF0ZWQue0ludmFsaWQsIFZhbGlkfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuRmxhdE1hcAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gICAgICB2YWwgZiA9IHouZmxhdE1hcChfLmZvY3VzT24oXy5leGlzdHMoXyA9PSBzbG90KSkpCi8vCi8vICAgICAgZi5mb2xkKFNldC5lbXB0eVtJbnRdKSB7IGYgPT4KLy8gICAgICAgIChmLmZvY3VzLm1hcChfLmlkKSArKyBmLmxlZnQudGFrZShudW1Hcm91cHMgLSAxKS5mbGF0dGVuLm1hcChfLmlkKSArKyBmLnJpZ2h0LnRha2UobnVtR3JvdXBzIC0gMSkuZmxhdHRlbi5tYXAoXy5pZCkpLnRvU2V0Ci8vICAgICAgfQ==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gIGltcGxpY2l0IGRlZiB2YWxpZGF0ZWRGbGF0TWFwSW5zdGFuY2VbRV06IEZsYXRNYXBbVmFsaWRhdGVkW0UsID9dXSA9Ci8vICAgIG5ldyBGbGF0TWFwW1ZhbGlkYXRlZFtFLCA/XV0gewovLyAgICAgIG92ZXJyaWRlIGRlZiBmbGF0TWFwW0EsIEIsIEVFID46IEVdKGZhOiBWYWxpZGF0ZWRbRSwgQV0pKGY6IEEgPT4gVmFsaWRhdGVkW0VFLCBCXSk6IFZhbGlkYXRlZFtFRSwgQl0gPSBmYS5hbmRUaGVuKGYpCi8vCi8vICAgICAgQHRhaWxyZWMKLy8gICAgICBvdmVycmlkZSBkZWYgdGFpbFJlY01bQSwgQl0oYTogQSkoZjogQSA9PiBWYWxpZGF0ZWRbRSwgRWl0aGVyW0EsIEJdXSk6IFZhbGlkYXRlZFtFLCBCXSA9Ci8vICAgICAgICBmKGEpIG1hdGNoIHsKLy8gICAgICAgICAgY2FzZSBJbnZhbGlkKGUpID0+IEludmFsaWQoZSkKLy8gICAgICAgICAgY2FzZSBWYWxpZChMZWZ0KGExKSkgPT4gdGFpbFJlY00oYTEpKGYpCi8vICAgICAgICAgIGNhc2UgVmFsaWQoUmlnaHQoYikpID0+IFZhbGlkKGIpCi8vICAgICAgICB9Ci8vCi8vICAgICAgb3ZlcnJpZGUgZGVmIG1hcFtBLCBCXShmYTogVmFsaWRhdGVkW0UsIEFdKShmOiBBID0+IEIpOiBWYWxpZGF0ZWRbRSwgQl0gPSBmYS5tYXAoZikKLy8gICAgfQ==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHogPSBaaXBwZXIoZ3JvdXBlZCkK</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LmZsYXRNYXAuXwo=</text>
       </register>
       <register name=":" type="4">
         <text>869</text>
