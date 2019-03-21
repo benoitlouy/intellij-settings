@@ -356,11 +356,11 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1553186953475">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="40" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="55" column="31" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerApp.scala" timestamp="1553193280752">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="36" />
+        <mark key="^" line="52" column="36" />
+        <mark key="." line="52" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/resources/reference.conf" timestamp="1548955619529">
         <mark key="[" line="18" column="9" />
@@ -474,11 +474,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/config/MesosSchedulerConfigClasses.scala" timestamp="1553186588706">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="12" column="4" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/config/MesosSchedulerConfigClasses.scala" timestamp="1553193513539">
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-viewership-aggregation/src/universal/conf/environment/dev/application.conf" timestamp="1552671703582">
         <mark key="[" line="64" column="5" />
@@ -585,13 +585,19 @@
         <mark key="^" line="65" column="45" />
         <mark key="." line="65" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" timestamp="1553193265781">
+        <mark key="[" line="91" column="29" />
+        <mark key="]" line="91" column="42" />
+        <mark key="." line="91" column="42" />
+        <mark key="^" line="91" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/js-mesos-scheduler-service.json" timestamp="1548950298594">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/scala/com/nbcuas/nielsen/link/inventory/config/LinkInventoryConfigClasses.scala" timestamp="1553186417661">
+      <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/main/scala/com/nbcuas/nielsen/link/inventory/config/LinkInventoryConfigClasses.scala" timestamp="1553192125971">
         <mark key="[" line="27" column="63" />
         <mark key="]" line="27" column="68" />
         <mark key="^" line="27" column="68" />
@@ -633,10 +639,11 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/ConfigProvider.scala" timestamp="1553186803213">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/ConfigProvider.scala" timestamp="1553193683684">
+        <mark key="[" line="40" column="68" />
+        <mark key="]" line="40" column="68" />
+        <mark key="." line="40" column="68" />
+        <mark key="^" line="40" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleSubmitJob.scala" timestamp="1551722885895">
         <mark key="[" line="42" column="0" />
@@ -1047,8 +1054,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1057,7 +1064,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>parser.decodeF[IO, MesosSchedulerConfig](localConfig)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1066,31 +1073,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgcHJlcHBlZFZpZXdlcnNoaXAgPSBjaGFpbih2aWV3ZXJzaGlwLndoZXJlKGNvbCgibmllbHNlbi5WaXNpdG9yX1N0YXR1c19Db2RlIikgPSE9ICJTIikuc2VsZWN0KHNlbGVjdENvbHVtbnM6IF8qKSkud2hlbihjYWNoZWRQcmVwcGVkVmlld2Vyc2hpcCkoXy5wZXJzaXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcuQ29uZmlnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLmNpcmNlLmNvbmZpZy5wYXJzZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS57RHVyYXRpb24gPT4gSkR1cmF0aW9ufQo=</text>
+        <text encoding="base64">Ly8gICAgICBjb25maWcgPC0gU3luY1tGXS5kZWxheShDb25maWdGYWN0b3J5LmxvYWQuZ2V0Q29uZmlnKCJqcy1tZXNvcy1zY2hlZHVsZXIiKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLmNpcmNlLmdlbmVyaWMuZXh0cmFzLmF1dG8uXwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLmNpcmNlLmNvbmZpZy5wYXJzZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMuam9ic2NoZWR1bGVyLm1lc29zc2NoZWR1bGVyLmNvbmZpZy5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBwdXJlW0FdKHg6IEEpOiBWYWxpZGF0ZWRbRSwgQV0gPSBWYWxpZCh4KQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMuam9ic2NoZWR1bGVyLm1lc29zc2NoZWR1bGVyLmNvbmZpZy5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJmb28iIHNob3VsZEJlICJiYXIiCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcuQ29uZmlnCg==</text>
       </register>
       <register name=":" type="4">
         <text>869</text>
