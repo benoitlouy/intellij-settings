@@ -685,11 +685,6 @@
         <mark key="^" line="29" column="22" />
         <mark key="." line="29" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/more-utils/more-hadoop-paths/src/main/scala/com/nbcuas/more/hadoop/paths/MoreHadoopPaths.scala" timestamp="1553284814156">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/templates/bash-template" timestamp="1552058326035">
         <mark key="[" line="25" column="30" />
         <mark key="]" line="25" column="30" />
@@ -724,6 +719,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-collections/src/main/scala/com/nbcuas/more/collections/SequenceDiff.scala" timestamp="1553522892487">
+        <mark key="[" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/dev/application.conf" timestamp="1551191422000">
         <mark key="[" line="22" column="36" />
@@ -894,6 +892,12 @@
         <mark key="]" line="31" column="30" />
         <mark key="." line="31" column="30" />
         <mark key="^" line="31" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-sugar/src/main/scala/com/nbcuas/more/sugar/delay/Delay.scala" timestamp="1553523878630">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0011__job_run_does_not_require_job_config.sql" timestamp="1548963322690">
         <mark key="[" line="0" column="0" />
@@ -1083,7 +1087,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1092,7 +1096,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>toOption</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1101,31 +1105,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgcHJlcHBlZFZpZXdlcnNoaXAgPSBjaGFpbih2aWV3ZXJzaGlwLndoZXJlKGNvbCgibmllbHNlbi5WaXNpdG9yX1N0YXR1c19Db2RlIikgPSE9ICJTIikuc2VsZWN0KHNlbGVjdENvbHVtbnM6IF8qKSkud2hlbihjYWNoZWRQcmVwcGVkVmlld2Vyc2hpcCkoXy5wZXJzaXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gc291cmNlLmZsYXRNYXAoc3JjID0+IFRyeShzb3VyY2VUb1Qoc3JjKSkudG9PcHRpb24uZmxhdHRlbikK</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgbWFwW0JdKGY6IEEgPT4gQik6IERlbGF5W0JdID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwcm9tbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgbWFwW0JdKGY6IEEgPT4gQik6IERlbGF5W0JdID0gRGVsYXkoZih2KCkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNtZ3RkZXZ8ZGV2fHFhfGNvbWNhc3R8cHJvbW9kZXZ8cHJvbW90YmFycnxwcm9tb3FhfCkgZWNobyAiLSR7MX0iOzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwcm9tbwo=</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBEZWxheQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
+        <text encoding="base64">ICAgICAgc291cmNlUGF0aCA8LSBUcnkoTW9yZUhhZG9vcFBhdGhzLmxpc3RGaWxlcyhzb3VyY2UsIGluY2x1ZGUgPSBTVUNDRVNTX0RJUkVDVE9SSUVTKSkK</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
