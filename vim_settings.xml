@@ -58,6 +58,12 @@
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/promo-reporting/project/Dependencies.scala" timestamp="1553627417680">
+        <mark key="[" line="93" column="66" />
+        <mark key="]" line="93" column="65" />
+        <mark key="^" line="93" column="65" />
+        <mark key="." line="93" column="65" />
+      </file>
       <file name="$USER_HOME$/Projects/js-promo/js-dao/src/it/scala/com/nbcuas/jobscheduler/dao/JobRunsSpec.scala" timestamp="1553546397400">
         <mark key="[" line="111" column="16" />
       </file>
@@ -66,6 +72,9 @@
         <mark key="]" line="59" column="15" />
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/promo-reporting/build.sbt" timestamp="1553627945880">
+        <mark key="[" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartDependentJobsSpec.scala" timestamp="1550001680785">
         <mark key="[" line="19" column="127" />
@@ -557,6 +566,7 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.nbcuas.more/more-cats-effect_2.11/srcs/more-cats-effect_2.11-2.0.0-sources.jar!/com/nbcuas/more/cats/effect/IOConverters.scala" timestamp="1553628140823" />
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/main/resources/reference.conf" timestamp="1550160547810">
         <mark key="[" line="12" column="65" />
         <mark key="]" line="0" column="9" />
@@ -856,6 +866,11 @@
         <mark key="]" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/promo-reporting/src/main/scala/com/nbcuas/promo/reporting/config/package.scala" timestamp="1553628958331">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/more-utils/more-cats/src/main/scala/com/nbcuas/more/cats/syntax/validated/ValidatedFlatMapSyntax.scala" timestamp="1553185561896">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="10" column="39" />
@@ -979,6 +994,7 @@
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoprod/application.conf" timestamp="1553262954191">
         <mark key="[" line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.github.pureconfig/pureconfig_2.11/srcs/pureconfig_2.11-0.9.1-sources.jar!/pureconfig/package.scala" timestamp="1553627644455" />
       <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/main/scala/com/nbcuas/more/cats/effect/MLock.scala" timestamp="1550268092812">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
@@ -1089,8 +1105,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEpzb24uYXIK</text>
+      <register name="&quot;" type="4">
+        <text>, ConfigReaderFailures}</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1099,7 +1115,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>, ConfigReaderFailures}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1108,31 +1124,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgcHJlcHBlZFZpZXdlcnNoaXAgPSBjaGFpbih2aWV3ZXJzaGlwLndoZXJlKGNvbCgibmllbHNlbi5WaXNpdG9yX1N0YXR1c19Db2RlIikgPSE9ICJTIikuc2VsZWN0KHNlbGVjdENvbHVtbnM6IF8qKSkud2hlbihjYWNoZWRQcmVwcGVkVmlld2Vyc2hpcCkoXy5wZXJzaXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEpzb24uYXIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubW9yZS5jYXRzLmVmZmVjdC5JT0NvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuaW5zdGFuY2VzLmVpdGhlci5fCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgbWFwW0JdKGY6IEEgPT4gQik6IERlbGF5W0JdID0gCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgdmFsIGEgPSBsb2FkQ29uZmlnW0NvbmZpZ10ubGVmdE1hcChfID0+IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJlcnJvciIpKS5hc0lPCiAgICAgIElPIHsKICAgICAgICBsb2FkQ29uZmlnW0NvbmZpZ10KICAgICAgfS5mbGF0TWFwIHsKICAgICAgICBjYXNlIExlZnQoZSkgPT4gSU8ucmFpc2VFcnJvcltDb25maWddKENvbmZpZ1JlYWRlckV4Y2VwdGlvbltDb25maWddKGUpKQogICAgICAgIGNhc2UgUmlnaHQoY29uZmlnKSA9PiBJTy5wdXJlKGNvbmZpZykKICAgICAgfQ==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgbWFwW0JdKGY6IEEgPT4gQik6IERlbGF5W0JdID0gRGVsYXkoZih2KCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5nbG9iYWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBEZWxheQp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRnV0dXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRnV0dXJlKCJmb28iKShnbG9iYWwpLmFzSU8K</text>
       </register>
       <register name=":" type="4">
         <text>112</text>
