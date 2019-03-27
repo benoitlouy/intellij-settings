@@ -59,10 +59,10 @@
         <mark key="^" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/promo-reporting/project/Dependencies.scala" timestamp="1553627417680">
-        <mark key="[" line="93" column="66" />
-        <mark key="]" line="93" column="65" />
-        <mark key="^" line="93" column="65" />
-        <mark key="." line="93" column="65" />
+        <mark key="[" line="10" column="66" />
+        <mark key="]" line="10" column="65" />
+        <mark key="^" line="10" column="65" />
+        <mark key="." line="10" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/js-promo/js-dao/src/it/scala/com/nbcuas/jobscheduler/dao/JobRunsSpec.scala" timestamp="1553546397400">
         <mark key="[" line="111" column="16" />
@@ -163,6 +163,11 @@
         <mark key="." line="42" column="15" />
         <mark key="^" line="42" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/promo-reporting/src/main/scala/com/nbcuas/promo/reporting/transform/ComputeImpressions.scala" timestamp="1553696479050">
+        <mark key="[" line="39" column="142" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/mesos/api/HttpMesosAPIIT.scala" timestamp="1550091762119">
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="35" />
@@ -244,6 +249,11 @@
         <mark key="]" line="16" column="8" />
         <mark key="." line="16" column="8" />
         <mark key="^" line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/promo-reporting/src/main/scala/com/nbcuas/promo/reporting/model/package.scala" timestamp="1553695988917">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/universal/conf/environment/dev/application.conf" timestamp="1549638337890">
         <mark key="[" line="0" column="3" />
@@ -870,7 +880,7 @@
         <mark key="." line="9" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/promo-reporting/src/main/scala/com/nbcuas/promo/reporting/config/package.scala" timestamp="1553628958331">
-        <mark key="[" line="20" column="30" />
+        <mark key="[" line="24" column="30" />
         <mark key="]" line="4" column="45" />
         <mark key="." line="4" column="45" />
       </file>
@@ -1108,7 +1118,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1117,7 +1127,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
