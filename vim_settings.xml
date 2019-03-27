@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-common/src/main/scala/com/nbcuas/linearoptimizer/common/DataSink.scala" timestamp="1553699094805">
-        <mark key="[" line="86" column="13" />
-      </file>
       <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/it/resources/reference.conf" timestamp="1553710635201" />
       <file name="$USER_HOME$/Projects/ass-dao/build.sbt" timestamp="1553709559922">
         <mark key="[" line="56" column="23" />
@@ -39,7 +36,7 @@
       <file name="$USER_HOME$/Projects/ass-dao/ass-dao-audience-graph/src/it/scala/com/nbcuas/assdao/audiencegraph/AudienceDAOSpec.scala" timestamp="1553710876603">
         <mark key="[" line="11" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/project/Dependencies.scala" timestamp="1553714101645">
+      <file name="$USER_HOME$/Projects/ass-dao/project/Dependencies.scala" timestamp="1553716088645">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -79,6 +76,11 @@
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/build.sbt" timestamp="1553711331809" />
       <file name="$USER_HOME$/Projects/job-scheduler/project/plugins.sbt" timestamp="1553711137396" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/agmd001__init_metadata_catalog_schema.sql" timestamp="1553716058486">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ass-dao/ass-dao-reporting/src/it/resources/reference.conf" timestamp="1553710652760" />
       <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/agmd015__alter_spot_length.sql" timestamp="1553713586108" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/MigrateDatabase.scala" timestamp="1553710475446">
@@ -87,15 +89,13 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/device-graph/dg-event-stream/src/main/scala/com/nbcuas/devicegraph/eventstream/GenericEvent.scala" timestamp="1553703197616">
-        <mark key="[" line="48" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/it/resources/reference.conf" timestamp="1553710536358" />
       <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/agmd010__unique_attribute_name_constriant.sql" timestamp="1553713885369" />
-      <file name="$USER_HOME$/Projects/ass-dao/Jenkinsfile" timestamp="1553711977254">
+      <file name="$USER_HOME$/Projects/ass-dao/Jenkinsfile" timestamp="1553714972715">
         <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="12" />
-        <mark key="." line="53" column="12" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -180,8 +180,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -190,7 +190,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -202,28 +202,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICApCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJjb20ubmJjdWFzIiAgICAgICAgICAgICAgJSUgImFnLW1ldGFkYXRhIiAgICAgICAgICAgICAgJSBWLkFHTWV0YWRhdGEgJSAiaXQiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgYWdNZXRhZGF0ZSA9IFNlcSgK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubW9yZS5jYXRzLmVmZmVjdC5JT0NvbnZlcnRlcnMuXwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuaW5zdGFuY2VzLmVpdGhlci5fCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgdmFsIGEgPSBsb2FkQ29uZmlnW0NvbmZpZ10ubGVmdE1hcChfID0+IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJlcnJvciIpKS5hc0lPCiAgICAgIElPIHsKICAgICAgICBsb2FkQ29uZmlnW0NvbmZpZ10KICAgICAgfS5mbGF0TWFwIHsKICAgICAgICBjYXNlIExlZnQoZSkgPT4gSU8ucmFpc2VFcnJvcltDb25maWddKENvbmZpZ1JlYWRlckV4Y2VwdGlvbltDb25maWddKGUpKQogICAgICAgIGNhc2UgUmlnaHQoY29uZmlnKSA9PiBJTy5wdXJlKGNvbmZpZykKICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>INSERT INTO agmd_clients VALUES(0,'Internal');
+INSERT INTO agmd_user_access VALUES ('007', 0, 2);
+INSERT INTO agmd_clients VALUES (nextval('agmd_clients_seq'), 'MI6');
+INSERT INTO agmd_user_access VALUES ('007', currval('agmd_clients_seq'), 2);
+INSERT INTO agmd_clients VALUES (nextval('agmd_clients_seq'), 'CIA');
+INSERT INTO agmd_user_access VALUES ('007', currval('agmd_clients_seq'), 2);
+INSERT INTO agmd_clients VALUES (nextval('agmd_clients_seq'), 'NSA');
+INSERT INTO agmd_user_access VALUES ('007', currval('agmd_clients_seq'), 2);
+INSERT INTO agmd_clients VALUES (nextval('agmd_clients_seq'), 'KGB');
+INSERT INTO agmd_user_access VALUES ('666', currval('agmd_clients_seq'), 2);</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICApCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJjb20ubmJjdWFzIiAgICAgICAgICAgICAgJSUgImFnLW1ldGFkYXRhIiAgICAgICAgICAgICAgJSBWLkFHTWV0YWRhdGEgJSAiaXQiCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICB2YWwgYWdNZXRhZGF0ZSA9IFNlcSgK</text>
       </register>
       <register name=":" type="4">
         <text>198</text>
