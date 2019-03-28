@@ -30,7 +30,6 @@
         <mark key="." line="23" column="81" />
         <mark key="^" line="23" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/it/resources/reference.conf" timestamp="1553710635201" />
       <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/SlackAlert.scala" timestamp="1553025291832">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -60,7 +59,6 @@
       <file name="$USER_HOME$/Projects/promo-reporting/build.sbt" timestamp="1553627945880">
         <mark key="[" line="16" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/main/scala/com/nbcuas/assdao/forecaster/TargetForecastDetailDAO.scala" timestamp="1553720677493" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/utils/KObservable.scala" timestamp="1553202000325">
         <mark key="[" line="24" column="22" />
         <mark key="]" line="24" column="22" />
@@ -184,6 +182,12 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="8" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/it/scala/com/nbcuas/assdao/forecaster/UniverseSizeDAOSpec.scala" timestamp="1553781567033">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="33" />
+        <mark key="^" line="18" column="2" />
+        <mark key="." line="28" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/src/universal/conf/environment/qa/application.conf" timestamp="1549638354614">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="10" />
@@ -276,17 +280,17 @@
       <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/agmd026__ratecard_id_update.sql" timestamp="1553718496674">
         <mark key="[" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/project/Dependencies.scala" timestamp="1553718831916">
+      <file name="$USER_HOME$/Projects/ass-dao/project/Dependencies.scala" timestamp="1553780423043">
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="43" />
         <mark key="." line="21" column="43" />
         <mark key="^" line="21" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-test/src/main/scala/com/nbcuas/assdao/test/ASSDAOFixtures.scala" timestamp="1553721035117">
-        <mark key="[" line="70" column="22" />
-        <mark key="]" line="68" column="36" />
-        <mark key="^" line="68" column="36" />
-        <mark key="." line="68" column="36" />
+      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-test/src/main/scala/com/nbcuas/assdao/test/ASSDAOFixtures.scala" timestamp="1553784018708">
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="17" />
+        <mark key="^" line="64" column="92" />
+        <mark key="." line="68" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/config/MesosSchedulerConfigClasses.scala" timestamp="1553198815530">
         <mark key="[" line="6" column="0" />
@@ -463,7 +467,6 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-audience-graph/src/it/resources/reference.conf" timestamp="1553710547720" />
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/deploy-backlog.sh" timestamp="1551106045916">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -562,7 +565,6 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/alter_media_plan_version_map_pk.sql" timestamp="1553707343586" />
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/PlanDetails.scala" timestamp="1553544953797">
         <mark key="[" line="29" column="14" />
       </file>
@@ -583,8 +585,16 @@
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/it/scala/com/nbcuas/assdao/forecaster/SellingTitleDAOSpec.scala" timestamp="1553721054222">
-        <mark key="[" line="12" column="60" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/agmd033__sbs.sql" timestamp="1553780231466">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/it/scala/com/nbcuas/assdao/forecaster/SellingTitleDAOSpec.scala" timestamp="1553784119213">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="26" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleStartDependentJobsSpec.scala" timestamp="1550001680785">
         <mark key="[" line="19" column="127" />
@@ -626,7 +636,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.11/jars/cats-core_2.11-0.9.0.jar!/cats/Foldable.class" timestamp="1553698270371" />
+      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/main/scala/com/nbcuas/assdao/forecaster/ViewershipSourceDAO.scala" timestamp="1553782005015" />
       <file name="$USER_HOME$/Projects/promo-reporting/src/main/scala/com/nbcuas/promo/reporting/transform/ComputeImpressions.scala" timestamp="1553697349313">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -748,7 +758,6 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/build.sbt" timestamp="1553711331809" />
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/cd/deploy.sh" timestamp="1551901944510">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -761,7 +770,6 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/project/plugins.sbt" timestamp="1553711137396" />
       <file name="$USER_HOME$/Projects/slack-alert/project/Dependencies.scala" timestamp="1552671291409">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="14" column="36" />
@@ -838,7 +846,6 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-reporting/src/it/resources/reference.conf" timestamp="1553710652760" />
       <file name="$USER_HOME$/Projects/mesos-scala-api/project/plugins.sbt" timestamp="1549303956507">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -861,6 +868,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/it/scala/com/nbcuas/assdao/forecaster/ViewershipSourceDAOSpec.scala" timestamp="1553782033765">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="34" column="47" />
+        <mark key="." line="34" column="47" />
+        <mark key="^" line="34" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/universal/conf/environment/local/application.conf" timestamp="1548948574442">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
@@ -873,14 +886,13 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/agmd015__alter_spot_length.sql" timestamp="1553713586108" />
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ProcessingType.scala" timestamp="1553011255507">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/database_professional_statements.sql" timestamp="1553718768444">
-        <mark key="[" line="96" column="0" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/database_professional_statements.sql" timestamp="1553780222475">
+        <mark key="[" line="109" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
@@ -910,7 +922,6 @@
       <file name="$USER_HOME$/Projects/device-graph/dg-event-stream/src/main/scala/com/nbcuas/devicegraph/eventstream/GenericEvent.scala" timestamp="1553703197616">
         <mark key="[" line="48" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/it/resources/reference.conf" timestamp="1553710536358" />
       <file name="$USER_HOME$/Projects/comscore/project/Dependencies.scala" timestamp="1551370423186">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="30" />
@@ -934,7 +945,6 @@
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/agmd010__unique_attribute_name_constriant.sql" timestamp="1553713885369" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleFailDependentJobsSpec.scala" timestamp="1550001477204">
         <mark key="[" line="14" column="100" />
         <mark key="]" line="14" column="101" />
@@ -993,7 +1003,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/agmd019__inflight_plan_management.sql" timestamp="1553717779009" />
       <file name="$USER_HOME$/Projects/ns-capping/ns-capping/cd/undeploy.sh" timestamp="1549638168793">
         <mark key="[" line="43" column="32" />
         <mark key="]" line="43" column="38" />
@@ -1062,8 +1071,10 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/it/scala/com/nbcuas/assdao/forecaster/UniverseForecastDetailDAOSpec.scala" timestamp="1553720820976">
-        <mark key="[" line="20" column="18" />
+      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-forecaster/src/it/scala/com/nbcuas/assdao/forecaster/UniverseForecastDetailDAOSpec.scala" timestamp="1553782368114">
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleJobSuccess.scala" timestamp="1550588982803">
         <mark key="[" line="37" column="15" />
@@ -1229,7 +1240,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>isEmpty</text>
+        <text>, id2, id3)</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1238,7 +1249,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>isEmpty</text>
+        <text>, id2, id3)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1247,26 +1258,22 @@
         <text encoding="base64">ICB2YWwgZmx5d2F5ID0gU2VxKAogICAgIm9yZy5mbHl3YXlkYiIgICAgICAgICAgICAlICJmbHl3YXktY29yZSIgICAgICAgICAgICAgICAlIFYuRmx5d2F5CiAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChxdWFydGVyLmdldC5icm9hZGNhc3RfcXVhcnRlci5pc0VtcHR5KQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChzZWxsaW5nVGl0bGUuc25fZG93ID09ICJNVFdURiAgIikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuUmFuZG9tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChxdWFydGVyLmdldC5icm9hZGNhc3RfcXVhcnRlci5pc0VtcHR5KQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>UPDATE cmgt_selling_title set program_group_id = a.program_group_id
-FROM (select cmgt_program_group.program_group_id, sales_unit_id FROM onair_prod.sales_unit, cmgt_program_group, cmgt_selling_title
-WHERE cmgt_selling_title.onair_selling_title_id = onair_prod.sales_unit.sales_unit_id AND
-trim(onair_prod.sales_unit.sn_group) = cmgt_program_group.program_group) AS a
-WHERE cmgt_selling_title.onair_selling_title_id = a.sales_unit_id;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1274,8 +1281,12 @@ WHERE cmgt_selling_title.onair_selling_title_id = a.sales_unit_id;</text>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>UPDATE cmgt_selling_title set program_group_id = a.program_group_id
+FROM (select cmgt_program_group.program_group_id, sales_unit_id FROM onair_prod.sales_unit, cmgt_program_group, cmgt_selling_title
+WHERE cmgt_selling_title.onair_selling_title_id = onair_prod.sales_unit.sales_unit_id AND
+trim(onair_prod.sales_unit.sn_group) = cmgt_program_group.program_group) AS a
+WHERE cmgt_selling_title.onair_selling_title_id = a.sales_unit_id;</text>
       </register>
       <register name=":" type="4">
         <text>198</text>
