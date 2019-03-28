@@ -286,11 +286,11 @@
         <mark key="." line="21" column="43" />
         <mark key="^" line="21" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-test/src/main/scala/com/nbcuas/assdao/test/ASSDAOFixtures.scala" timestamp="1553795538269">
-        <mark key="[" line="68" column="17" />
-        <mark key="]" line="68" column="17" />
-        <mark key="^" line="64" column="92" />
-        <mark key="." line="68" column="17" />
+      <file name="$USER_HOME$/Projects/ass-dao/ass-dao-test/src/main/scala/com/nbcuas/assdao/test/ASSDAOFixtures.scala" timestamp="1553797486382">
+        <mark key="[" line="80" column="9" />
+        <mark key="]" line="80" column="9" />
+        <mark key="^" line="74" column="88" />
+        <mark key="." line="80" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/config/MesosSchedulerConfigClasses.scala" timestamp="1553198815530">
         <mark key="[" line="6" column="0" />
@@ -1240,7 +1240,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>id2</text>
+        <text>.as[Unit].head</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1249,7 +1249,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>id2</text>
+        <text>.as[Unit].head</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
