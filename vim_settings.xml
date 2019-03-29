@@ -203,6 +203,12 @@
       <file name="$USER_HOME$/Projects/audience-graph/ag-metadata/src/main/resources/db/migration/pg/agmd033_sbs.sql" timestamp="1553719892473">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/build.sbt" timestamp="1553870473283">
+        <mark key="[" line="111" column="22" />
+        <mark key="]" line="112" column="29" />
+        <mark key="^" line="112" column="29" />
+        <mark key="." line="112" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/ass-dao/ass-dao-test/build.sbt" timestamp="1553712540544">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="30" />
@@ -259,6 +265,11 @@
         <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-test/build.sbt" timestamp="1553869699770">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/actorbintree/src/test/scala/actorbintree/BinaryTreeSuite.scala" timestamp="1552919665745">
         <mark key="[" line="69" column="0" />
@@ -326,8 +337,8 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/project/Dependencies.scala" timestamp="1552671732166">
-        <mark key="[" line="32" column="33" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/project/Dependencies.scala" timestamp="1553869290152">
+        <mark key="[" line="64" column="88" />
         <mark key="]" line="32" column="36" />
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
@@ -959,6 +970,11 @@
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/it/scala/com/nbcuas/linearoptimizer/reportloader/RedshiftPacingReportsSpec.scala" timestamp="1553871373225">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleFailDependentJobsSpec.scala" timestamp="1550001477204">
         <mark key="[" line="14" column="100" />
         <mark key="]" line="14" column="101" />
@@ -976,6 +992,12 @@
         <mark key="]" line="29" column="22" />
         <mark key="^" line="29" column="22" />
         <mark key="." line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/project/plugins.sbt" timestamp="1553869721260">
+        <mark key="[" line="16" column="56" />
+        <mark key="]" line="18" column="61" />
+        <mark key="^" line="18" column="61" />
+        <mark key="." line="18" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/more-cats/src/main/scala/com/nbcuas/more/cats/syntax/validated/flatmap/ValidatedFlatMapSyntax.scala" timestamp="1553101874900">
         <mark key="[" line="4" column="0" />
@@ -1253,8 +1275,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y2l0ZXN0JnBhc3N3b3JkPWNpdGVzdCI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS50ZW1wb3JhbC5DaHJvbm9Vbml0Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1263,7 +1285,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2l0ZXN0JnBhc3N3b3JkPWNpdGVzdCI=</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1272,38 +1294,34 @@
         <text encoding="base64">ICB2YWwgZmx5d2F5ID0gU2VxKAogICAgIm9yZy5mbHl3YXlkYiIgICAgICAgICAgICAlICJmbHl3YXktY29yZSIgICAgICAgICAgICAgICAlIFYuRmx5d2F5CiAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChzZWxsaW5nVGl0bGUuc25fZG93ID09ICJNVFdURiAgIikK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS50ZW1wb3JhbC5DaHJvbm9Vbml0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuUmFuZG9tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChxdWFydGVyLmdldC5icm9hZGNhc3RfcXVhcnRlci5pc0VtcHR5KQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChzZWxsaW5nVGl0bGUuc25fZG93ID09ICJNVFdURiAgIikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuUmFuZG9tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChxdWFydGVyLmdldC5icm9hZGNhc3RfcXVhcnRlci5pc0VtcHR5KQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>UPDATE cmgt_selling_title set program_group_id = a.program_group_id
-FROM (select cmgt_program_group.program_group_id, sales_unit_id FROM onair_prod.sales_unit, cmgt_program_group, cmgt_selling_title
-WHERE cmgt_selling_title.onair_selling_title_id = onair_prod.sales_unit.sales_unit_id AND
-trim(onair_prod.sales_unit.sn_group) = cmgt_program_group.program_group) AS a
-WHERE cmgt_selling_title.onair_selling_title_id = a.sales_unit_id;</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>198</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -1344,8 +1362,8 @@ WHERE cmgt_selling_title.onair_selling_title_id = a.sales_unit_id;</text>
         <entry>869</entry>
         <entry>redo</entry>
         <entry>112</entry>
-        <entry>$</entry>
         <entry>198</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
