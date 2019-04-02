@@ -100,11 +100,6 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/spark_template/template-app/src/main/scala/com/nbcuas/template/command/KafkaCmd.scala" timestamp="1554214808590">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/.js-mesos-scheduler-service-local.json" timestamp="1548883805416">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="11" />
@@ -410,6 +405,7 @@
         <mark key="." line="157" column="114" />
         <mark key="^" line="157" column="114" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/Viewership.scala" timestamp="1554218706018" />
       <file name="$USER_HOME$/Projects/nielsen/ns-link-inventory/src/universal/conf/log4j.executor.properties" timestamp="1549490226895">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="52" />
@@ -451,6 +447,12 @@
         <mark key="]" line="39" column="15" />
         <mark key="^" line="39" column="15" />
         <mark key="." line="39" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1554218659268">
+        <mark key="[" line="83" column="68" />
+        <mark key="]" line="83" column="68" />
+        <mark key="." line="83" column="68" />
+        <mark key="^" line="38" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/more-utils/more-cats-effect/src/test/scala/com/nbcuas/more/cats/effect/MLockSpec.scala" timestamp="1550587901985">
         <mark key="[" line="2" column="38" />
@@ -914,7 +916,7 @@
         <mark key="^" line="43" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/build.sbt" timestamp="1554214949194" />
-      <file name="/sbtShell" timestamp="1554131576389">
+      <file name="/sbtShell" timestamp="1554218204168">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1137,7 +1139,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;registry.marathon.mesos:5000/spark:2.0.1-2.2.0-1-hadoop-2.7&quot;</text>
+        <text encoding="base64">ZCA9ICR7cGFyYW1zLmRhdGV9LCA=</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1146,7 +1148,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;registry.marathon.mesos:5000/spark:2.0.1-2.2.0-1-hadoop-2.7&quot;</text>
+        <text encoding="base64">ZCA9ICR7cGFyYW1zLmRhdGV9LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
