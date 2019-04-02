@@ -165,6 +165,11 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/spark_template/template-app/src/main/scala/com/nbcuas/template/command/KafkaCmd.scala" timestamp="1554214808590">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/cd/.js-mesos-scheduler-service-local.json" timestamp="1548883805416">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="11" />
@@ -281,7 +286,6 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/project/TestSettings.scala" timestamp="1554131255304" />
       <file name="$USER_HOME$/Downloads/actorbintree/src/main/scala/actorbintree/BinaryTreeSet.scala" timestamp="1552919630240">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -408,6 +412,11 @@
         <mark key="^" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/spark_template/build.sbt" timestamp="1554214600434">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/more-utils/more-sugar/src/test/scala/com/nbcuas/more/sugar/range/RangeSpec.scala" timestamp="1552424836990">
         <mark key="[" line="47" column="70" />
         <mark key="]" line="68" column="57" />
@@ -443,6 +452,11 @@
         <mark key="]" line="2" column="20" />
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/spark_template/project/Dependencies.scala" timestamp="1554215033064">
+        <mark key="[" line="38" column="69" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/test/scala/com/nbcuas/jobscheduler/mesosscheduler/components/HandleCheckDependenciesSpec.scala" timestamp="1550001390962">
         <mark key="[" line="17" column="101" />
@@ -480,7 +494,6 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-test/build.sbt" timestamp="1554152501891" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-dao/src/main/resources/sql/js0010__add_job_config.sql" timestamp="1548963317090">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="12" column="55" />
@@ -589,6 +602,7 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/spark_template/template-app/build.sbt" timestamp="1554215227514" />
       <file name="$USER_HOME$/Projects/lo-sbs/lo-common/src/it/scala/com/nbcuas/linearoptimizer/common/MediaPlanSpec.scala" timestamp="1549559942018">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -648,7 +662,6 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/project/CustomShellPrompt.scala" timestamp="1554131026798" />
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/scala/com/nbcuas/jobscheduler/mesosscheduler/JsonProfile.scala" timestamp="1548346628205">
         <mark key="[" line="36" column="108" />
         <mark key="]" line="37" column="1" />
@@ -781,7 +794,6 @@
         <mark key="^" line="44" column="33" />
         <mark key="." line="44" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/project/plugins.sbt" timestamp="1554130938608" />
       <file name="$USER_HOME$/Projects/more-utils/more-collections/src/main/scala/com/nbcuas/more/collections/SequenceDiff.scala" timestamp="1553522892487">
         <mark key="[" line="7" column="21" />
       </file>
@@ -845,6 +857,7 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/job-scheduler/build.sbt" timestamp="1554214949194" />
       <file name="/sbtShell" timestamp="1554131576389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1125,8 +1138,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ag_prod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -1135,7 +1148,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>ag_prod</text>
+        <text>RecordMetadata</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1147,28 +1160,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiRmx5d2F5IiAgICAgICAgICAgICAgYXQgImh0dHBzOi8vZmx5d2F5ZGIub3JnL3JlcG8iCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBvYmplY3QgRSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkID0gImNpdGVzdCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYiA9IERhdGFiYXNlLmZvckNvbmZpZygiIiwgQ29uZmlnRmFjdG9yeS5sb2FkKCkuZ2V0Q29uZmlnKCJhc3NkYW8uZGIiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8gICAgLy8gU2VuZCBzb21lIG1lc3NhZ2VzIHRvIGthZmthCi8vICAgICgxIHRvIDEwMDApLmZvcmVhY2ggeyBpID0+Ci8vICAgICAgLy8gc2NhbGFzdHlsZTpvZmYKLy8gICAgICB2YWwga2V5ID0gbnVsbC5hc0luc3RhbmNlT2ZbU3RyaW5nXQovLyAgICAgIHZhbCBkYXRhID0gcyJUaGlzIGlzIGEgdGVzdCBrYWZrYSBtZXNzYWdlOiAkaSIuZ2V0Qnl0ZXMKLy8gICAgICAvLyBzY2FsYXN0eWxlOm9uCi8vCi8vICAgICAgdmFsIG1zZyA9IG5ldyBLZXllZE1lc3NhZ2VbU3RyaW5nLCBBcnJheVtCeXRlXV0oa2Fma2FUb3BpYywga2V5LCAwLCBkYXRhKQovLyAgICAgIHByb2R1Y2VyIHNlbmQgbXNnCi8vICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>198</text>
