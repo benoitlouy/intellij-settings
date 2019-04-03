@@ -1,5 +1,6 @@
 <scheme name="SublimeMonokai" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -1343,6 +1344,11 @@
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="1ff00" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="50576d" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
