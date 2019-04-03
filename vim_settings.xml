@@ -27,7 +27,12 @@
         <mark key="^" line="53" column="56" />
         <mark key="." line="53" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/build.sbt" timestamp="1554313979945" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/build.sbt" timestamp="1554317358097">
+        <mark key="[" line="29" column="1" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-aws/srcs/hadoop-aws-2.7.3-sources.jar!/org/apache/hadoop/fs/s3native/NativeS3FileSystem.java" timestamp="1554315905379">
+        <mark key="[" line="341" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1554312669284">
         <mark key="[" line="86" column="10" />
         <mark key="]" line="86" column="17" />
@@ -40,15 +45,17 @@
       <file name="/Dummy.scala" timestamp="1554307667234">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/project/Dependencies.scala" timestamp="1554313653689">
-        <mark key="[" line="59" column="45" />
-        <mark key="]" line="59" column="51" />
-        <mark key="." line="59" column="51" />
-        <mark key="^" line="59" column="51" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/project/Dependencies.scala" timestamp="1554317216810">
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/build.sbt" timestamp="1554312825387">
         <mark key="[" line="16" column="33" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-aws/srcs/hadoop-aws-2.7.7-sources.jar!/org/apache/hadoop/fs/s3native/Jets3tNativeFileSystemStore.java" timestamp="1554315980738" />
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-aws/jars/hadoop-aws-2.7.7.jar!/org/apache/hadoop/fs/s3native/Jets3tNativeFileSystemStore.class" timestamp="1554316699540" />
       <file name="$USER_HOME$/Projects/spark-redshift/src/main/scala/com/databricks/spark/redshift/RedshiftFileFormat.scala" timestamp="1554303139622">
         <mark key="[" line="100" column="87" />
       </file>
@@ -57,6 +64,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="^" line="146" column="44" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/templates/bash-template" timestamp="1554315104153">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/test/java/com/databricks/spark/redshift/InMemoryNativeFileSystemStore.java" timestamp="1554305847925">
         <mark key="[" line="23" column="0" />
@@ -160,7 +172,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>com.databricks</text>
+        <text>4</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -169,7 +181,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>com.databricks</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -205,7 +217,7 @@
         <text encoding="base64">ICAgIHMzRmlsZVN5c3RlbS5nbG9iU3RhdHVzKG5ldyBQYXRoKHMzVGVtcERpciArICIvKi8qIikpLm1hcChfLmdldFBhdGgpLmZvcmVhY2gocHJpbnRsbikK</text>
       </register>
       <register name=":" type="4">
-        <text>71</text>
+        <text>342</text>
       </register>
     </registers>
     <search>
@@ -228,7 +240,6 @@
         <entry encoding="base64">XDx7XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>370</entry>
         <entry>97</entry>
         <entry>72</entry>
@@ -248,6 +259,7 @@
         <entry>198</entry>
         <entry>73</entry>
         <entry>71</entry>
+        <entry>342</entry>
       </history-cmd>
       <history-expr />
       <history-input />
