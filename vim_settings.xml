@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/universal/conf/environment/prod/application.conf" timestamp="1554403907149">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/ingest_gracenote/src/templates/bash-template" timestamp="1554396213567">
         <mark key="[" line="31" column="11" />
         <mark key="]" line="31" column="11" />
@@ -10,9 +16,6 @@
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/test/scala/com/databricks/spark/redshift/FilterPushdownSuite.scala" timestamp="1554303414576">
         <mark key="[" line="93" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/project/plugins.sbt" timestamp="1554312862447">
-        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/test/scala/com/databricks/spark/redshift/RedshiftSourceSuite.scala" timestamp="1554308233522">
         <mark key="[" line="432" column="73" />
@@ -25,42 +28,14 @@
         <mark key="]" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/spark-redshift/version.sbt" timestamp="1554309667799">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="6" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/comcast/application.conf" timestamp="1554313015366">
-        <mark key="[" line="52" column="40" />
-        <mark key="]" line="53" column="56" />
-        <mark key="^" line="53" column="56" />
-        <mark key="." line="53" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/build.sbt" timestamp="1554324377307">
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="42" column="87" />
-        <mark key="^" line="42" column="87" />
-        <mark key="." line="42" column="87" />
-      </file>
       <file name="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-aws/srcs/hadoop-aws-2.7.3-sources.jar!/org/apache/hadoop/fs/s3native/NativeS3FileSystem.java" timestamp="1554315905379">
         <mark key="[" line="341" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/js-promo/js-dao/src/main/resources/sql/js0007__promo_jobs.sql" timestamp="1554387671036" />
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/scala/com/nbcuas/linearoptimizer/reporting/ReportingApp.scala" timestamp="1554312669284">
-        <mark key="[" line="86" column="10" />
-        <mark key="]" line="86" column="17" />
-        <mark key="." line="86" column="17" />
-        <mark key="^" line="86" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promotbarr/application.conf" timestamp="1554388920038">
         <mark key="[" line="159" column="66" />
         <mark key="]" line="159" column="70" />
         <mark key="^" line="159" column="70" />
         <mark key="." line="159" column="70" />
-      </file>
-      <file name="/sbtShell" timestamp="1554312042368">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.scala" timestamp="1554307667234">
         <mark key="[" line="0" column="0" />
@@ -71,32 +46,19 @@
         <mark key="^" line="43" column="87" />
         <mark key="." line="43" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/project/Dependencies.scala" timestamp="1554394773021">
-        <mark key="[" line="95" column="26" />
-        <mark key="]" line="95" column="14" />
-        <mark key="." line="95" column="14" />
-        <mark key="^" line="95" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/js-promo/js-dao/src/main/resources/sql/js0008__optimizer_secondaries_job.sql" timestamp="1554387763450">
-        <mark key="[" line="0" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/build.sbt" timestamp="1554322443317">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/project/Dependencies.scala" timestamp="1554404457903">
+        <mark key="[" line="248" column="15" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promodev/application.conf" timestamp="1554387751672">
         <mark key="[" line="148" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoqa/application.conf" timestamp="1554388934803">
-        <mark key="[" line="148" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/ingest_gracenote/build.sbt" timestamp="1554396201773">
-        <mark key="[" line="76" column="77" />
-        <mark key="]" line="76" column="87" />
-        <mark key="^" line="76" column="87" />
-        <mark key="." line="76" column="87" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/universal/conf/environment/cmgtdev/application.conf" timestamp="1554403881851">
+        <mark key="[" line="11" column="69" />
+        <mark key="]" line="11" column="69" />
+        <mark key="." line="11" column="69" />
       </file>
       <file name="$USER_HOME$/Downloads/spark-redshift/project/plugins.sbt" timestamp="1554390011170">
         <mark key="[" line="12" column="0" />
@@ -105,6 +67,12 @@
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/main/scala/com/databricks/spark/redshift/RedshiftFileFormat.scala" timestamp="1554303139622">
         <mark key="[" line="100" column="87" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/universal/conf/environment/qa/application.conf" timestamp="1554403821971">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="9" column="80" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/project/SparkRedshiftBuild.scala" timestamp="1554310048023">
         <mark key="[" line="157" column="28" />
@@ -118,6 +86,90 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/cmgtdev/application.conf" timestamp="1554402822089">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/main/scala/com/nbcuas/linearoptimizer/reportloader/ReportLoaderApp.scala" timestamp="1554404166308" />
+      <file name="$USER_HOME$/Projects/js-promo/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobRun.scala" timestamp="1554388627608">
+        <mark key="[" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/spark-redshift/project/SparkRedshiftBuild.scala" timestamp="1554389940678">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="32" />
+        <mark key="^" line="42" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/universal/conf/environment/comcast/application.conf" timestamp="1554404524554">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="18" column="75" />
+        <mark key="^" line="18" column="75" />
+        <mark key="." line="18" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/project/plugins.sbt" timestamp="1554312862447">
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/cd/lo-reporting-comcast.json" timestamp="1554401957070" />
+      <file name="$USER_HOME$/Projects/spark-redshift/version.sbt" timestamp="1554309667799">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="6" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/comcast/application.conf" timestamp="1554404515250">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/dev/application.conf" timestamp="1554402841430">
+        <mark key="[" line="26" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/build.sbt" timestamp="1554324377307">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="31" column="87" />
+        <mark key="^" line="31" column="87" />
+        <mark key="." line="31" column="87" />
+      </file>
+      <file name="$USER_HOME$/Projects/js-promo/js-dao/src/main/resources/sql/js0007__promo_jobs.sql" timestamp="1554387671036" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/cd/lo-reporting-backlog.json" timestamp="1554401954407">
+        <mark key="[" line="3" column="68" />
+      </file>
+      <file name="/sbtShell" timestamp="1554401118734">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/prod/application.conf" timestamp="1554402856801">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/js-promo/js-dao/src/main/resources/sql/js0008__optimizer_secondaries_job.sql" timestamp="1554387763450">
+        <mark key="[" line="0" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/build.sbt" timestamp="1554322443317">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoqa/application.conf" timestamp="1554388934803">
+        <mark key="[" line="148" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/qa/application.conf" timestamp="1554402869469">
+        <mark key="[" line="28" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/ingest_gracenote/build.sbt" timestamp="1554396201773">
+        <mark key="[" line="76" column="77" />
+        <mark key="]" line="76" column="87" />
+        <mark key="^" line="76" column="87" />
+        <mark key="." line="76" column="87" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/universal/conf/environment/dev/application.conf" timestamp="1554403897058">
+        <mark key="[" line="9" column="83" />
+        <mark key="]" line="9" column="81" />
+        <mark key="^" line="9" column="81" />
+        <mark key="." line="9" column="81" />
+      </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/templates/bash-template" timestamp="1554315104153">
         <mark key="[" line="36" column="11" />
         <mark key="]" line="36" column="11" />
@@ -128,15 +180,16 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/main/resources/reference.conf" timestamp="1554404500266">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/test/java/com/databricks/spark/redshift/InMemoryNativeFileSystemStore.java" timestamp="1554305847925">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="32" column="74" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-promo/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobRun.scala" timestamp="1554388627608">
-        <mark key="[" line="19" column="20" />
-      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/resources/reference.conf" timestamp="1554404494182" />
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoprod/application.conf" timestamp="1554388928867">
         <mark key="[" line="148" column="5" />
         <mark key="]" line="155" column="99" />
@@ -148,12 +201,6 @@
         <mark key="]" line="70" column="89" />
         <mark key="." line="70" column="89" />
         <mark key="^" line="70" column="89" />
-      </file>
-      <file name="$USER_HOME$/Downloads/spark-redshift/project/SparkRedshiftBuild.scala" timestamp="1554389940678">
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="32" />
-        <mark key="." line="42" column="32" />
-        <mark key="^" line="42" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1554309631813">
         <mark key="[" line="0" column="0" />
@@ -244,8 +291,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubW9yZS5zdWdhci5zeW50YXguXwo=</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -254,7 +301,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -263,34 +310,32 @@
         <text encoding="base64">ICAgICAgICAiY29tLmRhdGFicmlja3MiICUlICJzcGFyay1hdnJvIiAlIHRlc3RTcGFya0F2cm9WZXJzaW9uLnZhbHVlICUgInRlc3QiIGV4Y2x1ZGUoIm9yZy5hcGFjaGUuYXZybyIsICJhdnJvLW1hcHJlZCIpIGZvcmNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubW9yZS5zdWdhci5zeW50YXguXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9hZGRTYnRQbHVnaW4oIm1lLmxlc3NpcyIgJSAiYmludHJheS1zYnQiICUgIjAuMy4wIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICBPcHRpb24oVGFza0NvbnRleHQuZ2V0KCkpLmZvcmVhY2goXy5hZGRUYXNrQ29tcGxldGlvbkxpc3RlbmVyKF8gPT4gaXRlci5jbG9zZSgpKSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBqcC5uZS5vcHQuY2hyb25vc2NhbGEuSW1wb3J0cy5fCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LmFuZFRoZW4gewogICAgICBjYXNlIHBhcmFtcyBpZiBwYXJhbXMuZnJvbSA+PSBwYXJhbXMudG8uZ2V0ID0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oInZhbHVlIG9mIGFyZ3VtZW50IHRvIG11c3QgYmUgZ3JlYXRlciB0aGFuIGZyb20iKS5pbnZhbGlkCiAgICAgIGNhc2UgcGFyYW1zID0+IHBhcmFtcy52YWxpZAogICAgfQ==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcGF0aCA9ICJzM2E6Ly9uYmN1YXMtYXVkaWVuY2UtZ3JhcGgvcGFjaW5nX3JlcG9ydC9jaGVja3BvaW50L3Byb2QiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+      path</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ly8gICAgICBwdWJsaXNoTWF2ZW5TdHlsZSA6PSB0cnVlLAovLyAgICAgIHJlbGVhc2VDcm9zc0J1aWxkIDo9IHRydWUsCi8vICAgICAgbGljZW5zZXMgKz0gKCJBcGFjaGUtMi4wIiwgdXJsKCJodHRwOi8vd3d3LmFwYWNoZS5vcmcvbGljZW5zZXMvTElDRU5TRS0yLjAiKSksCi8vICAgICAgcmVsZWFzZVB1Ymxpc2hBcnRpZmFjdHNBY3Rpb24gOj0gUGdwS2V5cy5wdWJsaXNoU2lnbmVkLnZhbHVlLAovLwovLyAgICAgIHBvbUV4dHJhIDo9Ci8vICAgICAgICA8dXJsPmh0dHBzOi8vZ2l0aHViLmNvbS9kYXRhYnJpY2tzL3NwYXJrLXJlZHNoaWZ0PC91cmw+Ci8vICAgICAgICA8c2NtPgovLyAgICAgICAgICA8dXJsPmdpdEBnaXRodWIuY29tOmRhdGFicmlja3Mvc3BhcmstcmVkc2hpZnQuZ2l0PC91cmw+Ci8vICAgICAgICAgIDxjb25uZWN0aW9uPnNjbTpnaXQ6Z2l0QGdpdGh1Yi5jb206ZGF0YWJyaWNrcy9zcGFyay1yZWRzaGlmdC5naXQ8L2Nvbm5lY3Rpb24+Ci8vICAgICAgICA8L3NjbT4KLy8gICAgICAgIDxkZXZlbG9wZXJzPgovLyAgICAgICAgICA8ZGV2ZWxvcGVyPgovLyAgICAgICAgICAgIDxpZD5tZW5nPC9pZD4KLy8gICAgICAgICAgICA8bmFtZT5YaWFuZ3J1aSBNZW5nPC9uYW1lPgovLyAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly9naXRodWIuY29tL21lbmd4cjwvdXJsPgovLyAgICAgICAgICA8L2RldmVsb3Blcj4KLy8gICAgICAgICAgPGRldmVsb3Blcj4KLy8gICAgICAgICAgICA8aWQ+Sm9zaFJvc2VuPC9pZD4KLy8gICAgICAgICAgICA8bmFtZT5Kb3NoIFJvc2VuPC9uYW1lPgovLyAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly9naXRodWIuY29tL0pvc2hSb3NlbjwvdXJsPgovLyAgICAgICAgICA8L2RldmVsb3Blcj4KLy8gICAgICAgICAgPGRldmVsb3Blcj4KLy8gICAgICAgICAgICA8aWQ+bWFybWJydXM8L2lkPgovLyAgICAgICAgICAgIDxuYW1lPk1pY2hhZWwgQXJtYnJ1c3Q8L25hbWU+Ci8vICAgICAgICAgICAgPHVybD5odHRwczovL2dpdGh1Yi5jb20vbWFybWJydXM8L3VybD4KLy8gICAgICAgICAgPC9kZXZlbG9wZXI+Ci8vICAgICAgICA8L2RldmVsb3BlcnM+LAovLwovLyAgICAgIGJpbnRyYXlSZWxlYXNlT25QdWJsaXNoIGluIFRoaXNCdWlsZCA6PSBmYWxzZSwKLy8KLy8gICAgICAvLyBBZGQgcHVibGlzaGluZyB0byBzcGFyayBwYWNrYWdlcyBhcyBhbm90aGVyIHN0ZXAuCi8vICAgICAgcmVsZWFzZVByb2Nlc3MgOj0gU2VxW1JlbGVhc2VTdGVwXSgKLy8gICAgICAgIGNoZWNrU25hcHNob3REZXBlbmRlbmNpZXMsCi8vICAgICAgICBpbnF1aXJlVmVyc2lvbnMsCi8vICAgICAgICBydW5UZXN0LAovLyAgICAgICAgc2V0UmVsZWFzZVZlcnNpb24sCi8vICAgICAgICBjb21taXRSZWxlYXNlVmVyc2lvbiwKLy8gICAgICAgIHRhZ1JlbGVhc2UsCi8vICAgICAgICBwdWJsaXNoQXJ0aWZhY3RzLAovLyAgICAgICAgc2V0TmV4dFZlcnNpb24sCi8vICAgICAgICBjb21taXROZXh0VmVyc2lvbiwKLy8gICAgICAgIHB1c2hDaGFuZ2VzCi8vICAgICAgKQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>//import sbtrelease.ReleasePlugin.autoImport._
-//import sbtrelease.ReleasePlugin.autoImport.ReleaseTransformations._
-//import com.typesafe.sbt.pgp._
-//import bintray.BintrayPlugin.autoImport._</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJjb20uZGF0YWJyaWNrcyIgJSUgInNwYXJrLWF2cm8iICUgIjMuMC4wIiwK</text>
+        <text encoding="base64">Ly9hZGRTYnRQbHVnaW4oIm1lLmxlc3NpcyIgJSAiYmludHJheS1zYnQiICUgIjAuMy4wIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
