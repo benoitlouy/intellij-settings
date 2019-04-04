@@ -43,11 +43,11 @@
         <mark key="." line="86" column="17" />
         <mark key="^" line="86" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promotbarr/application.conf" timestamp="1554387609824">
-        <mark key="[" line="148" column="5" />
-        <mark key="]" line="155" column="100" />
-        <mark key="^" line="155" column="100" />
-        <mark key="." line="155" column="100" />
+      <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promotbarr/application.conf" timestamp="1554388920038">
+        <mark key="[" line="159" column="66" />
+        <mark key="]" line="159" column="70" />
+        <mark key="^" line="159" column="70" />
+        <mark key="." line="159" column="70" />
       </file>
       <file name="/sbtShell" timestamp="1554312042368">
         <mark key="[" line="0" column="0" />
@@ -73,7 +73,7 @@
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promodev/application.conf" timestamp="1554387751672">
         <mark key="[" line="148" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoqa/application.conf" timestamp="1554387591130">
+      <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoqa/application.conf" timestamp="1554388934803">
         <mark key="[" line="148" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/main/scala/com/databricks/spark/redshift/RedshiftFileFormat.scala" timestamp="1554303139622">
@@ -96,7 +96,10 @@
         <mark key="^" line="32" column="74" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoprod/application.conf" timestamp="1554387585181">
+      <file name="$USER_HOME$/Projects/js-promo/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobRun.scala" timestamp="1554388627608">
+        <mark key="[" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoprod/application.conf" timestamp="1554388928867">
         <mark key="[" line="148" column="5" />
         <mark key="]" line="155" column="99" />
         <mark key="^" line="155" column="99" />
@@ -198,7 +201,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>dev</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -207,7 +210,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
