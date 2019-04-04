@@ -76,6 +76,11 @@
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoqa/application.conf" timestamp="1554388934803">
         <mark key="[" line="148" column="5" />
       </file>
+      <file name="$USER_HOME$/Downloads/spark-redshift/project/plugins.sbt" timestamp="1554390011170">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/main/scala/com/databricks/spark/redshift/RedshiftFileFormat.scala" timestamp="1554303139622">
         <mark key="[" line="100" column="87" />
       </file>
@@ -89,6 +94,11 @@
         <mark key="[" line="36" column="11" />
         <mark key="]" line="36" column="11" />
         <mark key="." line="36" column="11" />
+      </file>
+      <file name="$USER_HOME$/Downloads/spark-redshift/src/main/scala/com/databricks/spark/redshift/RedshiftFileFormat.scala" timestamp="1554389997521">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/test/java/com/databricks/spark/redshift/InMemoryNativeFileSystemStore.java" timestamp="1554305847925">
         <mark key="[" line="23" column="0" />
@@ -110,6 +120,12 @@
         <mark key="]" line="70" column="89" />
         <mark key="." line="70" column="89" />
         <mark key="^" line="70" column="89" />
+      </file>
+      <file name="$USER_HOME$/Downloads/spark-redshift/project/SparkRedshiftBuild.scala" timestamp="1554389940678">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="32" />
+        <mark key="^" line="42" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1554309631813">
         <mark key="[" line="0" column="0" />
@@ -200,8 +216,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>dev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -210,7 +226,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>databricks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -219,13 +235,13 @@
         <text encoding="base64">ICAgICAgICAiY29tLmRhdGFicmlja3MiICUlICJzcGFyay1hdnJvIiAlIHRlc3RTcGFya0F2cm9WZXJzaW9uLnZhbHVlICUgInRlc3QiIGV4Y2x1ZGUoIm9yZy5hcGFjaGUuYXZybyIsICJhdnJvLW1hcHJlZCIpIGZvcmNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJjb20uZGF0YWJyaWNrcyIgJSUgInNwYXJrLWF2cm8iICUgIjMuMC4wIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJjb20uZGF0YWJyaWNrcyIgJSUgInNwYXJrLWF2cm8iICUgdGVzdFNwYXJrQXZyb1ZlcnNpb24udmFsdWUgJSAidGVzdCIgZXhjbHVkZSgib3JnLmFwYWNoZS5hdnJvIiwgImF2cm8tbWFwcmVkIikgZm9yY2UoKQo=</text>
+        <text encoding="base64">Ly9hZGRTYnRQbHVnaW4oIm1lLmxlc3NpcyIgJSAiYmludHJheS1zYnQiICUgIjAuMy4wIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJjb20uZGF0YWJyaWNrcyIgJSUgInNwYXJrLWF2cm8iICUgdGVzdFNwYXJrQXZyb1ZlcnNpb24udmFsdWUgJSAidGVzdCIgZXhjbHVkZSgib3JnLmFwYWNoZS5hdnJvIiwgImF2cm8tbWFwcmVkIikgZm9yY2UoKQo=</text>
+        <text encoding="base64">Ly8gICAgICBPcHRpb24oVGFza0NvbnRleHQuZ2V0KCkpLmZvcmVhY2goXy5hZGRUYXNrQ29tcGxldGlvbkxpc3RlbmVyKF8gPT4gaXRlci5jbG9zZSgpKSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -233,17 +249,20 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly92ZXJzaW9uIGluIFRoaXNCdWlsZCA6PSAiNC4wLjAtbmJjdWFzIgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gICAgICBwdWJsaXNoTWF2ZW5TdHlsZSA6PSB0cnVlLAovLyAgICAgIHJlbGVhc2VDcm9zc0J1aWxkIDo9IHRydWUsCi8vICAgICAgbGljZW5zZXMgKz0gKCJBcGFjaGUtMi4wIiwgdXJsKCJodHRwOi8vd3d3LmFwYWNoZS5vcmcvbGljZW5zZXMvTElDRU5TRS0yLjAiKSksCi8vICAgICAgcmVsZWFzZVB1Ymxpc2hBcnRpZmFjdHNBY3Rpb24gOj0gUGdwS2V5cy5wdWJsaXNoU2lnbmVkLnZhbHVlLAovLwovLyAgICAgIHBvbUV4dHJhIDo9Ci8vICAgICAgICA8dXJsPmh0dHBzOi8vZ2l0aHViLmNvbS9kYXRhYnJpY2tzL3NwYXJrLXJlZHNoaWZ0PC91cmw+Ci8vICAgICAgICA8c2NtPgovLyAgICAgICAgICA8dXJsPmdpdEBnaXRodWIuY29tOmRhdGFicmlja3Mvc3BhcmstcmVkc2hpZnQuZ2l0PC91cmw+Ci8vICAgICAgICAgIDxjb25uZWN0aW9uPnNjbTpnaXQ6Z2l0QGdpdGh1Yi5jb206ZGF0YWJyaWNrcy9zcGFyay1yZWRzaGlmdC5naXQ8L2Nvbm5lY3Rpb24+Ci8vICAgICAgICA8L3NjbT4KLy8gICAgICAgIDxkZXZlbG9wZXJzPgovLyAgICAgICAgICA8ZGV2ZWxvcGVyPgovLyAgICAgICAgICAgIDxpZD5tZW5nPC9pZD4KLy8gICAgICAgICAgICA8bmFtZT5YaWFuZ3J1aSBNZW5nPC9uYW1lPgovLyAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly9naXRodWIuY29tL21lbmd4cjwvdXJsPgovLyAgICAgICAgICA8L2RldmVsb3Blcj4KLy8gICAgICAgICAgPGRldmVsb3Blcj4KLy8gICAgICAgICAgICA8aWQ+Sm9zaFJvc2VuPC9pZD4KLy8gICAgICAgICAgICA8bmFtZT5Kb3NoIFJvc2VuPC9uYW1lPgovLyAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly9naXRodWIuY29tL0pvc2hSb3NlbjwvdXJsPgovLyAgICAgICAgICA8L2RldmVsb3Blcj4KLy8gICAgICAgICAgPGRldmVsb3Blcj4KLy8gICAgICAgICAgICA8aWQ+bWFybWJydXM8L2lkPgovLyAgICAgICAgICAgIDxuYW1lPk1pY2hhZWwgQXJtYnJ1c3Q8L25hbWU+Ci8vICAgICAgICAgICAgPHVybD5odHRwczovL2dpdGh1Yi5jb20vbWFybWJydXM8L3VybD4KLy8gICAgICAgICAgPC9kZXZlbG9wZXI+Ci8vICAgICAgICA8L2RldmVsb3BlcnM+LAovLwovLyAgICAgIGJpbnRyYXlSZWxlYXNlT25QdWJsaXNoIGluIFRoaXNCdWlsZCA6PSBmYWxzZSwKLy8KLy8gICAgICAvLyBBZGQgcHVibGlzaGluZyB0byBzcGFyayBwYWNrYWdlcyBhcyBhbm90aGVyIHN0ZXAuCi8vICAgICAgcmVsZWFzZVByb2Nlc3MgOj0gU2VxW1JlbGVhc2VTdGVwXSgKLy8gICAgICAgIGNoZWNrU25hcHNob3REZXBlbmRlbmNpZXMsCi8vICAgICAgICBpbnF1aXJlVmVyc2lvbnMsCi8vICAgICAgICBydW5UZXN0LAovLyAgICAgICAgc2V0UmVsZWFzZVZlcnNpb24sCi8vICAgICAgICBjb21taXRSZWxlYXNlVmVyc2lvbiwKLy8gICAgICAgIHRhZ1JlbGVhc2UsCi8vICAgICAgICBwdWJsaXNoQXJ0aWZhY3RzLAovLyAgICAgICAgc2V0TmV4dFZlcnNpb24sCi8vICAgICAgICBjb21taXROZXh0VmVyc2lvbiwKLy8gICAgICAgIHB1c2hDaGFuZ2VzCi8vICAgICAgKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3RTcWxDb250ZXh0LnJlYWQudGV4dChkaXJXaXRoQXZyb0ZpbGVzICsgIi9tYW5pZmVzdC5qc29uIikuc2hvdygxMDAsIGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RTcWxDb250ZXh0LnJlYWQudGV4dChkaXJXaXRoQXZyb0ZpbGVzKS5zaG93KDEwMCwgZmFsc2UpCg==</text>
+      <register name="8" type="4">
+        <text>//import sbtrelease.ReleasePlugin.autoImport._
+//import sbtrelease.ReleasePlugin.autoImport.ReleaseTransformations._
+//import com.typesafe.sbt.pgp._
+//import bintray.BintrayPlugin.autoImport._</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHMzRmlsZVN5c3RlbS5nbG9iU3RhdHVzKG5ldyBQYXRoKHMzVGVtcERpciArICIvKi8qIikpLm1hcChfLmdldFBhdGgpLmZvcmVhY2gocHJpbnRsbikK</text>
+        <text encoding="base64">Ly8gICAgICAgICJjb20uZGF0YWJyaWNrcyIgJSUgInNwYXJrLWF2cm8iICUgIjMuMC4wIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
