@@ -46,11 +46,11 @@
         <mark key="^" line="43" column="87" />
         <mark key="." line="43" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/project/Dependencies.scala" timestamp="1554404457903">
-        <mark key="[" line="248" column="15" />
-        <mark key="]" line="32" column="33" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="32" column="33" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/project/Dependencies.scala" timestamp="1554405980692">
+        <mark key="[" line="252" column="18" />
+        <mark key="]" line="252" column="18" />
+        <mark key="." line="252" column="18" />
+        <mark key="^" line="253" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promodev/application.conf" timestamp="1554387751672">
         <mark key="[" line="148" column="5" />
@@ -91,9 +91,25 @@
         <mark key="]" line="26" column="14" />
         <mark key="." line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/main/scala/com/nbcuas/linearoptimizer/reportloader/ReportLoaderApp.scala" timestamp="1554404166308" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/main/scala/com/nbcuas/linearoptimizer/reportloader/ReportLoaderApp.scala" timestamp="1554411734012">
+        <mark key="[" line="110" column="89" />
+        <mark key="]" line="128" column="22" />
+        <mark key="." line="128" column="22" />
+        <mark key="^" line="128" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/deploy.sh" timestamp="1554411938479">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/js-promo/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobRun.scala" timestamp="1554388627608">
         <mark key="[" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/test/scala/com/nbcuas/linearoptimizer/reportloader/ReportLoaderAppSpec.scala" timestamp="1554411190652">
+        <mark key="[" line="38" column="67" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+        <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/Downloads/spark-redshift/project/SparkRedshiftBuild.scala" timestamp="1554389940678">
         <mark key="[" line="42" column="27" />
@@ -101,7 +117,7 @@
         <mark key="." line="42" column="32" />
         <mark key="^" line="42" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/universal/conf/environment/comcast/application.conf" timestamp="1554404524554">
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/universal/conf/environment/comcast/application.conf" timestamp="1554406568978">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="18" column="75" />
         <mark key="^" line="18" column="75" />
@@ -111,6 +127,11 @@
         <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/cd/lo-reporting-comcast.json" timestamp="1554401957070" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/lo-report-loader.json" timestamp="1554411976565">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/spark-redshift/version.sbt" timestamp="1554309667799">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -180,8 +201,8 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/main/resources/reference.conf" timestamp="1554404500266">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/src/main/resources/reference.conf" timestamp="1554408432141">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/test/java/com/databricks/spark/redshift/InMemoryNativeFileSystemStore.java" timestamp="1554305847925">
         <mark key="[" line="23" column="0" />
@@ -202,7 +223,7 @@
         <mark key="." line="70" column="89" />
         <mark key="^" line="70" column="89" />
       </file>
-      <file name="/fragment.java" timestamp="1554309631813">
+      <file name="/fragment.java" timestamp="1554409694046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/main/scala/com/databricks/spark/redshift/RedshiftWriter.scala" timestamp="1554308549319">
@@ -291,8 +312,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubW9yZS5zdWdhci5zeW50YXguXwo=</text>
+      <register name="&quot;" type="4">
+        <text>${DEPENDENCY_SUFFIX}</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -301,7 +322,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>${DEPENDENCY_SUFFIX}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -310,32 +331,31 @@
         <text encoding="base64">ICAgICAgICAiY29tLmRhdGFicmlja3MiICUlICJzcGFyay1hdnJvIiAlIHRlc3RTcGFya0F2cm9WZXJzaW9uLnZhbHVlICUgInRlc3QiIGV4Y2x1ZGUoIm9yZy5hcGFjaGUuYXZybyIsICJhdnJvLW1hcHJlZCIpIGZvcmNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubW9yZS5zdWdhci5zeW50YXguXwo=</text>
+        <text encoding="base64">c2VkIC1pIC1lICdzLyR7REVQRU5ERU5DWV9TVUZGSVh9Lycke2RlcGVuZGVuY3lfc3VmZml4fScvZycgJHtjb25maWdfcHJvY2Vzc2VkfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VkIC1pIC1lICJzL1wke0RFTEFZX0RVUkFUSU9OfS8ke2RlbGF5X2R1cmF0aW9ufS9nIiAke2NvbmZpZ19wcm9jZXNzZWR9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqcC5uZS5vcHQuY2hyb25vc2NhbGEuSW1wb3J0cy5fCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">LmFuZFRoZW4gewogICAgICBjYXNlIHBhcmFtcyBpZiBwYXJhbXMuZnJvbSA+PSBwYXJhbXMudG8uZ2V0ID0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oInZhbHVlIG9mIGFyZ3VtZW50IHRvIG11c3QgYmUgZ3JlYXRlciB0aGFuIGZyb20iKS5pbnZhbGlkCiAgICAgIGNhc2UgcGFyYW1zID0+IHBhcmFtcy52YWxpZAogICAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGF0aCA9ICJzM2E6Ly9uYmN1YXMtYXVkaWVuY2UtZ3JhcGgvcGFjaW5nX3JlcG9ydC9jaGVja3BvaW50L3Byb2QiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-      path</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVwZW5kZW5jeV9zdWZmaXg9Ii0ke09QVEFSRy8vIC8tfSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBkKQogICAgICAgICAgICBkZWxheV9kdXJhdGlvbj0ke09QVEFSR30KICAgICAgICAgICAgbmFtZV9zdWZmaXg9IiR7bmFtZV9zdWZmaXh9LSR7T1BUQVJHLy8gLy19IgogICAgICAgICAgICA7Ow==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVwZW5kZW5jeV9zdWZmaXg9Ii0xMC1kYXlzIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9hZGRTYnRQbHVnaW4oIm1lLmxlc3NpcyIgJSAiYmludHJheS1zYnQiICUgIjAuMy4wIikK</text>
+        <text encoding="base64">ZGVsYXlfZHVyYXRpb249IjEyIGRheXMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
