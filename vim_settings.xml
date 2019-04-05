@@ -118,12 +118,12 @@
         <mark key="^" line="4" column="75" />
         <mark key="." line="4" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/fp-in-scala/src/main/scala/exercise/part5/Stream.scala" timestamp="1554493634735">
-        <mark key="'" line="30" column="49" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/fp-in-scala/src/main/scala/exercise/part5/Stream.scala" timestamp="1554494335268">
+        <mark key="'" line="77" column="11" />
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="111" column="18" />
+        <mark key="^" line="111" column="18" />
+        <mark key="." line="111" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/project/plugins.sbt" timestamp="1554312862447">
         <mark key="[" line="17" column="0" />
@@ -300,6 +300,7 @@
       <jump line="365" column="37" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" />
       <jump line="369" column="4" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" />
       <jump line="30" column="49" filename="$USER_HOME$/Projects/fp-in-scala/src/main/scala/exercise/part5/Stream.scala" />
+      <jump line="77" column="11" filename="$USER_HOME$/Projects/fp-in-scala/src/main/scala/exercise/part5/Stream.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -308,8 +309,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgY2FzZSBDb25zKGgsIF8pIGlmIG4gPT0gMSA9PiBTdHJlYW0uY29ucyhoKCksIFN0cmVhbS5lbXB0eSkK</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -318,10 +319,10 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>append</text>
+        <text>tails</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiY29tLmRhdGFicmlja3MiICUlICJzcGFyay1hdnJvIiAlIHRlc3RTcGFya0F2cm9WZXJzaW9uLnZhbHVlICUgInRlc3QiIGV4Y2x1ZGUoIm9yZy5hcGFjaGUuYXZybyIsICJhdnJvLW1hcHJlZCIpIGZvcmNlKCkK</text>
@@ -358,9 +359,9 @@
       </register>
     </registers>
     <search>
-      <last-search>append</last-search>
+      <last-search>tails</last-search>
       <last-offset />
-      <last-pattern>append</last-pattern>
+      <last-pattern>tails</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -376,6 +377,7 @@
         <entry>0.11.0.0</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>append</entry>
+        <entry>tails</entry>
       </history-search>
       <history-cmd>
         <entry>97</entry>
