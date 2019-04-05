@@ -97,10 +97,11 @@
         <mark key="." line="128" column="22" />
         <mark key="^" line="128" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/deploy.sh" timestamp="1554411938479">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="23" />
+      <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/deploy.sh" timestamp="1554472354244">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/js-promo/js-model/src/main/scala/com/nbcuas/jobscheduler/model/JobRun.scala" timestamp="1554388627608">
         <mark key="[" line="19" column="20" />
@@ -126,7 +127,6 @@
       <file name="$USER_HOME$/Projects/linear-optimizer/project/plugins.sbt" timestamp="1554312862447">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/cd/lo-reporting-comcast.json" timestamp="1554401957070" />
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-report-loader/cd/lo-report-loader.json" timestamp="1554411976565">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="38" />
@@ -152,7 +152,6 @@
         <mark key="^" line="31" column="87" />
         <mark key="." line="31" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/js-promo/js-dao/src/main/resources/sql/js0007__promo_jobs.sql" timestamp="1554387671036" />
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/cd/lo-reporting-backlog.json" timestamp="1554401954407">
         <mark key="[" line="3" column="68" />
       </file>
@@ -210,7 +209,6 @@
         <mark key="^" line="32" column="74" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/main/resources/reference.conf" timestamp="1554404494182" />
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoprod/application.conf" timestamp="1554388928867">
         <mark key="[" line="148" column="5" />
         <mark key="]" line="155" column="99" />
@@ -313,7 +311,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${DEPENDENCY_SUFFIX}</text>
+        <text>#</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -322,7 +320,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>${DEPENDENCY_SUFFIX}</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
