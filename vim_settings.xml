@@ -28,10 +28,11 @@
         <mark key="]" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/SlackAlert.scala" timestamp="1554733345194">
-        <mark key="[" line="96" column="125" />
-        <mark key="]" line="96" column="125" />
-        <mark key="." line="96" column="125" />
+      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/SlackAlert.scala" timestamp="1554825547654">
+        <mark key="[" line="92" column="48" />
+        <mark key="]" line="92" column="83" />
+        <mark key="^" line="92" column="83" />
+        <mark key="." line="92" column="83" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-aws/srcs/hadoop-aws-2.7.3-sources.jar!/org/apache/hadoop/fs/s3native/NativeS3FileSystem.java" timestamp="1554315905379">
         <mark key="[" line="341" column="58" />
@@ -65,12 +66,7 @@
         <mark key="]" line="11" column="69" />
         <mark key="." line="11" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/viewership/ComscoreViewershipInventoryMatchRate.scala" timestamp="1554733788552">
-        <mark key="[" line="50" column="70" />
-        <mark key="]" line="50" column="70" />
-        <mark key="." line="50" column="70" />
-        <mark key="^" line="50" column="70" />
-      </file>
+      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/viewership/ComscoreViewershipInventoryMatchRate.scala" timestamp="1554824680985" />
       <file name="$USER_HOME$/Downloads/spark-redshift/project/plugins.sbt" timestamp="1554390011170">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -136,6 +132,12 @@
         <mark key="^" line="111" column="18" />
         <mark key="." line="111" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/inventory/InventoryComparison.scala" timestamp="1554825572573">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/project/plugins.sbt" timestamp="1554312862447">
         <mark key="[" line="17" column="0" />
       </file>
@@ -180,6 +182,7 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/inventory/InventoryCounts.scala" timestamp="1554824650360" />
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoqa/application.conf" timestamp="1554388934803">
         <mark key="[" line="148" column="5" />
       </file>
@@ -240,6 +243,9 @@
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/main/scala/com/databricks/spark/redshift/RedshiftWriter.scala" timestamp="1554308549319">
         <mark key="[" line="283" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/slack-alert/src/main/resources/reference.conf" timestamp="1554825323571">
+        <mark key="[" line="43" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -326,8 +332,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocikK</text>
+      <register name="&quot;" type="4">
+        <text>LocalDate.now</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -336,7 +342,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHIgPSA=</text>
+        <text>LocalDate.now</text>
       </register>
       <register name="/" type="4">
         <text>tails</text>
@@ -345,31 +351,31 @@
         <text encoding="base64">ICAgICAgICAiY29tLmRhdGFicmlja3MiICUlICJzcGFyay1hdnJvIiAlIHRlc3RTcGFya0F2cm9WZXJzaW9uLnZhbHVlICUgInRlc3QiIGV4Y2x1ZGUoIm9yZy5hcGFjaGUuYXZybyIsICJhdnJvLW1hcHJlZCIpIGZvcmNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKHRhcmdldFNvdXJjZVBhdGggLyAiZXhwZXJpYW5fYXVkaWVuY2VJZF8xLW1vbnRobHktMjAxODA3MDEtMjAxODA4MDEuY3N2Lmd6IikuZXhpc3RzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgY2FzZSBDb25zKGgsIF8pIGlmIG4gPT0gMSA9PiBTdHJlYW0uY29ucyhoKCksIFN0cmVhbS5lbXB0eSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldyBEYXRlVGltZUZvcm1hdHRlckJ1aWxkZXIoKS5wYXR0ZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2VkIC1pIC1lICdzLyR7REVQRU5ERU5DWV9TVUZGSVh9Lycke2RlcGVuZGVuY3lfc3VmZml4fScvZycgJHtjb25maWdfcHJvY2Vzc2VkfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2VkIC1pIC1lICJzL1wke0RFTEFZX0RVUkFUSU9OfS8ke2RlbGF5X2R1cmF0aW9ufS9nIiAke2NvbmZpZ19wcm9jZXNzZWR9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCBjb2xvciA9IGlmIChnbG9iYWxSYXRlIDwgdGhyZXNob2xkKSBBbGVydC5yZWQgZWxzZSBBbGVydC5ncmVlbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgKHRhcmdldFNvdXJjZVBhdGggLyAiZXhwZXJpYW5fYXVkaWVuY2VJZF8xLW1vbnRobHktMjAxODA3MDEtMjAxODA4MDEuY3N2Lmd6IikuZXhpc3RzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgY2FzZSBDb25zKGgsIF8pIGlmIG4gPT0gMSA9PiBTdHJlYW0uY29ucyhoKCksIFN0cmVhbS5lbXB0eSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG5ldyBEYXRlVGltZUZvcm1hdHRlckJ1aWxkZXIoKS5wYXR0ZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOzsK</text>
+        <text encoding="base64">c2VkIC1pIC1lICdzLyR7REVQRU5ERU5DWV9TVUZGSVh9Lycke2RlcGVuZGVuY3lfc3VmZml4fScvZycgJHtjb25maWdfcHJvY2Vzc2VkfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
