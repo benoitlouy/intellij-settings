@@ -63,11 +63,11 @@
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promodev/application.conf" timestamp="1554387751672">
         <mark key="[" line="148" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/src/main/scala/com/nbcuas/audiencegraph/inventory/Unit.scala" timestamp="1554915274889">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="18" column="9" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/src/main/scala/com/nbcuas/audiencegraph/inventory/Unit.scala" timestamp="1554918990728">
+        <mark key="[" line="32" column="54" />
+        <mark key="]" line="32" column="54" />
         <mark key="^" line="18" column="9" />
-        <mark key="." line="18" column="9" />
+        <mark key="." line="32" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/spark-redshift/src/main/scala/com/databricks/spark/redshift/RedshiftFileFormat.scala" timestamp="1554303139622">
         <mark key="[" line="100" column="87" />
@@ -325,7 +325,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>partitionOutput</text>
+        <text encoding="base64">IC8vLCBoYXNoQ29sTmFtZSwgMCwgcGFydGl0aW9ucywgcGFydGl0aW9ucywgcHJvcGVydGllcykuZHJvcChoYXNoQ29sTmFtZSk=</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -334,7 +334,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>partitionOutput</text>
+        <text encoding="base64">IC8vLCBoYXNoQ29sTmFtZSwgMCwgcGFydGl0aW9ucywgcGFydGl0aW9ucywgcHJvcGVydGllcykuZHJvcChoYXNoQ29sTmFtZSk=</text>
       </register>
       <register name="/" type="4">
         <text>tails</text>
@@ -343,31 +343,33 @@
         <text encoding="base64">ICAgICAgICAiY29tLmRhdGFicmlja3MiICUlICJzcGFyay1hdnJvIiAlIHRlc3RTcGFya0F2cm9WZXJzaW9uLnZhbHVlICUgInRlc3QiIGV4Y2x1ZGUoIm9yZy5hcGFjaGUuYXZybyIsICJhdnJvLW1hcHJlZCIpIGZvcmNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5jZWVkdWJzLmZpY3VzLkZpY3VzLl8K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>//    val query = s&quot;(select abs(mod(('x'||substr(md5(external_usn::varchar), 1, 16))::bit(64)::bigint, $partitions)) &quot; +
+//      s&quot;as $hashColName, * from onair_prod.tbl_ms_unit) as tmp&quot;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xvciA9IGlmIChnbG9iYWxSYXRlIDwgdGhyZXNob2xkKSBBbGVydC5yZWQgZWxzZSBBbGVydC5ncmVlbgo=</text>
+      <register name="4" type="4">
+        <text>//    val partitions = 10
+//    val hashColName = &quot;__hash&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocikK</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5jZWVkdWJzLmZpY3VzLkZpY3VzLl8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKHRhcmdldFNvdXJjZVBhdGggLyAiZXhwZXJpYW5fYXVkaWVuY2VJZF8xLW1vbnRobHktMjAxODA3MDEtMjAxODA4MDEuY3N2Lmd6IikuZXhpc3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgY2FzZSBDb25zKGgsIF8pIGlmIG4gPT0gMSA9PiBTdHJlYW0uY29ucyhoKCksIFN0cmVhbS5lbXB0eSkK</text>
+        <text encoding="base64">ICAgIHZhbCBjb2xvciA9IGlmIChnbG9iYWxSYXRlIDwgdGhyZXNob2xkKSBBbGVydC5yZWQgZWxzZSBBbGVydC5ncmVlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBEYXRlVGltZUZvcm1hdHRlckJ1aWxkZXIoKS5wYXR0ZQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
