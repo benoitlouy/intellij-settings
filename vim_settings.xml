@@ -28,6 +28,12 @@
         <mark key="]" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/src/universal/conf/environment/monitoring/application.conf" timestamp="1554904598178">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/SlackAlert.scala" timestamp="1554825547654">
         <mark key="[" line="92" column="48" />
         <mark key="]" line="92" column="83" />
@@ -66,7 +72,6 @@
         <mark key="]" line="11" column="69" />
         <mark key="." line="11" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/viewership/ComscoreViewershipInventoryMatchRate.scala" timestamp="1554824680985" />
       <file name="$USER_HOME$/Downloads/spark-redshift/project/plugins.sbt" timestamp="1554390011170">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -167,7 +172,9 @@
       <file name="/sbtShell" timestamp="1554743748122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/cd/ag-inventory.json" timestamp="1554819627152" />
+      <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/cd/ag-inventory.json" timestamp="1554905154147">
+        <mark key="[" line="6" column="103" />
+      </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/universal/conf/environment/prod/application.conf" timestamp="1554402856801">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="5" />
@@ -176,13 +183,18 @@
       <file name="$USER_HOME$/Projects/js-promo/js-dao/src/main/resources/sql/js0008__optimizer_secondaries_job.sql" timestamp="1554387763450">
         <mark key="[" line="0" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/cd/deploy.sh" timestamp="1554905361392">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="57" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/build.sbt" timestamp="1554322443317">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/inventory/InventoryCounts.scala" timestamp="1554824650360" />
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoqa/application.conf" timestamp="1554388934803">
         <mark key="[" line="148" column="5" />
       </file>
@@ -200,6 +212,12 @@
         <mark key="]" line="9" column="81" />
         <mark key="^" line="9" column="81" />
         <mark key="." line="9" column="81" />
+      </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/src/main/scala/com/nbcuas/audiencegraph/inventory/Inventory.scala" timestamp="1554905028547">
+        <mark key="[" line="115" column="44" />
+        <mark key="]" line="115" column="44" />
+        <mark key="^" line="46" column="28" />
+        <mark key="." line="115" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/src/templates/bash-template" timestamp="1554315104153">
         <mark key="[" line="36" column="11" />
@@ -237,7 +255,6 @@
         <mark key="." line="70" column="89" />
         <mark key="^" line="70" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/src/templates/bash-template" timestamp="1554816489148" />
       <file name="/fragment.java" timestamp="1554409694046">
         <mark key="[" line="0" column="0" />
       </file>
@@ -333,7 +350,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>LocalDate.now</text>
+        <text>#</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -342,7 +359,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>LocalDate.now</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>tails</text>
