@@ -124,10 +124,11 @@
         <mark key="^" line="111" column="18" />
         <mark key="." line="111" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/inventory/InventoryComparison.scala" timestamp="1554914772137">
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="35" column="19" />
-        <mark key="^" line="35" column="19" />
+      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/inventory/InventoryComparison.scala" timestamp="1554923282974">
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="59" />
+        <mark key="." line="27" column="59" />
+        <mark key="^" line="29" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/project/plugins.sbt" timestamp="1554312862447">
         <mark key="[" line="17" column="0" />
@@ -236,8 +237,11 @@
       <file name="$USER_HOME$/Projects/spark-redshift/src/main/scala/com/databricks/spark/redshift/RedshiftWriter.scala" timestamp="1554308549319">
         <mark key="[" line="283" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/slack-alert/src/main/resources/reference.conf" timestamp="1554825323571">
-        <mark key="[" line="43" column="55" />
+      <file name="$USER_HOME$/Projects/slack-alert/src/main/resources/reference.conf" timestamp="1554922674544">
+        <mark key="[" line="44" column="51" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="60" />
+        <mark key="^" line="44" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -325,7 +329,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vLCBoYXNoQ29sTmFtZSwgMCwgcGFydGl0aW9ucywgcGFydGl0aW9ucywgcHJvcGVydGllcykuZHJvcChoYXNoQ29sTmFtZSk=</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -334,7 +338,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vLCBoYXNoQ29sTmFtZSwgMCwgcGFydGl0aW9ucywgcGFydGl0aW9ucywgcHJvcGVydGllcykuZHJvcChoYXNoQ29sTmFtZSk=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>tails</text>
@@ -345,31 +349,34 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>//    val query = s&quot;(select abs(mod(('x'||substr(md5(external_usn::varchar), 1, 16))::bit(64)::bigint, $partitions)) &quot; +
-//      s&quot;as $hashColName, * from onair_prod.tbl_ms_unit) as tmp&quot;</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>//    val partitions = 10
-//    val hashColName = &quot;__hash&quot;</text>
+      <register name="3" type="4">
+        <text>//    val then = spark.read.parquet(permPaths: _*).groupBy(&quot;unit.spot_date&quot;).count.withColumnRenamed(&quot;count&quot;, &quot;then&quot;)
+//    val now = spark.read.parquet(devPaths: _*).groupBy(&quot;unit.spot_date&quot;).count.withColumnRenamed(&quot;count&quot;, &quot;now&quot;)
+//    val diff = then.join(now, Seq(&quot;spot_date&quot;), &quot;left&quot;)
+//      .withColumn(&quot;diff&quot;, now(&quot;now&quot;) - then(&quot;then&quot;))
+//      .withColumn(&quot;diff_rate&quot;, col(&quot;diff&quot;) / col(&quot;then&quot;))
+//      .orderBy(&quot;spot_date&quot;).persist()</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBzdGFydCA9ICBkYXRlLm1pbnVzRGF5cygxNCkubWludXNEYXlzKDkwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5jZWVkdWJzLmZpY3VzLkZpY3VzLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXlzID0gU3RyZWFtLml0ZXJhdGUoc3RhcnQpKF8ucGx1c0RheXMoMSkpLnRha2UoOTApLmRyb3BSaWdodCg2KS5maWx0ZXIoXy5pc0FmdGVyKExvY2FsRGF0ZS5wYXJzZSgiMjAxOC0xMi0zMSIpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYmN1YXMubW9yZS5oYWRvb3AucGF0aHMuc3ludGF4Ll8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xvciA9IGlmIChnbG9iYWxSYXRlIDwgdGhyZXNob2xkKSBBbGVydC5yZWQgZWxzZSBBbGVydC5ncmVlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
