@@ -24,12 +24,6 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/SlackAlert.scala" timestamp="1554996414282">
-        <mark key="[" line="92" column="85" />
-        <mark key="]" line="92" column="85" />
-        <mark key="^" line="92" column="85" />
-        <mark key="." line="92" column="85" />
-      </file>
       <file name="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-aws/srcs/hadoop-aws-2.7.3-sources.jar!/org/apache/hadoop/fs/s3native/NativeS3FileSystem.java" timestamp="1554315905379">
         <mark key="[" line="341" column="58" />
       </file>
@@ -131,11 +125,11 @@
         <mark key="^" line="111" column="18" />
         <mark key="." line="111" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/inventory/InventoryComparison.scala" timestamp="1554923282974">
-        <mark key="[" line="27" column="59" />
-        <mark key="]" line="27" column="59" />
-        <mark key="." line="27" column="59" />
-        <mark key="^" line="29" column="39" />
+      <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/inventory/InventoryComparison.scala" timestamp="1555001176067">
+        <mark key="[" line="48" column="3" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/linear-optimizer/project/plugins.sbt" timestamp="1554312862447">
         <mark key="[" line="17" column="0" />
@@ -343,7 +337,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>inv</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -352,7 +346,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>inv</text>
       </register>
       <register name="/" type="4">
         <text>tails</text>
