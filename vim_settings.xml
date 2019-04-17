@@ -18,6 +18,11 @@
         <mark key="^" line="432" column="104" />
         <mark key="." line="432" column="104" />
       </file>
+      <file name="$USER_HOME$/Projects/more-utils/more-collections/src/test/scala/com/nbcuas/more/collections/syntax/Test.scala" timestamp="1555526352170">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/src/universal/conf/environment/monitoring/application.conf" timestamp="1554912685985">
         <mark key="[" line="5" column="61" />
         <mark key="]" line="6" column="30" />
@@ -142,13 +147,19 @@
       <file name="$USER_HOME$/Projects/linear-optimizer/lo-reporting/cd/lo-reporting-backlog.json" timestamp="1554401954407">
         <mark key="[" line="3" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/more-utils/project/TestSettings.scala" timestamp="1555527209016">
+        <mark key="'" line="56" column="44" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/main/resources/log4j2.properties" timestamp="1554995128855">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="51" />
       </file>
-      <file name="/sbtShell" timestamp="1555523440039">
+      <file name="/sbtShell" timestamp="1555523847006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/cd/ag-inventory.json" timestamp="1554905154147">
@@ -169,6 +180,7 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/ch.epfl.scala/sbt-bloop/jars/sbt-bloop-1.2.5.jar!/bloop/integrations/sbt/BloopDefaults.class" timestamp="1555525980734" />
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoqa/application.conf" timestamp="1554388934803">
         <mark key="[" line="148" column="5" />
       </file>
@@ -307,6 +319,7 @@
       <jump line="369" column="4" filename="$USER_HOME$/Projects/job-scheduler/js-mesos-scheduler/src/it/scala/com/nbcuas/jobscheduler/mesosscheduler/MesosSchedulerAppIT.scala" />
       <jump line="30" column="49" filename="$USER_HOME$/Projects/fp-in-scala/src/main/scala/exercise/part5/Stream.scala" />
       <jump line="77" column="11" filename="$USER_HOME$/Projects/fp-in-scala/src/main/scala/exercise/part5/Stream.scala" />
+      <jump line="52" column="44" filename="$USER_HOME$/Projects/more-utils/project/TestSettings.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -315,8 +328,8 @@
           <key char="65535" code="39" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IE9wdGlvbltMb2NhbERhdGVdID0gTm9uZSk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -325,7 +338,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE9wdGlvbltMb2NhbERhdGVdID0gTm9uZSk=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>tails</text>
@@ -334,39 +347,31 @@
         <text encoding="base64">ICAgICAgICAiY29tLmRhdGFicmlja3MiICUlICJzcGFyay1hdnJvIiAlIHRlc3RTcGFya0F2cm9WZXJzaW9uLnZhbHVlICUgInRlc3QiIGV4Y2x1ZGUoIm9yZy5hcGFjaGUuYXZybyIsICJhdnJvLW1hcHJlZCIpIGZvcmNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0dGluZ3MK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHZhbCBhID0gRXZhbC5sYXRlciB7CiAgICAgIHByaW50bG4oImZvbyIpCiAgICAgIDQyCiAgICB9CiAgICBTeW5jW0V2YWxdLmRlbGF5KDQyKQogICAgYS52YWx1ZSBzaG91bGRCZSA0MgogICAgYS52YWx1ZSBzaG91bGRCZSA0Mg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc0xvZy52YWx1ZS5pbmZvKCJCbG9vcCBkaXNhYmxlZCIpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Eval.defer {
-//      println(&quot;Hello&quot;)
-      42
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc0xvZy52YWx1ZS5pbmZvKCJCbG9vcCBlbmFibGVkIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJsb29wLmludGVncmF0aW9ucy5zYnQuQmxvb3BEZWZhdWx0cwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>//    val then = spark.read.parquet(permPaths: _*).groupBy(&quot;unit.spot_date&quot;).count.withColumnRenamed(&quot;count&quot;, &quot;then&quot;)
-//    val now = spark.read.parquet(devPaths: _*).groupBy(&quot;unit.spot_date&quot;).count.withColumnRenamed(&quot;count&quot;, &quot;now&quot;)
-//    val diff = then.join(now, Seq(&quot;spot_date&quot;), &quot;left&quot;)
-//      .withColumn(&quot;diff&quot;, now(&quot;now&quot;) - then(&quot;then&quot;))
-//      .withColumn(&quot;diff_rate&quot;, col(&quot;diff&quot;) / col(&quot;then&quot;))
-//      .orderBy(&quot;spot_date&quot;).persist()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFydCA9ICBkYXRlLm1pbnVzRGF5cygxNCkubWludXNEYXlzKDkwKQo=</text>
+        <text encoding="base64">ICAgIE5pbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9iago=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
