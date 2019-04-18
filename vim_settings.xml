@@ -120,6 +120,7 @@
         <mark key="^" line="4" column="75" />
         <mark key="." line="4" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/Viewership.scala" timestamp="1555597330946" />
       <file name="$USER_HOME$/Projects/slack-alert/src/main/scala/com/nbcuas/slack/alert/inventory/InventoryComparison.scala" timestamp="1555001176067">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="28" column="33" />
@@ -159,6 +160,16 @@
       <file name="$USER_HOME$/Projects/audience-graph/ag-inventory/cd/ag-inventory.json" timestamp="1554905154147">
         <mark key="[" line="6" column="103" />
       </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/it/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewershipSpec.scala" timestamp="1555597389960">
+        <mark key="[" line="331" column="3" />
+        <mark key="]" line="332" column="74" />
+        <mark key="." line="332" column="74" />
+        <mark key="^" line="332" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/audience-graph/ag-viewership/src/main/scala/com/nbcuas/audiencegraph/viewership/FourthwallViewership.scala" timestamp="1555598190396">
+        <mark key="[" line="43" column="82" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.nbcuas.more/more-hadoop-paths_2.11/srcs/more-hadoop-paths_2.11-1.16.0-sources.jar!/com/nbcuas/more/hadoop/paths/MoreHadoopPaths.scala" timestamp="1555598652250" />
       <file name="$USER_HOME$/Projects/js-promo/js-dao/src/main/resources/sql/js0008__optimizer_secondaries_job.sql" timestamp="1554387763450">
         <mark key="[" line="0" column="47" />
       </file>
@@ -174,7 +185,6 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/ch.epfl.scala/sbt-bloop/jars/sbt-bloop-1.2.5.jar!/bloop/integrations/sbt/BloopDefaults.class" timestamp="1555525980734" />
       <file name="$USER_HOME$/Projects/js-promo/js-chronos-submitter/src/universal/conf/environment/promoqa/application.conf" timestamp="1554388934803">
         <mark key="[" line="148" column="5" />
       </file>
@@ -323,7 +333,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFMzQ3JlZGVudGlhbHMuc2V0KGhhZG9vcENvbmZpZywgKQo=</text>
       </register>
       <register name="d" type="4">
         <text>topic</text>
@@ -341,31 +351,31 @@
         <text encoding="base64">ICAgICAgICAiY29tLmRhdGFicmlja3MiICUlICJzcGFyay1hdnJvIiAlIHRlc3RTcGFya0F2cm9WZXJzaW9uLnZhbHVlICUgInRlc3QiIGV4Y2x1ZGUoIm9yZy5hcGFjaGUuYXZybyIsICJhdnJvLW1hcHJlZCIpIGZvcmNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFMzQ3JlZGVudGlhbHMuc2V0KGhhZG9vcENvbmZpZywgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2V0dGluZ3MK</text>
+        <text encoding="base64">ICAgIHZhbCBoYWRvb3BDb25maWcgPSBzcGFyay5zcGFya0NvbnRleHQuaGFkb29wQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc0xvZy52YWx1ZS5pbmZvKCJCbG9vcCBkaXNhYmxlZCIpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc0xvZy52YWx1ZS5pbmZvKCJCbG9vcCBlbmFibGVkIikK</text>
+        <text encoding="base64">ICAgICAgc2V0dGluZ3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nCg==</text>
+        <text encoding="base64">ICAgICAgc0xvZy52YWx1ZS5pbmZvKCJCbG9vcCBkaXNhYmxlZCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGJsb29wLmludGVncmF0aW9ucy5zYnQuQmxvb3BEZWZhdWx0cwo=</text>
+        <text encoding="base64">ICAgICAgc0xvZy52YWx1ZS5pbmZvKCJCbG9vcCBlbmFibGVkIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE5pbAo=</text>
+        <text encoding="base64">aW1wb3J0IGJsb29wLmludGVncmF0aW9ucy5zYnQuQmxvb3BEZWZhdWx0cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9iago=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
